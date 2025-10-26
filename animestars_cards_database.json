@@ -8,6 +8,62 @@
     "image": "/uploads/cards_image/2259/s/zhuj-tjannu-1761455555-686661.webp"
   },
   {
+    "id": "64048",
+    "name": "Маска",
+    "rank": "e",
+    "animeName": "Легенда Фуяо 2 сезон",
+    "animeLink": "/aniserials/video/adventure/1928-legenda-fujao-2-sezon.html",
+    "image": "/uploads/cards_image/1928/e/maska-1761450086-977192.webp"
+  },
+  {
+    "id": "64044",
+    "name": "Броня Соблазнения",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/bronja-soblaznenija-1761472319-470473.webp"
+  },
+  {
+    "id": "64040",
+    "name": "Хэллоуин",
+    "rank": "c",
+    "animeName": "Ангел кровопролития",
+    "animeLink": "/aniserials/video/adventure/310-angel-krovoprolitiya.html",
+    "image": "/uploads/cards_image/310/c/hjellouin-1761432826-51173.webp"
+  },
+  {
+    "id": "64036",
+    "name": "Водолей и Люси",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/vodolej-i-ljusi-1761431641-328524.webp"
+  },
+  {
+    "id": "64034",
+    "name": "Ромео Конбольт",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/romeo-konbolt-1761431584-847581.webp"
+  },
+  {
+    "id": "64031",
+    "name": "Веер",
+    "rank": "e",
+    "animeName": "Противостояние святого",
+    "animeLink": "/aniserials/video/drama/2158-protivostojanie-svjatogo.html",
+    "image": "/uploads/cards_image/2158/e/veer-1761429798-664915.webp"
+  },
+  {
+    "id": "64030",
+    "name": "Под зонтом",
+    "rank": "c",
+    "animeName": "Противостояние святого: Битва пришествия богов",
+    "animeLink": "/aniserials/video/action/2945-protivostojanie-svjatogo-bitva-prishestvija-bogov.html",
+    "image": "/uploads/cards_image/2945/c/pod-zontom-1761471713-363308.webp"
+  },
+  {
     "id": "64024",
     "name": "Дождь",
     "rank": "e",
