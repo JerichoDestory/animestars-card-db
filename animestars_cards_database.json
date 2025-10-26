@@ -1,5 +1,269 @@
 [
   {
+    "id": "64182",
+    "name": "Макото Мисуми",
+    "rank": "s",
+    "animeName": "Лунное путешествие приведёт к новому миру",
+    "animeLink": "/aniserials/video/comedy/1127-lunnoe-puteshestvie-privedet-k-novomu-miru.html",
+    "image": "/uploads/cards_image/1127/s/makoto-misumi-1761504731-929615.webp"
+  },
+  {
+    "id": "64148",
+    "name": "?",
+    "rank": "e",
+    "animeName": "Плачущий призрак на пенсии. Часть 2",
+    "animeLink": "/aniserials/video/action/3108-plachuschij-prizrak-na-pensii-chast-2-deep.html",
+    "image": "/uploads/cards_image/3108/e/-1761500929-206384.webp"
+  },
+  {
+    "id": "64133",
+    "name": "Итика Накано",
+    "rank": "s",
+    "animeName": "Пять невест 2 сезон",
+    "animeLink": "/aniserials/video/garems/1061-pjat-nevest-2-sezon.html",
+    "image": "/uploads/cards_image/1061/s/itika-nakano-1761499168-877266.webp"
+  },
+  {
+    "id": "64129",
+    "name": "Лэффи",
+    "rank": "s",
+    "animeName": "Лазурный путь: Малый вперёд!",
+    "animeLink": "/aniserials/video/comedy/2437-lazurnyj-put-malyj-vpered.html",
+    "image": "/uploads/cards_image/2437/s/ljeffi-1761491638-78462.webp"
+  },
+  {
+    "id": "64122",
+    "name": "Купальник",
+    "rank": "e",
+    "animeName": "Укротитель зверей, изгнанный из команды героя, встретил девочку-кошку из сильнейшей расы",
+    "animeLink": "/aniserials/video/comedy/1534-ukrotitel-zverej-izgnannyj-iz-komandy-geroja-vstretil-devochku-koshku-iz-silnejshej-rasy-as.html",
+    "image": "/uploads/cards_image/1534/e/kupalnik-1761504441-642336.webp"
+  },
+  {
+    "id": "64120",
+    "name": "Купальник",
+    "rank": "e",
+    "animeName": "Хоримия 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2071-horimija-2-sezon.html",
+    "image": "/uploads/cards_image/2071/e/kupalnik-1761504385-941620.webp"
+  },
+  {
+    "id": "64119",
+    "name": "Кимоно",
+    "rank": "e",
+    "animeName": "Хоримия 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2071-horimija-2-sezon.html",
+    "image": "/uploads/cards_image/2071/e/kimono-1761504245-18215.webp"
+  },
+  {
+    "id": "64118",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Хоримия 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2071-horimija-2-sezon.html",
+    "image": "/uploads/cards_image/2071/e/kuda-smotrish-1761504101-75880.webp"
+  },
+  {
+    "id": "64112",
+    "name": "Невеста",
+    "rank": "e",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/e/nevesta-1761481408-544866.webp"
+  },
+  {
+    "id": "64111",
+    "name": "Конан и Ай",
+    "rank": "c",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/c/konan-i-aj-1761481323-62242.webp"
+  },
+  {
+    "id": "64110",
+    "name": "Зоро и Трафальгар",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/zoro-i-trafalgar-1761502920-254640.webp"
+  },
+  {
+    "id": "64105",
+    "name": "Кампай",
+    "rank": "e",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/e/kampaj-1761480161-806683.webp"
+  },
+  {
+    "id": "64097",
+    "name": "Эмили Браун",
+    "rank": "s",
+    "animeName": "Хотя я только первого уровня, но с этим уникальным навыком я стану сильнейшим",
+    "animeLink": "/aniserials/video/garems/2112-hotja-ja-tolko-pervogo-urovnja-no-s-jetim-unikalnym-navykom-ja-stanu-silnejshim-animestars-v6.html",
+    "image": "/uploads/cards_image/2112/s/jemili-braun-1761487927-223162.webp"
+  },
+  {
+    "id": "64090",
+    "name": "Юкикадзэ",
+    "rank": "d",
+    "animeName": "Лазурный путь: Малый вперёд!",
+    "animeLink": "/aniserials/video/comedy/2437-lazurnyj-put-malyj-vpered.html",
+    "image": "/uploads/cards_image/2437/d/jukikadzje-1761474989-248895.webp"
+  },
+  {
+    "id": "64086",
+    "name": "Прощальный Доспех Хвоста Феи",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/proschalnyj-dospeh-hvosta-fei-1761500255-709205.webp"
+  },
+  {
+    "id": "64084",
+    "name": "Симисир",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/simisir-1761472022-87696.webp"
+  },
+  {
+    "id": "64083",
+    "name": "Симисейдж",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/simisejdzh-1761472006-131903.webp"
+  },
+  {
+    "id": "64082",
+    "name": "Симипур",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/simipur-1761471983-848392.webp"
+  },
+  {
+    "id": "64081",
+    "name": "Нань Сяочэнь",
+    "rank": "s",
+    "animeName": "Богатейший игрок",
+    "animeLink": "/aniserials/video/action/2940-bogatejshij-igrok.html",
+    "image": "/uploads/cards_image/2940/s/nan-sjaochjen-1761490163-322811.webp"
+  },
+  {
+    "id": "64075",
+    "name": "Эмерауд",
+    "rank": "d",
+    "animeName": "Рыцари магии II",
+    "animeLink": "/aniserials/video/action/2803-rycari-magii.html",
+    "image": "/uploads/cards_image/2803/d/jemeraud-1761464483-864681.webp"
+  },
+  {
+    "id": "64074",
+    "name": "Система преобразования удачи",
+    "rank": "e",
+    "animeName": "Проиграйте, чтобы разбогатеть с самого начала игры",
+    "animeLink": "/aniserials/video/comedy/2327-proigrajte-chtoby-razbogatet-s-samogo-nachala-igry.html",
+    "image": "/uploads/cards_image/2327/e/sistema-preobrazovanija-udachi-1761498277-986421.webp"
+  },
+  {
+    "id": "64073",
+    "name": "Вань Линь",
+    "rank": "b",
+    "animeName": "Проиграйте, чтобы разбогатеть с самого начала игры",
+    "animeLink": "/aniserials/video/comedy/2327-proigrajte-chtoby-razbogatet-s-samogo-nachala-igry.html",
+    "image": "/uploads/cards_image/2327/b/van-lin-1761498071-592087.webp"
+  },
+  {
+    "id": "64072",
+    "name": "Танец",
+    "rank": "e",
+    "animeName": "Проиграйте, чтобы разбогатеть с самого начала игры",
+    "animeLink": "/aniserials/video/comedy/2327-proigrajte-chtoby-razbogatet-s-samogo-nachala-igry.html",
+    "image": "/uploads/cards_image/2327/e/tanec-1761498006-518128.webp"
+  },
+  {
+    "id": "64068",
+    "name": "Фэнхуан Дунфан",
+    "rank": "b",
+    "animeName": "Гробница богов 3 сезон",
+    "animeLink": "/aniserials/video/action/3074-grobnica-bogov-3.html",
+    "image": "/uploads/cards_image/3074/b/fjenhuan-dunfan-1761462998-855330.webp"
+  },
+  {
+    "id": "64067",
+    "name": "Господин Дунфан",
+    "rank": "d",
+    "animeName": "Гробница богов 3 сезон",
+    "animeLink": "/aniserials/video/action/3074-grobnica-bogov-3.html",
+    "image": "/uploads/cards_image/3074/d/gospodin-dunfan-1761462617-555264.webp"
+  },
+  {
+    "id": "64066",
+    "name": "Пилюля Дракона Инь-Янь",
+    "rank": "e",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/e/piljulja-drakona-in-jan-1761497691-520012.webp"
+  },
+  {
+    "id": "64065",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Выдающиеся звери 2 сезон",
+    "animeLink": "/aniserials/video/drama/1062-vydajuschiesja-zveri-2-sezon-2021.html",
+    "image": "/uploads/cards_image/1062/e/hjellouin-1761497616-105424.webp"
+  },
+  {
+    "id": "64063",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/e/hjellouin-1761461482-721698.webp"
+  },
+  {
+    "id": "64062",
+    "name": "Пом-Пом и Дань Хэн",
+    "rank": "c",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/c/pom-pom-i-dan-hjen-1761497392-199046.webp"
+  },
+  {
+    "id": "64060",
+    "name": "Дань Фэн и Дань Хэн",
+    "rank": "c",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/c/dan-fjen-i-dan-hjen-1761497338-334948.webp"
+  },
+  {
+    "id": "64059",
+    "name": "Лиз",
+    "rank": "b",
+    "animeName": "Эта фарфоровая кукла влюбилась",
+    "animeLink": "/aniserials/video/comedy/1340-jeta-farforovaja-kukla-vljubilas-animestars.html",
+    "image": "/uploads/cards_image/1340/b/liz-1761497276-773430.webp"
+  },
+  {
+    "id": "64058",
+    "name": "Вероника",
+    "rank": "b",
+    "animeName": "Эта фарфоровая кукла влюбилась",
+    "animeLink": "/aniserials/video/comedy/1340-jeta-farforovaja-kukla-vljubilas-animestars.html",
+    "image": "/uploads/cards_image/1340/b/veronika-1761497233-773349.webp"
+  },
+  {
+    "id": "64056",
+    "name": "Утренняя звезда",
+    "rank": "s",
+    "animeName": "Легенда Фуяо 2 сезон",
+    "animeLink": "/aniserials/video/adventure/1928-legenda-fujao-2-sezon.html",
+    "image": "/uploads/cards_image/1928/s/utrennjaja-zvezda-1761460335-447559.webp"
+  },
+  {
     "id": "64049",
     "name": "Жуй Тяньну",
     "rank": "s",
