@@ -1,11 +1,395 @@
 [
   {
+    "id": "64321",
+    "name": "Мыльные пузыри",
+    "rank": "e",
+    "animeName": "Магическая битва 2 сезон",
+    "animeLink": "/aniserials/video/action/2090-magicheskaja-bitva-2-sezon-animestars-vm3.html",
+    "image": "/uploads/cards_image/2090/e/mylnye-puzyri-1761589336-32020.webp"
+  },
+  {
+    "id": "64320",
+    "name": "Юдзи и Махито",
+    "rank": "c",
+    "animeName": "Магическая битва 2 сезон",
+    "animeLink": "/aniserials/video/action/2090-magicheskaja-bitva-2-sezon-animestars-vm3.html",
+    "image": "/uploads/cards_image/2090/c/judzi-i-mahito-1761589228-742910.webp"
+  },
+  {
+    "id": "64318",
+    "name": "Витраж",
+    "rank": "e",
+    "animeName": "Ковбой Бибоп",
+    "animeLink": "/aniserials/video/drama/631-kovboy-bibop.html",
+    "image": "/uploads/cards_image/631/e/vitrazh-1761576617-60118.webp"
+  },
+  {
+    "id": "64316",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Магистр дьявольского культа",
+    "animeLink": "/aniserials/video/martial_arts/343-magistr-dyavolskogo-kulta.html",
+    "image": "/uploads/cards_image/343/e/hjellouin-1761576510-530018.webp"
+  },
+  {
+    "id": "64315",
+    "name": "Костюм зайки",
+    "rank": "e",
+    "animeName": "Соблазн 2,5-мерного измерения",
+    "animeLink": "/aniserials/video/garems/2501-soblazn-25-mernogo-izmerenija.html",
+    "image": "/uploads/cards_image/2501/e/kostjum-zajki-1761576407-758448.webp"
+  },
+  {
+    "id": "64314",
+    "name": "Купальник",
+    "rank": "e",
+    "animeName": "Соблазн 2,5-мерного измерения",
+    "animeLink": "/aniserials/video/garems/2501-soblazn-25-mernogo-izmerenija.html",
+    "image": "/uploads/cards_image/2501/e/kupalnik-1761576379-770058.webp"
+  },
+  {
+    "id": "64313",
+    "name": "Итика Накано",
+    "rank": "a",
+    "animeName": "Пять невест: Спецвыпуски 2",
+    "animeLink": "/aniserials/video/shounen/2843-pjat-nevest-specvypuski-2.html",
+    "image": "/uploads/cards_image/2843/a/itika-nakano-1761576353-639977.webp"
+  },
+  {
+    "id": "64311",
+    "name": "Юкана и Ранко",
+    "rank": "c",
+    "animeName": "Моя первая гяру",
+    "animeLink": "/aniserials/video/garems/425-moya-pervaya-gyaru.html",
+    "image": "/uploads/cards_image/425/c/jukana-i-ranko-1761587177-304632.webp"
+  },
+  {
+    "id": "64310",
+    "name": "Блитцл",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/blitcl-1761575381-909754.webp"
+  },
+  {
+    "id": "64308",
+    "name": "Доспехи морского короля",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/dospehi-morskogo-korolja-1761587024-921847.webp"
+  },
+  {
+    "id": "64304",
+    "name": "Цинвэй Фан",
+    "rank": "b",
+    "animeName": "Бессмертие",
+    "animeLink": "/aniserials/video/martial_arts/2136-bessmertie.html",
+    "image": "/uploads/cards_image/2136/b/cinvjej-fan-1761574939-720333.webp"
+  },
+  {
+    "id": "64302",
+    "name": "Цзи Цзыюэ",
+    "rank": "s",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/s/czi-czyjuje-1761573665-158499.webp"
+  },
+  {
+    "id": "64297",
+    "name": "Улыбка",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/e/ulybka-1761570680-222062.webp"
+  },
+  {
+    "id": "64290",
+    "name": "Мясник и Му Цинь",
+    "rank": "c",
+    "animeName": "Сказание о пастухе богов",
+    "animeLink": "/aniserials/video/action/2690-skazanie-o-pastuhe-bogov-2024.html",
+    "image": "/uploads/cards_image/2690/c/mjasnik-i-mu-cin-1761574965-694373.webp"
+  },
+  {
+    "id": "64283",
+    "name": "Готовка",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/e/gotovka-1761564011-882191.webp"
+  },
+  {
+    "id": "64281",
+    "name": "Костяной Синий Дракон",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/e/kostjanoj-sinij-drakon-1761574707-781577.webp"
+  },
+  {
+    "id": "64276",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Синдуальность: Нуар",
+    "animeLink": "/aniserials/video/fantastic/2123-sindualnost-nuar.html",
+    "image": "/uploads/cards_image/2123/e/hjellouin-1761562381-648935.webp"
+  },
+  {
+    "id": "64274",
+    "name": "Кость руки бога",
+    "rank": "e",
+    "animeName": "Сказание о пастухе богов",
+    "animeLink": "/aniserials/video/action/2690-skazanie-o-pastuhe-bogov-2024.html",
+    "image": "/uploads/cards_image/2690/e/kost-ruki-boga-1761561893-115654.webp"
+  },
+  {
+    "id": "64269",
+    "name": "Сиире",
+    "rank": "d",
+    "animeName": "Трон, отмеченный богом 2 сезон",
+    "animeLink": "/aniserials/video/action/1585-tron-otmechennyj-bogom-2-sezon-2022.html",
+    "image": "/uploads/cards_image/1585/d/siire-1761573955-149246.webp"
+  },
+  {
+    "id": "64268",
+    "name": "Юань Цинь",
+    "rank": "d",
+    "animeName": "Высший во всех мирах",
+    "animeLink": "/aniserials/video/martial_arts/1600-vysshij-vo-vseh-mirah.html",
+    "image": "/uploads/cards_image/1600/d/juan-cin-1761558946-493429.webp"
+  },
+  {
+    "id": "64267",
+    "name": "Учэнь Дуань",
+    "rank": "b",
+    "animeName": "Высший во всех мирах",
+    "animeLink": "/aniserials/video/martial_arts/1600-vysshij-vo-vseh-mirah.html",
+    "image": "/uploads/cards_image/1600/b/uchjen-duan-1761558732-281477.webp"
+  },
+  {
+    "id": "64266",
+    "name": "Сюэи Ли",
+    "rank": "b",
+    "animeName": "Высший во всех мирах",
+    "animeLink": "/aniserials/video/martial_arts/1600-vysshij-vo-vseh-mirah.html",
+    "image": "/uploads/cards_image/1600/b/sjujei-li-1761558614-122560.webp"
+  },
+  {
+    "id": "64265",
+    "name": "Цайлин Сюэ",
+    "rank": "d",
+    "animeName": "Высший во всех мирах",
+    "animeLink": "/aniserials/video/martial_arts/1600-vysshij-vo-vseh-mirah.html",
+    "image": "/uploads/cards_image/1600/d/cajlin-sjuje-1761558394-615477.webp"
+  },
+  {
+    "id": "64264",
+    "name": "Мубай Ли",
+    "rank": "d",
+    "animeName": "Высший во всех мирах",
+    "animeLink": "/aniserials/video/martial_arts/1600-vysshij-vo-vseh-mirah.html",
+    "image": "/uploads/cards_image/1600/d/mubaj-li-1761558162-866324.webp"
+  },
+  {
+    "id": "64256",
+    "name": "Где Тиктоки?",
+    "rank": "e",
+    "animeName": "Необъятный океан 2",
+    "animeLink": "/aniserials/video/seinen/2987-neobjatnyj-okean-2.html",
+    "image": "/uploads/cards_image/2987/e/gde-tiktoki-1761549662-300570.webp"
+  },
+  {
+    "id": "64255",
+    "name": "Ёцуба Накано",
+    "rank": "a",
+    "animeName": "Пять невест: Спецвыпуски 2",
+    "animeLink": "/aniserials/video/shounen/2843-pjat-nevest-specvypuski-2.html",
+    "image": "/uploads/cards_image/2843/a/ecuba-nakano-1761549004-905108.webp"
+  },
+  {
+    "id": "64253",
+    "name": "Мику Накано",
+    "rank": "a",
+    "animeName": "Пять невест: Спецвыпуски 2",
+    "animeLink": "/aniserials/video/shounen/2843-pjat-nevest-specvypuski-2.html",
+    "image": "/uploads/cards_image/2843/a/miku-nakano-1761548582-95064.webp"
+  },
+  {
+    "id": "64252",
+    "name": "Хикару и Фу",
+    "rank": "c",
+    "animeName": "Рыцари магии II",
+    "animeLink": "/aniserials/video/action/2803-rycari-magii.html",
+    "image": "/uploads/cards_image/2803/c/hikaru-i-fu-1761547719-795633.webp"
+  },
+  {
+    "id": "64250",
+    "name": "Лантис и Дзагато",
+    "rank": "c",
+    "animeName": "Рыцари магии II",
+    "animeLink": "/aniserials/video/action/2803-rycari-magii.html",
+    "image": "/uploads/cards_image/2803/c/lantis-i-dzagato-1761546756-568239.webp"
+  },
+  {
+    "id": "64245",
+    "name": "Фрэнки Франклин",
+    "rank": "d",
+    "animeName": "Семья шпиона",
+    "animeLink": "/aniserials/video/drama/2125-semja-shpiona.html",
+    "image": "/uploads/cards_image/2125/d/frjenki-franklin-1761535210-490514.webp"
+  },
+  {
+    "id": "64244",
+    "name": "Фрэнки Франклин",
+    "rank": "b",
+    "animeName": "Семья шпиона Часть 2",
+    "animeLink": "/aniserials/video/action/1530-semja-shpiona-chast-2-animestars.html",
+    "image": "/uploads/cards_image/1530/b/frjenki-franklin-1761534277-270951.webp"
+  },
+  {
+    "id": "64243",
+    "name": "Фрэнки Франклин",
+    "rank": "d",
+    "animeName": "Семья шпиона 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2196-semja-shpiona-2-sezon-animestars-v3.html",
+    "image": "/uploads/cards_image/2196/d/frjenki-franklin-1761572540-335897.webp"
+  },
+  {
+    "id": "64241",
+    "name": "Дайтаку Гелиос",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/dajtaku-gelios-1761533551-925282.webp"
+  },
+  {
+    "id": "64240",
+    "name": "Ван Кунцюэ",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/van-kuncjuje-1761572359-416350.webp"
+  },
+  {
+    "id": "64238",
+    "name": "Водка",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/vodka-1761532039-150781.webp"
+  },
+  {
+    "id": "64237",
+    "name": "Уиннинг Тикит",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/uinning-tikit-1761530683-736593.webp"
+  },
+  {
+    "id": "64234",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Сказания Зестирии",
+    "animeLink": "/aniserials/video/action/483-skazaniya-zestirii-1-sezon-2016.html",
+    "image": "/uploads/cards_image/483/e/hjellouin-1761523865-783696.webp"
+  },
+  {
+    "id": "64233",
+    "name": "Хэллоуин",
+    "rank": "s",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/s/hjellouin-1761570189-441291.webp"
+  },
+  {
+    "id": "64232",
+    "name": "Купание",
+    "rank": "e",
+    "animeName": "Герой, упавший в обморок, и принцессы-убийцы",
+    "animeLink": "/aniserials/video/shounen/2971-geroj-upavshij-v-obmorok-i-princessy-ubijcy.html",
+    "image": "/uploads/cards_image/2971/e/kupanie-1761564558-19743.webp"
+  },
+  {
+    "id": "64231",
+    "name": "Тяньжэнь Вэнь",
+    "rank": "d",
+    "animeName": "Путешествие к бессмертию 5 сезон",
+    "animeLink": "/aniserials/video/action/3048-puteshestvie-k-bessmertiju-5.html",
+    "image": "/uploads/cards_image/3048/d/tjanzhjen-vjen-1761564462-563993.webp"
+  },
+  {
+    "id": "64230",
+    "name": "Эмарль Ёмоги",
+    "rank": "d",
+    "animeName": "Восхождение героя щита 2 сезон",
+    "animeLink": "/aniserials/video/action/1372-voshozhdenie-geroja-schita-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1372/d/jemarl-emogi-1761564371-317303.webp"
+  },
+  {
+    "id": "64229",
+    "name": "Рифана",
+    "rank": "d",
+    "animeName": "Восхождение Героя щита",
+    "animeLink": "/aniserials/video/drama/391-voshozhdenie-geroya-schita.html",
+    "image": "/uploads/cards_image/391/d/rifana-1761521261-501210.webp"
+  },
+  {
     "id": "64228",
     "name": "Гласс",
     "rank": "s",
     "animeName": "Восхождение героя щита 2 сезон",
     "animeLink": "/aniserials/video/action/1372-voshozhdenie-geroja-schita-2-sezon-animestars.html",
     "image": "/uploads/cards_image/1372/s/glass-1761525311-847651.webp"
+  },
+  {
+    "id": "64227",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Мифический дух: Хроники",
+    "animeLink": "/aniserials/video/garems/1125-mificheskij-duh-hroniki.html",
+    "image": "/uploads/cards_image/1125/e/hjellouin-1761520721-708580.webp"
+  },
+  {
+    "id": "64226",
+    "name": "Макина",
+    "rank": "d",
+    "animeName": "Восхождение героя щита 4 сезон",
+    "animeLink": "/aniserials/video/action/2992-voshozhdenie-geroja-schita-4-2025-as.html",
+    "image": "/uploads/cards_image/2992/d/makina-1761564133-197251.webp"
+  },
+  {
+    "id": "64225",
+    "name": "Зера и Мавис",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/c/zera-i-mavis-1761518295-26783.webp"
+  },
+  {
+    "id": "64224",
+    "name": "Мавис и Зереф",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/c/mavis-i-zeref-1761518213-216151.webp"
+  },
+  {
+    "id": "64223",
+    "name": "Нефрит Небесного Волка",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/e/nefrit-nebesnogo-volka-1761563912-152079.webp"
+  },
+  {
+    "id": "64222",
+    "name": "Магнолия",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/e/magnolija-1761518104-440360.webp"
   },
   {
     "id": "64217",
