@@ -1,11 +1,235 @@
 [
   {
+    "id": "64228",
+    "name": "Гласс",
+    "rank": "s",
+    "animeName": "Восхождение героя щита 2 сезон",
+    "animeLink": "/aniserials/video/action/1372-voshozhdenie-geroja-schita-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1372/s/glass-1761525311-847651.webp"
+  },
+  {
+    "id": "64217",
+    "name": "Кээр Мэн",
+    "rank": "s",
+    "animeName": "Гробница богов 3 сезон",
+    "animeLink": "/aniserials/video/action/3074-grobnica-bogov-3.html",
+    "image": "/uploads/cards_image/3074/s/kjejer-mjen-1761515673-879091.webp"
+  },
+  {
+    "id": "64208",
+    "name": "Кайна Носс",
+    "rank": "d",
+    "animeName": "Плачущий призрак на пенсии. Часть 2",
+    "animeLink": "/aniserials/video/action/3108-plachuschij-prizrak-na-pensii-chast-2-deep.html",
+    "image": "/uploads/cards_image/3108/d/kajna-noss-1761520509-328248.webp"
+  },
+  {
+    "id": "64206",
+    "name": "Ран и Шиничи",
+    "rank": "c",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/c/ran-i-shinichi-1761511847-381657.webp"
+  },
+  {
+    "id": "64205",
+    "name": "Бильярд",
+    "rank": "e",
+    "animeName": "Один на вылет",
+    "animeLink": "/aniserials/video/psychological/539-odin-na-vylet.html",
+    "image": "/uploads/cards_image/539/e/biljard-1761520118-514645.webp"
+  },
+  {
+    "id": "64204",
+    "name": "Супер Сайян 4",
+    "rank": "s",
+    "animeName": "Драгонболл Дайма",
+    "animeLink": "/aniserials/video/martial_arts/2673-dragonboll-dajma.html",
+    "image": "/uploads/cards_image/2673/s/super-sajjan-4-1761511559-561203.webp"
+  },
+  {
+    "id": "64202",
+    "name": "Нино Накано",
+    "rank": "a",
+    "animeName": "Пять невест: Спецвыпуски 2",
+    "animeLink": "/aniserials/video/shounen/2843-pjat-nevest-specvypuski-2.html",
+    "image": "/uploads/cards_image/2843/a/nino-nakano-1761509893-448377.webp"
+  },
+  {
+    "id": "64197",
+    "name": "Хо Чжоу",
+    "rank": "d",
+    "animeName": "Дорогой звёзд 6 сезон",
+    "animeLink": "/aniserials/video/action/2781-dorogoj-zvezd-6-sezon.html",
+    "image": "/uploads/cards_image/2781/d/ho-chzhou-1761519861-530345.webp"
+  },
+  {
+    "id": "64196",
+    "name": "Сянь Чжоу",
+    "rank": "b",
+    "animeName": "Дорогой звёзд 6 сезон",
+    "animeLink": "/aniserials/video/action/2781-dorogoj-zvezd-6-sezon.html",
+    "image": "/uploads/cards_image/2781/b/sjan-chzhou-1761519768-931775.webp"
+  },
+  {
+    "id": "64193",
+    "name": "Фу А",
+    "rank": "d",
+    "animeName": "Дорогой звёзд 6 сезон",
+    "animeLink": "/aniserials/video/action/2781-dorogoj-zvezd-6-sezon.html",
+    "image": "/uploads/cards_image/2781/d/fu-a-1761519636-402531.webp"
+  },
+  {
+    "id": "64192",
+    "name": "Сисюэ Яо",
+    "rank": "b",
+    "animeName": "Противостояние святого",
+    "animeLink": "/aniserials/video/drama/2158-protivostojanie-svjatogo.html",
+    "image": "/uploads/cards_image/2158/b/sisjuje-jao-1761519510-468640.webp"
+  },
+  {
+    "id": "64188",
+    "name": "Ицуки Накано",
+    "rank": "a",
+    "animeName": "Пять невест: Спецвыпуски 2",
+    "animeLink": "/aniserials/video/shounen/2843-pjat-nevest-specvypuski-2.html",
+    "image": "/uploads/cards_image/2843/a/icuki-nakano-1761506073-669189.webp"
+  },
+  {
+    "id": "64187",
+    "name": "Кээр Мэн",
+    "rank": "s",
+    "animeName": "Гробница богов 2 сезон",
+    "animeLink": "/aniserials/video/action/2558-grobnica-bogov-2-sezon.html",
+    "image": "/uploads/cards_image/2558/s/kjejer-mjen-1761505956-561353.webp"
+  },
+  {
     "id": "64182",
     "name": "Макото Мисуми",
     "rank": "s",
     "animeName": "Лунное путешествие приведёт к новому миру",
     "animeLink": "/aniserials/video/comedy/1127-lunnoe-puteshestvie-privedet-k-novomu-miru.html",
     "image": "/uploads/cards_image/1127/s/makoto-misumi-1761504731-929615.webp"
+  },
+  {
+    "id": "64179",
+    "name": "Дэмиан Десмонд",
+    "rank": "d",
+    "animeName": "Семья шпиона 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2196-semja-shpiona-2-sezon-animestars-v3.html",
+    "image": "/uploads/cards_image/2196/d/djemian-desmond-1761519090-538417.webp"
+  },
+  {
+    "id": "64178",
+    "name": "Игл и Хикару",
+    "rank": "c",
+    "animeName": "Рыцари магии II",
+    "animeLink": "/aniserials/video/action/2803-rycari-magii.html",
+    "image": "/uploads/cards_image/2803/c/igl-i-hikaru-1761503705-294705.webp"
+  },
+  {
+    "id": "64173",
+    "name": "Уми, Аскот и Мокона",
+    "rank": "c",
+    "animeName": "Рыцари магии II",
+    "animeLink": "/aniserials/video/action/2803-rycari-magii.html",
+    "image": "/uploads/cards_image/2803/c/umi-askot-i-mokona-1761518808-790506.webp"
+  },
+  {
+    "id": "64169",
+    "name": "Спортивная форма",
+    "rank": "e",
+    "animeName": "Жизнь с моей сводной сестрой",
+    "animeLink": "/aniserials/video/romance/2479-zhizn-s-moej-svodnoj-sestroj-2024-v1.html",
+    "image": "/uploads/cards_image/2479/e/sportivnaja-forma-1761518694-182462.webp"
+  },
+  {
+    "id": "64168",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Жизнь с моей сводной сестрой",
+    "animeLink": "/aniserials/video/romance/2479-zhizn-s-moej-svodnoj-sestroj-2024-v1.html",
+    "image": "/uploads/cards_image/2479/e/pojdem-so-mnoj-1761502467-12212.webp"
+  },
+  {
+    "id": "64164",
+    "name": "Это",
+    "rank": "d",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/d/jeto-1761501087-289849.webp"
+  },
+  {
+    "id": "64163",
+    "name": "Шу Цукияма",
+    "rank": "d",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/d/shu-cukijama-1761500452-892393.webp"
+  },
+  {
+    "id": "64161",
+    "name": "Джузо Сузуя",
+    "rank": "b",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/b/dzhuzo-suzuja-1761500413-586596.webp"
+  },
+  {
+    "id": "64158",
+    "name": "Мавис и Зера",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/c/mavis-i-zera-1761499858-519866.webp"
+  },
+  {
+    "id": "64156",
+    "name": "Прехт Геболг",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/b/preht-gebolg-1761499681-639020.webp"
+  },
+  {
+    "id": "64155",
+    "name": "Юрий Дрейар",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/b/jurij-drejar-1761499574-956598.webp"
+  },
+  {
+    "id": "64154",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Молчаливая ведьма: Тайна молчаливой колдуньи",
+    "animeLink": "/aniserials/video/fant/2967-molchalivaja-vedma-tajna-molchalivoj-kolduni.html",
+    "image": "/uploads/cards_image/2967/e/hjellouin-1761517876-963282.webp"
+  },
+  {
+    "id": "64153",
+    "name": "Хэллоуин",
+    "rank": "c",
+    "animeName": "Тёмный дворецкий 5 сезон: Зелёная ведьма",
+    "animeLink": "/aniserials/video/detective/2899-temnyj-dvoreckij-zelenaja-vedma.html",
+    "image": "/uploads/cards_image/2899/c/hjellouin-1761517757-498892.webp"
+  },
+  {
+    "id": "64152",
+    "name": "Люк и Мию",
+    "rank": "c",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/c/ljuk-i-miju-1761498248-521085.webp"
+  },
+  {
+    "id": "64149",
+    "name": "Юлия Джуэ",
+    "rank": "d",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/d/julija-dzhuje-1761496952-223068.webp"
   },
   {
     "id": "64148",
@@ -16,6 +240,62 @@
     "image": "/uploads/cards_image/3108/e/-1761500929-206384.webp"
   },
   {
+    "id": "64144",
+    "name": "Уборка",
+    "rank": "c",
+    "animeName": "Танец мечей: Пылающий Хоннодзи",
+    "animeLink": "/aniserials/video/action/2399-tanec-mechej-pylajuschij-honnodzi.html",
+    "image": "/uploads/cards_image/2399/c/uborka-1761517470-32737.webp"
+  },
+  {
+    "id": "64143",
+    "name": "Пляж",
+    "rank": "c",
+    "animeName": "Танец мечей: Пылающий Хоннодзи",
+    "animeLink": "/aniserials/video/action/2399-tanec-mechej-pylajuschij-honnodzi.html",
+    "image": "/uploads/cards_image/2399/c/pljazh-1761517386-862980.webp"
+  },
+  {
+    "id": "64142",
+    "name": "Игра в сёги",
+    "rank": "c",
+    "animeName": "Танец мечей: Пылающий Хоннодзи",
+    "animeLink": "/aniserials/video/action/2399-tanec-mechej-pylajuschij-honnodzi.html",
+    "image": "/uploads/cards_image/2399/c/igra-v-segi-1761517226-288397.webp"
+  },
+  {
+    "id": "64140",
+    "name": "Звонок",
+    "rank": "e",
+    "animeName": "Пожиратель звёзд 2 сезон",
+    "animeLink": "/aniserials/video/action/1460-pozhiratel-zvezd-1-2-sezon.html",
+    "image": "/uploads/cards_image/1460/e/zvonok-1761517083-967345.webp"
+  },
+  {
+    "id": "64137",
+    "name": "Объятия",
+    "rank": "c",
+    "animeName": "Пожиратель звёзд 2 сезон",
+    "animeLink": "/aniserials/video/action/1460-pozhiratel-zvezd-1-2-sezon.html",
+    "image": "/uploads/cards_image/1460/c/objatija-1761516986-774563.webp"
+  },
+  {
+    "id": "64136",
+    "name": "Кэндис Паулинус",
+    "rank": "b",
+    "animeName": "Пожиратель звёзд 2 сезон",
+    "animeLink": "/aniserials/video/action/1460-pozhiratel-zvezd-1-2-sezon.html",
+    "image": "/uploads/cards_image/1460/b/kjendis-paulinus-1761516893-647647.webp"
+  },
+  {
+    "id": "64135",
+    "name": "Йенву Вэй",
+    "rank": "d",
+    "animeName": "Аркнайтс: Восстание из пепла",
+    "animeLink": "/aniserials/video/action/2966-arknajts-vosstanie-iz-pepla.html",
+    "image": "/uploads/cards_image/2966/d/jenvu-vjej-1761493912-575086.webp"
+  },
+  {
     "id": "64133",
     "name": "Итика Накано",
     "rank": "s",
@@ -24,12 +304,36 @@
     "image": "/uploads/cards_image/1061/s/itika-nakano-1761499168-877266.webp"
   },
   {
+    "id": "64131",
+    "name": "Джон Х. Ватсон",
+    "rank": "b",
+    "animeName": "Патриотизм Мориарти Часть 2",
+    "animeLink": "/aniserials/video/detective/1076-patriotizm-moriarti-2-sezon.html",
+    "image": "/uploads/cards_image/1076/b/dzhon-h.-vatson-1761516476-692788.webp"
+  },
+  {
     "id": "64129",
     "name": "Лэффи",
     "rank": "s",
     "animeName": "Лазурный путь: Малый вперёд!",
     "animeLink": "/aniserials/video/comedy/2437-lazurnyj-put-malyj-vpered.html",
     "image": "/uploads/cards_image/2437/s/ljeffi-1761491638-78462.webp"
+  },
+  {
+    "id": "64126",
+    "name": "Семя вечной жизни",
+    "rank": "e",
+    "animeName": "Грёзы в бездне облаков",
+    "animeLink": "/aniserials/video/fant/2979-grezy-v-bezdne-oblakov.html",
+    "image": "/uploads/cards_image/2979/e/semja-vechnoj-zhizni-1761516360-426117.webp"
+  },
+  {
+    "id": "64123",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Укротитель зверей, изгнанный из команды героя, встретил девочку-кошку из сильнейшей расы",
+    "animeLink": "/aniserials/video/comedy/1534-ukrotitel-zverej-izgnannyj-iz-komandy-geroja-vstretil-devochku-koshku-iz-silnejshej-rasy-as.html",
+    "image": "/uploads/cards_image/1534/e/kuda-smotrish-1761516278-343373.webp"
   },
   {
     "id": "64122",
