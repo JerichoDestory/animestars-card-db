@@ -1,11 +1,203 @@
 [
   {
+    "id": "64395",
+    "name": "Кёскэ Хори",
+    "rank": "d",
+    "animeName": "Хоримия",
+    "animeLink": "/aniserials/video/comedy/1065-horimija.html",
+    "image": "/uploads/cards_image/1065/d/keskje-hori-1761652906-94183.webp"
+  },
+  {
+    "id": "64394",
+    "name": "Ярче солнца",
+    "rank": "e",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/e/jarche-solnca-1761619454-908359.webp"
+  },
+  {
+    "id": "64393",
+    "name": "Отражение",
+    "rank": "c",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/c/otrazhenie-1761618239-802243.webp"
+  },
+  {
+    "id": "64391",
+    "name": "Байхэн",
+    "rank": "b",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/b/bajhjen-1761615020-64275.webp"
+  },
+  {
+    "id": "64390",
+    "name": "Вельт Янг",
+    "rank": "a",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/a/velt-jang-1761613462-599033.webp"
+  },
+  {
+    "id": "64386",
+    "name": "Объятия",
+    "rank": "c",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/c/objatija-1761611617-153211.webp"
+  },
+  {
+    "id": "64384",
+    "name": "Дань Фэн",
+    "rank": "a",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/a/dan-fjen-1761640101-551470.webp"
+  },
+  {
+    "id": "64383",
+    "name": "Стелла",
+    "rank": "a",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/a/stella-1761611378-923534.webp"
+  },
+  {
+    "id": "64381",
+    "name": "Коноха Магнолия",
+    "rank": "a",
+    "animeName": "Тёмное прошлое перевоплощённой злодейки",
+    "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+    "image": "/uploads/cards_image/3138/a/konoha-magnolija-1761652361-319253.webp"
+  },
+  {
+    "id": "64378",
+    "name": "Март 7",
+    "rank": "a",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/a/mart-7-1761608027-980767.webp"
+  },
+  {
+    "id": "64376",
+    "name": "Пом-Пом",
+    "rank": "d",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/d/pom-pom-1761606487-702684.webp"
+  },
+  {
     "id": "64374",
     "name": "Сяо Янь",
     "rank": "s",
     "animeName": "Великий правитель",
     "animeLink": "/aniserials/video/action/2092-velikij-pravitel.html",
     "image": "/uploads/cards_image/2092/s/sjao-jan-1761605035-799597.webp"
+  },
+  {
+    "id": "64369",
+    "name": "Чжэньюань Фэн",
+    "rank": "d",
+    "animeName": "Высший во всех мирах",
+    "animeLink": "/aniserials/video/martial_arts/1600-vysshij-vo-vseh-mirah.html",
+    "image": "/uploads/cards_image/1600/d/chzhjenjuan-fjen-1761599842-21378.webp"
+  },
+  {
+    "id": "64368",
+    "name": "Шаотянь Лу",
+    "rank": "d",
+    "animeName": "Высший во всех мирах",
+    "animeLink": "/aniserials/video/martial_arts/1600-vysshij-vo-vseh-mirah.html",
+    "image": "/uploads/cards_image/1600/d/shaotjan-lu-1761599582-312936.webp"
+  },
+  {
+    "id": "64367",
+    "name": "Юйчань Фэн",
+    "rank": "d",
+    "animeName": "Высший во всех мирах",
+    "animeLink": "/aniserials/video/martial_arts/1600-vysshij-vo-vseh-mirah.html",
+    "image": "/uploads/cards_image/1600/d/jujchan-fjen-1761599334-742746.webp"
+  },
+  {
+    "id": "64366",
+    "name": "Линь Гунсунь",
+    "rank": "d",
+    "animeName": "Высший во всех мирах",
+    "animeLink": "/aniserials/video/martial_arts/1600-vysshij-vo-vseh-mirah.html",
+    "image": "/uploads/cards_image/1600/d/lin-gunsun-1761599223-818916.webp"
+  },
+  {
+    "id": "64359",
+    "name": "И Мин и Цинсюань Ши",
+    "rank": "c",
+    "animeName": "Благословение небожителей 2 сезон",
+    "animeLink": "/aniserials/video/drama/2214-blagoslovenie-nebozhitelej-2-sezon.html",
+    "image": "/uploads/cards_image/2214/c/i-min-i-cinsjuan-shi-1761651479-862358.webp"
+  },
+  {
+    "id": "64358",
+    "name": "Подводный мир",
+    "rank": "e",
+    "animeName": "Синий архив",
+    "animeLink": "/aniserials/video/action/2383-sinij-arhiv.html",
+    "image": "/uploads/cards_image/2383/e/podvodnyj-mir-1761594011-636305.webp"
+  },
+  {
+    "id": "64355",
+    "name": "Скрэгги",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/skrjeggi-1761592467-410412.webp"
+  },
+  {
+    "id": "64354",
+    "name": "Одеяние Вечности",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/odejanie-vechnosti-1761651022-735017.webp"
+  },
+  {
+    "id": "64353",
+    "name": "Броня Утренней Звезды",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/bronja-utrennej-zvezdy-1761650918-626217.webp"
+  },
+  {
+    "id": "64352",
+    "name": "Доспехи Феи",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/dospehi-fei-1761650818-545080.webp"
+  },
+  {
+    "id": "64351",
+    "name": "Фестиваль",
+    "rank": "e",
+    "animeName": "22/7",
+    "animeLink": "/aniserials/video/music/666-22-7.html",
+    "image": "/uploads/cards_image/666/e/festival-1761592242-479458.webp"
+  },
+  {
+    "id": "64348",
+    "name": "Аканэ и Рэйка",
+    "rank": "c",
+    "animeName": "22/7",
+    "animeLink": "/aniserials/video/music/666-22-7.html",
+    "image": "/uploads/cards_image/666/c/akanje-i-rjejka-1761591597-516792.webp"
+  },
+  {
+    "id": "64340",
+    "name": "Нанака",
+    "rank": "d",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/d/nanaka-1761588687-421347.webp"
   },
   {
     "id": "64339",
