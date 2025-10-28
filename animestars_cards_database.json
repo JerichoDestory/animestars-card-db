@@ -1,5 +1,53 @@
 [
   {
+    "id": "64374",
+    "name": "Сяо Янь",
+    "rank": "s",
+    "animeName": "Великий правитель",
+    "animeLink": "/aniserials/video/action/2092-velikij-pravitel.html",
+    "image": "/uploads/cards_image/2092/s/sjao-jan-1761605035-799597.webp"
+  },
+  {
+    "id": "64339",
+    "name": "Хэллоуин",
+    "rank": "c",
+    "animeName": "Патриотизм Мориарти Часть 2",
+    "animeLink": "/aniserials/video/detective/1076-patriotizm-moriarti-2-sezon.html",
+    "image": "/uploads/cards_image/1076/c/hjellouin-1761605894-125173.webp"
+  },
+  {
+    "id": "64333",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Провожающая в последний путь Фрирен",
+    "animeLink": "/aniserials/video/adventure/2162-provozhajuschaja-v-poslednij-put-friren-animestars-2023.html",
+    "image": "/uploads/cards_image/2162/e/hjellouin-1761605561-680838.webp"
+  },
+  {
+    "id": "64328",
+    "name": "Фейерверк",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/fejerverk-1761581568-990194.webp"
+  },
+  {
+    "id": "64326",
+    "name": "Курэо Мадо",
+    "rank": "d",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/d/kurjeo-mado-1761579295-940424.webp"
+  },
+  {
+    "id": "64323",
+    "name": "Курона Ясухиса",
+    "rank": "d",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/d/kurona-jasuhisa-1761578086-318982.webp"
+  },
+  {
     "id": "64321",
     "name": "Мыльные пузыри",
     "rank": "e",
