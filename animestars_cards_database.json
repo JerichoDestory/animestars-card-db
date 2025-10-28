@@ -1,5 +1,45 @@
 [
   {
+    "id": "64464",
+    "name": "Нин Вэнь",
+    "rank": "s",
+    "animeName": "Магистр дьявольского культа 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/545-magistr-dyavolskogo-kulta-2-sezon.html",
+    "image": "/uploads/cards_image/545/s/nin-vjen-1761675300-622873.webp"
+  },
+  {
+    "id": "64433",
+    "name": "Тока Киришима",
+    "rank": "s",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/s/toka-kirishima-1761660719-381085.webp"
+  },
+  {
+    "id": "64419",
+    "name": "Рыцари магии",
+    "rank": "s",
+    "animeName": "Рыцари магии II",
+    "animeLink": "/aniserials/video/action/2803-rycari-magii.html",
+    "image": "/uploads/cards_image/2803/s/rycari-magii-1761650733-281243.webp"
+  },
+  {
+    "id": "64415",
+    "name": "Нин Вэнь",
+    "rank": "s",
+    "animeName": "Магистр дьявольского культа",
+    "animeLink": "/aniserials/video/martial_arts/343-magistr-dyavolskogo-kulta.html",
+    "image": "/uploads/cards_image/343/s/nin-vjen-1761640270-525260.webp"
+  },
+  {
+    "id": "64400",
+    "name": "Игра в Го",
+    "rank": "e",
+    "animeName": "Бессмертие",
+    "animeLink": "/aniserials/video/martial_arts/2136-bessmertie.html",
+    "image": "/uploads/cards_image/2136/e/igra-v-go-1761627511-27045.webp"
+  },
+  {
     "id": "64395",
     "name": "Кёскэ Хори",
     "rank": "d",
