@@ -1,5 +1,253 @@
 [
   {
+    "id": "64659",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Причина полюбить её",
+    "animeLink": "/aniserials/video/drama/1897-prichina-poljubit-ee-2023.html",
+    "image": "/uploads/cards_image/1897/e/hjellouin-1761759641-229466.webp"
+  },
+  {
+    "id": "64654",
+    "name": "Студенческий",
+    "rank": "e",
+    "animeName": "Пощади меня, великий господин! 2 сезон",
+    "animeLink": "/aniserials/video/action/2271-poschadi-menja-velikij-gospodin-2-sezon.html",
+    "image": "/uploads/cards_image/2271/e/studencheskij-1761770570-80325.webp"
+  },
+  {
+    "id": "64653",
+    "name": "Нино Накано",
+    "rank": "a",
+    "animeName": "Пять невест: Спецвыпуски",
+    "animeLink": "/aniserials/video/shounen/3153-pjat-nevest-specvypuski.html",
+    "image": "/uploads/cards_image/3153/a/nino-nakano-1761756925-720430.webp"
+  },
+  {
+    "id": "64650",
+    "name": "Цзинмэй Фань",
+    "rank": "d",
+    "animeName": "Путешествие к бессмертию 5 сезон",
+    "animeLink": "/aniserials/video/action/3048-puteshestvie-k-bessmertiju-5.html",
+    "image": "/uploads/cards_image/3048/d/czinmjej-fan-1761770401-293092.webp"
+  },
+  {
+    "id": "64648",
+    "name": "Энель",
+    "rank": "s",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/s/jenel-1761755579-210365.webp"
+  },
+  {
+    "id": "64647",
+    "name": "Грей и Эрза",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/grej-i-jerza-1761755629-859710.webp"
+  },
+  {
+    "id": "64644",
+    "name": "Картография",
+    "rank": "e",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/e/kartografija-1761755518-57292.webp"
+  },
+  {
+    "id": "64640",
+    "name": "Выпьем?",
+    "rank": "e",
+    "animeName": "Агент Времени 3 сезон: Глава Инду",
+    "animeLink": "/aniserials/video/drama/2736-agent-vremeni-3-sezon-2024.html",
+    "image": "/uploads/cards_image/2736/e/vypem-1761769683-792755.webp"
+  },
+  {
+    "id": "64639",
+    "name": "Клыки",
+    "rank": "e",
+    "animeName": "Агент Времени 3 сезон: Глава Инду",
+    "animeLink": "/aniserials/video/drama/2736-agent-vremeni-3-sezon-2024.html",
+    "image": "/uploads/cards_image/2736/e/klyki-1761769599-257567.webp"
+  },
+  {
+    "id": "64637",
+    "name": "Снеговик",
+    "rank": "e",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/e/snegovik-1761753789-955494.webp"
+  },
+  {
+    "id": "64635",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Внук Нурарихёна",
+    "animeLink": "/aniserials/video/action/770-vnuk-nurarihena-1-sezon.html",
+    "image": "/uploads/cards_image/770/e/pojdem-so-mnoj-1761753408-423693.webp"
+  },
+  {
+    "id": "64632",
+    "name": "Литянь Гу",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/litjan-gu-1761751800-575168.webp"
+  },
+  {
+    "id": "64631",
+    "name": "Конан Эдогава",
+    "rank": "s",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/s/konan-jedogava-1761751327-666024.webp"
+  },
+  {
+    "id": "64630",
+    "name": "Чан Тоба",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/chan-toba-1761751035-272697.webp"
+  },
+  {
+    "id": "64628",
+    "name": "Кома Энджи",
+    "rank": "d",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/d/koma-jendzhi-1761750736-331588.webp"
+  },
+  {
+    "id": "64627",
+    "name": "Рэнджи Йомо",
+    "rank": "d",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/d/rjendzhi-jomo-1761750705-700622.webp"
+  },
+  {
+    "id": "64623",
+    "name": "Юань Сюй",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/juan-sjuj-1761750037-103598.webp"
+  },
+  {
+    "id": "64620",
+    "name": "Бабочка",
+    "rank": "e",
+    "animeName": "Магистр дьявольского культа",
+    "animeLink": "/aniserials/video/martial_arts/343-magistr-dyavolskogo-kulta.html",
+    "image": "/uploads/cards_image/343/e/babochka-1761749697-417752.webp"
+  },
+  {
+    "id": "64619",
+    "name": "Лучшие друзья",
+    "rank": "c",
+    "animeName": "Благословение небожителей",
+    "animeLink": "/aniserials/video/action/1021-blagoslovenie-nebozhitelej-animestars-2020.html",
+    "image": "/uploads/cards_image/1021/c/luchshie-druzja-1761749615-69198.webp"
+  },
+  {
+    "id": "64618",
+    "name": "Гуан Яо",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/guan-jao-1761748549-359994.webp"
+  },
+  {
+    "id": "64617",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Кэйон в кино!",
+    "animeLink": "/film-vvv/2809-k-on-film.html",
+    "image": "/uploads/cards_image/2809/e/hjellouin-1761748257-936325.webp"
+  },
+  {
+    "id": "64605",
+    "name": "Фан Цинсюэ",
+    "rank": "s",
+    "animeName": "Бессмертие",
+    "animeLink": "/aniserials/video/martial_arts/2136-bessmertie.html",
+    "image": "/uploads/cards_image/2136/s/fan-cinsjuje-1761747387-15782.webp"
+  },
+  {
+    "id": "64604",
+    "name": "Зера",
+    "rank": "s",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/s/zera-1761746897-878731.webp"
+  },
+  {
+    "id": "64600",
+    "name": "Шиничи Кудо",
+    "rank": "a",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/a/shinichi-kudo-1761746004-987951.webp"
+  },
+  {
+    "id": "64599",
+    "name": "Тише",
+    "rank": "e",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/e/tishe-1761745733-137850.webp"
+  },
+  {
+    "id": "64598",
+    "name": "Лост-Сити",
+    "rank": "e",
+    "animeName": "Волчий дождь",
+    "animeLink": "/aniserials/video/drama/626-volchiy-dozhd.html",
+    "image": "/uploads/cards_image/626/e/lost-siti-1761745251-559219.webp"
+  },
+  {
+    "id": "64590",
+    "name": "Шицзе Мо",
+    "rank": "d",
+    "animeName": "Бессмертие",
+    "animeLink": "/aniserials/video/martial_arts/2136-bessmertie.html",
+    "image": "/uploads/cards_image/2136/d/shicze-mo-1761765196-396931.webp"
+  },
+  {
+    "id": "64587",
+    "name": "Звёздное Платье: Форма Овна",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/e/zvezdnoe-plate-forma-ovna-1761765046-547465.webp"
+  },
+  {
+    "id": "64586",
+    "name": "Звёздное Платье: Форма Близнецов",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/e/zvezdnoe-plate-forma-bliznecov-1761765008-558653.webp"
+  },
+  {
+    "id": "64585",
+    "name": "Прогулка",
+    "rank": "e",
+    "animeName": "Ну не может моя сестра быть такой милой, и всё тут! 2 сезон",
+    "animeLink": "/aniserials/video/garems/384-nu-ne-mozhet-moya-sestra-byt-takoy-miloy-i-vse-tut-2-sezon.html",
+    "image": "/uploads/cards_image/384/e/progulka-1761764941-503107.webp"
+  },
+  {
+    "id": "64584",
+    "name": "Звёздное Платье: Форма Козерога",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/e/zvezdnoe-plate-forma-kozeroga-1761764891-975898.webp"
+  },
+  {
     "id": "64582",
     "name": "Цумэ",
     "rank": "a",
