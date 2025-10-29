@@ -1,11 +1,363 @@
 [
   {
+    "id": "64555",
+    "name": "Хэллоуин",
+    "rank": "s",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/s/hjellouin-1761705253-822290.webp"
+  },
+  {
+    "id": "64549",
+    "name": "Венди Марвелл",
+    "rank": "s",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/s/vendi-marvell-1761691659-967034.webp"
+  },
+  {
+    "id": "64547",
+    "name": "Твин Турбо",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/tvin-turbo-1761689858-516978.webp"
+  },
+  {
+    "id": "64546",
+    "name": "Клыки",
+    "rank": "e",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/e/klyki-1761744731-471270.webp"
+  },
+  {
+    "id": "64545",
+    "name": "Локи",
+    "rank": "d",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/d/loki-1761744682-407097.webp"
+  },
+  {
+    "id": "64544",
+    "name": "Икуно Диктус",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/ikuno-diktus-1761689640-276428.webp"
+  },
+  {
+    "id": "64540",
+    "name": "Эль Кондор Паса",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/jel-kondor-pasa-1761688724-365816.webp"
+  },
+  {
+    "id": "64537",
+    "name": "Огури Кэп",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/oguri-kjep-1761687398-887379.webp"
+  },
+  {
+    "id": "64535",
+    "name": "Юй Цинь",
+    "rank": "s",
+    "animeName": "Дорогой звёзд 6 сезон",
+    "animeLink": "/aniserials/video/action/2781-dorogoj-zvezd-6-sezon.html",
+    "image": "/uploads/cards_image/2781/s/juj-cin-1761687794-111764.webp"
+  },
+  {
+    "id": "64533",
+    "name": "Баоцай Сюй",
+    "rank": "b",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/b/baocaj-sjuj-1761743943-897931.webp"
+  },
+  {
+    "id": "64529",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Арифурэта: Сильнейший ремесленник в мире 2 сезон",
+    "animeLink": "/aniserials/video/action/1355-arifurjeta-silnejshij-remeslennik-v-mire-2-sezon.html",
+    "image": "/uploads/cards_image/1355/e/kuda-smotrish-1761743779-979154.webp"
+  },
+  {
+    "id": "64525",
+    "name": "Рэйна Сакуя",
+    "rank": "b",
+    "animeName": "Дигимоны: Битбрейк",
+    "animeLink": "/aniserials/video/action/3129-digimony-bitbrejk.html",
+    "image": "/uploads/cards_image/3129/b/rjejna-sakuja-1761684644-573813.webp"
+  },
+  {
+    "id": "64524",
+    "name": "Сакура",
+    "rank": "e",
+    "animeName": "Дропкик злого духа 3",
+    "animeLink": "/aniserials/video/comedy/2701-dropkik-zlogo-duha-3.html",
+    "image": "/uploads/cards_image/2701/e/sakura-1761684468-361827.webp"
+  },
+  {
+    "id": "64512",
+    "name": "Мираджейн и Лаксус",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/miradzhejn-i-laksus-1761743389-375272.webp"
+  },
+  {
+    "id": "64511",
+    "name": "Доспех Умиротворения",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/dospeh-umirotvorenija-1761743299-690122.webp"
+  },
+  {
+    "id": "64509",
+    "name": "Доспех Проникновения",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/dospeh-proniknovenija-1761743194-117652.webp"
+  },
+  {
+    "id": "64504",
+    "name": "Кишо Арима",
+    "rank": "b",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/b/kisho-arima-1761682320-188220.webp"
+  },
+  {
+    "id": "64503",
+    "name": "Колесница и Мастер Смерти",
+    "rank": "c",
+    "animeName": "Стрелок с чёрной скалы",
+    "animeLink": "/aniserials/video/action/1400-strelok-s-chernoj-skaly.html",
+    "image": "/uploads/cards_image/1400/c/kolesnica-i-master-smerti-1761686303-952043.webp"
+  },
+  {
+    "id": "64502",
+    "name": "Бива Хаяхидэ",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/biva-hajahidje-1761682008-537482.webp"
+  },
+  {
+    "id": "64501",
+    "name": "Ночной город",
+    "rank": "e",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/e/nochnoj-gorod-1761681969-271541.webp"
+  },
+  {
+    "id": "64500",
+    "name": "Луг",
+    "rank": "b",
+    "animeName": "Тринити: Семеро магов - Небесная библиотека и Багровый Король",
+    "animeLink": "/aniserials/video/action/2592-triniti-semero-magov-nebesnaja-biblioteka-i-bagrovyj-korol.html",
+    "image": "/uploads/cards_image/2592/b/lug-1761685874-833267.webp"
+  },
+  {
+    "id": "64498",
+    "name": "Хрусть",
+    "rank": "e",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/e/hrust-1761685681-542276.webp"
+  },
+  {
+    "id": "64495",
+    "name": "Фу и Ферио",
+    "rank": "c",
+    "animeName": "Рыцари магии II",
+    "animeLink": "/aniserials/video/action/2803-rycari-magii.html",
+    "image": "/uploads/cards_image/2803/c/fu-i-ferio-1761681485-32581.webp"
+  },
+  {
+    "id": "64494",
+    "name": "Т.М. Опера О",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/t.m.-opera-o-1761681428-285735.webp"
+  },
+  {
+    "id": "64491",
+    "name": "Голд Шип",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/d/gold-ship-1761680760-551477.webp"
+  },
+  {
+    "id": "64488",
+    "name": "Дайва Скарлет",
+    "rank": "b",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/b/dajva-skarlet-1761679865-426736.webp"
+  },
+  {
+    "id": "64486",
+    "name": "Хиджири Касуга",
+    "rank": "b",
+    "animeName": "Тринити: Семеро магов - Небесная библиотека и Багровый Король",
+    "animeLink": "/aniserials/video/action/2592-triniti-semero-magov-nebesnaja-biblioteka-i-bagrovyj-korol.html",
+    "image": "/uploads/cards_image/2592/b/hidzhiri-kasuga-1761685021-192712.webp"
+  },
+  {
+    "id": "64485",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Благоухающий цветок расцветает с достоинством",
+    "animeLink": "/aniserials/video/drama/2975-blagouhajuschij-cvetok-rascvetaet-s-dostoinstvom-2025.html",
+    "image": "/uploads/cards_image/2975/e/hjellouin-1761684913-405710.webp"
+  },
+  {
+    "id": "64483",
+    "name": "Веер",
+    "rank": "e",
+    "animeName": "Страна чудес",
+    "animeLink": "/aniserials/video/action/1464-strana-chudes.html",
+    "image": "/uploads/cards_image/1464/e/veer-1761684771-77301.webp"
+  },
+  {
+    "id": "64480",
+    "name": "Манами Тамура",
+    "rank": "d",
+    "animeName": "Ну не может моя сестра быть такой милой, и всё тут! 2 сезон",
+    "animeLink": "/aniserials/video/garems/384-nu-ne-mozhet-moya-sestra-byt-takoy-miloy-i-vse-tut-2-sezon.html",
+    "image": "/uploads/cards_image/384/d/manami-tamura-1761684602-760180.webp"
+  },
+  {
+    "id": "64474",
+    "name": "Саори Макисима",
+    "rank": "d",
+    "animeName": "Ну не может моя сестра быть такой милой, и всё тут! 2 сезон",
+    "animeLink": "/aniserials/video/garems/384-nu-ne-mozhet-moya-sestra-byt-takoy-miloy-i-vse-tut-2-sezon.html",
+    "image": "/uploads/cards_image/384/d/saori-makisima-1761684149-735883.webp"
+  },
+  {
+    "id": "64468",
+    "name": "Теренезза и Кайл",
+    "rank": "c",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/c/terenezza-i-kajl-1761673736-744141.webp"
+  },
+  {
+    "id": "64465",
+    "name": "Канако Курусу",
+    "rank": "d",
+    "animeName": "Ну не может моя сестра быть такой милой, и всё тут! 2 сезон",
+    "animeLink": "/aniserials/video/garems/384-nu-ne-mozhet-moya-sestra-byt-takoy-miloy-i-vse-tut-2-sezon.html",
+    "image": "/uploads/cards_image/384/d/kanako-kurusu-1761683956-25387.webp"
+  },
+  {
     "id": "64464",
     "name": "Нин Вэнь",
     "rank": "s",
     "animeName": "Магистр дьявольского культа 2 сезон",
     "animeLink": "/aniserials/video/martial_arts/545-magistr-dyavolskogo-kulta-2-sezon.html",
     "image": "/uploads/cards_image/545/s/nin-vjen-1761675300-622873.webp"
+  },
+  {
+    "id": "64462",
+    "name": "Акнология",
+    "rank": "a",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/a/aknologija-1761670980-348786.webp"
+  },
+  {
+    "id": "64460",
+    "name": "Под прицелом",
+    "rank": "e",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/e/pod-pricelom-1761669100-688609.webp"
+  },
+  {
+    "id": "64459",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Моя любовь девятьсот девяносто девятого уровня к Ямаде",
+    "animeLink": "/aniserials/video/comedy/1813-moja-ljubov-devjatsot-devjanosto-devjatogo-urovnja-k-jamade-animestars.html",
+    "image": "/uploads/cards_image/1813/e/hjellouin-1761683647-39163.webp"
+  },
+  {
+    "id": "64452",
+    "name": "Старый Ма и Му Цинь",
+    "rank": "c",
+    "animeName": "Сказание о пастухе богов",
+    "animeLink": "/aniserials/video/action/2690-skazanie-o-pastuhe-bogov-2024.html",
+    "image": "/uploads/cards_image/2690/c/staryj-ma-i-mu-cin-1761683509-800810.webp"
+  },
+  {
+    "id": "64447",
+    "name": "Мисудзу Кириминэ",
+    "rank": "b",
+    "animeName": "Вампир не умеет правильно сосать",
+    "animeLink": "/aniserials/video/shounen/3145-vampir-ne-umeet-pravilno-sosat.html",
+    "image": "/uploads/cards_image/3145/b/misudzu-kiriminje-1761682816-560342.webp"
+  },
+  {
+    "id": "64446",
+    "name": "Томору Тэмма",
+    "rank": "a",
+    "animeName": "Дигимоны: Битбрейк",
+    "animeLink": "/aniserials/video/action/3129-digimony-bitbrejk.html",
+    "image": "/uploads/cards_image/3129/a/tomoru-tjemma-1761664252-743697.webp"
+  },
+  {
+    "id": "64444",
+    "name": "Нана Футами",
+    "rank": "a",
+    "animeName": "Рабочее место, где вы не можете не улыбаться",
+    "animeLink": "/aniserials/video/comedy/3128-rabochee-mesto-gde-vy-ne-mozhete-ne-ulybatsja.html",
+    "image": "/uploads/cards_image/3128/a/nana-futami-1761682599-34902.webp"
+  },
+  {
+    "id": "64441",
+    "name": "Костюм",
+    "rank": "e",
+    "animeName": "Прах Глатирамера",
+    "animeLink": "/aniserials/video/action/2931-prah-glatiramera.html",
+    "image": "/uploads/cards_image/2931/e/kostjum-1761682274-499216.webp"
+  },
+  {
+    "id": "64436",
+    "name": "Зереф",
+    "rank": "a",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/a/zeref-1761661554-58215.webp"
+  },
+  {
+    "id": "64435",
+    "name": "Хэппи",
+    "rank": "a",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/a/hjeppi-1761661542-89687.webp"
+  },
+  {
+    "id": "64434",
+    "name": "Шарль",
+    "rank": "a",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/a/sharl-1761661529-879966.webp"
   },
   {
     "id": "64433",
@@ -16,6 +368,22 @@
     "image": "/uploads/cards_image/59/s/toka-kirishima-1761660719-381085.webp"
   },
   {
+    "id": "64432",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Ну не может моя сестра быть такой милой, и всё тут! 2 сезон",
+    "animeLink": "/aniserials/video/garems/384-nu-ne-mozhet-moya-sestra-byt-takoy-miloy-i-vse-tut-2-sezon.html",
+    "image": "/uploads/cards_image/384/e/hjellouin-1761681534-337286.webp"
+  },
+  {
+    "id": "64420",
+    "name": "Платье",
+    "rank": "e",
+    "animeName": "Кошечка из Сакурасо",
+    "animeLink": "/aniserials/video/drama/119-koshechka-iz-sakuraso.html",
+    "image": "/uploads/cards_image/119/e/plate-1761650988-111623.webp"
+  },
+  {
     "id": "64419",
     "name": "Рыцари магии",
     "rank": "s",
@@ -24,12 +392,76 @@
     "image": "/uploads/cards_image/2803/s/rycari-magii-1761650733-281243.webp"
   },
   {
+    "id": "64418",
+    "name": "Колода",
+    "rank": "e",
+    "animeName": "Убийца богов 3 сезон",
+    "animeLink": "/aniserials/video/action/2946-ubijca-bogov-3.html",
+    "image": "/uploads/cards_image/2946/e/koloda-1761649246-96617.webp"
+  },
+  {
+    "id": "64416",
+    "name": "Доброе утро",
+    "rank": "e",
+    "animeName": "Вспышка",
+    "animeLink": "/aniserials/video/action/2928-vspyshka.html",
+    "image": "/uploads/cards_image/2928/e/dobroe-utro-1761640499-639252.webp"
+  },
+  {
     "id": "64415",
     "name": "Нин Вэнь",
     "rank": "s",
     "animeName": "Магистр дьявольского культа",
     "animeLink": "/aniserials/video/martial_arts/343-magistr-dyavolskogo-kulta.html",
     "image": "/uploads/cards_image/343/s/nin-vjen-1761640270-525260.webp"
+  },
+  {
+    "id": "64414",
+    "name": "Содзи Окита",
+    "rank": "b",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/b/sodzi-okita-1761680176-497600.webp"
+  },
+  {
+    "id": "64411",
+    "name": "Скрипач",
+    "rank": "e",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/e/skripach-1761638385-970946.webp"
+  },
+  {
+    "id": "64410",
+    "name": "Полярная ночь",
+    "rank": "c",
+    "animeName": "Для тебя, Бессмертный",
+    "animeLink": "/aniserials/video/drama/1092-dlja-tebja-bessmertnyj.html",
+    "image": "/uploads/cards_image/1092/c/poljarnaja-noch-1761638119-239654.webp"
+  },
+  {
+    "id": "64406",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Для тебя, Бессмертный",
+    "animeLink": "/aniserials/video/drama/1092-dlja-tebja-bessmertnyj.html",
+    "image": "/uploads/cards_image/1092/e/hjellouin-1761635421-795913.webp"
+  },
+  {
+    "id": "64405",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Кабанэри железной крепости",
+    "animeLink": "/aniserials/video/drama/204-kabaneri-s-bronekreposti.html",
+    "image": "/uploads/cards_image/204/e/kuda-smotrish-1761634863-817987.webp"
+  },
+  {
+    "id": "64404",
+    "name": "Тяньду Хуа",
+    "rank": "b",
+    "animeName": "Бессмертие",
+    "animeLink": "/aniserials/video/martial_arts/2136-bessmertie.html",
+    "image": "/uploads/cards_image/2136/b/tjandu-hua-1761629795-463715.webp"
   },
   {
     "id": "64400",
