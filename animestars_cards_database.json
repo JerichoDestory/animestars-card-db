@@ -1,11 +1,219 @@
 [
   {
+    "id": "64729",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Соблазн 2,5-мерного измерения",
+    "animeLink": "/aniserials/video/garems/2501-soblazn-25-mernogo-izmerenija.html",
+    "image": "/uploads/cards_image/2501/e/hjellouin-1761807914-607389.webp"
+  },
+  {
+    "id": "64726",
+    "name": "Манта Оямада",
+    "rank": "a",
+    "animeName": "Шаман Кинг",
+    "animeLink": "/aniserials/video/martial_arts/147-shaman-king-2001.html",
+    "image": "/uploads/cards_image/147/a/manta-ojamada-1761803330-688995.webp"
+  },
+  {
+    "id": "64725",
+    "name": "Альбедо",
+    "rank": "a",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/a/albedo-1761820266-233950.webp"
+  },
+  {
+    "id": "64721",
+    "name": "Фубуки",
+    "rank": "a",
+    "animeName": "Ванпанчмен 3 сезон",
+    "animeLink": "/aniserials/video/seinen/3122-vanpanchmen-3-sezon.html",
+    "image": "/uploads/cards_image/3122/a/fubuki-1761795284-124147.webp"
+  },
+  {
+    "id": "64720",
+    "name": "Дофламинго и Виола",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/doflamingo-i-viola-1761819924-363625.webp"
+  },
+  {
+    "id": "64713",
+    "name": "Фестиваль",
+    "rank": "e",
+    "animeName": "Притворная любовь",
+    "animeLink": "/aniserials/video/garems/113-pritvornaya-lyubov-animestars.html",
+    "image": "/uploads/cards_image/113/e/festival-1761819725-721406.webp"
+  },
+  {
+    "id": "64711",
+    "name": "Муцуми Урусибара",
+    "rank": "b",
+    "animeName": "Кизнайвер",
+    "animeLink": "/aniserials/video/drama/699-kiznayver.html",
+    "image": "/uploads/cards_image/699/b/mucumi-urusibara-1761819559-732192.webp"
+  },
+  {
+    "id": "64710",
+    "name": "Игра в Го",
+    "rank": "e",
+    "animeName": "Путешествие к бессмертию 5 сезон",
+    "animeLink": "/aniserials/video/action/3048-puteshestvie-k-bessmertiju-5.html",
+    "image": "/uploads/cards_image/3048/e/igra-v-go-1761819452-112152.webp"
+  },
+  {
     "id": "64709",
     "name": "Зэнзо Хаттори",
     "rank": "s",
     "animeName": "Гинтама 4 сезон",
     "animeLink": "/aniserials/video/comedy/2096-gintama-4-sezon.html",
     "image": "/uploads/cards_image/2096/s/zjenzo-hattori-1761780980-49241.webp"
+  },
+  {
+    "id": "64708",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Код Гиас: Лелуш Воскресший - Фильм",
+    "animeLink": "/aniserials/video/drama/1890-kod-gias-lelush-voskresshij-film.html",
+    "image": "/uploads/cards_image/1890/e/hjellouin-1761819320-681140.webp"
+  },
+  {
+    "id": "64707",
+    "name": "Останки древнего святого",
+    "rank": "e",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/e/ostanki-drevnego-svjatogo-1761819014-720534.webp"
+  },
+  {
+    "id": "64704",
+    "name": "Хуэй Цзи",
+    "rank": "b",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/b/hujej-czi-1761775514-396044.webp"
+  },
+  {
+    "id": "64703",
+    "name": "Один, Тор и Локи",
+    "rank": "c",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/c/odin-tor-i-loki-1761775091-834459.webp"
+  },
+  {
+    "id": "64702",
+    "name": "Шокер",
+    "rank": "e",
+    "animeName": "Тандзабуро Тодзима хочет стать Наездником в маске",
+    "animeLink": "/aniserials/video/seinen/3113-tandzaburo-todzima-hochet-stat-naezdnikom-v-maske.html",
+    "image": "/uploads/cards_image/3113/e/shoker-1761818684-890910.webp"
+  },
+  {
+    "id": "64701",
+    "name": "Яо Цинь и Фань Е",
+    "rank": "c",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/c/jao-cin-i-fan-e-1761818597-510625.webp"
+  },
+  {
+    "id": "64700",
+    "name": "Акира и Товаса",
+    "rank": "c",
+    "animeName": "Вечность Югурэ",
+    "animeLink": "/aniserials/video/romance/3094-vechnost-jugurje.html",
+    "image": "/uploads/cards_image/3094/c/akira-i-tovasa-1761773242-843867.webp"
+  },
+  {
+    "id": "64699",
+    "name": "Жоюй Ли",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/zhojuj-li-1761773181-799650.webp"
+  },
+  {
+    "id": "64698",
+    "name": "Цайсюань Цзян",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/cajsjuan-czjan-1761773084-247062.webp"
+  },
+  {
+    "id": "64697",
+    "name": "Слёзы",
+    "rank": "e",
+    "animeName": "Дигимоны: Битбрейк",
+    "animeLink": "/aniserials/video/action/3129-digimony-bitbrejk.html",
+    "image": "/uploads/cards_image/3129/e/slezy-1761773065-530339.webp"
+  },
+  {
+    "id": "64696",
+    "name": "Юрико Мисаки",
+    "rank": "b",
+    "animeName": "Тандзабуро Тодзима хочет стать Наездником в маске",
+    "animeLink": "/aniserials/video/seinen/3113-tandzaburo-todzima-hochet-stat-naezdnikom-v-maske.html",
+    "image": "/uploads/cards_image/3113/b/juriko-misaki-1761817828-815227.webp"
+  },
+  {
+    "id": "64695",
+    "name": "Юрико Окада",
+    "rank": "b",
+    "animeName": "Тандзабуро Тодзима хочет стать Наездником в маске",
+    "animeLink": "/aniserials/video/seinen/3113-tandzaburo-todzima-hochet-stat-naezdnikom-v-maske.html",
+    "image": "/uploads/cards_image/3113/b/juriko-okada-1761817774-73961.webp"
+  },
+  {
+    "id": "64694",
+    "name": "Адам и Ева",
+    "rank": "c",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/c/adam-i-eva-1761772907-318828.webp"
+  },
+  {
+    "id": "64689",
+    "name": "Кумико и Рэйна",
+    "rank": "c",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/c/kumiko-i-rjejna-1761771645-899720.webp"
+  },
+  {
+    "id": "64687",
+    "name": "Сиро и Ассасин Красных",
+    "rank": "c",
+    "animeName": "Судьба: Апокриф",
+    "animeLink": "/aniserials/video/drama/228-sudba-apokrif.html",
+    "image": "/uploads/cards_image/228/c/siro-i-assasin-krasnyh-1761817326-135814.webp"
+  },
+  {
+    "id": "64684",
+    "name": "Клыки",
+    "rank": "e",
+    "animeName": "Мемуары Ванитаса 2 сезон",
+    "animeLink": "/aniserials/video/vampires/1357-memuary-vanitasa-2-sezon.html",
+    "image": "/uploads/cards_image/1357/e/klyki-1761817127-691098.webp"
+  },
+  {
+    "id": "64679",
+    "name": "Хинами Фуэгучи",
+    "rank": "d",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/d/hinami-fujeguchi-1761768280-943550.webp"
+  },
+  {
+    "id": "64677",
+    "name": "Звёздное Платье: Форма Тельца",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/e/zvezdnoe-plate-forma-telca-1761816773-409448.webp"
   },
   {
     "id": "64675",
