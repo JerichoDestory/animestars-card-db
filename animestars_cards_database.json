@@ -1,5 +1,197 @@
 [
   {
+    "id": "64785",
+    "name": "Канна и Тору",
+    "rank": "c",
+    "animeName": "Дракон-горничная госпожи Кобаяси 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1132-kobajasi-i-ee-gornichnaja-drakon-2-sezon-2021.html",
+    "image": "/uploads/cards_image/1132/c/kanna-i-toru-1761843363-609554.webp"
+  },
+  {
+    "id": "64784",
+    "name": "Один за всех",
+    "rank": "e",
+    "animeName": "Моя геройская академия 6 сезон",
+    "animeLink": "/aniserials/video/action/1531-moja-gerojskaja-akademija-6-sezon-2022.html",
+    "image": "/uploads/cards_image/1531/e/odin-za-vseh-1761843150-675675.webp"
+  },
+  {
+    "id": "64781",
+    "name": "Кэйитиро Нагумо",
+    "rank": "s",
+    "animeName": "С нынешними детективами ничего не поделаешь",
+    "animeLink": "/aniserials/video/seinen/2954-s-nyneshnimi-detektivami-nichego-ne-podelaesh.html",
+    "image": "/uploads/cards_image/2954/s/kjejitiro-nagumo-1761839477-908752.webp"
+  },
+  {
+    "id": "64780",
+    "name": "Хэппи",
+    "rank": "a",
+    "animeName": "Нулевой Эдем",
+    "animeLink": "/aniserials/video/comedy/1078-nulevoj-jedem.html",
+    "image": "/uploads/cards_image/1078/a/hjeppi-1761837116-71741.webp"
+  },
+  {
+    "id": "64779",
+    "name": "Дельта",
+    "rank": "b",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/b/delta-1761842883-265108.webp"
+  },
+  {
+    "id": "64778",
+    "name": "Альфа",
+    "rank": "a",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/a/alfa-1761842841-550886.webp"
+  },
+  {
+    "id": "64777",
+    "name": "Бета",
+    "rank": "b",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/b/beta-1761842771-244664.webp"
+  },
+  {
+    "id": "64776",
+    "name": "Гамма",
+    "rank": "b",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/b/gamma-1761842701-866767.webp"
+  },
+  {
+    "id": "64773",
+    "name": "Сид Кагэно",
+    "rank": "a",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/a/sid-kagjeno-1761842486-939611.webp"
+  },
+  {
+    "id": "64771",
+    "name": "Наоко и Рицуко Акаги",
+    "rank": "c",
+    "animeName": "Евангелион: Смерть и перерождение",
+    "animeLink": "/aniserials/video/drama/1754-evangelion-smert-i-pererozhdenie.html",
+    "image": "/uploads/cards_image/1754/c/naoko-i-ricuko-akagi-1761842333-391589.webp"
+  },
+  {
+    "id": "64766",
+    "name": "Шарль",
+    "rank": "s",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/s/sharl-1761831636-56981.webp"
+  },
+  {
+    "id": "64765",
+    "name": "Прощание",
+    "rank": "c",
+    "animeName": "Бессмертие",
+    "animeLink": "/aniserials/video/martial_arts/2136-bessmertie.html",
+    "image": "/uploads/cards_image/2136/c/proschanie-1761831246-435522.webp"
+  },
+  {
+    "id": "64762",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Моя геройская академия 4 сезон",
+    "animeLink": "/aniserials/video/action/546-moya-geroyskaya-akademiya-4-sezon.html",
+    "image": "/uploads/cards_image/546/e/kuda-smotrish-1761841939-442430.webp"
+  },
+  {
+    "id": "64757",
+    "name": "Фонтан",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/fontan-1761825003-16743.webp"
+  },
+  {
+    "id": "64756",
+    "name": "Люси и Плю",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/c/ljusi-i-plju-1761824974-976768.webp"
+  },
+  {
+    "id": "64752",
+    "name": "Сапфир и Хазуки",
+    "rank": "c",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/c/sapfir-i-hazuki-1761820628-978247.webp"
+  },
+  {
+    "id": "64750",
+    "name": "Юко Йошикава",
+    "rank": "b",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/b/juko-joshikava-1761820438-160755.webp"
+  },
+  {
+    "id": "64748",
+    "name": "Ева",
+    "rank": "b",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/b/eva-1761819918-478500.webp"
+  },
+  {
+    "id": "64747",
+    "name": "Тяжёлый выбор",
+    "rank": "e",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/e/tjazhelyj-vybor-1761819006-375785.webp"
+  },
+  {
+    "id": "64745",
+    "name": "Аска и Каори",
+    "rank": "c",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/c/aska-i-kaori-1761818246-455204.webp"
+  },
+  {
+    "id": "64743",
+    "name": "Рэйна, Кумико и Шуичи",
+    "rank": "c",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/c/rjejna-kumiko-i-shuichi-1761840911-627429.webp"
+  },
+  {
+    "id": "64740",
+    "name": "Нацуки Накагава",
+    "rank": "b",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/b/nacuki-nakagava-1761817810-233179.webp"
+  },
+  {
+    "id": "64738",
+    "name": "Аму и Тадасэ",
+    "rank": "c",
+    "animeName": "Чара-хранители!",
+    "animeLink": "/aniserials/video/shoujo/2776-chara-hraniteli.html",
+    "image": "/uploads/cards_image/2776/c/amu-i-tadasje-1761817112-158508.webp"
+  },
+  {
+    "id": "64732",
+    "name": "Сованде Сакаки",
+    "rank": "d",
+    "animeName": "Руки прочь от киноклуба!",
+    "animeLink": "/aniserials/video/comedy/700-ruki-proch-ot-kinokluba.html",
+    "image": "/uploads/cards_image/700/d/sovande-sakaki-1761810736-471887.webp"
+  },
+  {
     "id": "64729",
     "name": "Хэллоуин",
     "rank": "e",
