@@ -1,5 +1,69 @@
 [
   {
+    "id": "64709",
+    "name": "Зэнзо Хаттори",
+    "rank": "s",
+    "animeName": "Гинтама 4 сезон",
+    "animeLink": "/aniserials/video/comedy/2096-gintama-4-sezon.html",
+    "image": "/uploads/cards_image/2096/s/zjenzo-hattori-1761780980-49241.webp"
+  },
+  {
+    "id": "64675",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Я стану злодейкой, которая войдёт в историю",
+    "animeLink": "/aniserials/video/romance/2638-ja-stanu-zlodejkoj-kotoraja-vojdet-v-istoriju.html",
+    "image": "/uploads/cards_image/2638/e/hjellouin-1761771858-278535.webp"
+  },
+  {
+    "id": "64673",
+    "name": "Плюс Ультра",
+    "rank": "e",
+    "animeName": "Моя геройская академия",
+    "animeLink": "/aniserials/video/comedy/206-moya-geroyskaya-akademiya-2016-as.html",
+    "image": "/uploads/cards_image/206/e/pljus-ultra-1761771729-400669.webp"
+  },
+  {
+    "id": "64672",
+    "name": "Заветная мечта",
+    "rank": "e",
+    "animeName": "Моя геройская академия",
+    "animeLink": "/aniserials/video/comedy/206-moya-geroyskaya-akademiya-2016-as.html",
+    "image": "/uploads/cards_image/206/e/zavetnaja-mechta-1761771570-840270.webp"
+  },
+  {
+    "id": "64668",
+    "name": "Томору и Гэккомон",
+    "rank": "c",
+    "animeName": "Дигимоны: Битбрейк",
+    "animeLink": "/aniserials/video/action/3129-digimony-bitbrejk.html",
+    "image": "/uploads/cards_image/3129/c/tomoru-i-gjekkomon-1761771357-908324.webp"
+  },
+  {
+    "id": "64666",
+    "name": "Сердечко",
+    "rank": "e",
+    "animeName": "Парадокс в прямом эфире",
+    "animeLink": "/aniserials/video/drama/2179-paradoks-v-prjamom-jefire.html",
+    "image": "/uploads/cards_image/2179/e/serdechko-1761761952-899538.webp"
+  },
+  {
+    "id": "64665",
+    "name": "Макото Куондзи",
+    "rank": "d",
+    "animeName": "Дигимоны: Битбрейк",
+    "animeLink": "/aniserials/video/action/3129-digimony-bitbrejk.html",
+    "image": "/uploads/cards_image/3129/d/makoto-kuondzi-1761761939-964994.webp"
+  },
+  {
+    "id": "64663",
+    "name": "Тандзабуро Тодзима",
+    "rank": "a",
+    "animeName": "Тандзабуро Тодзима хочет стать Наездником в маске",
+    "animeLink": "/aniserials/video/seinen/3113-tandzaburo-todzima-hochet-stat-naezdnikom-v-maske.html",
+    "image": "/uploads/cards_image/3113/a/tandzaburo-todzima-1761770962-796532.webp"
+  },
+  {
     "id": "64659",
     "name": "Хэллоуин",
     "rank": "e",
