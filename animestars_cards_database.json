@@ -1,5 +1,117 @@
 [
   {
+    "id": "64835",
+    "name": "Коскэ Кира",
+    "rank": "b",
+    "animeName": "Взрыв! / Бтууум!",
+    "animeLink": "/aniserials/video/action/120-vzryv-btuuum.html",
+    "image": "/uploads/cards_image/120/b/koskje-kira-1761858606-790400.webp"
+  },
+  {
+    "id": "64834",
+    "name": "Лиса",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/lisa-1761857475-723371.webp"
+  },
+  {
+    "id": "64833",
+    "name": "Чтение",
+    "rank": "e",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/e/chtenie-1761857111-939227.webp"
+  },
+  {
+    "id": "64832",
+    "name": "Рафталия",
+    "rank": "a",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/a/raftalija-1761899230-533868.webp"
+  },
+  {
+    "id": "64831",
+    "name": "Чиби",
+    "rank": "e",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/e/chibi-1761856809-557094.webp"
+  },
+  {
+    "id": "64830",
+    "name": "Озеро",
+    "rank": "e",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/e/ozero-1761856780-322586.webp"
+  },
+  {
+    "id": "64829",
+    "name": "Вуаль",
+    "rank": "e",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/e/vual-1761856506-281998.webp"
+  },
+  {
+    "id": "64828",
+    "name": "Крепкий сон",
+    "rank": "e",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/e/krepkij-son-1761856458-614901.webp"
+  },
+  {
+    "id": "64824",
+    "name": "Купальник",
+    "rank": "e",
+    "animeName": "Ну не может моя сестра быть такой милой, и всё тут! 2 сезон",
+    "animeLink": "/aniserials/video/garems/384-nu-ne-mozhet-moya-sestra-byt-takoy-miloy-i-vse-tut-2-sezon.html",
+    "image": "/uploads/cards_image/384/e/kupalnik-1761898960-800704.webp"
+  },
+  {
+    "id": "64822",
+    "name": "Зеркало",
+    "rank": "e",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/e/zerkalo-1761851439-266959.webp"
+  },
+  {
+    "id": "64820",
+    "name": "Цветок",
+    "rank": "e",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/e/cvetok-1761851176-657705.webp"
+  },
+  {
+    "id": "64818",
+    "name": "Сервайн",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/servajn-1761849961-731995.webp"
+  },
+  {
+    "id": "64817",
+    "name": "Зоруа",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/zorua-1761849948-456707.webp"
+  },
+  {
+    "id": "64816",
+    "name": "Клинк",
+    "rank": "d",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/d/klink-1761849937-585912.webp"
+  },
+  {
     "id": "64814",
     "name": "Рудра и Шива",
     "rank": "c",
