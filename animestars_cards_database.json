@@ -1,11 +1,139 @@
 [
   {
+    "id": "64902",
+    "name": "Райдэн Тамээмон",
+    "rank": "b",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/b/rajdjen-tamjejemon-1761919566-511919.webp"
+  },
+  {
+    "id": "64898",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Парадокс в прямом эфире",
+    "animeLink": "/aniserials/video/drama/2179-paradoks-v-prjamom-jefire.html",
+    "image": "/uploads/cards_image/2179/e/hjellouin-1761909160-900440.webp"
+  },
+  {
+    "id": "64896",
+    "name": "Очки",
+    "rank": "e",
+    "animeName": "Любимчик принцесс",
+    "animeLink": "/aniserials/video/garems/1033-ljubimchik-princess-animestars-2009.html",
+    "image": "/uploads/cards_image/1033/e/ochki-1761907838-393358.webp"
+  },
+  {
+    "id": "64895",
+    "name": "Грибочки",
+    "rank": "e",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/e/gribochki-1761907739-16735.webp"
+  },
+  {
+    "id": "64894",
+    "name": "Сион Сонодзаки",
+    "rank": "a",
+    "animeName": "Когда плачут цикады: Выпускной",
+    "animeLink": "/aniserials/video/detective/1117-kogda-plachut-cikady-2021.html",
+    "image": "/uploads/cards_image/1117/a/sion-sonodzaki-1761918819-338791.webp"
+  },
+  {
+    "id": "64893",
+    "name": "Садовник",
+    "rank": "e",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/e/sadovnik-1761907709-779806.webp"
+  },
+  {
+    "id": "64889",
+    "name": "Сатоко и Рика",
+    "rank": "c",
+    "animeName": "Когда плачут цикады: Выпускной",
+    "animeLink": "/aniserials/video/detective/1117-kogda-plachut-cikady-2021.html",
+    "image": "/uploads/cards_image/1117/c/satoko-i-rika-1761918514-679776.webp"
+  },
+  {
+    "id": "64886",
+    "name": "Котики",
+    "rank": "e",
+    "animeName": "Бездомный бог",
+    "animeLink": "/aniserials/video/action/105-bezdomnyy-bog-2014.html",
+    "image": "/uploads/cards_image/105/e/kotiki-1761918330-848510.webp"
+  },
+  {
+    "id": "64885",
+    "name": "Кэйити Маэбара",
+    "rank": "a",
+    "animeName": "Когда плачут цикады: Выпускной",
+    "animeLink": "/aniserials/video/detective/1117-kogda-plachut-cikady-2021.html",
+    "image": "/uploads/cards_image/1117/a/kjejiti-majebara-1761918265-577136.webp"
+  },
+  {
+    "id": "64884",
+    "name": "Рейвен12345",
+    "rank": "b",
+    "animeName": "Дневник мистических существ",
+    "animeLink": "/aniserials/video/vampires/531-dnevnik-misticheskih-suschestv.html",
+    "image": "/uploads/cards_image/531/b/rejven12345-1761904862-155042.webp"
+  },
+  {
+    "id": "64880",
+    "name": "Оковы",
+    "rank": "e",
+    "animeName": "Магистр дьявольского культа",
+    "animeLink": "/aniserials/video/martial_arts/343-magistr-dyavolskogo-kulta.html",
+    "image": "/uploads/cards_image/343/e/okovy-1761902309-491591.webp"
+  },
+  {
+    "id": "64878",
+    "name": "Кохаку, Сэнку и Суйка",
+    "rank": "c",
+    "animeName": "Доктор Стоун 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1068-doktor-stoun-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1068/c/kohaku-sjenku-i-sujka-1761917284-941583.webp"
+  },
+  {
+    "id": "64874",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Фена: Принцесса пиратов",
+    "animeLink": "/aniserials/video/action/1144-fena-princessa-piratov.html",
+    "image": "/uploads/cards_image/1144/e/hjellouin-1761900081-555696.webp"
+  },
+  {
     "id": "64873",
     "name": "Юи",
     "rank": "s",
     "animeName": "Мастера меча онлайн",
     "animeLink": "/aniserials/video/action/186-mastera-mecha-onlayn-1-sezon-animestars.html",
     "image": "/uploads/cards_image/186/s/jui-1761899347-186477.webp"
+  },
+  {
+    "id": "64872",
+    "name": "Литвик",
+    "rank": "d",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/d/litvik-1761899278-137922.webp"
+  },
+  {
+    "id": "64871",
+    "name": "Юри и Конрад",
+    "rank": "c",
+    "animeName": "Отныне Мао, король демонов! 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1010-otnyne-mao-korol-demonov-2-sezon.html",
+    "image": "/uploads/cards_image/1010/c/juri-i-konrad-1761916948-704849.webp"
+  },
+  {
+    "id": "64870",
+    "name": "Руфус Лор",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/rufus-lor-1761899232-601694.webp"
   },
   {
     "id": "64867",
@@ -16,12 +144,60 @@
     "image": "/uploads/cards_image/13/s/aoj-kunijeda-1761895021-906875.webp"
   },
   {
+    "id": "64864",
+    "name": "Молинь Ван",
+    "rank": "b",
+    "animeName": "Бессмертие",
+    "animeLink": "/aniserials/video/martial_arts/2136-bessmertie.html",
+    "image": "/uploads/cards_image/2136/b/molin-van-1761889851-122836.webp"
+  },
+  {
+    "id": "64860",
+    "name": "Пойдём со мной",
+    "rank": "c",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/c/pojdem-so-mnoj-1761916267-889358.webp"
+  },
+  {
+    "id": "64857",
+    "name": "Тест на храбрость",
+    "rank": "c",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/c/test-na-hrabrost-1761916147-668824.webp"
+  },
+  {
+    "id": "64856",
+    "name": "Цветок",
+    "rank": "e",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/e/cvetok-1761916070-838002.webp"
+  },
+  {
     "id": "64853",
     "name": "Грей Фуллбастер",
     "rank": "s",
     "animeName": "Сказка о Хвосте Феи",
     "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
     "image": "/uploads/cards_image/143/s/grej-fullbaster-1761886874-111954.webp"
+  },
+  {
+    "id": "64848",
+    "name": "Пляж",
+    "rank": "e",
+    "animeName": "Добро пожаловать в дешёвый ресторан изгнанника!",
+    "animeLink": "/aniserials/video/fant/2961-dobro-pozhalovat-v-deshevyj-restoran-izgnannika.html",
+    "image": "/uploads/cards_image/2961/e/pljazh-1761915652-952781.webp"
+  },
+  {
+    "id": "64846",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Кагуя: В любви как на войне - Первый поцелуй никогда не заканчивается",
+    "animeLink": "/aniserials/video/drama/1823-kaguja-v-ljubvi-kak-na-vojne-pervyj-poceluj-nikogda-ne-zakanchivaetsja.html",
+    "image": "/uploads/cards_image/1823/e/hjellouin-1761915597-709541.webp"
   },
   {
     "id": "64835",
