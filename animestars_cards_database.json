@@ -1,5 +1,93 @@
 [
   {
+    "id": "64814",
+    "name": "Рудра и Шива",
+    "rank": "c",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/c/rudra-i-shiva-1761866097-54908.webp"
+  },
+  {
+    "id": "64810",
+    "name": "Геройский костюм",
+    "rank": "e",
+    "animeName": "Лунное путешествие приведёт к новому миру 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2295-lunnoe-puteshestvie-privedet-k-novomu-miru-2-sezon-animestars-2024-as3.html",
+    "image": "/uploads/cards_image/2295/e/gerojskij-kostjum-1761865995-552104.webp"
+  },
+  {
+    "id": "64806",
+    "name": "Эмилия",
+    "rank": "a",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/a/jemilija-1761865931-942937.webp"
+  },
+  {
+    "id": "64804",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Быть героем Икс",
+    "animeLink": "/aniserials/video/action/2902-byt-geroem-iks.html",
+    "image": "/uploads/cards_image/2902/e/hjellouin-1761846080-629781.webp"
+  },
+  {
+    "id": "64803",
+    "name": "Звучи, эуфониум",
+    "rank": "e",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/e/zvuchi-jeufonium-1761865644-717237.webp"
+  },
+  {
+    "id": "64802",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Золотой двор: Зимние новогодние пожелания",
+    "animeLink": "/aniserials/video/comedy/1948-zolotoj-dvor-zimnie-novogodnie-pozhelanija.html",
+    "image": "/uploads/cards_image/1948/e/hjellouin-1761865584-963176.webp"
+  },
+  {
+    "id": "64801",
+    "name": "Снимаю",
+    "rank": "e",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/e/snimaju-1761865490-559361.webp"
+  },
+  {
+    "id": "64799",
+    "name": "Вперёд!",
+    "rank": "e",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/e/vpered-1761865410-469252.webp"
+  },
+  {
+    "id": "64798",
+    "name": "Отражение",
+    "rank": "e",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/e/otrazhenie-1761845354-567628.webp"
+  },
+  {
+    "id": "64795",
+    "name": "Рандгриз",
+    "rank": "d",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/d/randgriz-1761843330-575757.webp"
+  },
+  {
+    "id": "64786",
+    "name": "Распад",
+    "rank": "e",
+    "animeName": "Моя геройская академия",
+    "animeLink": "/aniserials/video/comedy/206-moya-geroyskaya-akademiya-2016-as.html",
+    "image": "/uploads/cards_image/206/e/raspad-1761865034-185962.webp"
+  },
+  {
     "id": "64785",
     "name": "Канна и Тору",
     "rank": "c",
