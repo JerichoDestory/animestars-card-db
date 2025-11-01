@@ -1,5 +1,93 @@
 [
   {
+    "id": "65087",
+    "name": "Линь Мо",
+    "rank": "b",
+    "animeName": "Бессмертие 3 сезон: Величественные горы и реки",
+    "animeLink": "/aniserials/video/action/2403-bessmertie-3-sezon-velichestvennye-gory-i-reki.html",
+    "image": "/uploads/cards_image/2403/b/lin-mo-1762035471-923136.webp"
+  },
+  {
+    "id": "65084",
+    "name": "Таити Кабасава",
+    "rank": "d",
+    "animeName": "Случайное такси",
+    "animeLink": "/aniserials/video/drama/2004-neobychnoe-taksi.html",
+    "image": "/uploads/cards_image/2004/d/taiti-kabasava-1762009254-74956.webp"
+  },
+  {
+    "id": "65082",
+    "name": "Добу",
+    "rank": "b",
+    "animeName": "Случайное такси",
+    "animeLink": "/aniserials/video/drama/2004-neobychnoe-taksi.html",
+    "image": "/uploads/cards_image/2004/b/dobu-1762009110-667930.webp"
+  },
+  {
+    "id": "65080",
+    "name": "Горничная",
+    "rank": "e",
+    "animeName": "Золотой двор: Зимние новогодние пожелания",
+    "animeLink": "/aniserials/video/comedy/1948-zolotoj-dvor-zimnie-novogodnie-pozhelanija.html",
+    "image": "/uploads/cards_image/1948/e/gornichnaja-1762024366-327214.webp"
+  },
+  {
+    "id": "65072",
+    "name": "Водка",
+    "rank": "b",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/b/vodka-1762003479-763337.webp"
+  },
+  {
+    "id": "65060",
+    "name": "Хеймдалль",
+    "rank": "d",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/d/hejmdall-1762021841-808071.webp"
+  },
+  {
+    "id": "65058",
+    "name": "Купание",
+    "rank": "e",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/e/kupanie-1762021704-519673.webp"
+  },
+  {
+    "id": "65057",
+    "name": "Шелмет",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/shelmet-1761998095-97378.webp"
+  },
+  {
+    "id": "65056",
+    "name": "Цвайлос",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/cvajlos-1761998083-107664.webp"
+  },
+  {
+    "id": "65055",
+    "name": "Фрэкшур",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/frjekshur-1761998069-650553.webp"
+  },
+  {
+    "id": "65054",
+    "name": "Мунна",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/munna-1761998056-296914.webp"
+  },
+  {
     "id": "65052",
     "name": "Цинвэй Фан",
     "rank": "b",
