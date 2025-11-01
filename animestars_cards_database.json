@@ -1,11 +1,139 @@
 [
   {
+    "id": "65017",
+    "name": "Чжи Гуй",
+    "rank": "s",
+    "animeName": "Меч грядущего",
+    "animeLink": "/aniserials/video/adventure/2561-mech-grjaduschego.html",
+    "image": "/uploads/cards_image/2561/s/chzhi-guj-1761979734-522306.webp"
+  },
+  {
+    "id": "65010",
+    "name": "Сердечко",
+    "rank": "e",
+    "animeName": "Повелитель тьмы на подработке! 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1455-povelitel-tmy-na-podrabotke-2-sezon.html",
+    "image": "/uploads/cards_image/1455/e/serdechko-1761996073-755528.webp"
+  },
+  {
+    "id": "65009",
+    "name": "Донован Десмонд",
+    "rank": "d",
+    "animeName": "Семья шпиона Часть 2",
+    "animeLink": "/aniserials/video/action/1530-semja-shpiona-chast-2-animestars.html",
+    "image": "/uploads/cards_image/1530/d/donovan-desmond-1761996021-97161.webp"
+  },
+  {
+    "id": "65008",
+    "name": "Дэмиан Десмонд",
+    "rank": "d",
+    "animeName": "Семья шпиона Часть 2",
+    "animeLink": "/aniserials/video/action/1530-semja-shpiona-chast-2-animestars.html",
+    "image": "/uploads/cards_image/1530/d/djemian-desmond-1761976810-160251.webp"
+  },
+  {
+    "id": "65005",
+    "name": "Бонд Форджер",
+    "rank": "e",
+    "animeName": "Семья шпиона 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2196-semja-shpiona-2-sezon-animestars-v3.html",
+    "image": "/uploads/cards_image/2196/e/bond-fordzher-1761995749-739207.webp"
+  },
+  {
+    "id": "64999",
+    "name": "Фан Цинсюэ",
+    "rank": "a",
+    "animeName": "Бессмертие 2 сезон: Десятилетнее соглашение",
+    "animeLink": "/aniserials/video/martial_arts/2137-bessmertie-2-sezon-desjatiletnee-soglashenie.html",
+    "image": "/uploads/cards_image/2137/a/fan-cinsjuje-1761995533-813764.webp"
+  },
+  {
+    "id": "64996",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Когда плачут чайки",
+    "animeLink": "/aniserials/video/detective/598-kogda-plachut-chayki.html",
+    "image": "/uploads/cards_image/598/e/hjellouin-1761960071-853287.webp"
+  },
+  {
     "id": "64993",
     "name": "Ханю",
     "rank": "s",
     "animeName": "Когда плачут цикады 2 сезон",
     "animeLink": "/aniserials/video/detective/956-kogda-plachut-cikady-2-sezon.html",
     "image": "/uploads/cards_image/956/s/hanju-1761950364-639085.webp"
+  },
+  {
+    "id": "64991",
+    "name": "Банька",
+    "rank": "c",
+    "animeName": "Случайное такси",
+    "animeLink": "/aniserials/video/drama/2004-neobychnoe-taksi.html",
+    "image": "/uploads/cards_image/2004/c/banka-1761949587-761979.webp"
+  },
+  {
+    "id": "64990",
+    "name": "Угощайся",
+    "rank": "e",
+    "animeName": "Случайное такси",
+    "animeLink": "/aniserials/video/drama/2004-neobychnoe-taksi.html",
+    "image": "/uploads/cards_image/2004/e/ugoschajsja-1761949563-847110.webp"
+  },
+  {
+    "id": "64989",
+    "name": "Харухито Яно",
+    "rank": "b",
+    "animeName": "Случайное такси",
+    "animeLink": "/aniserials/video/drama/2004-neobychnoe-taksi.html",
+    "image": "/uploads/cards_image/2004/b/haruhito-jano-1761949542-520077.webp"
+  },
+  {
+    "id": "64988",
+    "name": "Маскарад",
+    "rank": "c",
+    "animeName": "Случайное такси",
+    "animeLink": "/aniserials/video/drama/2004-neobychnoe-taksi.html",
+    "image": "/uploads/cards_image/2004/c/maskarad-1761995174-378876.webp"
+  },
+  {
+    "id": "64987",
+    "name": "Михо Сиракава",
+    "rank": "b",
+    "animeName": "Случайное такси",
+    "animeLink": "/aniserials/video/drama/2004-neobychnoe-taksi.html",
+    "image": "/uploads/cards_image/2004/b/miho-sirakava-1761949832-623523.webp"
+  },
+  {
+    "id": "64985",
+    "name": "Хэллоуин",
+    "rank": "e",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/e/hjellouin-1761948560-726655.webp"
+  },
+  {
+    "id": "64984",
+    "name": "Труд",
+    "rank": "d",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/d/trud-1761994987-191438.webp"
+  },
+  {
+    "id": "64983",
+    "name": "Фестиваль",
+    "rank": "c",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/c/festival-1761994906-252951.webp"
+  },
+  {
+    "id": "64982",
+    "name": "Геракл",
+    "rank": "b",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/b/gerakl-1761994799-633892.webp"
   },
   {
     "id": "64971",
