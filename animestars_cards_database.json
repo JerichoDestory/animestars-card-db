@@ -1,11 +1,131 @@
 [
   {
+    "id": "65052",
+    "name": "Цинвэй Фан",
+    "rank": "b",
+    "animeName": "Бессмертие 2 сезон: Десятилетнее соглашение",
+    "animeLink": "/aniserials/video/martial_arts/2137-bessmertie-2-sezon-desjatiletnee-soglashenie.html",
+    "image": "/uploads/cards_image/2137/b/cinvjej-fan-1762020731-615211.webp"
+  },
+  {
+    "id": "65049",
+    "name": "Хидэко Камиджо",
+    "rank": "d",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/d/hidjeko-kamidzho-1761996627-221210.webp"
+  },
+  {
+    "id": "65046",
+    "name": "Гэничиро Канэширо",
+    "rank": "d",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/d/gjenichiro-kanjeshiro-1762019622-977704.webp"
+  },
+  {
+    "id": "65045",
+    "name": "Акэми Мияно",
+    "rank": "d",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/d/akjemi-mijano-1761996131-886358.webp"
+  },
+  {
+    "id": "65044",
+    "name": "Аяко Сузуки",
+    "rank": "d",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/d/ajako-suzuki-1761996109-151448.webp"
+  },
+  {
+    "id": "65039",
+    "name": "Будл и Шушу",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/budl-i-shushu-1761992678-235147.webp"
+  },
+  {
+    "id": "65036",
+    "name": "Майкл",
+    "rank": "d",
+    "animeName": "Нулевой Эдем",
+    "animeLink": "/aniserials/video/comedy/1078-nulevoj-jedem.html",
+    "image": "/uploads/cards_image/1078/d/majkl-1761986189-378246.webp"
+  },
+  {
+    "id": "65035",
+    "name": "E.M. Пино",
+    "rank": "a",
+    "animeName": "Нулевой Эдем",
+    "animeLink": "/aniserials/video/comedy/1078-nulevoj-jedem.html",
+    "image": "/uploads/cards_image/1078/a/e.m.-pino-1762018917-302137.webp"
+  },
+  {
+    "id": "65032",
+    "name": "Юлий и Скарлет",
+    "rank": "c",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/c/julij-i-skarlet-1761984892-141860.webp"
+  },
+  {
+    "id": "65027",
+    "name": "Утро",
+    "rank": "e",
+    "animeName": "Девушка на час 3 сезон",
+    "animeLink": "/aniserials/video/garems/2108-devushka-na-chas-3-sezon.html",
+    "image": "/uploads/cards_image/2108/e/utro-1762018656-862441.webp"
+  },
+  {
+    "id": "65026",
+    "name": "Кукловод",
+    "rank": "e",
+    "animeName": "Бессмертие 3 сезон: Величественные горы и реки",
+    "animeLink": "/aniserials/video/action/2403-bessmertie-3-sezon-velichestvennye-gory-i-reki.html",
+    "image": "/uploads/cards_image/2403/e/kuklovod-1762018607-431454.webp"
+  },
+  {
+    "id": "65023",
+    "name": "Пик небесного сияния",
+    "rank": "e",
+    "animeName": "Бессмертие 3 сезон: Величественные горы и реки",
+    "animeLink": "/aniserials/video/action/2403-bessmertie-3-sezon-velichestvennye-gory-i-reki.html",
+    "image": "/uploads/cards_image/2403/e/pik-nebesnogo-sijanija-1762009409-783889.webp"
+  },
+  {
+    "id": "65022",
+    "name": "Полёт",
+    "rank": "e",
+    "animeName": "Бессмертие 3 сезон: Величественные горы и реки",
+    "animeLink": "/aniserials/video/action/2403-bessmertie-3-sezon-velichestvennye-gory-i-reki.html",
+    "image": "/uploads/cards_image/2403/e/polet-1762009362-968599.webp"
+  },
+  {
+    "id": "65018",
+    "name": "Наньтянь Е",
+    "rank": "d",
+    "animeName": "Бессмертие 3 сезон: Величественные горы и реки",
+    "animeLink": "/aniserials/video/action/2403-bessmertie-3-sezon-velichestvennye-gory-i-reki.html",
+    "image": "/uploads/cards_image/2403/d/nantjan-e-1762009248-218746.webp"
+  },
+  {
     "id": "65017",
     "name": "Чжи Гуй",
     "rank": "s",
     "animeName": "Меч грядущего",
     "animeLink": "/aniserials/video/adventure/2561-mech-grjaduschego.html",
     "image": "/uploads/cards_image/2561/s/chzhi-guj-1761979734-522306.webp"
+  },
+  {
+    "id": "65013",
+    "name": "Сердечко",
+    "rank": "e",
+    "animeName": "Красный, белый, чёрный, жёлтый: Ледяная империя",
+    "animeLink": "/aniserials/video/postapocalypse/1444-rwby-ledjanaja-imperija.html",
+    "image": "/uploads/cards_image/1444/e/serdechko-1762009061-736998.webp"
   },
   {
     "id": "65010",
