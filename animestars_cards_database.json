@@ -1,5 +1,61 @@
 [
   {
+    "id": "65113",
+    "name": "Ямато Эндо",
+    "rank": "s",
+    "animeName": "Ветролом 2 сезон",
+    "animeLink": "/aniserials/video/action/2888-vetrolom-2.html",
+    "image": "/uploads/cards_image/2888/s/jamato-jendo-1762026971-976017.webp"
+  },
+  {
+    "id": "65108",
+    "name": "Тономи Сакагучи",
+    "rank": "d",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/d/tonomi-sakaguchi-1762036616-849365.webp"
+  },
+  {
+    "id": "65106",
+    "name": "Кастет",
+    "rank": "e",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/e/kastet-1762024584-611860.webp"
+  },
+  {
+    "id": "65102",
+    "name": "Джура Некис",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/b/dzhura-nekis-1762021673-288104.webp"
+  },
+  {
+    "id": "65097",
+    "name": "Флёр Корона",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/fler-korona-1762021296-958649.webp"
+  },
+  {
+    "id": "65091",
+    "name": "Фэйюй Хань",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/fjejjuj-han-1762019676-458700.webp"
+  },
+  {
+    "id": "65090",
+    "name": "Хань Ли",
+    "rank": "a",
+    "animeName": "Вечное царство богов",
+    "animeLink": "/aniserials/video/action/2588-vechnoe-carstvo-bogov.html",
+    "image": "/uploads/cards_image/2588/a/han-li-1762016508-973268.webp"
+  },
+  {
     "id": "65087",
     "name": "Линь Мо",
     "rank": "b",
