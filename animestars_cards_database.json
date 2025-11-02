@@ -1,5 +1,109 @@
 [
   {
+    "id": "65164",
+    "name": "Саки Никайдо",
+    "rank": "s",
+    "animeName": "Зомбиленд. Сага",
+    "animeLink": "/aniserials/video/comedy/361-zombilend-saga.html",
+    "image": "/uploads/cards_image/361/s/saki-nikajdo-1762089351-771450.webp"
+  },
+  {
+    "id": "65159",
+    "name": "Аяно Татэяма",
+    "rank": "s",
+    "animeName": "Актёры ослеплённого города",
+    "animeLink": "/aniserials/video/drama/458-aktery-goroda-mekaku.html",
+    "image": "/uploads/cards_image/458/s/ajano-tatjejama-1762087717-325663.webp"
+  },
+  {
+    "id": "65151",
+    "name": "Йона и Хак",
+    "rank": "c",
+    "animeName": "Йона на заре OVA",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2127-jona-na-zare-ova.html",
+    "image": "/uploads/cards_image/2127/c/jona-i-hak-1762081273-672269.webp"
+  },
+  {
+    "id": "65148",
+    "name": "Юлий фон Паллистан",
+    "rank": "a",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/a/julij-fon-pallistan-1762091893-273386.webp"
+  },
+  {
+    "id": "65145",
+    "name": "Подношения",
+    "rank": "e",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/e/podnoshenija-1762091619-868294.webp"
+  },
+  {
+    "id": "65144",
+    "name": "Семейный отдых",
+    "rank": "c",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/c/semejnyj-otdyh-1762091566-96886.webp"
+  },
+  {
+    "id": "65143",
+    "name": "Недовольство",
+    "rank": "e",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/e/nedovolstvo-1762091516-966987.webp"
+  },
+  {
+    "id": "65140",
+    "name": "Касивада",
+    "rank": "a",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/a/kasivada-1762091430-61556.webp"
+  },
+  {
+    "id": "65137",
+    "name": "Тадокоро",
+    "rank": "b",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/b/tadokoro-1762091344-82228.webp"
+  },
+  {
+    "id": "65132",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Это путешествие",
+    "animeLink": "/aniserials/video/seinen/2915-jeto-puteshestvie.html",
+    "image": "/uploads/cards_image/2915/e/pojdem-so-mnoj-1762047145-895632.webp"
+  },
+  {
+    "id": "65129",
+    "name": "Арзак Коннелл",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/arzak-konnell-1762036350-302480.webp"
+  },
+  {
+    "id": "65120",
+    "name": "Руда Рунбек",
+    "rank": "d",
+    "animeName": "Плачущий призрак на пенсии. Часть 2",
+    "animeLink": "/aniserials/video/action/3108-plachuschij-prizrak-na-pensii-chast-2-deep.html",
+    "image": "/uploads/cards_image/3108/d/ruda-runbek-1762090874-622266.webp"
+  },
+  {
+    "id": "65115",
+    "name": "Акихито Миёси",
+    "rank": "d",
+    "animeName": "Ветролом 2 сезон",
+    "animeLink": "/aniserials/video/action/2888-vetrolom-2.html",
+    "image": "/uploads/cards_image/2888/d/akihito-miesi-1762027315-592022.webp"
+  },
+  {
     "id": "65113",
     "name": "Ямато Эндо",
     "rank": "s",
