@@ -1,5 +1,61 @@
 [
   {
+    "id": "65308",
+    "name": "Сэмюэль",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/sjemjujel-1762170459-721209.webp"
+  },
+  {
+    "id": "65307",
+    "name": "Цинвэй Фан и Ши Сяо",
+    "rank": "c",
+    "animeName": "Бессмертие 2 сезон: Десятилетнее соглашение",
+    "animeLink": "/aniserials/video/martial_arts/2137-bessmertie-2-sezon-desjatiletnee-soglashenie.html",
+    "image": "/uploads/cards_image/2137/c/cinvjej-fan-i-shi-sjao-1762170357-302746.webp"
+  },
+  {
+    "id": "65305",
+    "name": "Ярость",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jarost-1762154523-399898.webp"
+  },
+  {
+    "id": "65304",
+    "name": "Янь",
+    "rank": "b",
+    "animeName": "Бессмертие 2 сезон: Десятилетнее соглашение",
+    "animeLink": "/aniserials/video/martial_arts/2137-bessmertie-2-sezon-desjatiletnee-soglashenie.html",
+    "image": "/uploads/cards_image/2137/b/jan-1762169957-690217.webp"
+  },
+  {
+    "id": "65299",
+    "name": "Команда",
+    "rank": "c",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/c/komanda-1762152892-951322.webp"
+  },
+  {
+    "id": "65291",
+    "name": "Сад могил",
+    "rank": "e",
+    "animeName": "Гробница богов",
+    "animeLink": "/aniserials/video/action/1469-grobnica-bogov.html",
+    "image": "/uploads/cards_image/1469/e/sad-mogil-1762149984-693862.webp"
+  },
+  {
+    "id": "65288",
+    "name": "Шарлотта",
+    "rank": "d",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/d/sharlotta-1762149329-326658.webp"
+  },
+  {
     "id": "65286",
     "name": "Аллен Уолкер",
     "rank": "s",
@@ -24,6 +80,14 @@
     "image": "/uploads/cards_image/1976/s/takashi-nacumje-1762146880-513930.webp"
   },
   {
+    "id": "65279",
+    "name": "Артур",
+    "rank": "a",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/a/artur-1762142322-684345.webp"
+  },
+  {
     "id": "65276",
     "name": "Тереза Вагнер",
     "rank": "s",
@@ -38,6 +102,14 @@
     "animeName": "91 день",
     "animeLink": "/aniserials/video/action/580-91-den.html",
     "image": "/uploads/cards_image/580/s/avilio-bruno-1762134637-66130.webp"
+  },
+  {
+    "id": "65269",
+    "name": "Будущий Роуг",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/buduschij-roug-1762125563-96147.webp"
   },
   {
     "id": "65265",
