@@ -1,5 +1,93 @@
 [
   {
+    "id": "65400",
+    "name": "Юнь Ю",
+    "rank": "b",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/b/jun-ju-1762207017-67827.webp"
+  },
+  {
+    "id": "65398",
+    "name": "Хуан Хэй",
+    "rank": "b",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/b/huan-hjej-1762201810-487143.webp"
+  },
+  {
+    "id": "65394",
+    "name": "Фэн Гу",
+    "rank": "a",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/a/fjen-gu-1762200512-469619.webp"
+  },
+  {
+    "id": "65393",
+    "name": "Маки Сидзё",
+    "rank": "d",
+    "animeName": "Кагуя: В любви как на войне 3 сезон",
+    "animeLink": "/aniserials/video/comedy/1380-kaguja-v-ljubvi-kak-na-vojne-3-sezon.html",
+    "image": "/uploads/cards_image/1380/d/maki-sidze-1762206441-498185.webp"
+  },
+  {
+    "id": "65392",
+    "name": "Армрестлинг",
+    "rank": "e",
+    "animeName": "Кагуя: В любви как на войне 3 сезон",
+    "animeLink": "/aniserials/video/comedy/1380-kaguja-v-ljubvi-kak-na-vojne-3-sezon.html",
+    "image": "/uploads/cards_image/1380/e/armrestling-1762206339-618585.webp"
+  },
+  {
+    "id": "65389",
+    "name": "Фэн Чэнь",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/fjen-chjen-1762199346-57278.webp"
+  },
+  {
+    "id": "65386",
+    "name": "Юньлинь Цзи",
+    "rank": "d",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/d/junlin-czi-1762194372-493271.webp"
+  },
+  {
+    "id": "65385",
+    "name": "Проклятый глаз",
+    "rank": "e",
+    "animeName": "Грэй-мен 2 сезон",
+    "animeLink": "/aniserials/video/action/989-grjej-men-2-sezon.html",
+    "image": "/uploads/cards_image/989/e/prokljatyj-glaz-1762197717-280761.webp"
+  },
+  {
+    "id": "65384",
+    "name": "Пошёл к чёрту!!",
+    "rank": "e",
+    "animeName": "Кагуя: В любви как на войне 2 сезон",
+    "animeLink": "/aniserials/video/comedy/744-kaguja-v-ljubvi-kak-na-vojne-2-sezon.html",
+    "image": "/uploads/cards_image/744/e/poshel-k-chertu-1762205872-499663.webp"
+  },
+  {
+    "id": "65379",
+    "name": "Выпьем?",
+    "rank": "e",
+    "animeName": "Грэй-мен 2 сезон",
+    "animeLink": "/aniserials/video/action/989-grjej-men-2-sezon.html",
+    "image": "/uploads/cards_image/989/e/vypem-1762196833-808143.webp"
+  },
+  {
+    "id": "65376",
+    "name": "Люси Хартфилия",
+    "rank": "s",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/s/ljusi-hartfilija-1762193493-526596.webp"
+  },
+  {
     "id": "65372",
     "name": "Юйсю Лин",
     "rank": "s",
@@ -16,12 +104,92 @@
     "image": "/uploads/cards_image/1141/s/nin-vjen-1762191372-607047.webp"
   },
   {
+    "id": "65366",
+    "name": "Банабостер",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/banaboster-1762189899-490340.webp"
+  },
+  {
+    "id": "65362",
+    "name": "Ева Ренфид",
+    "rank": "b",
+    "animeName": "Плачущий призрак на пенсии. Часть 2",
+    "animeLink": "/aniserials/video/action/3108-plachuschij-prizrak-na-pensii-chast-2-deep.html",
+    "image": "/uploads/cards_image/3108/b/eva-renfid-1762205125-517813.webp"
+  },
+  {
+    "id": "65361",
+    "name": "Край Эндри",
+    "rank": "a",
+    "animeName": "Плачущий призрак на пенсии. Часть 2",
+    "animeLink": "/aniserials/video/action/3108-plachuschij-prizrak-na-pensii-chast-2-deep.html",
+    "image": "/uploads/cards_image/3108/a/kraj-jendri-1762204989-671049.webp"
+  },
+  {
+    "id": "65355",
+    "name": "Кайл фон Паллистан",
+    "rank": "b",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/b/kajl-fon-pallistan-1762204671-489871.webp"
+  },
+  {
+    "id": "65354",
+    "name": "Леонардо эль Вандимион",
+    "rank": "d",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/d/leonardo-jel-vandimion-1762204607-755170.webp"
+  },
+  {
     "id": "65352",
     "name": "Миюки Сироганэ",
     "rank": "s",
     "animeName": "Кагуя: В любви как на войне",
     "animeLink": "/aniserials/video/comedy/399-kaguya-v-lyubvi-kak-na-voyne-2019.html",
     "image": "/uploads/cards_image/399/s/mijuki-siroganje-1762184700-822596.webp"
+  },
+  {
+    "id": "65351",
+    "name": "Тамако",
+    "rank": "d",
+    "animeName": "Клест / Иска",
+    "animeLink": "/aniserials/video/garems/58-klest-iska.html",
+    "image": "/uploads/cards_image/58/d/tamako-1762182933-277773.webp"
+  },
+  {
+    "id": "65341",
+    "name": "Мэгуру Батира",
+    "rank": "a",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/a/mjeguru-batira-1762176547-377932.webp"
+  },
+  {
+    "id": "65339",
+    "name": "Ёити Исаги",
+    "rank": "a",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/a/eiti-isagi-1762175007-772826.webp"
+  },
+  {
+    "id": "65336",
+    "name": "Фотография",
+    "rank": "e",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/e/fotografija-1762171801-41859.webp"
+  },
+  {
+    "id": "65335",
+    "name": "Кэй Канамэ",
+    "rank": "a",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/a/kjej-kanamje-1762171414-720824.webp"
   },
   {
     "id": "65334",
@@ -38,6 +206,14 @@
     "animeName": "Прославленный",
     "animeLink": "/aniserials/video/action/761-proslavlennyj-1-sezon.html",
     "image": "/uploads/cards_image/761/s/jeruruu-1762167752-5121.webp"
+  },
+  {
+    "id": "65325",
+    "name": "Моя мечта",
+    "rank": "e",
+    "animeName": "Грэй-мен 2 сезон",
+    "animeLink": "/aniserials/video/action/989-grjej-men-2-sezon.html",
+    "image": "/uploads/cards_image/989/e/moja-mechta-1762203226-234834.webp"
   },
   {
     "id": "65323",
