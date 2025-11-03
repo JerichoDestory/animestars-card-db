@@ -1,5 +1,45 @@
 [
   {
+    "id": "65286",
+    "name": "Аллен Уолкер",
+    "rank": "s",
+    "animeName": "Грэй-мен 2 сезон",
+    "animeLink": "/aniserials/video/action/989-grjej-men-2-sezon.html",
+    "image": "/uploads/cards_image/989/s/allen-uolker-1762147586-885009.webp"
+  },
+  {
+    "id": "65285",
+    "name": "Рэйна Ахарэн",
+    "rank": "s",
+    "animeName": "Непостижимая Ахарэн",
+    "animeLink": "/aniserials/video/comedy/1366-nepostizhimaja-aharjen.html",
+    "image": "/uploads/cards_image/1366/s/rjejna-aharjen-1762147221-271502.webp"
+  },
+  {
+    "id": "65280",
+    "name": "Такаши Нацумэ",
+    "rank": "s",
+    "animeName": "Тетрадь дружбы Нацумэ 5 сезон",
+    "animeLink": "/aniserials/video/drama/1976-tetrad-druzhby-nacumje-5-sezon.html",
+    "image": "/uploads/cards_image/1976/s/takashi-nacumje-1762146880-513930.webp"
+  },
+  {
+    "id": "65276",
+    "name": "Тереза Вагнер",
+    "rank": "s",
+    "animeName": "Тада не может влюбиться",
+    "animeLink": "/aniserials/video/comedy/282-tada-ne-mozhet-vlyubitsya.html",
+    "image": "/uploads/cards_image/282/s/tereza-vagner-1762137984-593374.webp"
+  },
+  {
+    "id": "65274",
+    "name": "Авилио Бруно",
+    "rank": "s",
+    "animeName": "91 день",
+    "animeLink": "/aniserials/video/action/580-91-den.html",
+    "image": "/uploads/cards_image/580/s/avilio-bruno-1762134637-66130.webp"
+  },
+  {
     "id": "65265",
     "name": "Тэруо Тэндо",
     "rank": "d",
