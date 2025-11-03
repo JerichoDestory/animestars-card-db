@@ -1,11 +1,363 @@
 [
   {
+    "id": "65265",
+    "name": "Тэруо Тэндо",
+    "rank": "d",
+    "animeName": "Предсмертный список зомби",
+    "animeLink": "/aniserials/video/comedy/2117-predsmertnyj-spisok-zombi-animestars-vvv1.html",
+    "image": "/uploads/cards_image/2117/d/tjeruo-tjendo-1762117525-86046.webp"
+  },
+  {
+    "id": "65264",
+    "name": "Яоян Шань",
+    "rank": "d",
+    "animeName": "Вечное царство богов",
+    "animeLink": "/aniserials/video/action/2588-vechnoe-carstvo-bogov.html",
+    "image": "/uploads/cards_image/2588/d/jaojan-shan-1762117171-648087.webp"
+  },
+  {
+    "id": "65262",
+    "name": "Костюм супергероя",
+    "rank": "e",
+    "animeName": "Предсмертный список зомби",
+    "animeLink": "/aniserials/video/comedy/2117-predsmertnyj-spisok-zombi-animestars-vvv1.html",
+    "image": "/uploads/cards_image/2117/e/kostjum-supergeroja-1762125403-72879.webp"
+  },
+  {
+    "id": "65260",
+    "name": "Йога",
+    "rank": "e",
+    "animeName": "Предсмертный список зомби",
+    "animeLink": "/aniserials/video/comedy/2117-predsmertnyj-spisok-zombi-animestars-vvv1.html",
+    "image": "/uploads/cards_image/2117/e/joga-1762115518-914018.webp"
+  },
+  {
+    "id": "65258",
+    "name": "Дом на дереве",
+    "rank": "e",
+    "animeName": "Предсмертный список зомби",
+    "animeLink": "/aniserials/video/comedy/2117-predsmertnyj-spisok-zombi-animestars-vvv1.html",
+    "image": "/uploads/cards_image/2117/e/dom-na-dereve-1762114953-186268.webp"
+  },
+  {
+    "id": "65256",
+    "name": "Аой Тодо",
+    "rank": "a",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/a/aoj-todo-1762113818-659135.webp"
+  },
+  {
+    "id": "65255",
+    "name": "Заколка",
+    "rank": "e",
+    "animeName": "Гробница богов",
+    "animeLink": "/aniserials/video/action/1469-grobnica-bogov.html",
+    "image": "/uploads/cards_image/1469/e/zakolka-1762113562-345018.webp"
+  },
+  {
+    "id": "65254",
+    "name": "Сидзука и Акира",
+    "rank": "c",
+    "animeName": "Предсмертный список зомби",
+    "animeLink": "/aniserials/video/comedy/2117-predsmertnyj-spisok-zombi-animestars-vvv1.html",
+    "image": "/uploads/cards_image/2117/c/sidzuka-i-akira-1762113373-843515.webp"
+  },
+  {
+    "id": "65252",
+    "name": "Кэн и Тока",
+    "rank": "c",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/c/kjen-i-toka-1762112654-610942.webp"
+  },
+  {
+    "id": "65249",
+    "name": "Рыбалка",
+    "rank": "e",
+    "animeName": "Предсмертный список зомби",
+    "animeLink": "/aniserials/video/comedy/2117-predsmertnyj-spisok-zombi-animestars-vvv1.html",
+    "image": "/uploads/cards_image/2117/e/rybalka-1762111624-925339.webp"
+  },
+  {
+    "id": "65247",
+    "name": "Зеро",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/b/zero-1762111366-27034.webp"
+  },
+  {
+    "id": "65245",
+    "name": "Масару Кумано",
+    "rank": "d",
+    "animeName": "Предсмертный список зомби",
+    "animeLink": "/aniserials/video/comedy/2117-predsmertnyj-spisok-zombi-animestars-vvv1.html",
+    "image": "/uploads/cards_image/2117/d/masaru-kumano-1762110894-114219.webp"
+  },
+  {
+    "id": "65236",
+    "name": "Хибики Лейтис",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/hibiki-lejtis-1762109067-486722.webp"
+  },
+  {
+    "id": "65235",
+    "name": "Ул",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/ul-1762109023-524960.webp"
+  },
+  {
+    "id": "65233",
+    "name": "Нэнэ Мотоэ",
+    "rank": "d",
+    "animeName": "Кровь-С",
+    "animeLink": "/aniserials/video/vampires/82-krov-s.html",
+    "image": "/uploads/cards_image/82/d/njenje-motoje-1762108935-346718.webp"
+  },
+  {
+    "id": "65232",
+    "name": "Ноно Мотоэ",
+    "rank": "d",
+    "animeName": "Кровь-С",
+    "animeLink": "/aniserials/video/vampires/82-krov-s.html",
+    "image": "/uploads/cards_image/82/d/nono-motoje-1762108908-832729.webp"
+  },
+  {
+    "id": "65231",
+    "name": "Эмблема Красного Ящера",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/e/jemblema-krasnogo-jaschera-1762123328-269518.webp"
+  },
+  {
+    "id": "65230",
+    "name": "Сэйсиро Наги",
+    "rank": "a",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/a/sjejsiro-nagi-1762108875-189134.webp"
+  },
+  {
+    "id": "65228",
+    "name": "Рин Итоси",
+    "rank": "a",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/a/rin-itosi-1762108307-720335.webp"
+  },
+  {
+    "id": "65224",
+    "name": "Макияж",
+    "rank": "e",
+    "animeName": "Необъятный океан 2",
+    "animeLink": "/aniserials/video/seinen/2987-neobjatnyj-okean-2.html",
+    "image": "/uploads/cards_image/2987/e/makijazh-1762106042-196341.webp"
+  },
+  {
+    "id": "65223",
+    "name": "Шизуку Ханаока",
+    "rank": "s",
+    "animeName": "Добро пожаловать на паркет",
+    "animeLink": "/aniserials/video/drama/195-dobro-pozhalovat-na-parket.html",
+    "image": "/uploads/cards_image/195/s/shizuku-hanaoka-1762105722-895747.webp"
+  },
+  {
+    "id": "65221",
+    "name": "Ицуки Томофуса",
+    "rank": "d",
+    "animeName": "Кровь-С",
+    "animeLink": "/aniserials/video/vampires/82-krov-s.html",
+    "image": "/uploads/cards_image/82/d/icuki-tomofusa-1762104727-870826.webp"
+  },
+  {
+    "id": "65220",
+    "name": "Робин и Брук",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/robin-i-bruk-1762104547-595624.webp"
+  },
+  {
+    "id": "65219",
+    "name": "Маска",
+    "rank": "e",
+    "animeName": "Вечное царство богов",
+    "animeLink": "/aniserials/video/action/2588-vechnoe-carstvo-bogov.html",
+    "image": "/uploads/cards_image/2588/e/maska-1762104534-574854.webp"
+  },
+  {
+    "id": "65218",
+    "name": "Сумирэ Кагэиси",
+    "rank": "b",
+    "animeName": "Младшая сестра моего друга досаждает",
+    "animeLink": "/aniserials/video/comedy/3107-mladshaja-sestra-moego-druga-dosazhdaet.html",
+    "image": "/uploads/cards_image/3107/b/sumirje-kagjeisi-1762110531-921126.webp"
+  },
+  {
+    "id": "65212",
+    "name": "Альма",
+    "rank": "a",
+    "animeName": "Альма хочет стать семьёй",
+    "animeLink": "/aniserials/video/comedy/3124-alma-hochet-stat-semej.html",
+    "image": "/uploads/cards_image/3124/a/alma-1762102460-88228.webp"
+  },
+  {
+    "id": "65211",
+    "name": "Судзумэ Ёбанэ",
+    "rank": "a",
+    "animeName": "Альма хочет стать семьёй",
+    "animeLink": "/aniserials/video/comedy/3124-alma-hochet-stat-semej.html",
+    "image": "/uploads/cards_image/3124/a/sudzumje-ebanje-1762102380-982488.webp"
+  },
+  {
+    "id": "65206",
+    "name": "Маска",
+    "rank": "e",
+    "animeName": "Бессмертие 3 сезон: Величественные горы и реки",
+    "animeLink": "/aniserials/video/action/2403-bessmertie-3-sezon-velichestvennye-gory-i-reki.html",
+    "image": "/uploads/cards_image/2403/e/maska-1762110027-416571.webp"
+  },
+  {
+    "id": "65198",
+    "name": "Цун Эр",
+    "rank": "d",
+    "animeName": "Бессмертие 3 сезон: Величественные горы и реки",
+    "animeLink": "/aniserials/video/action/2403-bessmertie-3-sezon-velichestvennye-gory-i-reki.html",
+    "image": "/uploads/cards_image/2403/d/cun-jer-1762109720-710148.webp"
+  },
+  {
+    "id": "65197",
+    "name": "Мин Му",
+    "rank": "d",
+    "animeName": "Бессмертие 3 сезон: Величественные горы и реки",
+    "animeLink": "/aniserials/video/action/2403-bessmertie-3-sezon-velichestvennye-gory-i-reki.html",
+    "image": "/uploads/cards_image/2403/d/min-mu-1762109640-543611.webp"
+  },
+  {
+    "id": "65195",
+    "name": "Тока и Кэн",
+    "rank": "c",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/c/toka-i-kjen-1762109390-102617.webp"
+  },
+  {
+    "id": "65192",
+    "name": "Асирпа",
+    "rank": "s",
+    "animeName": "Золотое божество",
+    "animeLink": "/aniserials/video/action/267-zolotoe-bozhestvo.html",
+    "image": "/uploads/cards_image/267/s/asirpa-1762098833-781083.webp"
+  },
+  {
+    "id": "65188",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Пламенная бригада пожарных 3 сезон: Третья глава",
+    "animeLink": "/aniserials/video/shounen/3009-plamennaja-brigada-pozharnyh-tretja-glava.html",
+    "image": "/uploads/cards_image/3009/e/kuda-smotrish-1762109189-862972.webp"
+  },
+  {
+    "id": "65186",
+    "name": "Дракон",
+    "rank": "a",
+    "animeName": "Маги: Приключения Синдбада",
+    "animeLink": "/aniserials/video/adventure/497-magi-priklyucheniya-sindbada.html",
+    "image": "/uploads/cards_image/497/a/drakon-1762096762-107073.webp"
+  },
+  {
+    "id": "65185",
+    "name": "Один",
+    "rank": "d",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/d/odin-1762109019-188524.webp"
+  },
+  {
+    "id": "65183",
+    "name": "Сердечко",
+    "rank": "e",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/e/serdechko-1762096147-735638.webp"
+  },
+  {
+    "id": "65182",
+    "name": "Адамас",
+    "rank": "d",
+    "animeName": "Повесть о конце света",
+    "animeLink": "/aniserials/video/action/1146-povest-o-konce-sveta.html",
+    "image": "/uploads/cards_image/1146/d/adamas-1762096041-948251.webp"
+  },
+  {
+    "id": "65179",
+    "name": "Шерри Бленди",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/sherri-blendi-1762095034-824783.webp"
+  },
+  {
+    "id": "65178",
+    "name": "Бикслоу",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/bikslou-1762094992-140343.webp"
+  },
+  {
+    "id": "65168",
+    "name": "Кинана",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/kinana-1762091416-684924.webp"
+  },
+  {
+    "id": "65167",
+    "name": "Золдео",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/zoldeo-1762091398-443440.webp"
+  },
+  {
+    "id": "65165",
+    "name": "Мистган",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/b/mistgan-1762091280-876092.webp"
+  },
+  {
     "id": "65164",
     "name": "Саки Никайдо",
     "rank": "s",
     "animeName": "Зомбиленд. Сага",
     "animeLink": "/aniserials/video/comedy/361-zombilend-saga.html",
     "image": "/uploads/cards_image/361/s/saki-nikajdo-1762089351-771450.webp"
+  },
+  {
+    "id": "65163",
+    "name": "Тяньду Хуа",
+    "rank": "b",
+    "animeName": "Бессмертие 2 сезон: Десятилетнее соглашение",
+    "animeLink": "/aniserials/video/martial_arts/2137-bessmertie-2-sezon-desjatiletnee-soglashenie.html",
+    "image": "/uploads/cards_image/2137/b/tjandu-hua-1762094749-520464.webp"
+  },
+  {
+    "id": "65161",
+    "name": "Волчья броня",
+    "rank": "e",
+    "animeName": "Бессмертие 2 сезон: Десятилетнее соглашение",
+    "animeLink": "/aniserials/video/martial_arts/2137-bessmertie-2-sezon-desjatiletnee-soglashenie.html",
+    "image": "/uploads/cards_image/2137/e/volchja-bronja-1762094700-615561.webp"
   },
   {
     "id": "65159",
