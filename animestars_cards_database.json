@@ -1,5 +1,29 @@
 [
   {
+    "id": "65420",
+    "name": "Моя мечта",
+    "rank": "e",
+    "animeName": "Монолог фармацевта 2 сезон",
+    "animeLink": "/aniserials/video/drama/2764-monolog-farmacevta-2-sezon-2025.html",
+    "image": "/uploads/cards_image/2764/e/moja-mechta-1762256068-481457.webp"
+  },
+  {
+    "id": "65409",
+    "name": "Лектор",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/lektor-1762205760-244986.webp"
+  },
+  {
+    "id": "65408",
+    "name": "Прехт Геболг",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/b/preht-gebolg-1762205742-999727.webp"
+  },
+  {
     "id": "65403",
     "name": "Скарлет эль Вандимион",
     "rank": "s",
