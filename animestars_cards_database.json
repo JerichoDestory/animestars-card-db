@@ -1,5 +1,133 @@
 [
   {
+    "id": "65499",
+    "name": "Мами Нанами",
+    "rank": "s",
+    "animeName": "Девушка на час 4 сезон",
+    "animeLink": "/aniserials/video/seinen/2953-devushka-na-chas-4.html",
+    "image": "/uploads/cards_image/2953/s/mami-nanami-1762266017-655602.webp"
+  },
+  {
+    "id": "65449",
+    "name": "Рэо Микагэ",
+    "rank": "b",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/b/rjeo-mikagje-1762249159-56722.webp"
+  },
+  {
+    "id": "65446",
+    "name": "Гинджи",
+    "rank": "d",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/d/gindzhi-1762247447-137807.webp"
+  },
+  {
+    "id": "65444",
+    "name": "Рэцу Унохана",
+    "rank": "s",
+    "animeName": "Блич: Тысячелетняя кровавая война",
+    "animeLink": "/aniserials/video/comedy/2102-blich-tysjacheletnjaja-krovavaja-vojna.html",
+    "image": "/uploads/cards_image/2102/s/rjecu-unohana-1762277450-836100.webp"
+  },
+  {
+    "id": "65443",
+    "name": "Отдых",
+    "rank": "e",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/e/otdyh-1762281019-415278.webp"
+  },
+  {
+    "id": "65442",
+    "name": "Медитация",
+    "rank": "e",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/e/meditacija-1762280928-260185.webp"
+  },
+  {
+    "id": "65439",
+    "name": "Анастасия и Мари Шадеран",
+    "rank": "c",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/c/anastasija-i-mari-shaderan-1762280868-710010.webp"
+  },
+  {
+    "id": "65437",
+    "name": "Ся Цзы",
+    "rank": "d",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/d/sja-czy-1762280712-524337.webp"
+  },
+  {
+    "id": "65436",
+    "name": "Саки Никайдо",
+    "rank": "a",
+    "animeName": "Зомбиленд. Сага 2 сезон: Месть",
+    "animeLink": "/aniserials/video/comedy/1101-zombilend-saga-2-sezon.html",
+    "image": "/uploads/cards_image/1101/a/saki-nikajdo-1762242614-361638.webp"
+  },
+  {
+    "id": "65435",
+    "name": "Жань Цзу",
+    "rank": "d",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/d/zhan-czu-1762280506-654623.webp"
+  },
+  {
+    "id": "65434",
+    "name": "Кэсинь Фэн",
+    "rank": "b",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/b/kjesin-fjen-1762278713-232145.webp"
+  },
+  {
+    "id": "65432",
+    "name": "Лекарство",
+    "rank": "e",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/e/lekarstvo-1762278551-948839.webp"
+  },
+  {
+    "id": "65429",
+    "name": "Сэйун Скай",
+    "rank": "b",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/b/sjejun-skaj-1762231751-672432.webp"
+  },
+  {
+    "id": "65427",
+    "name": "Эль Кондор Паса",
+    "rank": "b",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/b/jel-kondor-pasa-1762231656-51938.webp"
+  },
+  {
+    "id": "65426",
+    "name": "Тамамо Кросс",
+    "rank": "b",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/b/tamamo-kross-1762231620-137443.webp"
+  },
+  {
+    "id": "65425",
+    "name": "Хань Фан",
+    "rank": "a",
+    "animeName": "Бессмертие 2 сезон: Десятилетнее соглашение",
+    "animeLink": "/aniserials/video/martial_arts/2137-bessmertie-2-sezon-desjatiletnee-soglashenie.html",
+    "image": "/uploads/cards_image/2137/a/han-fan-1762277975-201155.webp"
+  },
+  {
     "id": "65420",
     "name": "Моя мечта",
     "rank": "e",
