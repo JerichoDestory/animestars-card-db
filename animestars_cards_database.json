@@ -1,11 +1,131 @@
 [
   {
+    "id": "65534",
+    "name": "Ран Мори",
+    "rank": "s",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/s/ran-mori-1762281624-806340.webp"
+  },
+  {
     "id": "65499",
     "name": "Мами Нанами",
     "rank": "s",
     "animeName": "Девушка на час 4 сезон",
     "animeLink": "/aniserials/video/seinen/2953-devushka-na-chas-4.html",
     "image": "/uploads/cards_image/2953/s/mami-nanami-1762266017-655602.webp"
+  },
+  {
+    "id": "65494",
+    "name": "Сосиро и Гэн",
+    "rank": "c",
+    "animeName": "Кайдзю номер восемь 2",
+    "animeLink": "/aniserials/video/shounen/2965-kajdzju-nomer-vosem-2.html",
+    "image": "/uploads/cards_image/2965/c/sosiro-i-gjen-1762297006-976686.webp"
+  },
+  {
+    "id": "65492",
+    "name": "Фуши и Гугу",
+    "rank": "c",
+    "animeName": "Для тебя, Бессмертный 2 сезон",
+    "animeLink": "/aniserials/video/drama/1567-dlja-tebja-bessmertnyj-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1567/c/fushi-i-gugu-1762296879-229882.webp"
+  },
+  {
+    "id": "65484",
+    "name": "Джуд Хартфилия",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/dzhud-hartfilija-1762262292-900256.webp"
+  },
+  {
+    "id": "65483",
+    "name": "Каин Хикару",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/kain-hikaru-1762262272-555882.webp"
+  },
+  {
+    "id": "65481",
+    "name": "Микелло",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/mikello-1762262237-763893.webp"
+  },
+  {
+    "id": "65475",
+    "name": "Ай Мидзуно",
+    "rank": "a",
+    "animeName": "Зомбиленд. Сага 2 сезон: Месть",
+    "animeLink": "/aniserials/video/comedy/1101-zombilend-saga-2-sezon.html",
+    "image": "/uploads/cards_image/1101/a/aj-midzuno-1762258370-175803.webp"
+  },
+  {
+    "id": "65469",
+    "name": "Хёма Тигири",
+    "rank": "a",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/a/hema-tigiri-1762255196-732134.webp"
+  },
+  {
+    "id": "65466",
+    "name": "Альбертина",
+    "rank": "d",
+    "animeName": "Повелитель Рагнарёка и покровитель эйнхерий",
+    "animeLink": "/aniserials/video/garems/321-povelitel-ragnareka-i-pokrovitel-eynheriy.html",
+    "image": "/uploads/cards_image/321/d/albertina-1762295709-469306.webp"
+  },
+  {
+    "id": "65463",
+    "name": "Анастасия Шадеран",
+    "rank": "b",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/b/anastasija-shaderan-1762295557-873137.webp"
+  },
+  {
+    "id": "65460",
+    "name": "Крепкий пресс",
+    "rank": "e",
+    "animeName": "Магия и мускулы",
+    "animeLink": "/aniserials/video/comedy/1843-magija-i-muskuly-animestars-v5.html",
+    "image": "/uploads/cards_image/1843/e/krepkij-press-1762295375-703696.webp"
+  },
+  {
+    "id": "65459",
+    "name": "Линнея",
+    "rank": "a",
+    "animeName": "Повелитель Рагнарёка и покровитель эйнхерий",
+    "animeLink": "/aniserials/video/garems/321-povelitel-ragnareka-i-pokrovitel-eynheriy.html",
+    "image": "/uploads/cards_image/321/a/linneja-1762295313-432887.webp"
+  },
+  {
+    "id": "65456",
+    "name": "Гинджи и Ноэль",
+    "rank": "c",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/c/gindzhi-i-nojel-1762251343-790659.webp"
+  },
+  {
+    "id": "65454",
+    "name": "Фелиция",
+    "rank": "a",
+    "animeName": "Повелитель Рагнарёка и покровитель эйнхерий",
+    "animeLink": "/aniserials/video/garems/321-povelitel-ragnareka-i-pokrovitel-eynheriy.html",
+    "image": "/uploads/cards_image/321/a/felicija-1762295060-180514.webp"
+  },
+  {
+    "id": "65452",
+    "name": "Ноэль",
+    "rank": "d",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/d/nojel-1762249694-14596.webp"
   },
   {
     "id": "65449",
