@@ -1,5 +1,869 @@
 [
   {
+    "id": "65825",
+    "name": "Такаши Нацумэ",
+    "rank": "sss",
+    "animeName": "Тетрадь дружбы Нацумэ 4 сезон",
+    "animeLink": "/aniserials/video/drama/1975-tetrad-druzhby-nacumje-4-sezon.html",
+    "image": "/uploads/cards_image/1975/sss/takashi-nacumje-1762383394-914040_sss_animated.webp"
+  },
+  {
+    "id": "65824",
+    "name": "Джотаро Куджо",
+    "rank": "sss",
+    "animeName": "Невероятные приключения Джоджо 3 сезон: Рыцари звёздной пыли 2",
+    "animeLink": "/aniserials/video/shounen/1324-neverojatnoe-prikljuchenie-dzhodzho-3-sezon.html",
+    "image": "/uploads/cards_image/1324/sss/dzhotaro-kudzho-1762383298-587546_sss_animated.webp"
+  },
+  {
+    "id": "65822",
+    "name": "Синку",
+    "rank": "sss",
+    "animeName": "Девы Розена 2013",
+    "animeLink": "/aniserials/video/drama/1618-devy-rozena-3-sezon.html",
+    "image": "/uploads/cards_image/1618/sss/sinku-1762382715-671901_sss_animated.webp"
+  },
+  {
+    "id": "65820",
+    "name": "Алиса Цуберг",
+    "rank": "sss",
+    "animeName": "Мастера меча онлайн 3 сезон: Алисизация",
+    "animeLink": "/aniserials/video/action/333-mastera-mecha-onlayn-3-sezon-2018.html",
+    "image": "/uploads/cards_image/333/sss/alisa-cuberg-1762382056-138915_sss_animated.webp"
+  },
+  {
+    "id": "65819",
+    "name": "Черноснежка",
+    "rank": "sss",
+    "animeName": "Ускоренный мир",
+    "animeLink": "/aniserials/video/action/704-uskorennyy-mir-animestars.html",
+    "image": "/uploads/cards_image/704/sss/chernosnezhka-1762381969-791240_sss_animated.webp"
+  },
+  {
+    "id": "65818",
+    "name": "Сукэхиро Ями",
+    "rank": "sss",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/sss/sukjehiro-jami-1762381863-564081_sss_animated.webp"
+  },
+  {
+    "id": "65817",
+    "name": "Йор Форджер",
+    "rank": "sss",
+    "animeName": "Семья шпиона Часть 2",
+    "animeLink": "/aniserials/video/action/1530-semja-shpiona-chast-2-animestars.html",
+    "image": "/uploads/cards_image/1530/sss/jor-fordzher-1762381801-162940_sss_animated.webp"
+  },
+  {
+    "id": "65816",
+    "name": "Статуя Бога",
+    "rank": "sss",
+    "animeName": "Поднятие уровня в одиночку",
+    "animeLink": "/aniserials/video/action/2285-podnjatie-urovnja-v-odinochku-2024-animestars-vvv11.html",
+    "image": "/uploads/cards_image/2285/sss/statuja-boga-1762381716-214820_sss_animated.webp"
+  },
+  {
+    "id": "65815",
+    "name": "Стрелок с Чёрной Скалы",
+    "rank": "sss",
+    "animeName": "Стрелок с чёрной скалы",
+    "animeLink": "/aniserials/video/action/1400-strelok-s-chernoj-skaly.html",
+    "image": "/uploads/cards_image/1400/sss/strelok-s-chernoj-skaly-1762381620-924319_sss_animated.webp"
+  },
+  {
+    "id": "65814",
+    "name": "Дезир Арман",
+    "rank": "sss",
+    "animeName": "Магия вернувшегося должна быть особенной",
+    "animeLink": "/aniserials/video/action/2200-magija-vernuvshegosja-dolzhna-byt-osobennoj.html",
+    "image": "/uploads/cards_image/2200/sss/dezir-arman-1762381498-218731_sss_animated.webp"
+  },
+  {
+    "id": "65813",
+    "name": "Дзюнко Эносима",
+    "rank": "sss",
+    "animeName": "Данганронпа: Школа надежды и безнадёжные школьники",
+    "animeLink": "/aniserials/video/gender_intriga/174-danganronpa-2013.html",
+    "image": "/uploads/cards_image/174/sss/dzjunko-jenosima-1762381415-733706_sss_animated.webp"
+  },
+  {
+    "id": "65812",
+    "name": "Надзуна Нанакуса",
+    "rank": "sss",
+    "animeName": "Песнь ночных сов",
+    "animeLink": "/aniserials/video/vampires/1442-pesn-nochnyh-sov-animestars.html",
+    "image": "/uploads/cards_image/1442/sss/nadzuna-nanakusa-1762381310-702841_sss_animated.webp"
+  },
+  {
+    "id": "65811",
+    "name": "Саэко Бусудзима",
+    "rank": "sss",
+    "animeName": "Школа мертвецов: Мёртвые бродяги",
+    "animeLink": "/ova/2028-shkola-mertvecov-mertvye-brodjagi.html",
+    "image": "/uploads/cards_image/2028/sss/sajeko-busudzima-1762381194-804666_sss_animated.webp"
+  },
+  {
+    "id": "65810",
+    "name": "Анна Нишикиномия",
+    "rank": "sss",
+    "animeName": "Скучный мир, где не существует самой идеи похабных шуток",
+    "animeLink": "/aniserials/video/comedy/461-skuchnyy-mir-gde-ne-suschestvuet-samoy-idei-pohabnyh-shutok.html",
+    "image": "/uploads/cards_image/461/sss/anna-nishikinomija-1762381104-773761_sss_animated.webp"
+  },
+  {
+    "id": "65809",
+    "name": "Харухи Судзумия",
+    "rank": "sss",
+    "animeName": "Меланхолия Харухи Судзумии",
+    "animeLink": "/aniserials/video/comedy/1627-melanholija-haruhi-sudzumii-1-2-sezon.html",
+    "image": "/uploads/cards_image/1627/sss/haruhi-sudzumija-1762380917-315816_sss_animated.webp"
+  },
+  {
+    "id": "65808",
+    "name": "Реборн",
+    "rank": "sss",
+    "animeName": "Учитель-мафиози Реборн!",
+    "animeLink": "/aniserials/video/comedy/238-uchitel-mafiozi-reborn.html",
+    "image": "/uploads/cards_image/238/sss/reborn-1762380861-92820_sss_animated.webp"
+  },
+  {
+    "id": "65807",
+    "name": "Клэр Руж",
+    "rank": "sss",
+    "animeName": "Танец клинка элементалиста",
+    "animeLink": "/aniserials/video/action/84-tanec-klinkov-zaklinateley-2014.html",
+    "image": "/uploads/cards_image/84/sss/kljer-ruzh-1762380802-706070_sss_animated.webp"
+  },
+  {
+    "id": "65806",
+    "name": "Маки Одзэ",
+    "rank": "sss",
+    "animeName": "Пламенная бригада пожарных",
+    "animeLink": "/aniserials/video/action/511-plamennaya-brigada-pozharnyh-as.html",
+    "image": "/uploads/cards_image/511/sss/maki-odzje-1762380750-359809_sss_animated.webp"
+  },
+  {
+    "id": "65805",
+    "name": "Эрина Накири",
+    "rank": "sss",
+    "animeName": "В поисках божественного рецепта 2 сезон",
+    "animeLink": "/aniserials/video/comedy/312-v-poiskah-bozhestvennogo-recepta-2-sezon-2016.html",
+    "image": "/uploads/cards_image/312/sss/jerina-nakiri-1762380688-353675_sss_animated.webp"
+  },
+  {
+    "id": "65804",
+    "name": "Сосукэ Сима",
+    "rank": "sss",
+    "animeName": "Долой безделье",
+    "animeLink": "/aniserials/video/comedy/1828-doloj-bezdele.html",
+    "image": "/uploads/cards_image/1828/sss/sosukje-sima-1762380613-121324_sss_animated.webp"
+  },
+  {
+    "id": "65803",
+    "name": "Рей Аянами",
+    "rank": "sss",
+    "animeName": "Конец Евангелиона",
+    "animeLink": "/aniserials/video/drama/1730-konec-evangeliona.html",
+    "image": "/uploads/cards_image/1730/sss/rej-ajanami-1762380500-535689_sss_animated.webp"
+  },
+  {
+    "id": "65802",
+    "name": "Ло Су",
+    "rank": "sss",
+    "animeName": "Охота демонического короля на свою жену",
+    "animeLink": "/aniserials/video/martial_arts/1020-ohota-demonicheskogo-korolja-na-svoju-zhenu.html",
+    "image": "/uploads/cards_image/1020/sss/lo-su-1762380425-945281_sss_animated.webp"
+  },
+  {
+    "id": "65801",
+    "name": "Энрико Пуччи",
+    "rank": "sss",
+    "animeName": "Невероятные приключения Джоджо 6 сезон: Каменный океан 2 часть",
+    "animeLink": "/aniserials/video/action/1518-neverojatnye-prikljuchenija-dzhodzho-6-sezon-2-chast-2022.html",
+    "image": "/uploads/cards_image/1518/sss/jenriko-puchchi-1762380355-390854_sss_animated.webp"
+  },
+  {
+    "id": "65800",
+    "name": "Дзё Тогамэ",
+    "rank": "sss",
+    "animeName": "Ветролом",
+    "animeLink": "/aniserials/video/action/2365-vetrolom-2024-animestars-v11.html",
+    "image": "/uploads/cards_image/2365/sss/dze-togamje-1762380263-972209_sss_animated.webp"
+  },
+  {
+    "id": "65799",
+    "name": "Спайк Шпигель",
+    "rank": "sss",
+    "animeName": "Ковбой Бибоп",
+    "animeLink": "/aniserials/video/drama/631-kovboy-bibop.html",
+    "image": "/uploads/cards_image/631/sss/spajk-shpigel-1762380257-940719_sss_animated.webp"
+  },
+  {
+    "id": "65798",
+    "name": "Арлекино",
+    "rank": "sss",
+    "animeName": "Genshin Impact: Горящая в золе песнь",
+    "animeLink": "/aniserials/video/action/2723-genshin-impact-gorjaschaja-v-zole-pesn.html",
+    "image": "/uploads/cards_image/2723/sss/arlekino-1762380188-176926_sss_animated.webp"
+  },
+  {
+    "id": "65797",
+    "name": "Кэн Такакура",
+    "rank": "sss",
+    "animeName": "Дандадан",
+    "animeLink": "/aniserials/video/action/2642-dandadan-2024.html",
+    "image": "/uploads/cards_image/2642/sss/kjen-takakura-1762380121-425491_sss_animated.webp"
+  },
+  {
+    "id": "65796",
+    "name": "Аки Адагаки",
+    "rank": "sss",
+    "animeName": "Месть Масамунэ 2 сезон",
+    "animeLink": "/aniserials/video/garems/2080-mest-masamunje-2-sezon.html",
+    "image": "/uploads/cards_image/2080/sss/aki-adagaki-1762380068-368325_sss_animated.webp"
+  },
+  {
+    "id": "65795",
+    "name": "Минами Фуюки",
+    "rank": "sss",
+    "animeName": "Досанко-гяру чудо как милы",
+    "animeLink": "/aniserials/video/comedy/2299-dosanko-gjaru-chudo-kak-mily.html",
+    "image": "/uploads/cards_image/2299/sss/minami-fujuki-1762379966-744486_sss_animated.webp"
+  },
+  {
+    "id": "65794",
+    "name": "Мэгуру Батира",
+    "rank": "sss",
+    "animeName": "Синяя тюрьма: Блю Лок",
+    "animeLink": "/aniserials/video/drama/1549-sinjaja-tjurma-blju-lok-animestars-2022-as.html",
+    "image": "/uploads/cards_image/1549/sss/mjeguru-batira-1762379897-184579_sss_animated.webp"
+  },
+  {
+    "id": "65793",
+    "name": "Гаутер",
+    "rank": "sss",
+    "animeName": "Семь смертных грехов",
+    "animeLink": "/aniserials/video/mystery/45-sem-smertnyh-grehov-2014.html",
+    "image": "/uploads/cards_image/45/sss/gauter-1762379761-97222_sss_animated.webp"
+  },
+  {
+    "id": "65792",
+    "name": "Орихимэ Иноуэ",
+    "rank": "sss",
+    "animeName": "Блич",
+    "animeLink": "/aniserials/video/drama/208-blich.html",
+    "image": "/uploads/cards_image/208/sss/orihimje-inouje-1762379715-465108_sss_animated.webp"
+  },
+  {
+    "id": "65791",
+    "name": "Иссэй Хёдо",
+    "rank": "sss",
+    "animeName": "Демоны старшей школы 4 сезон",
+    "animeLink": "/aniserials/video/garems/249-demony-starshey-shkoly-4-sezon-2018.html",
+    "image": "/uploads/cards_image/249/sss/issjej-hedo-1762379620-194927_sss_animated.webp"
+  },
+  {
+    "id": "65790",
+    "name": "Гуррен-Лаганн",
+    "rank": "sss",
+    "animeName": "Гуррен-Лаганн",
+    "animeLink": "/aniserials/video/drama/544-gurren-lagann-animestars-2007.html",
+    "image": "/uploads/cards_image/544/sss/gurren-lagann-1762379560-146302_sss_animated.webp"
+  },
+  {
+    "id": "65788",
+    "name": "Курису Макисэ",
+    "rank": "sss",
+    "animeName": "Врата Штейна 0",
+    "animeLink": "/aniserials/video/seinen/255-vrata-shteyna-0-2018.html",
+    "image": "/uploads/cards_image/255/sss/kurisu-makisje-1762379486-517898_sss_animated.webp"
+  },
+  {
+    "id": "65787",
+    "name": "Джину Сон",
+    "rank": "sss",
+    "animeName": "Поднятие уровня в одиночку",
+    "animeLink": "/aniserials/video/action/2285-podnjatie-urovnja-v-odinochku-2024-animestars-vvv11.html",
+    "image": "/uploads/cards_image/2285/sss/dzhinu-son-1762379191-753558_sss_animated.webp"
+  },
+  {
+    "id": "65786",
+    "name": "Неферпито",
+    "rank": "sss",
+    "animeName": "Охотник х Охотник 2011",
+    "animeLink": "/aniserials/video/drama/101-ohotnik-h-ohotnik-tv-2.html",
+    "image": "/uploads/cards_image/101/sss/neferpito-1762379144-846366_sss_animated.webp"
+  },
+  {
+    "id": "65785",
+    "name": "Лысая S",
+    "rank": "sss",
+    "animeName": "Ванпанчмен",
+    "animeLink": "/aniserials/video/comedy/15-vanpanchmen-one-punch-man-animestars-2015.html",
+    "image": "/uploads/cards_image/15/sss/lysaja-s-1762379090-477504_sss_animated.webp"
+  },
+  {
+    "id": "65784",
+    "name": "Гандам",
+    "rank": "sss",
+    "animeName": "Мобильный воин Гандам 00",
+    "animeLink": "/aniserials/video/action/1007-mobilnyj-voin-gandam-00.html",
+    "image": "/uploads/cards_image/1007/sss/gandam-1762379026-982132_sss_animated.webp"
+  },
+  {
+    "id": "65783",
+    "name": "Мисато Кацураги",
+    "rank": "sss",
+    "animeName": "Евангелион: Смерть и перерождение",
+    "animeLink": "/aniserials/video/drama/1754-evangelion-smert-i-pererozhdenie.html",
+    "image": "/uploads/cards_image/1754/sss/misato-kacuragi-1762378953-392347_sss_animated.webp"
+  },
+  {
+    "id": "65782",
+    "name": "Урара Шираиши",
+    "rank": "sss",
+    "animeName": "Ямада и семь ведьм",
+    "animeLink": "/aniserials/video/garems/2070-yamada-i-sem-vedm-yamada-kun-to-7-nin-no-majo-animestars-2015.html",
+    "image": "/uploads/cards_image/2070/sss/urara-shiraishi-1762378876-940587_sss_animated.webp"
+  },
+  {
+    "id": "65781",
+    "name": "Владилена Милизе",
+    "rank": "sss",
+    "animeName": "Восемьдесят шесть",
+    "animeLink": "/aniserials/video/action/1091-vosemdesjat-shest.html",
+    "image": "/uploads/cards_image/1091/sss/vladilena-milize-1762378814-705100_sss_animated.webp"
+  },
+  {
+    "id": "65780",
+    "name": "Ти",
+    "rank": "sss",
+    "animeName": "Чобиты",
+    "animeLink": "/aniserials/video/drama/638-chobity.html",
+    "image": "/uploads/cards_image/638/sss/ti-1762378754-396303_sss_animated.webp"
+  },
+  {
+    "id": "65779",
+    "name": "Кёдзюро Рэнгоку",
+    "rank": "sss",
+    "animeName": "Клинок, рассекающий демонов: Бесконечный поезд",
+    "animeLink": "/aniserials/video/action/1244-klinok-rassekajuschij-demonov-beskonechnyj-poezd.html",
+    "image": "/uploads/cards_image/1244/sss/kedzjuro-rjengoku-1762378685-377568_sss_animated.webp"
+  },
+  {
+    "id": "65778",
+    "name": "Альбедо",
+    "rank": "sss",
+    "animeName": "Повелитель 3 сезон",
+    "animeLink": "/aniserials/video/game/306-povelitel-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/306/sss/albedo-1762378609-432417_sss_animated.webp"
+  },
+  {
+    "id": "65777",
+    "name": "Фрирен",
+    "rank": "sss",
+    "animeName": "Провожающая в последний путь Фрирен",
+    "animeLink": "/aniserials/video/adventure/2162-provozhajuschaja-v-poslednij-put-friren-animestars-2023.html",
+    "image": "/uploads/cards_image/2162/sss/friren-1762378454-346707_sss_animated.webp"
+  },
+  {
+    "id": "65776",
+    "name": "Легендарный Супер Сайян",
+    "rank": "sss",
+    "animeName": "Драгонболл Зет",
+    "animeLink": "/aniserials/video/martial_arts/1016-dragonboll-zet.html",
+    "image": "/uploads/cards_image/1016/sss/legendarnyj-super-sajjan-1762378386-834699_sss_animated.webp"
+  },
+  {
+    "id": "65775",
+    "name": "Клара Валак",
+    "rank": "sss",
+    "animeName": "Добро пожаловать в ад, Ирума",
+    "animeLink": "/aniserials/video/comedy/560-dobro-pozhalovat-v-ad-iruma.html",
+    "image": "/uploads/cards_image/560/sss/klara-valak-1762378229-580466_sss_animated.webp"
+  },
+  {
+    "id": "65773",
+    "name": "Судзука Нагами",
+    "rank": "sss",
+    "animeName": "Люблю я младшую сестру, вот только не сестра она",
+    "animeLink": "/aniserials/video/garems/376-lyublyu-ya-mladshuyu-sestru-vot-tolko-ne-sestra-ona.html",
+    "image": "/uploads/cards_image/376/sss/sudzuka-nagami-1762378158-35763_sss_animated.webp"
+  },
+  {
+    "id": "65771",
+    "name": "Аваюки Кокоронэ",
+    "rank": "sss",
+    "animeName": "Витубер: Я стала популярной после того, как забыла выключить стрим",
+    "animeLink": "/aniserials/video/comedy/2515-vituber-ja-stala-populjarnoj-posle-togo-kak-zabyla-vykljuchit-strim-2024.html",
+    "image": "/uploads/cards_image/2515/sss/avajuki-kokoronje-1762378032-941957_sss_animated.webp"
+  },
+  {
+    "id": "65770",
+    "name": "Чеза",
+    "rank": "sss",
+    "animeName": "Волчий дождь",
+    "animeLink": "/aniserials/video/drama/626-volchiy-dozhd.html",
+    "image": "/uploads/cards_image/626/sss/cheza-1762377958-334508_sss_animated.webp"
+  },
+  {
+    "id": "65767",
+    "name": "Яэка Сакураги",
+    "rank": "sss",
+    "animeName": "Дочка босса и её нянька",
+    "animeLink": "/aniserials/video/comedy/1441-dochka-bossa-i-ee-njanka.html",
+    "image": "/uploads/cards_image/1441/sss/jajeka-sakuragi-1762377854-822430_sss_animated.webp"
+  },
+  {
+    "id": "65766",
+    "name": "Раэльза",
+    "rank": "sss",
+    "animeName": "Мастер на все руки Сайто в другом мире",
+    "animeLink": "/aniserials/video/comedy/1636-master-na-vse-ruki-sajto-v-drugom-mire-animestars.html",
+    "image": "/uploads/cards_image/1636/sss/rajelza-1762377797-481940_sss_animated.webp"
+  },
+  {
+    "id": "65764",
+    "name": "Айрисвиль фон Айнцберн",
+    "rank": "sss",
+    "animeName": "Судьба: Начало 2 сезон",
+    "animeLink": "/aniserials/video/action/847-sudba-nachalo-2-sezon.html",
+    "image": "/uploads/cards_image/847/sss/ajrisvil-fon-ajncbern-1762377710-605638_sss_animated.webp"
+  },
+  {
+    "id": "65763",
+    "name": "Умару Дома",
+    "rank": "sss",
+    "animeName": "Двуличная сестрёнка Умару 2 сезон",
+    "animeLink": "/aniserials/video/comedy/475-dvulichnaya-sestrenka-umaru-2-sezon.html",
+    "image": "/uploads/cards_image/475/sss/umaru-doma-1762377647-7855_sss_animated.webp"
+  },
+  {
+    "id": "65762",
+    "name": "Пикачу",
+    "rank": "sss",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/sss/pikachu-1762377572-970825_sss_animated.webp"
+  },
+  {
+    "id": "65761",
+    "name": "Супер Сайян",
+    "rank": "sss",
+    "animeName": "Драгонболл Зет",
+    "animeLink": "/aniserials/video/martial_arts/1016-dragonboll-zet.html",
+    "image": "/uploads/cards_image/1016/sss/super-sajjan-1762377488-637955_sss_animated.webp"
+  },
+  {
+    "id": "65760",
+    "name": "Лемон Ирвин",
+    "rank": "sss",
+    "animeName": "Магия и мускулы",
+    "animeLink": "/aniserials/video/comedy/1843-magija-i-muskuly-animestars-v5.html",
+    "image": "/uploads/cards_image/1843/sss/lemon-irvin-1762377425-110764_sss_animated.webp"
+  },
+  {
+    "id": "65759",
+    "name": "Синобу Осино",
+    "rank": "sss",
+    "animeName": "Истории ран: Железная кровь",
+    "animeLink": "/aniserials/video/adventure/2682-istorii-ran-zheleznaja-krov.html",
+    "image": "/uploads/cards_image/2682/sss/sinobu-osino-1762377165-449810_sss_animated.webp"
+  },
+  {
+    "id": "65758",
+    "name": "Дух Лисицы Тидзуру",
+    "rank": "sss",
+    "animeName": "Канокон",
+    "animeLink": "/aniserials/video/garems/612-kanokon.html",
+    "image": "/uploads/cards_image/612/sss/duh-lisicy-tidzuru-1762377037-118279_sss_animated.webp"
+  },
+  {
+    "id": "65757",
+    "name": "Хина Тёно",
+    "rank": "sss",
+    "animeName": "Голубая шкатулка",
+    "animeLink": "/aniserials/video/romance/2645-golubaja-shkatulka.html",
+    "image": "/uploads/cards_image/2645/sss/hina-teno-1762376936-753280_sss_animated.webp"
+  },
+  {
+    "id": "65756",
+    "name": "Риас Гремори",
+    "rank": "sss",
+    "animeName": "Демоны старшей школы 4 сезон",
+    "animeLink": "/aniserials/video/garems/249-demony-starshey-shkoly-4-sezon-2018.html",
+    "image": "/uploads/cards_image/249/sss/rias-gremori-1762376856-178542_sss_animated.webp"
+  },
+  {
+    "id": "65755",
+    "name": "Аква",
+    "rank": "sss",
+    "animeName": "Этот замечательный мир!",
+    "animeLink": "/aniserials/video/garems/300-etot-zamechatelnyy-mir-animestars-2016.html",
+    "image": "/uploads/cards_image/300/sss/akva-1762376782-656356_sss_animated.webp"
+  },
+  {
+    "id": "65754",
+    "name": "Мерлин",
+    "rank": "sss",
+    "animeName": "Судьба: Апокриф",
+    "animeLink": "/aniserials/video/drama/228-sudba-apokrif.html",
+    "image": "/uploads/cards_image/228/sss/merlin-1762376733-670240_sss_animated.webp"
+  },
+  {
+    "id": "65753",
+    "name": "Сосукэ Айдзэн",
+    "rank": "sss",
+    "animeName": "Блич",
+    "animeLink": "/aniserials/video/drama/208-blich.html",
+    "image": "/uploads/cards_image/208/sss/sosukje-ajdzjen-1762376688-465940_sss_animated.webp"
+  },
+  {
+    "id": "65752",
+    "name": "Ультра инстинкт",
+    "rank": "sss",
+    "animeName": "Драгонболл Супер",
+    "animeLink": "/aniserials/video/martial_arts/162-drakoniy-zhemchug-super.html",
+    "image": "/uploads/cards_image/162/sss/ultra-instinkt-1762376593-123123_sss_animated.webp"
+  },
+  {
+    "id": "65751",
+    "name": "Йор Форджер",
+    "rank": "sss",
+    "animeName": "Семья шпиона",
+    "animeLink": "/aniserials/video/drama/2125-semja-shpiona.html",
+    "image": "/uploads/cards_image/2125/sss/jor-fordzher-1762376498-441828_sss_animated.webp"
+  },
+  {
+    "id": "65750",
+    "name": "Лаки Циан",
+    "rank": "sss",
+    "animeName": "Быть героем Икс",
+    "animeLink": "/aniserials/video/action/2902-byt-geroem-iks.html",
+    "image": "/uploads/cards_image/2902/sss/laki-cian-1762376328-524752_sss_animated.webp"
+  },
+  {
+    "id": "65749",
+    "name": "Альбедо",
+    "rank": "sss",
+    "animeName": "Повелитель",
+    "animeLink": "/aniserials/video/garems/250-povelitel-1-sezon-2015.html",
+    "image": "/uploads/cards_image/250/sss/albedo-1762376195-645735_sss_animated.webp"
+  },
+  {
+    "id": "65748",
+    "name": "Кобаяси",
+    "rank": "sss",
+    "animeName": "Дракон-горничная госпожи Кобаяси",
+    "animeLink": "/aniserials/video/kemonobito/71-kobayaci-i-ee-gornichnaya-drakon-drakon-gornichnaya-kobayashi-san-2017-v.html",
+    "image": "/uploads/cards_image/71/sss/kobajasi-1762375825-631854_sss_animated.webp"
+  },
+  {
+    "id": "65747",
+    "name": "Контракт",
+    "rank": "sss",
+    "animeName": "Чудачество любви не помеха! 2 сезон",
+    "animeLink": "/aniserials/video/drama/468-chudachestvo-lyubvi-ne-pomeha-2-sezon.html",
+    "image": "/uploads/cards_image/468/sss/kontrakt-1762375749-227570_sss_animated.webp"
+  },
+  {
+    "id": "65746",
+    "name": "Идзана Курокава",
+    "rank": "sss",
+    "animeName": "Токийские мстители 3 сезон: Поднебесье",
+    "animeLink": "/aniserials/video/drama/2178-tokijskie-mstiteli-3-sezon.html",
+    "image": "/uploads/cards_image/2178/sss/idzana-kurokava-1762375702-576597_sss_animated.webp"
+  },
+  {
+    "id": "65745",
+    "name": "Азия Ардженто",
+    "rank": "sss",
+    "animeName": "Демоны старшей школы 3 сезон",
+    "animeLink": "/aniserials/video/garems/173-demony-starshey-shkoly-3-sezon-2015.html",
+    "image": "/uploads/cards_image/173/sss/azija-ardzhento-1762375508-104315_sss_animated.webp"
+  },
+  {
+    "id": "65744",
+    "name": "Мумэй",
+    "rank": "sss",
+    "animeName": "Кабанэри железной крепости",
+    "animeLink": "/aniserials/video/drama/204-kabaneri-s-bronekreposti.html",
+    "image": "/uploads/cards_image/204/sss/mumjej-1762375383-486734_sss_animated.webp"
+  },
+  {
+    "id": "65743",
+    "name": "Сузунэ  Хорикита",
+    "rank": "sss",
+    "animeName": "Добро пожаловать в класс превосходства 2 сезон",
+    "animeLink": "/aniserials/video/drama/1434-dobro-pozhalovat-v-klass-prevoshodstva-2-sezon-2022.html",
+    "image": "/uploads/cards_image/1434/sss/suzunje-horikita-1762375321-93667_sss_animated.webp"
+  },
+  {
+    "id": "65742",
+    "name": "Каска",
+    "rank": "sss",
+    "animeName": "Берсерк 2 сезон",
+    "animeLink": "/aniserials/video/action/858-berserk-2-sezon.html",
+    "image": "/uploads/cards_image/858/sss/kaska-1762375274-731390_sss_animated.webp"
+  },
+  {
+    "id": "65741",
+    "name": "Доминик де Сад",
+    "rank": "sss",
+    "animeName": "Мемуары Ванитаса 2 сезон",
+    "animeLink": "/aniserials/video/vampires/1357-memuary-vanitasa-2-sezon.html",
+    "image": "/uploads/cards_image/1357/sss/dominik-de-sad-1762375194-950400_sss_animated.webp"
+  },
+  {
+    "id": "65740",
+    "name": "Эко",
+    "rank": "sss",
+    "animeName": "Академия Драгонар",
+    "animeLink": "/aniserials/video/garems/2346-akademija-dragonar.html",
+    "image": "/uploads/cards_image/2346/sss/jeko-1762375133-125320_sss_animated.webp"
+  },
+  {
+    "id": "65739",
+    "name": "Котоно Сиундзи",
+    "rank": "sss",
+    "animeName": "Дети семьи Сиундзи",
+    "animeLink": "/aniserials/video/seinen/2914-deti-semi-siundzi.html",
+    "image": "/uploads/cards_image/2914/sss/kotono-siundzi-1762374787-684085_sss_animated.webp"
+  },
+  {
+    "id": "65738",
+    "name": "Соло Юи",
+    "rank": "sss",
+    "animeName": "Кэйон!! 2 сезон",
+    "animeLink": "/aniserials/video/comedy/420-keyon-2-sezon.html",
+    "image": "/uploads/cards_image/420/sss/solo-jui-1762374717-468730_sss_animated.webp"
+  },
+  {
+    "id": "65737",
+    "name": "Сираори",
+    "rank": "sss",
+    "animeName": "Да, я паук, и что же?",
+    "animeLink": "/aniserials/video/detective/1018-da-ja-pauk-i-chto-zhe.html",
+    "image": "/uploads/cards_image/1018/sss/siraori-1762374659-243061_sss_animated.webp"
+  },
+  {
+    "id": "65736",
+    "name": "Йор Форджер",
+    "rank": "sss",
+    "animeName": "Семья шпиона 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2196-semja-shpiona-2-sezon-animestars-v3.html",
+    "image": "/uploads/cards_image/2196/sss/jor-fordzher-1762374611-651406_sss_animated.webp"
+  },
+  {
+    "id": "65735",
+    "name": "Проклятие",
+    "rank": "sss",
+    "animeName": "Унесённые призраками",
+    "animeLink": "/aniserials/video/drama/2069-unesennye-prizrakami-2001.html",
+    "image": "/uploads/cards_image/2069/sss/prokljatie-1762374240-248386_sss_animated.webp"
+  },
+  {
+    "id": "65734",
+    "name": "Тан Сан",
+    "rank": "sss",
+    "animeName": "Боевой континент",
+    "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
+    "image": "/uploads/cards_image/605/sss/tan-san-1762374148-940388_sss_animated.webp"
+  },
+  {
+    "id": "65733",
+    "name": "Нао Томори",
+    "rank": "sss",
+    "animeName": "Шарлотта",
+    "animeLink": "/aniserials/video/drama/351-sharlotta.html",
+    "image": "/uploads/cards_image/351/sss/nao-tomori-1762374082-63367_sss_animated.webp"
+  },
+  {
+    "id": "65732",
+    "name": "Котори Ицука",
+    "rank": "sss",
+    "animeName": "Рандеву с жизнью 5 сезон",
+    "animeLink": "/aniserials/video/garems/2385-randevu-s-zhiznju-5-sezon-animestars.html",
+    "image": "/uploads/cards_image/2385/sss/kotori-icuka-1762374012-37199_sss_animated.webp"
+  },
+  {
+    "id": "65730",
+    "name": "Дзэнъицу Агацума",
+    "rank": "sss",
+    "animeName": "Клинок, рассекающий демонов 3 сезон: Деревня кузнецов",
+    "animeLink": "/aniserials/video/drama/1849-klinok-rassekajuschij-demonov-3-sezon-animestars.html",
+    "image": "/uploads/cards_image/1849/sss/dzjenicu-agacuma-1762373952-350552_sss_animated.webp"
+  },
+  {
+    "id": "65729",
+    "name": "Надэсико Кагамихара",
+    "rank": "sss",
+    "animeName": "Лагерь на свежем воздухе 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2419-lager-na-svezhem-vozduhe-2-sezon.html",
+    "image": "/uploads/cards_image/2419/sss/nadjesiko-kagamihara-1762373884-733489_sss_animated.webp"
+  },
+  {
+    "id": "65728",
+    "name": "Айра Сиратори",
+    "rank": "sss",
+    "animeName": "Дандадан",
+    "animeLink": "/aniserials/video/action/2642-dandadan-2024.html",
+    "image": "/uploads/cards_image/2642/sss/ajra-siratori-1762373809-673875_sss_animated.webp"
+  },
+  {
+    "id": "65727",
+    "name": "Амира",
+    "rank": "sss",
+    "animeName": "Ярость Бахамута: Генезис",
+    "animeLink": "/aniserials/video/action/422-yarost-bahamuta-istoki.html",
+    "image": "/uploads/cards_image/422/sss/amira-1762373751-581877_sss_animated.webp"
+  },
+  {
+    "id": "65726",
+    "name": "Алиса Кисараги",
+    "rank": "sss",
+    "animeName": "Комбатанты будут высланы!",
+    "animeLink": "/aniserials/video/action/1081-kombatanty-budut-vyslany.html",
+    "image": "/uploads/cards_image/1081/sss/alisa-kisaragi-1762373666-687922_sss_animated.webp"
+  },
+  {
+    "id": "65725",
+    "name": "Кёко Киригири",
+    "rank": "sss",
+    "animeName": "Данганронпа: Школа надежды и безнадёжные школьники",
+    "animeLink": "/aniserials/video/gender_intriga/174-danganronpa-2013.html",
+    "image": "/uploads/cards_image/174/sss/keko-kirigiri-1762373607-367689_sss_animated.webp"
+  },
+  {
+    "id": "65724",
+    "name": "Открытие паков",
+    "rank": "sss",
+    "animeName": "Охотник х Охотник 2011",
+    "animeLink": "/aniserials/video/drama/101-ohotnik-h-ohotnik-tv-2.html",
+    "image": "/uploads/cards_image/101/sss/otkrytie-pakov-1762373543-824715_sss_animated.webp"
+  },
+  {
+    "id": "65723",
+    "name": "Рэцу Унохана",
+    "rank": "sss",
+    "animeName": "Блич: Тысячелетняя кровавая война - Прощание",
+    "animeLink": "/aniserials/video/action/2114-blich-tysjacheletnjaja-krovavaja-vojna-proschanie.html",
+    "image": "/uploads/cards_image/2114/sss/rjecu-unohana-1762373406-812373_sss_animated.webp"
+  },
+  {
+    "id": "65721",
+    "name": "Атри",
+    "rank": "sss",
+    "animeName": "Атри: Мои дорогие моменты",
+    "animeLink": "/aniserials/video/drama/2487-atri-moi-dorogie-momenty.html",
+    "image": "/uploads/cards_image/2487/sss/atri-1762372877-432507_sss_animated.webp"
+  },
+  {
+    "id": "65720",
+    "name": "Тоа Токути",
+    "rank": "sss",
+    "animeName": "Один на вылет",
+    "animeLink": "/aniserials/video/psychological/539-odin-na-vylet.html",
+    "image": "/uploads/cards_image/539/sss/toa-tokuti-1762372569-229978_sss_animated.webp"
+  },
+  {
+    "id": "65674",
+    "name": "Хиси Амадзон",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/d/hisi-amadzon-1762353975-182742.webp"
+  },
+  {
+    "id": "65672",
+    "name": "Джордж Уширомия",
+    "rank": "a",
+    "animeName": "Когда плачут чайки",
+    "animeLink": "/aniserials/video/detective/598-kogda-plachut-chayki.html",
+    "image": "/uploads/cards_image/598/a/dzhordzh-ushiromija-1762371532-919974.webp"
+  },
+  {
+    "id": "65668",
+    "name": "Топпо",
+    "rank": "d",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/d/toppo-1762371321-670327.webp"
+  },
+  {
+    "id": "65666",
+    "name": "Меласкула",
+    "rank": "b",
+    "animeName": "Семь смертных грехов: Четыре всадника Апокалипсиса",
+    "animeLink": "/aniserials/video/action/2208-sem-smertnyh-grehov-chetyre-vsadnika-apokalipsisa.html",
+    "image": "/uploads/cards_image/2208/b/melaskula-1762371213-904411.webp"
+  },
+  {
+    "id": "65664",
+    "name": "После душа",
+    "rank": "e",
+    "animeName": "Кошечка из Сакурасо",
+    "animeLink": "/aniserials/video/drama/119-koshechka-iz-sakuraso.html",
+    "image": "/uploads/cards_image/119/e/posle-dusha-1762351114-254738.webp"
+  },
+  {
+    "id": "65663",
+    "name": "Безумие",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/bezumie-1762351082-791567.webp"
+  },
+  {
+    "id": "65662",
+    "name": "Мику Накано",
+    "rank": "a",
+    "animeName": "Пять невест: Спецвыпуски",
+    "animeLink": "/aniserials/video/shounen/3153-pjat-nevest-specvypuski.html",
+    "image": "/uploads/cards_image/3153/a/miku-nakano-1762350965-52446.webp"
+  },
+  {
+    "id": "65661",
+    "name": "Подглядывает",
+    "rank": "e",
+    "animeName": "Кошечка из Сакурасо",
+    "animeLink": "/aniserials/video/drama/119-koshechka-iz-sakuraso.html",
+    "image": "/uploads/cards_image/119/e/podgljadyvaet-1762350791-713572.webp"
+  },
+  {
+    "id": "65659",
+    "name": "Кэнъю Юкимия",
+    "rank": "b",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/b/kjenju-jukimija-1762350522-492421.webp"
+  },
+  {
+    "id": "65657",
+    "name": "Супер Крик",
+    "rank": "b",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/b/super-krik-1762350441-174532.webp"
+  },
+  {
+    "id": "65656",
+    "name": "Саэ Итоси",
+    "rank": "a",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/a/saje-itosi-1762350431-585594.webp"
+  },
+  {
+    "id": "65652",
+    "name": "Купальник",
+    "rank": "e",
+    "animeName": "Непризнанный школой владыка демонов! 2 сезон 2 часть",
+    "animeLink": "/aniserials/video/garems/2387-nepriznannyj-shkoloj-vladyka-demonov-2-sezon-2-chast.html",
+    "image": "/uploads/cards_image/2387/e/kupalnik-1762369634-628904.webp"
+  },
+  {
     "id": "65650",
     "name": "Нарита Таисин",
     "rank": "d",
