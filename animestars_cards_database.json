@@ -1,5 +1,141 @@
 [
   {
+    "id": "65650",
+    "name": "Нарита Таисин",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/d/narita-taisin-1762349977-971361.webp"
+  },
+  {
+    "id": "65649",
+    "name": "Селина Шерлок",
+    "rank": "b",
+    "animeName": "Тринити: Семеро магов - Вечная библиотека и девушка-алхимик",
+    "animeLink": "/aniserials/video/shounen/2590-triniti-semero-magov-vechnaja-biblioteka-i-devushka-alhimik.html",
+    "image": "/uploads/cards_image/2590/b/selina-sherlok-1762369258-933584.webp"
+  },
+  {
+    "id": "65645",
+    "name": "Фиона и Фрэнки",
+    "rank": "c",
+    "animeName": "Семья шпиона 3 сезон",
+    "animeLink": "/aniserials/video/shounen/3106-semja-shpiona-3.html",
+    "image": "/uploads/cards_image/3106/c/fiona-i-frjenki-1762349371-648027.webp"
+  },
+  {
+    "id": "65634",
+    "name": "Рэцу Унохана",
+    "rank": "s",
+    "animeName": "Блич",
+    "animeLink": "/aniserials/video/drama/208-blich.html",
+    "image": "/uploads/cards_image/208/s/rjecu-unohana-1762368462-665907.webp"
+  },
+  {
+    "id": "65633",
+    "name": "Горничная",
+    "rank": "e",
+    "animeName": "Боевая академия города Астериск",
+    "animeLink": "/aniserials/video/garems/477-boevaya-akademiya-goroda-asterisk-1-sezon.html",
+    "image": "/uploads/cards_image/477/e/gornichnaja-1762346399-682485.webp"
+  },
+  {
+    "id": "65632",
+    "name": "Выпьем?",
+    "rank": "e",
+    "animeName": "Песнь ночных сов",
+    "animeLink": "/aniserials/video/vampires/1442-pesn-nochnyh-sov-animestars.html",
+    "image": "/uploads/cards_image/1442/e/vypem-1762346386-11895.webp"
+  },
+  {
+    "id": "65627",
+    "name": "Мэй",
+    "rank": "a",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/a/mjej-1762363737-926298.webp"
+  },
+  {
+    "id": "65626",
+    "name": "Лайт",
+    "rank": "a",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/a/lajt-1762363626-207228.webp"
+  },
+  {
+    "id": "65625",
+    "name": "Флорейция Капистрано",
+    "rank": "s",
+    "animeName": "Тяжёлый объект",
+    "animeLink": "/aniserials/video/war/441-tyazhelyy-obekt.html",
+    "image": "/uploads/cards_image/441/s/florejcija-kapistrano-1762360472-654323.webp"
+  },
+  {
+    "id": "65624",
+    "name": "Синобу Осино",
+    "rank": "s",
+    "animeName": "История финала",
+    "animeLink": "/aniserials/video/adventure/2681-finalnye-istorii.html",
+    "image": "/uploads/cards_image/2681/s/sinobu-osino-1762341110-955446.webp"
+  },
+  {
+    "id": "65623",
+    "name": "Токунага",
+    "rank": "e",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/e/tokunaga-1762337076-971935.webp"
+  },
+  {
+    "id": "65622",
+    "name": "Репликатор",
+    "rank": "e",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/e/replikator-1762336935-173321.webp"
+  },
+  {
+    "id": "65621",
+    "name": "Альбиоре II",
+    "rank": "e",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/e/albiore-ii-1762363330-222951.webp"
+  },
+  {
+    "id": "65617",
+    "name": "Взгляд жестокого бога",
+    "rank": "e",
+    "animeName": "Бездомный бог",
+    "animeLink": "/aniserials/video/action/105-bezdomnyy-bog-2014.html",
+    "image": "/uploads/cards_image/105/e/vzgljad-zhestokogo-boga-1762363187-832984.webp"
+  },
+  {
+    "id": "65613",
+    "name": "В больнице",
+    "rank": "c",
+    "animeName": "Убивающая любовь",
+    "animeLink": "/aniserials/video/action/1353-ubivajuschaja-ljubov.html",
+    "image": "/uploads/cards_image/1353/c/v-bolnice-1762363039-954892.webp"
+  },
+  {
+    "id": "65612",
+    "name": "Учитель Мацуока",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/uchitel-macuoka-1762362939-773478.webp"
+  },
+  {
+    "id": "65608",
+    "name": "Чемпион",
+    "rank": "c",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/c/chempion-1762362787-872090.webp"
+  },
+  {
     "id": "65602",
     "name": "Сянъэр Чжао",
     "rank": "s",
