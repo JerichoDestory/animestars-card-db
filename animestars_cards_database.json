@@ -8,6 +8,150 @@
     "image": "/uploads/cards_image/2948/s/sjanjer-chzhao-1762325229-67535.webp"
   },
   {
+    "id": "65601",
+    "name": "Мари и Артур",
+    "rank": "c",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/c/mari-i-artur-1762315706-518724.webp"
+  },
+  {
+    "id": "65592",
+    "name": "Невеста",
+    "rank": "e",
+    "animeName": "Мои девушки",
+    "animeLink": "/aniserials/video/comedy/1120-moi-devushki.html",
+    "image": "/uploads/cards_image/1120/e/nevesta-1762309139-958634.webp"
+  },
+  {
+    "id": "65577",
+    "name": "Михаэль Кайзер",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/mihajel-kajzer-1762302024-831361.webp"
+  },
+  {
+    "id": "65574",
+    "name": "Моя мечта",
+    "rank": "e",
+    "animeName": "Дандадан 2",
+    "animeLink": "/aniserials/video/action/2960-dandadan-2-2025.html",
+    "image": "/uploads/cards_image/2960/e/moja-mechta-1762301320-538363.webp"
+  },
+  {
+    "id": "65573",
+    "name": "Оливер Айку",
+    "rank": "b",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/b/oliver-ajku-1762301179-370509.webp"
+  },
+  {
+    "id": "65570",
+    "name": "Нацу и Люси",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/nacu-i-ljusi-1762298495-760937.webp"
+  },
+  {
+    "id": "65569",
+    "name": "Уиннинг Тикит",
+    "rank": "b",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/b/uinning-tikit-1762297671-651141.webp"
+  },
+  {
+    "id": "65568",
+    "name": "Матиканэфукукитару",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/d/matikanjefukukitaru-1762344849-26054.webp"
+  },
+  {
+    "id": "65567",
+    "name": "Голд Шип",
+    "rank": "b",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/b/gold-ship-1762297587-113695.webp"
+  },
+  {
+    "id": "65566",
+    "name": "Эйсин Флэш",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/d/jejsin-fljesh-1762297535-772508.webp"
+  },
+  {
+    "id": "65565",
+    "name": "Мэдзиро Райан",
+    "rank": "d",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/d/mjedziro-rajan-1762297483-127433.webp"
+  },
+  {
+    "id": "65562",
+    "name": "Галан",
+    "rank": "d",
+    "animeName": "Семь смертных грехов: Четыре всадника Апокалипсиса",
+    "animeLink": "/aniserials/video/action/2208-sem-smertnyh-grehov-chetyre-vsadnika-apokalipsisa.html",
+    "image": "/uploads/cards_image/2208/d/galan-1762344474-155546.webp"
+  },
+  {
+    "id": "65559",
+    "name": "Леви и Гажил",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/levi-i-gazhil-1762296516-76032.webp"
+  },
+  {
+    "id": "65557",
+    "name": "Мар де Голль",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/b/mar-de-goll-1762296482-522979.webp"
+  },
+  {
+    "id": "65554",
+    "name": "Ёцуба Накано",
+    "rank": "a",
+    "animeName": "Пять невест: Спецвыпуски",
+    "animeLink": "/aniserials/video/shounen/3153-pjat-nevest-specvypuski.html",
+    "image": "/uploads/cards_image/3153/a/ecuba-nakano-1762294609-775870.webp"
+  },
+  {
+    "id": "65551",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Токийский гуль 4 сезон: Перерождение 2",
+    "animeLink": "/aniserials/video/shounen/2696-tokijskij-gul-pererozhdenie-2-2018.html",
+    "image": "/uploads/cards_image/2696/e/kuda-smotrish-1762343691-572491.webp"
+  },
+  {
+    "id": "65545",
+    "name": "Руйфон",
+    "rank": "b",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/b/rujfon-1762343471-468296.webp"
+  },
+  {
+    "id": "65544",
+    "name": "Чтение",
+    "rank": "e",
+    "animeName": "Грэй-мен 2 сезон",
+    "animeLink": "/aniserials/video/action/989-grjej-men-2-sezon.html",
+    "image": "/uploads/cards_image/989/e/chtenie-1762284894-527032.webp"
+  },
+  {
     "id": "65540",
     "name": "Отражение",
     "rank": "e",
