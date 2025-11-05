@@ -1,5 +1,29 @@
 [
   {
+    "id": "65540",
+    "name": "Отражение",
+    "rank": "e",
+    "animeName": "Грэй-мен 2 сезон",
+    "animeLink": "/aniserials/video/action/989-grjej-men-2-sezon.html",
+    "image": "/uploads/cards_image/989/e/otrazhenie-1762283466-744745.webp"
+  },
+  {
+    "id": "65536",
+    "name": "Сэйсиро и Сёэй",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/sjejsiro-i-sejej-1762298957-798634.webp"
+  },
+  {
+    "id": "65535",
+    "name": "Взгляд",
+    "rank": "e",
+    "animeName": "Окутывая небеса",
+    "animeLink": "/aniserials/video/adventure/2051-okutyvaja-nebesa.html",
+    "image": "/uploads/cards_image/2051/e/vzgljad-1762281885-812941.webp"
+  },
+  {
     "id": "65534",
     "name": "Ран Мори",
     "rank": "s",
@@ -8,12 +32,124 @@
     "image": "/uploads/cards_image/2116/s/ran-mori-1762281624-806340.webp"
   },
   {
+    "id": "65532",
+    "name": "Ёити и Мэгуру",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/eiti-i-mjeguru-1762298802-832768.webp"
+  },
+  {
+    "id": "65531",
+    "name": "Саньюань Ли",
+    "rank": "d",
+    "animeName": "Вечное царство богов",
+    "animeLink": "/aniserials/video/action/2588-vechnoe-carstvo-bogov.html",
+    "image": "/uploads/cards_image/2588/d/sanjuan-li-1762280405-53226.webp"
+  },
+  {
+    "id": "65528",
+    "name": "Нозоми Касаки",
+    "rank": "b",
+    "animeName": "Звучи, эуфониум",
+    "animeLink": "/aniserials/video/drama/1877-zvuchi-jeufonium.html",
+    "image": "/uploads/cards_image/1877/b/nozomi-kasaki-1762278317-614644.webp"
+  },
+  {
+    "id": "65527",
+    "name": "Куй Ли",
+    "rank": "d",
+    "animeName": "Вечное царство богов",
+    "animeLink": "/aniserials/video/action/2588-vechnoe-carstvo-bogov.html",
+    "image": "/uploads/cards_image/2588/d/kuj-li-1762278273-787208.webp"
+  },
+  {
+    "id": "65525",
+    "name": "Рука скелета",
+    "rank": "e",
+    "animeName": "Вечное царство богов",
+    "animeLink": "/aniserials/video/action/2588-vechnoe-carstvo-bogov.html",
+    "image": "/uploads/cards_image/2588/e/ruka-skeleta-1762277852-955795.webp"
+  },
+  {
+    "id": "65524",
+    "name": "Книга E.N.D.",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/kniga-e.n.d.-1762277844-764910.webp"
+  },
+  {
+    "id": "65521",
+    "name": "Звёздное небо",
+    "rank": "e",
+    "animeName": "Бездомный бог",
+    "animeLink": "/aniserials/video/action/105-bezdomnyy-bog-2014.html",
+    "image": "/uploads/cards_image/105/e/zvezdnoe-nebo-1762298269-443869.webp"
+  },
+  {
+    "id": "65518",
+    "name": "Повязка",
+    "rank": "e",
+    "animeName": "Меч сердца гор и рек",
+    "animeLink": "/aniserials/video/martial_arts/1875-mech-serdca-gor-i-rek.html",
+    "image": "/uploads/cards_image/1875/e/povjazka-1762268181-898626.webp"
+  },
+  {
+    "id": "65516",
+    "name": "Просветление",
+    "rank": "e",
+    "animeName": "Благословение небожителей",
+    "animeLink": "/aniserials/video/action/1021-blagoslovenie-nebozhitelej-animestars-2020.html",
+    "image": "/uploads/cards_image/1021/e/prosvetlenie-1762268176-781773.webp"
+  },
+  {
+    "id": "65515",
+    "name": "Щёчки",
+    "rank": "e",
+    "animeName": "Благословение небожителей",
+    "animeLink": "/aniserials/video/action/1021-blagoslovenie-nebozhitelej-animestars-2020.html",
+    "image": "/uploads/cards_image/1021/e/schechki-1762297894-361952.webp"
+  },
+  {
+    "id": "65509",
+    "name": "Моя мечта",
+    "rank": "e",
+    "animeName": "Поднятие уровня в одиночку 2 сезон: Восстаньте из тени",
+    "animeLink": "/aniserials/video/action/2745-podnjatie-urovnja-v-odinochku-2-sezon-vosstante-iz-teni-animestars.html",
+    "image": "/uploads/cards_image/2745/e/moja-mechta-1762297718-488344.webp"
+  },
+  {
+    "id": "65505",
+    "name": "Чтение",
+    "rank": "e",
+    "animeName": "Повелитель",
+    "animeLink": "/aniserials/video/garems/250-povelitel-1-sezon-2015.html",
+    "image": "/uploads/cards_image/250/e/chtenie-1762267006-883403.webp"
+  },
+  {
+    "id": "65501",
+    "name": "Жанна, Кай и Ринна",
+    "rank": "c",
+    "animeName": "Почему все забыли мой мир?",
+    "animeLink": "/aniserials/video/action/2524-pochemu-vse-zabyli-moj-mir-2024-v2.html",
+    "image": "/uploads/cards_image/2524/c/zhanna-kaj-i-rinna-1762297411-751913.webp"
+  },
+  {
     "id": "65499",
     "name": "Мами Нанами",
     "rank": "s",
     "animeName": "Девушка на час 4 сезон",
     "animeLink": "/aniserials/video/seinen/2953-devushka-na-chas-4.html",
     "image": "/uploads/cards_image/2953/s/mami-nanami-1762266017-655602.webp"
+  },
+  {
+    "id": "65496",
+    "name": "Долгий путь",
+    "rank": "c",
+    "animeName": "Яйба",
+    "animeLink": "/aniserials/video/seinen/2894-jajba.html",
+    "image": "/uploads/cards_image/2894/c/dolgij-put-1762297136-148757.webp"
   },
   {
     "id": "65494",
