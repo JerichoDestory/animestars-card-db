@@ -1,5 +1,77 @@
 [
   {
+    "id": "66056",
+    "name": "Пожиратель Луны",
+    "rank": "s",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/s/pozhiratel-luny-1762459869-892773.webp"
+  },
+  {
+    "id": "66040",
+    "name": "Маркс Франсуа",
+    "rank": "d",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/d/marks-fransua-1762469555-829818.webp"
+  },
+  {
+    "id": "66037",
+    "name": "Милли Максвелл",
+    "rank": "d",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/d/milli-maksvell-1762469468-61568.webp"
+  },
+  {
+    "id": "66036",
+    "name": "Юлий Новахроно",
+    "rank": "b",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/b/julij-novahrono-1762469344-788081.webp"
+  },
+  {
+    "id": "66035",
+    "name": "Салли",
+    "rank": "d",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/d/salli-1762469260-257133.webp"
+  },
+  {
+    "id": "66013",
+    "name": "Хэппи, Люси и Нацу",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/c/hjeppi-ljusi-i-nacu-1762468919-492335.webp"
+  },
+  {
+    "id": "66012",
+    "name": "Люси и Локи",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/c/ljusi-i-loki-1762450033-580185.webp"
+  },
+  {
+    "id": "66011",
+    "name": "Леви и Гажил",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/c/levi-i-gazhil-1762450022-524550.webp"
+  },
+  {
+    "id": "66010",
+    "name": "Жерар и Эрза",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/c/zherar-i-jerza-1762450011-851082.webp"
+  },
+  {
     "id": "65991",
     "name": "Хэин Чха",
     "rank": "sss",
