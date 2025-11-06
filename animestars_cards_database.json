@@ -1,5 +1,157 @@
 [
   {
+    "id": "65878",
+    "name": "Реви",
+    "rank": "sss",
+    "animeName": "Пираты черной лагуны: Кровавая тропа Роберты",
+    "animeLink": "/aniserials/video/drama/1836-piraty-chernoj-laguny-krovavaja-tropa-roberty.html",
+    "image": "/uploads/cards_image/1836/sss/revi-1762411520-201314_sss_animated.webp"
+  },
+  {
+    "id": "65877",
+    "name": "Сюэли Оуян",
+    "rank": "sss",
+    "animeName": "Шоколад Купидона",
+    "animeLink": "/aniserials/video/garems/263-kupidonov-shokolad-2015.html",
+    "image": "/uploads/cards_image/263/sss/sjujeli-oujan-1762411430-880846_sss_animated.webp"
+  },
+  {
+    "id": "65876",
+    "name": "Хаясэ Нагаторо",
+    "rank": "sss",
+    "animeName": "Не издевайся надо мной, Нагаторо 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1710-ne-izdevajsja-nado-mnoj-nagatoro-2-sezon.html",
+    "image": "/uploads/cards_image/1710/sss/hajasje-nagatoro-1762410425-561966_sss_animated.webp"
+  },
+  {
+    "id": "65875",
+    "name": "Анна Янами",
+    "rank": "sss",
+    "animeName": "Слишком много проигравших героинь!",
+    "animeLink": "/aniserials/video/romance/2525-slishkom-mnogo-proigravshih-geroin-2024-v2.html",
+    "image": "/uploads/cards_image/2525/sss/anna-janami-1762410340-953436_sss_animated.webp"
+  },
+  {
+    "id": "65873",
+    "name": "Соусэй оммёдзи",
+    "rank": "sss",
+    "animeName": "Две звезды оммёдзи",
+    "animeLink": "/aniserials/video/adventure/502-dve-zvezdy-ommedzi.html",
+    "image": "/uploads/cards_image/502/sss/sousjej-ommedzi-1762408994-36726_sss_animated.webp"
+  },
+  {
+    "id": "65872",
+    "name": "Син",
+    "rank": "sss",
+    "animeName": "Дорохедоро",
+    "animeLink": "/aniserials/video/action/664-dorohedoro.html",
+    "image": "/uploads/cards_image/664/sss/sin-1762408966-686050_sss_animated.webp"
+  },
+  {
+    "id": "65871",
+    "name": "Ульмандер",
+    "rank": "sss",
+    "animeName": "История о служащем, который стал одним из четырёх Небесных Царей, когда отправился в другой мир",
+    "animeLink": "/aniserials/video/comedy/2739-istorija-o-sluzhaschem-kotoryj-stal-odnim-iz-chetyreh-nebesnyh-carej-kogda-otpravilsja-v-drugoj-mir.html",
+    "image": "/uploads/cards_image/2739/sss/ulmander-1762408508-222026_sss_animated.webp"
+  },
+  {
+    "id": "65870",
+    "name": "Конго",
+    "rank": "sss",
+    "animeName": "Симфония морской стали",
+    "animeLink": "/aniserials/video/action/633-arpedzhio-goluboy-stali.html",
+    "image": "/uploads/cards_image/633/sss/kongo-1762408340-181302_sss_animated.webp"
+  },
+  {
+    "id": "65868",
+    "name": "Сан Сэто",
+    "rank": "sss",
+    "animeName": "Морская невеста",
+    "animeLink": "/aniserials/video/comedy/896-morskaja-nevesta.html",
+    "image": "/uploads/cards_image/896/sss/san-sjeto-1762406250-72639_sss_animated.webp"
+  },
+  {
+    "id": "65867",
+    "name": "Минако Айно",
+    "rank": "sss",
+    "animeName": "Красавица-воин Сейлор Мун 3 сезон",
+    "animeLink": "/aniserials/video/shoujo/2624-krasavica-voin-sejlor-mun-3-sezon.html",
+    "image": "/uploads/cards_image/2624/sss/minako-ajno-1762403727-594053_sss_animated.webp"
+  },
+  {
+    "id": "65866",
+    "name": "Даби",
+    "rank": "sss",
+    "animeName": "Моя геройская академия 2 сезон",
+    "animeLink": "/aniserials/video/action/54-moya-geroyskaya-akademiya-2-sezon-2017.html",
+    "image": "/uploads/cards_image/54/sss/dabi-1762403469-691804_sss_animated.webp"
+  },
+  {
+    "id": "65861",
+    "name": "Ярандрала",
+    "rank": "sss",
+    "animeName": "Меня выгнали из гильдии героев, потому что я был плохим компаньоном, поэтому я решил неспешно жить в глуши 2 сезон",
+    "animeLink": "/aniserials/video/natural/2292-menja-vygnali-iz-gildii-geroev-potomu-chto-ja-byl-plohim-kompanonom-pojetomu-ja-reshil-nespeshno-zhit-v-glushi-2-sezon.html",
+    "image": "/uploads/cards_image/2292/sss/jarandrala-1762400693-134772_sss_animated.webp"
+  },
+  {
+    "id": "65860",
+    "name": "Сакура Киномото",
+    "rank": "sss",
+    "animeName": "Сакура - собирательница карт 2 сезон: Прозрачные карты",
+    "animeLink": "/aniserials/video/shoujo/1652-sakura-sobiratelnica-kart-2-sezon.html",
+    "image": "/uploads/cards_image/1652/sss/sakura-kinomoto-1762400074-165434_sss_animated.webp"
+  },
+  {
+    "id": "65859",
+    "name": "Курапика",
+    "rank": "sss",
+    "animeName": "Охотник х Охотник",
+    "animeLink": "/aniserials/video/action/780-ohotnik-h-ohotnik.html",
+    "image": "/uploads/cards_image/780/sss/kurapika-1762400024-259350_sss_animated.webp"
+  },
+  {
+    "id": "65858",
+    "name": "Стаз Чарли Блад",
+    "rank": "sss",
+    "animeName": "Кровавый парень",
+    "animeLink": "/aniserials/video/vampires/340-krovavyy-paren.html",
+    "image": "/uploads/cards_image/340/sss/staz-charli-blad-1762399951-580023_sss_animated.webp"
+  },
+  {
+    "id": "65856",
+    "name": "Кагуя Синомия",
+    "rank": "sss",
+    "animeName": "Кагуя: В любви как на войне - Первый поцелуй никогда не заканчивается",
+    "animeLink": "/aniserials/video/drama/1823-kaguja-v-ljubvi-kak-na-vojne-pervyj-poceluj-nikogda-ne-zakanchivaetsja.html",
+    "image": "/uploads/cards_image/1823/sss/kaguja-sinomija-1762399875-297775_sss_animated.webp"
+  },
+  {
+    "id": "65855",
+    "name": "Аки Адагаки",
+    "rank": "sss",
+    "animeName": "Месть Масамунэ",
+    "animeLink": "/aniserials/video/garems/703-mest-masamune.html",
+    "image": "/uploads/cards_image/703/sss/aki-adagaki-1762399389-9592_sss_animated.webp"
+  },
+  {
+    "id": "65854",
+    "name": "Саки Рукино",
+    "rank": "sss",
+    "animeName": "Вальврейв Освободитель",
+    "animeLink": "/aniserials/video/action/125-valvreyv-osvoboditel-1-2-sezon.html",
+    "image": "/uploads/cards_image/125/sss/saki-rukino-1762398893-408234_sss_animated.webp"
+  },
+  {
+    "id": "65853",
+    "name": "Сигэкуни Ямамото-Гэнрюсай",
+    "rank": "sss",
+    "animeName": "Блич",
+    "animeLink": "/aniserials/video/drama/208-blich.html",
+    "image": "/uploads/cards_image/208/sss/sigjekuni-jamamoto-gjenrjusaj-1762398782-157203_sss_animated.webp"
+  },
+  {
     "id": "65841",
     "name": "Сиэль Фантомхайв",
     "rank": "sss",
