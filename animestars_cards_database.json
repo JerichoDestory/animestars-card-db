@@ -1,5 +1,21 @@
 [
   {
+    "id": "65841",
+    "name": "Сиэль Фантомхайв",
+    "rank": "sss",
+    "animeName": "Тёмный дворецкий",
+    "animeLink": "/aniserials/video/detective/823-temnyj-dvoreckij-1-sezon.html",
+    "image": "/uploads/cards_image/823/sss/sijel-fantomhajv-1762388197-376163_sss_animated.webp"
+  },
+  {
+    "id": "65840",
+    "name": "Миё Сасаки",
+    "rank": "sss",
+    "animeName": "Сквозь слёзы я притворяюсь кошкой",
+    "animeLink": "/aniserials/video/drama/2266-skvoz-slezy-ja-pritvorjajus-koshkoj.html",
+    "image": "/uploads/cards_image/2266/sss/mie-sasaki-1762388133-720599_sss_animated.webp"
+  },
+  {
     "id": "65838",
     "name": "Рей Аянами",
     "rank": "sss",
@@ -814,6 +830,14 @@
     "animeName": "Один на вылет",
     "animeLink": "/aniserials/video/psychological/539-odin-na-vylet.html",
     "image": "/uploads/cards_image/539/sss/toa-tokuti-1762372569-229978_sss_animated.webp"
+  },
+  {
+    "id": "65707",
+    "name": "Надзуна",
+    "rank": "b",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/b/nadzuna-1762387922-716719.webp"
   },
   {
     "id": "65699",
