@@ -1,5 +1,53 @@
 [
   {
+    "id": "65838",
+    "name": "Рей Аянами",
+    "rank": "sss",
+    "animeName": "Евангелион: Смерть и перерождение",
+    "animeLink": "/aniserials/video/drama/1754-evangelion-smert-i-pererozhdenie.html",
+    "image": "/uploads/cards_image/1754/sss/rej-ajanami-1762387671-293141_sss_animated.webp"
+  },
+  {
+    "id": "65837",
+    "name": "Ирина Сидо",
+    "rank": "sss",
+    "animeName": "Демоны старшей школы 2 сезон",
+    "animeLink": "/aniserials/video/vampires/172-demony-starshey-shkoly-2-sezon-2013.html",
+    "image": "/uploads/cards_image/172/sss/irina-sido-1762387591-485487_sss_animated.webp"
+  },
+  {
+    "id": "65836",
+    "name": "Джорно Джованна",
+    "rank": "sss",
+    "animeName": "Невероятные приключения Джоджо 5 сезон: Золотой ветер",
+    "animeLink": "/aniserials/video/action/387-neveroyatnye-priklyucheniya-dzhodzho-5-sezon.html",
+    "image": "/uploads/cards_image/387/sss/dzhorno-dzhovanna-1762385185-638665_sss_animated.webp"
+  },
+  {
+    "id": "65833",
+    "name": "Тереза",
+    "rank": "sss",
+    "animeName": "Клеймор",
+    "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
+    "image": "/uploads/cards_image/32/sss/tereza-1762384722-406637_sss_animated.webp"
+  },
+  {
+    "id": "65831",
+    "name": "Леви",
+    "rank": "sss",
+    "animeName": "Вторжение гигантов",
+    "animeLink": "/aniserials/video/war/151-vtorzhenie-gigantov-2013-as.html",
+    "image": "/uploads/cards_image/151/sss/levi-1762384491-67237_sss_animated.webp"
+  },
+  {
+    "id": "65829",
+    "name": "Эмилия",
+    "rank": "sss",
+    "animeName": "Жизнь в альтернативном мире с нуля",
+    "animeLink": "/aniserials/video/drama/9-zhizn-v-alternativnom-mire-s-nulya-2016.html",
+    "image": "/uploads/cards_image/9/sss/jemilija-1762384364-374577_sss_animated.webp"
+  },
+  {
     "id": "65825",
     "name": "Такаши Нацумэ",
     "rank": "sss",
@@ -766,6 +814,86 @@
     "animeName": "Один на вылет",
     "animeLink": "/aniserials/video/psychological/539-odin-na-vylet.html",
     "image": "/uploads/cards_image/539/sss/toa-tokuti-1762372569-229978_sss_animated.webp"
+  },
+  {
+    "id": "65699",
+    "name": "Аоюки",
+    "rank": "b",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/b/aojuki-1762387697-690408.webp"
+  },
+  {
+    "id": "65698",
+    "name": "Ханна",
+    "rank": "d",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/d/hanna-1762387638-333412.webp"
+  },
+  {
+    "id": "65684",
+    "name": "Фэй, Вейн и Сяо",
+    "rank": "c",
+    "animeName": "Агент Времени 3 сезон: Глава Инду",
+    "animeLink": "/aniserials/video/drama/2736-agent-vremeni-3-sezon-2024.html",
+    "image": "/uploads/cards_image/2736/c/fjej-vejn-i-sjao-1762387405-313906.webp"
+  },
+  {
+    "id": "65682",
+    "name": "Бертик",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/bertik-1762357679-406408.webp"
+  },
+  {
+    "id": "65681",
+    "name": "Аркеопс",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/arkeops-1762357669-835643.webp"
+  },
+  {
+    "id": "65680",
+    "name": "Аломомола",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/alomomola-1762357657-395050.webp"
+  },
+  {
+    "id": "65679",
+    "name": "Акселгор",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/akselgor-1762357645-60262.webp"
+  },
+  {
+    "id": "65677",
+    "name": "Марузенски",
+    "rank": "b",
+    "animeName": "Девушки-пони: Славное дерби",
+    "animeLink": "/aniserials/video/kemonobito/298-devushki-poni-slavnoe-derbi.html",
+    "image": "/uploads/cards_image/298/b/maruzenski-1762354794-51328.webp"
+  },
+  {
+    "id": "65676",
+    "name": "Риза",
+    "rank": "b",
+    "animeName": "Другой мир не может противостоять силе мгновенной смерти",
+    "animeLink": "/aniserials/video/comedy/2279-drugoj-mir-ne-mozhet-protivostojat-sile-mgnovennoj-smerti.html",
+    "image": "/uploads/cards_image/2279/b/riza-1762386820-599714.webp"
+  },
+  {
+    "id": "65675",
+    "name": "Лейн",
+    "rank": "b",
+    "animeName": "Другой мир не может противостоять силе мгновенной смерти",
+    "animeLink": "/aniserials/video/comedy/2279-drugoj-mir-ne-mozhet-protivostojat-sile-mgnovennoj-smerti.html",
+    "image": "/uploads/cards_image/2279/b/lejn-1762386786-997343.webp"
   },
   {
     "id": "65674",
