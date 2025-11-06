@@ -224,6 +224,22 @@
     "image": "/uploads/cards_image/2761/sss/juri-1762435602-218057_sss_animated.webp"
   },
   {
+    "id": "65960",
+    "name": "Смущение",
+    "rank": "e",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/e/smuschenie-1762455226-482414.webp"
+  },
+  {
+    "id": "65957",
+    "name": "Платье Валькирии",
+    "rank": "e",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/e/plate-valkirii-1762455077-115732.webp"
+  },
+  {
     "id": "65956",
     "name": "Кёя Хибари",
     "rank": "sss",
@@ -240,12 +256,108 @@
     "image": "/uploads/cards_image/2127/sss/jona-1762435188-147686_sss_animated.webp"
   },
   {
+    "id": "65950",
+    "name": "Пляж",
+    "rank": "e",
+    "animeName": "Учитель-мафиози Реборн!",
+    "animeLink": "/aniserials/video/comedy/238-uchitel-mafiozi-reborn.html",
+    "image": "/uploads/cards_image/238/e/pljazh-1762433988-306396.webp"
+  },
+  {
+    "id": "65949",
+    "name": "Гэн Фукаку",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/gjen-fukaku-1762433127-84449.webp"
+  },
+  {
+    "id": "65945",
+    "name": "Анри Тэйэри",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/anri-tjejjeri-1762431476-63090.webp"
+  },
+  {
+    "id": "65943",
+    "name": "Колода",
+    "rank": "e",
+    "animeName": "Парадокс в прямом эфире",
+    "animeLink": "/aniserials/video/drama/2179-paradoks-v-prjamom-jefire.html",
+    "image": "/uploads/cards_image/2179/e/koloda-1762428640-966207.webp"
+  },
+  {
+    "id": "65939",
+    "name": "Рин и Ёити",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/rin-i-eiti-1762451578-233775.webp"
+  },
+  {
+    "id": "65938",
+    "name": "Сэйсиро и Рэо",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/sjejsiro-i-rjeo-1762451431-315073.webp"
+  },
+  {
+    "id": "65937",
+    "name": "Фу Ло и Лайкэсы И",
+    "rank": "c",
+    "animeName": "Трон, отмеченный богом: Легенда о Лайкэсы И",
+    "animeLink": "/aniserials/video/action/2927-tron-otmechennyj-bogom-legenda-o-lajkjesy-i.html",
+    "image": "/uploads/cards_image/2927/c/fu-lo-i-lajkjesy-i-1762451283-254648.webp"
+  },
+  {
+    "id": "65934",
+    "name": "Нэмуму",
+    "rank": "b",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/b/njemumu-1762451173-878560.webp"
+  },
+  {
+    "id": "65926",
+    "name": "Юкари Камисиро",
+    "rank": "d",
+    "animeName": "Секрет Харуки Ногидзаки",
+    "animeLink": "/aniserials/video/comedy/1167-sekret-haruki-nogidzaki-1-sezon.html",
+    "image": "/uploads/cards_image/1167/d/jukari-kamisiro-1762450846-502059.webp"
+  },
+  {
     "id": "65925",
     "name": "Мэгумин",
     "rank": "sss",
     "animeName": "Этот замечательный мир! 2 сезон",
     "animeLink": "/aniserials/video/garems/73-etot-zamechatelnyy-mir-tv-2-animestars.html",
     "image": "/uploads/cards_image/73/sss/mjegumin-1762420591-393144_sss_animated.webp"
+  },
+  {
+    "id": "65924",
+    "name": "Дух Обжоры",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/duh-obzhory-1762450669-690072.webp"
+  },
+  {
+    "id": "65923",
+    "name": "Говори громче",
+    "rank": "c",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/c/govori-gromche-1762450607-676274.webp"
+  },
+  {
+    "id": "65922",
+    "name": "Субару Хосина",
+    "rank": "s",
+    "animeName": "Благоухающий цветок расцветает с достоинством",
+    "animeLink": "/aniserials/video/drama/2975-blagouhajuschij-cvetok-rascvetaet-s-dostoinstvom-2025.html",
+    "image": "/uploads/cards_image/2975/s/subaru-hosina-1762447776-102810.webp"
   },
   {
     "id": "65920",
@@ -286,6 +398,14 @@
     "animeName": "Рандеву с жизнью",
     "animeLink": "/aniserials/video/garems/69-svidanie-s-duhom-randevu-s-zhiznyu-tv-1.html",
     "image": "/uploads/cards_image/69/sss/toka-jatogami-1762418472-417750_sss_animated.webp"
+  },
+  {
+    "id": "65914",
+    "name": "Хадзуки Сакурадзака",
+    "rank": "b",
+    "animeName": "Секрет Харуки Ногидзаки",
+    "animeLink": "/aniserials/video/comedy/1167-sekret-haruki-nogidzaki-1-sezon.html",
+    "image": "/uploads/cards_image/1167/b/hadzuki-sakuradzaka-1762450285-606480.webp"
   },
   {
     "id": "65913",
@@ -392,6 +512,22 @@
     "image": "/uploads/cards_image/2116/sss/pod-prikrytiem-1762415377-120211_sss_animated.webp"
   },
   {
+    "id": "65895",
+    "name": "Цветочное поле",
+    "rank": "e",
+    "animeName": "Зомбиленд. Сага 2 сезон: Месть",
+    "animeLink": "/aniserials/video/comedy/1101-zombilend-saga-2-sezon.html",
+    "image": "/uploads/cards_image/1101/e/cvetochnoe-pole-1762415390-995192.webp"
+  },
+  {
+    "id": "65893",
+    "name": "Югири",
+    "rank": "a",
+    "animeName": "Зомбиленд. Сага 2 сезон: Месть",
+    "animeLink": "/aniserials/video/comedy/1101-zombilend-saga-2-sezon.html",
+    "image": "/uploads/cards_image/1101/a/jugiri-1762415213-731401.webp"
+  },
+  {
     "id": "65892",
     "name": "Неллиел Ту Одершванк",
     "rank": "sss",
@@ -440,12 +576,44 @@
     "image": "/uploads/cards_image/185/sss/chember-1762412348-212970_sss_animated.webp"
   },
   {
+    "id": "65885",
+    "name": "Улыбка",
+    "rank": "e",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/e/ulybka-1762448951-112485.webp"
+  },
+  {
+    "id": "65884",
+    "name": "Шалость",
+    "rank": "e",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/e/shalost-1762448906-251678.webp"
+  },
+  {
+    "id": "65883",
+    "name": "Сяомэй Хоу и Синьци Чжоу",
+    "rank": "c",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/c/sjaomjej-hou-i-sinci-chzhou-1762448822-323480.webp"
+  },
+  {
     "id": "65882",
     "name": "Фейт Графайт",
     "rank": "sss",
     "animeName": "Ненасытный Берсерк",
     "animeLink": "/aniserials/video/drama/2167-nenasytnyj-berserk.html",
     "image": "/uploads/cards_image/2167/sss/fejt-grafajt-1762411868-362893_sss_animated.webp"
+  },
+  {
+    "id": "65881",
+    "name": "Цинжоу Чэнь",
+    "rank": "d",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/d/cinzhou-chjen-1762448747-545206.webp"
   },
   {
     "id": "65880",
@@ -542,6 +710,14 @@
     "animeName": "Моя геройская академия 2 сезон",
     "animeLink": "/aniserials/video/action/54-moya-geroyskaya-akademiya-2-sezon-2017.html",
     "image": "/uploads/cards_image/54/sss/dabi-1762403469-691804_sss_animated.webp"
+  },
+  {
+    "id": "65863",
+    "name": "Разговор по душам",
+    "rank": "c",
+    "animeName": "Конец Евангелиона",
+    "animeLink": "/aniserials/video/drama/1730-konec-evangeliona.html",
+    "image": "/uploads/cards_image/1730/c/razgovor-po-dusham-1762447906-932527.webp"
   },
   {
     "id": "65861",
@@ -1152,6 +1328,14 @@
     "image": "/uploads/cards_image/376/sss/sudzuka-nagami-1762378158-35763_sss_animated.webp"
   },
   {
+    "id": "65772",
+    "name": "Сюань Хэ",
+    "rank": "d",
+    "animeName": "Благословение небожителей 2 сезон",
+    "animeLink": "/aniserials/video/drama/2214-blagoslovenie-nebozhitelej-2-sezon.html",
+    "image": "/uploads/cards_image/2214/d/sjuan-hje-1762434047-780606.webp"
+  },
+  {
     "id": "65771",
     "name": "Аваюки Кокоронэ",
     "rank": "sss",
@@ -1448,6 +1632,14 @@
     "image": "/uploads/cards_image/2385/sss/kotori-icuka-1762374012-37199_sss_animated.webp"
   },
   {
+    "id": "65731",
+    "name": "Поцелуй",
+    "rank": "c",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/c/poceluj-1762374005-708803.webp"
+  },
+  {
     "id": "65730",
     "name": "Дзэнъицу Агацума",
     "rank": "sss",
@@ -1512,6 +1704,14 @@
     "image": "/uploads/cards_image/2114/sss/rjecu-unohana-1762373406-812373_sss_animated.webp"
   },
   {
+    "id": "65722",
+    "name": "Гай и Мэрибелл",
+    "rank": "c",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/c/gaj-i-mjeribell-1762372541-31426.webp"
+  },
+  {
     "id": "65721",
     "name": "Атри",
     "rank": "sss",
@@ -1526,6 +1726,30 @@
     "animeName": "Один на вылет",
     "animeLink": "/aniserials/video/psychological/539-odin-na-vylet.html",
     "image": "/uploads/cards_image/539/sss/toa-tokuti-1762372569-229978_sss_animated.webp"
+  },
+  {
+    "id": "65718",
+    "name": "Август",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/b/avgust-1762371210-805440.webp"
+  },
+  {
+    "id": "65717",
+    "name": "Ёити, Сэйсиро и Мэгуру",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/eiti-sjejsiro-i-mjeguru-1762433566-159956.webp"
+  },
+  {
+    "id": "65716",
+    "name": "Вот Тиктоки",
+    "rank": "e",
+    "animeName": "Сказания бездны",
+    "animeLink": "/aniserials/video/drama/613-skazaniya-bezdny.html",
+    "image": "/uploads/cards_image/613/e/vot-tiktoki-1762370961-719657.webp"
   },
   {
     "id": "65707",
