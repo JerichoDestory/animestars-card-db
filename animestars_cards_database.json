@@ -1,5 +1,117 @@
 [
   {
+    "id": "66134",
+    "name": "Поцелуй",
+    "rank": "c",
+    "animeName": "Иная",
+    "animeLink": "/aniserials/video/detective/450-inaya.html",
+    "image": "/uploads/cards_image/450/c/poceluj-1762488121-71129.webp"
+  },
+  {
+    "id": "66131",
+    "name": "Закат",
+    "rank": "e",
+    "animeName": "Иная",
+    "animeLink": "/aniserials/video/detective/450-inaya.html",
+    "image": "/uploads/cards_image/450/e/zakat-1762485232-501934.webp"
+  },
+  {
+    "id": "66117",
+    "name": "Юмэ и Ёмоги",
+    "rank": "c",
+    "animeName": "Диназенон",
+    "animeLink": "/aniserials/video/action/1143-dinazenon.html",
+    "image": "/uploads/cards_image/1143/c/jumje-i-emogi-1762470828-905618.webp"
+  },
+  {
+    "id": "66113",
+    "name": "Секре Сваллоутейл",
+    "rank": "b",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/b/sekre-svalloutejl-1762505487-306462.webp"
+  },
+  {
+    "id": "66099",
+    "name": "Саша",
+    "rank": "d",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/d/sasha-1762505066-860280.webp"
+  },
+  {
+    "id": "66095",
+    "name": "Танец меча",
+    "rank": "e",
+    "animeName": "Убийца богов 3 сезон",
+    "animeLink": "/aniserials/video/action/2946-ubijca-bogov-3.html",
+    "image": "/uploads/cards_image/2946/e/tanec-mecha-1762465718-828793.webp"
+  },
+  {
+    "id": "66092",
+    "name": "Повязка",
+    "rank": "e",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/e/povjazka-1762504668-157301.webp"
+  },
+  {
+    "id": "66087",
+    "name": "Разбитая коленка",
+    "rank": "e",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/e/razbitaja-kolenka-1762504556-808722.webp"
+  },
+  {
+    "id": "66086",
+    "name": "Аой и Сюмпэй",
+    "rank": "c",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/c/aoj-i-sjumpjej-1762504484-826557.webp"
+  },
+  {
+    "id": "66083",
+    "name": "Моя мечта",
+    "rank": "e",
+    "animeName": "Данганронпа 3: Будущее",
+    "animeLink": "/aniserials/video/detective/1505-danganronpa-3-buduschee-2016.html",
+    "image": "/uploads/cards_image/1505/e/moja-mechta-1762464728-850915.webp"
+  },
+  {
+    "id": "66082",
+    "name": "Флаг душ",
+    "rank": "e",
+    "animeName": "Противостояние святого",
+    "animeLink": "/aniserials/video/drama/2158-protivostojanie-svjatogo.html",
+    "image": "/uploads/cards_image/2158/e/flag-dush-1762464715-958718.webp"
+  },
+  {
+    "id": "66074",
+    "name": "Аска и Рей",
+    "rank": "c",
+    "animeName": "Евангелион",
+    "animeLink": "/aniserials/video/action/608-evangelion.html",
+    "image": "/uploads/cards_image/608/c/aska-i-rej-1762463695-240238.webp"
+  },
+  {
+    "id": "66070",
+    "name": "Йоу!",
+    "rank": "e",
+    "animeName": "Дни Сакамото. Часть 2",
+    "animeLink": "/aniserials/video/shounen/2978-dni-sakamoto-chast-2.html",
+    "image": "/uploads/cards_image/2978/e/jou-1762463453-420432.webp"
+  },
+  {
+    "id": "66062",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Чемпион!",
+    "animeLink": "/aniserials/video/garems/603-chempion.html",
+    "image": "/uploads/cards_image/603/e/pojdem-so-mnoj-1762504183-986840.webp"
+  },
+  {
     "id": "66056",
     "name": "Пожиратель Луны",
     "rank": "s",
