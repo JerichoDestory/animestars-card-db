@@ -1,11 +1,171 @@
 [
   {
+    "id": "66381",
+    "name": "Каору и Луна",
+    "rank": "c",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/c/kaoru-i-luna-1762595179-753471.webp"
+  },
+  {
+    "id": "66380",
+    "name": "Шарла",
+    "rank": "a",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/a/sharla-1762595129-435502.webp"
+  },
+  {
+    "id": "66379",
+    "name": "Чако",
+    "rank": "a",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/a/chako-1762595090-145454.webp"
+  },
+  {
+    "id": "66375",
+    "name": "Коронная шутка",
+    "rank": "e",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/e/koronnaja-shutka-1762587028-217290.webp"
+  },
+  {
+    "id": "66374",
+    "name": "Сяо и Янь Сяо",
+    "rank": "c",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/c/sjao-i-jan-sjao-1762614228-123868.webp"
+  },
+  {
+    "id": "66371",
+    "name": "Отражение",
+    "rank": "e",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/e/otrazhenie-1762613953-972456.webp"
+  },
+  {
+    "id": "66369",
+    "name": "Харука Киёминэ",
+    "rank": "a",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/a/haruka-kieminje-1762586649-218462.webp"
+  },
+  {
+    "id": "66367",
+    "name": "Бьякуя",
+    "rank": "d",
+    "animeName": "Повар небесной гостиницы",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/279-povar-nebesnoy-gostinicy.html",
+    "image": "/uploads/cards_image/279/d/bjakuja-1762584294-666537.webp"
+  },
+  {
+    "id": "66366",
+    "name": "Снимаю",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/snimaju-1762613409-290140.webp"
+  },
+  {
+    "id": "66365",
+    "name": "Рэй",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/rjej-1762613326-725147.webp"
+  },
+  {
+    "id": "66364",
+    "name": "Рику Канамэ",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/riku-kanamje-1762613268-897910.webp"
+  },
+  {
+    "id": "66363",
+    "name": "Рисунок",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/risunok-1762613183-823021.webp"
+  },
+  {
+    "id": "66362",
+    "name": "Приворотный корень",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/privorotnyj-koren-1762613132-32267.webp"
+  },
+  {
     "id": "66341",
     "name": "Эпсилон",
     "rank": "s",
     "animeName": "Восхождение в тени 2 сезон",
     "animeLink": "/aniserials/video/action/2181-voshozhdenie-v-teni-2-sezon-2023-as.html",
     "image": "/uploads/cards_image/2181/s/jepsilon-1762561141-674453.webp"
+  },
+  {
+    "id": "66340",
+    "name": "Мираджейн и Лаксус",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/miradzhejn-i-laksus-1762612971-290986.webp"
+  },
+  {
+    "id": "66339",
+    "name": "Роуг и Стинг",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/roug-i-sting-1762559125-121592.webp"
+  },
+  {
+    "id": "66338",
+    "name": "Роуг и Фрош",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/roug-i-frosh-1762559018-267877.webp"
+  },
+  {
+    "id": "66328",
+    "name": "Тише",
+    "rank": "e",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/e/tishe-1762555551-432411.webp"
+  },
+  {
+    "id": "66326",
+    "name": "Предложение",
+    "rank": "e",
+    "animeName": "Учитель-мафиози Реборн!",
+    "animeLink": "/aniserials/video/comedy/238-uchitel-mafiozi-reborn.html",
+    "image": "/uploads/cards_image/238/e/predlozhenie-1762554124-637584.webp"
+  },
+  {
+    "id": "66323",
+    "name": "Цунаёши и Нацу",
+    "rank": "c",
+    "animeName": "Учитель-мафиози Реборн!",
+    "animeLink": "/aniserials/video/comedy/238-uchitel-mafiozi-reborn.html",
+    "image": "/uploads/cards_image/238/c/cunaeshi-i-nacu-1762553669-592948.webp"
+  },
+  {
+    "id": "66318",
+    "name": "Кадис Этрама Д. Рейзел Ноблесс",
+    "rank": "a",
+    "animeName": "Дворянство: Начало разрушения",
+    "animeLink": "/aniserials/video/action/2733-dvorjanstvo-nachalo-razrushenija.html",
+    "image": "/uploads/cards_image/2733/a/kadis-jetrama-d.-rejzel-nobless-1762612284-280117.webp"
   },
   {
     "id": "66317",
