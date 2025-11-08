@@ -1,11 +1,227 @@
 [
   {
+    "id": "66341",
+    "name": "Эпсилон",
+    "rank": "s",
+    "animeName": "Восхождение в тени 2 сезон",
+    "animeLink": "/aniserials/video/action/2181-voshozhdenie-v-teni-2-sezon-2023-as.html",
+    "image": "/uploads/cards_image/2181/s/jepsilon-1762561141-674453.webp"
+  },
+  {
+    "id": "66317",
+    "name": "Радес Спирито",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/rades-spirito-1762551550-213546.webp"
+  },
+  {
+    "id": "66310",
+    "name": "Вид сверху",
+    "rank": "e",
+    "animeName": "Кайдзю номер восемь 2",
+    "animeLink": "/aniserials/video/shounen/2965-kajdzju-nomer-vosem-2.html",
+    "image": "/uploads/cards_image/2965/e/vid-sverhu-1762562160-155788.webp"
+  },
+  {
+    "id": "66306",
+    "name": "Ветто",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/vetto-1762549410-455135.webp"
+  },
+  {
+    "id": "66305",
+    "name": "Лайер",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/lajer-1762548405-669962.webp"
+  },
+  {
+    "id": "66301",
+    "name": "Мандариновая панда",
+    "rank": "e",
+    "animeName": "Выходной Господина Злодея",
+    "animeLink": "/aniserials/video/comedy/2294-vyhodnoj-gospodina-zlodeja.html",
+    "image": "/uploads/cards_image/2294/e/mandarinovaja-panda-1762561911-240846.webp"
+  },
+  {
     "id": "66297",
     "name": "Лай Торден",
     "rank": "s",
     "animeName": "Подземелье вкусностей",
     "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
     "image": "/uploads/cards_image/2278/s/laj-torden-1762541390-825696.webp"
+  },
+  {
+    "id": "66295",
+    "name": "Доминант Код",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/dominant-kod-1762540814-414328.webp"
+  },
+  {
+    "id": "66292",
+    "name": "Син Чжай",
+    "rank": "b",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/b/sin-chzhaj-1762561743-432856.webp"
+  },
+  {
+    "id": "66289",
+    "name": "Эна Сэйшуин",
+    "rank": "a",
+    "animeName": "Чемпион!",
+    "animeLink": "/aniserials/video/garems/603-chempion.html",
+    "image": "/uploads/cards_image/603/a/jena-sjejshuin-1762539182-803716.webp"
+  },
+  {
+    "id": "66285",
+    "name": "Каору и Луи",
+    "rank": "c",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/c/kaoru-i-lui-1762537704-472009.webp"
+  },
+  {
+    "id": "66284",
+    "name": "Зильба",
+    "rank": "d",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/d/zilba-1762537672-219606.webp"
+  },
+  {
+    "id": "66283",
+    "name": "Фанзель Крюгер",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/fanzel-krjuger-1762537134-488676.webp"
+  },
+  {
+    "id": "66282",
+    "name": "Амору",
+    "rank": "a",
+    "animeName": "Вечность Югурэ",
+    "animeLink": "/aniserials/video/romance/3094-vechnost-jugurje.html",
+    "image": "/uploads/cards_image/3094/a/amoru-1762537093-915682.webp"
+  },
+  {
+    "id": "66281",
+    "name": "Кэтчер",
+    "rank": "e",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/e/kjetcher-1762536711-903632.webp"
+  },
+  {
+    "id": "66280",
+    "name": "Питчер",
+    "rank": "e",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/e/pitcher-1762536521-205980.webp"
+  },
+  {
+    "id": "66279",
+    "name": "Лотус Хумолт",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/lotus-humolt-1762536651-306133.webp"
+  },
+  {
+    "id": "66278",
+    "name": "Акито Кирисима",
+    "rank": "b",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/b/akito-kirisima-1762536493-10875.webp"
+  },
+  {
+    "id": "66277",
+    "name": "Луи",
+    "rank": "d",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/d/lui-1762536463-577539.webp"
+  },
+  {
+    "id": "66275",
+    "name": "Джек-потрошитель",
+    "rank": "b",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/b/dzhek-potroshitel-1762560166-100053.webp"
+  },
+  {
+    "id": "66274",
+    "name": "Токи Камисато",
+    "rank": "b",
+    "animeName": "Альма хочет стать семьёй",
+    "animeLink": "/aniserials/video/comedy/3124-alma-hochet-stat-semej.html",
+    "image": "/uploads/cards_image/3124/b/toki-kamisato-1762535338-229195.webp"
+  },
+  {
+    "id": "66272",
+    "name": "Токоё Омоиканэ",
+    "rank": "d",
+    "animeName": "Альма хочет стать семьёй",
+    "animeLink": "/aniserials/video/comedy/3124-alma-hochet-stat-semej.html",
+    "image": "/uploads/cards_image/3124/d/tokoe-omoikanje-1762535016-806396.webp"
+  },
+  {
+    "id": "66269",
+    "name": "Мимикку Такарада",
+    "rank": "b",
+    "animeName": "Альма хочет стать семьёй",
+    "animeLink": "/aniserials/video/comedy/3124-alma-hochet-stat-semej.html",
+    "image": "/uploads/cards_image/3124/b/mimikku-takarada-1762559785-65043.webp"
+  },
+  {
+    "id": "66266",
+    "name": "Сердечко",
+    "rank": "e",
+    "animeName": "Одинокий рокер",
+    "animeLink": "/aniserials/video/comedy/1557-odinokij-roker.html",
+    "image": "/uploads/cards_image/1557/e/serdechko-1762559620-987706.webp"
+  },
+  {
+    "id": "66265",
+    "name": "Эмили",
+    "rank": "d",
+    "animeName": "Тандзабуро Тодзима хочет стать Наездником в маске",
+    "animeLink": "/aniserials/video/seinen/3113-tandzaburo-todzima-hochet-stat-naezdnikom-v-maske.html",
+    "image": "/uploads/cards_image/3113/d/jemili-1762559494-454307.webp"
+  },
+  {
+    "id": "66262",
+    "name": "Икки Нико",
+    "rank": "b",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/b/ikki-niko-1762533573-221175.webp"
+  },
+  {
+    "id": "66261",
+    "name": "Котаро Тацуми",
+    "rank": "a",
+    "animeName": "Зомбиленд. Сага 2 сезон: Месть",
+    "animeLink": "/aniserials/video/comedy/1101-zombilend-saga-2-sezon.html",
+    "image": "/uploads/cards_image/1101/a/kotaro-tacumi-1762533352-554597.webp"
+  },
+  {
+    "id": "66252",
+    "name": "Джувия и Люси",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/dzhuvija-i-ljusi-1762532806-908488.webp"
   },
   {
     "id": "66242",
@@ -16,12 +232,52 @@
     "image": "/uploads/cards_image/2655/s/saje-itosi-1762532100-321916.webp"
   },
   {
+    "id": "66238",
+    "name": "Люси, Нацу и Хэппи",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/ljusi-nacu-i-hjeppi-1762558680-402924.webp"
+  },
+  {
+    "id": "66237",
+    "name": "Пантер, Леви и Гажил",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/panter-levi-i-gazhil-1762558612-861338.webp"
+  },
+  {
     "id": "66236",
     "name": "Собери их всех!",
     "rank": "s",
     "animeName": "Покемон",
     "animeLink": "/aniserials/video/action/2919-pokemon.html",
     "image": "/uploads/cards_image/2919/s/soberi-ih-vseh-1762531520-577316.webp"
+  },
+  {
+    "id": "66232",
+    "name": "Анголмуа",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/angolmua-1762558411-763542.webp"
+  },
+  {
+    "id": "66231",
+    "name": "Токо Миясэ",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/toko-mijasje-1762558307-772404.webp"
+  },
+  {
+    "id": "66230",
+    "name": "Школьная форма",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/shkolnaja-forma-1762558202-885852.webp"
   },
   {
     "id": "66217",
