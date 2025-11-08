@@ -1,5 +1,165 @@
 [
   {
+    "id": "66482",
+    "name": "Кайто Куроба",
+    "rank": "s",
+    "animeName": "Волшебник Кайто 1412",
+    "animeLink": "/aniserials/video/comedy/373-volshebnik-kayto-1412.html",
+    "image": "/uploads/cards_image/373/s/kajto-kuroba-1762629407-69443.webp"
+  },
+  {
+    "id": "66442",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/e/pojdem-so-mnoj-1762616868-645965.webp"
+  },
+  {
+    "id": "66441",
+    "name": "Полт",
+    "rank": "b",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/b/polt-1762616549-4468.webp"
+  },
+  {
+    "id": "66440",
+    "name": "Юнь Гунсунь",
+    "rank": "b",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/b/jun-gunsun-1762634266-867462.webp"
+  },
+  {
+    "id": "66439",
+    "name": "Сяошань Сюй",
+    "rank": "d",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/d/sjaoshan-sjuj-1762634108-528083.webp"
+  },
+  {
+    "id": "66437",
+    "name": "Ли Бэйхан",
+    "rank": "b",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/b/li-bjejhan-1762633853-811203.webp"
+  },
+  {
+    "id": "66432",
+    "name": "Дзё Акума",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/dze-akuma-1762626040-363511.webp"
+  },
+  {
+    "id": "66429",
+    "name": "Школа",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/shkola-1762625900-402255.webp"
+  },
+  {
+    "id": "66426",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Пять сантиметров в секунду",
+    "animeLink": "/aniserials/video/drama/1749-pjat-santimetrov-v-sekundu.html",
+    "image": "/uploads/cards_image/1749/e/snegopad-1762612160-330258.webp"
+  },
+  {
+    "id": "66421",
+    "name": "Вальтос",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/valtos-1762608331-406967.webp"
+  },
+  {
+    "id": "66417",
+    "name": "Генри Леголант",
+    "rank": "b",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/b/genri-legolant-1762625591-963853.webp"
+  },
+  {
+    "id": "66416",
+    "name": "Тринадцатый",
+    "rank": "d",
+    "animeName": "Противостояние святого",
+    "animeLink": "/aniserials/video/drama/2158-protivostojanie-svjatogo.html",
+    "image": "/uploads/cards_image/2158/d/trinadcatyj-1762607283-743579.webp"
+  },
+  {
+    "id": "66411",
+    "name": "Семья Сильва",
+    "rank": "c",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/c/semja-silva-1762606784-645540.webp"
+  },
+  {
+    "id": "66410",
+    "name": "Небра Сильва",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/nebra-silva-1762606736-682212.webp"
+  },
+  {
+    "id": "66406",
+    "name": "Под зонтом",
+    "rank": "e",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/e/pod-zontom-1762624149-725411.webp"
+  },
+  {
+    "id": "66400",
+    "name": "Лэтуаль Беккерель",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/ljetual-bekkerel-1762623958-332480.webp"
+  },
+  {
+    "id": "66395",
+    "name": "Коюки Тигири",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/kojuki-tigiri-1762602585-888856.webp"
+  },
+  {
+    "id": "66393",
+    "name": "Рюсэй Сидо",
+    "rank": "a",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/a/rjusjej-sido-1762615389-705490.webp"
+  },
+  {
+    "id": "66392",
+    "name": "Дамнатио Кира",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/damnatio-kira-1762601908-520456.webp"
+  },
+  {
+    "id": "66389",
+    "name": "Гифсо",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/gifso-1762601476-644555.webp"
+  },
+  {
     "id": "66381",
     "name": "Каору и Луна",
     "rank": "c",
