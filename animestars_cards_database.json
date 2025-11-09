@@ -1,5 +1,61 @@
 [
   {
+    "id": "66526",
+    "name": "Луффи и Зоро",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/luffi-i-zoro-1762682659-526684.webp"
+  },
+  {
+    "id": "66524",
+    "name": "Зам. директор Нэмото",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/zam.-direktor-njemoto-1762682602-819183.webp"
+  },
+  {
+    "id": "66523",
+    "name": "Дразнится",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/draznitsja-1762682556-623569.webp"
+  },
+  {
+    "id": "66522",
+    "name": "Влюблённый взгляд",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/vljublennyj-vzgljad-1762682519-817235.webp"
+  },
+  {
+    "id": "66521",
+    "name": "Чако и Луна",
+    "rank": "c",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/c/chako-i-luna-1762665189-975648.webp"
+  },
+  {
+    "id": "66520",
+    "name": "Каору и Синго",
+    "rank": "c",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/c/kaoru-i-singo-1762665156-739971.webp"
+  },
+  {
+    "id": "66513",
+    "name": "Полёт",
+    "rank": "e",
+    "animeName": "Провожающая в последний путь Фрирен",
+    "animeLink": "/aniserials/video/adventure/2162-provozhajuschaja-v-poslednij-put-friren-animestars-2023.html",
+    "image": "/uploads/cards_image/2162/e/polet-1762682344-259278.webp"
+  },
+  {
     "id": "66510",
     "name": "Куаншэн Чу",
     "rank": "s",
@@ -16,12 +72,124 @@
     "image": "/uploads/cards_image/2162/s/himmel-1762654324-545975.webp"
   },
   {
+    "id": "66483",
+    "name": "Гаджа",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/gadzha-1762629887-303924.webp"
+  },
+  {
     "id": "66482",
     "name": "Кайто Куроба",
     "rank": "s",
     "animeName": "Волшебник Кайто 1412",
     "animeLink": "/aniserials/video/comedy/373-volshebnik-kayto-1412.html",
     "image": "/uploads/cards_image/373/s/kajto-kuroba-1762629407-69443.webp"
+  },
+  {
+    "id": "66481",
+    "name": "Неж",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/nezh-1762629172-341731.webp"
+  },
+  {
+    "id": "66479",
+    "name": "Провинился",
+    "rank": "e",
+    "animeName": "Комбатанты будут высланы!",
+    "animeLink": "/aniserials/video/action/1081-kombatanty-budut-vyslany.html",
+    "image": "/uploads/cards_image/1081/e/provinilsja-1762628756-652018.webp"
+  },
+  {
+    "id": "66472",
+    "name": "Мариелла",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/mariella-1762626894-463873.webp"
+  },
+  {
+    "id": "66467",
+    "name": "Цинлянь и Цзиньжун",
+    "rank": "c",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/c/cinljan-i-czinzhun-1762681605-214829.webp"
+  },
+  {
+    "id": "66462",
+    "name": "Кузнечик",
+    "rank": "e",
+    "animeName": "Комбатанты будут высланы!",
+    "animeLink": "/aniserials/video/action/1081-kombatanty-budut-vyslany.html",
+    "image": "/uploads/cards_image/1081/e/kuznechik-1762625750-325556.webp"
+  },
+  {
+    "id": "66461",
+    "name": "Поцелуй",
+    "rank": "c",
+    "animeName": "Восемьдесят шесть 2 сезон",
+    "animeLink": "/aniserials/video/action/1206-vosemdesjat-shest-2-sezon.html",
+    "image": "/uploads/cards_image/1206/c/poceluj-1762681371-959497.webp"
+  },
+  {
+    "id": "66460",
+    "name": "Сестра и брат",
+    "rank": "c",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/c/sestra-i-brat-1762681312-73846.webp"
+  },
+  {
+    "id": "66454",
+    "name": "Грей",
+    "rank": "d",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/d/grej-1762681246-580839.webp"
+  },
+  {
+    "id": "66450",
+    "name": "Финрал Рулакейс",
+    "rank": "d",
+    "animeName": "Чёрный клевер: Меч Короля Магов",
+    "animeLink": "/aniserials/video/action/2036-chernyj-klever-mech-korolja-magov.html",
+    "image": "/uploads/cards_image/2036/d/finral-rulakejs-1762681032-200986.webp"
+  },
+  {
+    "id": "66447",
+    "name": "Люси и Нацу",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/ljusi-i-nacu-1762616928-455429.webp"
+  },
+  {
+    "id": "66446",
+    "name": "Синго",
+    "rank": "a",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/a/singo-1762616915-919092.webp"
+  },
+  {
+    "id": "66445",
+    "name": "Люси и Джувия",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/ljusi-i-dzhuvija-1762616917-446418.webp"
+  },
+  {
+    "id": "66443",
+    "name": "Жерар и Эрза",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/zherar-i-jerza-1762616891-295049.webp"
   },
   {
     "id": "66442",
