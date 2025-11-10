@@ -1,5 +1,29 @@
 [
   {
+    "id": "66687",
+    "name": "Полетели со мной",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/poleteli-so-mnoj-1762804334-710435.webp"
+  },
+  {
+    "id": "66685",
+    "name": "Забыла!",
+    "rank": "e",
+    "animeName": "Эта фарфоровая кукла влюбилась",
+    "animeLink": "/aniserials/video/comedy/1340-jeta-farforovaja-kukla-vljubilas-animestars.html",
+    "image": "/uploads/cards_image/1340/e/zabyla-1762765326-926106.webp"
+  },
+  {
+    "id": "66684",
+    "name": "Вылупление",
+    "rank": "e",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/e/vyluplenie-1762765067-194462.webp"
+  },
+  {
     "id": "66681",
     "name": "Таками Сисимура",
     "rank": "b",
