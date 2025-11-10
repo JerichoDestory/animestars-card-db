@@ -1,5 +1,133 @@
 [
   {
+    "id": "66681",
+    "name": "Таками Сисимура",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/takami-sisimura-1762783284-32249.webp"
+  },
+  {
+    "id": "66679",
+    "name": "Пирожки",
+    "rank": "e",
+    "animeName": "Джи Ву Ген: Непокорный воле богов 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/1902-dzhi-vu-gen-nepokornyj-vole-bogov-2-sezon.html",
+    "image": "/uploads/cards_image/1902/e/pirozhki-1762783168-985085.webp"
+  },
+  {
+    "id": "66677",
+    "name": "Цюэ Кон",
+    "rank": "b",
+    "animeName": "Джи Ву Ген: Непокорный воле богов 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/1902-dzhi-vu-gen-nepokornyj-vole-bogov-2-sezon.html",
+    "image": "/uploads/cards_image/1902/b/cjuje-kon-1762783071-602210.webp"
+  },
+  {
+    "id": "66676",
+    "name": "Эрсин Нитиан",
+    "rank": "b",
+    "animeName": "Джи Ву Ген: Непокорный воле богов 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/1902-dzhi-vu-gen-nepokornyj-vole-bogov-2-sezon.html",
+    "image": "/uploads/cards_image/1902/b/jersin-nitian-1762782967-163556.webp"
+  },
+  {
+    "id": "66673",
+    "name": "Химмель, Айзен и Хайтер",
+    "rank": "c",
+    "animeName": "Провожающая в последний путь Фрирен",
+    "animeLink": "/aniserials/video/adventure/2162-provozhajuschaja-v-poslednij-put-friren-animestars-2023.html",
+    "image": "/uploads/cards_image/2162/c/himmel-ajzen-i-hajter-1762782764-838629.webp"
+  },
+  {
+    "id": "66671",
+    "name": "Кё Огата",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/ke-ogata-1762782464-682638.webp"
+  },
+  {
+    "id": "66669",
+    "name": "Кролик",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/krolik-1762782245-582017.webp"
+  },
+  {
+    "id": "66668",
+    "name": "Гроб мумии",
+    "rank": "e",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/e/grob-mumii-1762755052-841911.webp"
+  },
+  {
+    "id": "66667",
+    "name": "Тыквенный Монблан",
+    "rank": "e",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/e/tykvennyj-monblan-1762782038-792460.webp"
+  },
+  {
+    "id": "66666",
+    "name": "Зырк",
+    "rank": "e",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/e/zyrk-1762754910-877540.webp"
+  },
+  {
+    "id": "66665",
+    "name": "Познакомься!",
+    "rank": "c",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/c/poznakomsja-1762754870-150193.webp"
+  },
+  {
+    "id": "66662",
+    "name": "Отражение",
+    "rank": "e",
+    "animeName": "Монолог фармацевта 2 сезон",
+    "animeLink": "/aniserials/video/drama/2764-monolog-farmacevta-2-sezon-2025.html",
+    "image": "/uploads/cards_image/2764/e/otrazhenie-1762781536-450534.webp"
+  },
+  {
+    "id": "66646",
+    "name": "Дрой и Джет",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/droj-i-dzhet-1762733988-29530.webp"
+  },
+  {
+    "id": "66645",
+    "name": "Лаксус и Нацу",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/laksus-i-nacu-1762733977-212630.webp"
+  },
+  {
+    "id": "66644",
+    "name": "Лектор и Стинг",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/lektor-i-sting-1762733966-259166.webp"
+  },
+  {
+    "id": "66643",
+    "name": "Мато",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/mato-1762733953-495665.webp"
+  },
+  {
     "id": "66629",
     "name": "Саламандра",
     "rank": "e",
