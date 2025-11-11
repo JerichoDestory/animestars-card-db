@@ -1,11 +1,147 @@
 [
   {
+    "id": "66781",
+    "name": "Слежка",
+    "rank": "c",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/c/slezhka-1762875714-930308.webp"
+  },
+  {
+    "id": "66778",
+    "name": "Табути",
+    "rank": "b",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/b/tabuti-1762875631-872585.webp"
+  },
+  {
+    "id": "66776",
+    "name": "Маскировка",
+    "rank": "e",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/e/maskirovka-1762840359-271580.webp"
+  },
+  {
+    "id": "66775",
+    "name": "Дайчи Тачиаки",
+    "rank": "b",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/b/dajchi-tachiaki-1762840278-838375.webp"
+  },
+  {
+    "id": "66773",
+    "name": "Юньфэй Хоу",
+    "rank": "d",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/d/junfjej-hou-1762867232-341452.webp"
+  },
+  {
+    "id": "66772",
+    "name": "Фэй Чэнь",
+    "rank": "d",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/d/fjej-chjen-1762866943-998014.webp"
+  },
+  {
+    "id": "66769",
+    "name": "Мелюзина",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/meljuzina-1762866774-279939.webp"
+  },
+  {
+    "id": "66767",
+    "name": "Старшая сестра",
+    "rank": "c",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/c/starshaja-sestra-1762866686-755436.webp"
+  },
+  {
+    "id": "66764",
+    "name": "Мороженое",
+    "rank": "e",
+    "animeName": "Салатник чудаков",
+    "animeLink": "/aniserials/video/comedy/2367-salatnik-chudakov.html",
+    "image": "/uploads/cards_image/2367/e/morozhenoe-1762866608-579386.webp"
+  },
+  {
+    "id": "66763",
+    "name": "Юна Наганава",
+    "rank": "b",
+    "animeName": "Салатник чудаков",
+    "animeLink": "/aniserials/video/comedy/2367-salatnik-chudakov.html",
+    "image": "/uploads/cards_image/2367/b/juna-naganava-1762821216-248188.webp"
+  },
+  {
+    "id": "66761",
+    "name": "Эдель",
+    "rank": "d",
+    "animeName": "Провожающая в последний путь Фрирен",
+    "animeLink": "/aniserials/video/adventure/2162-provozhajuschaja-v-poslednij-put-friren-animestars-2023.html",
+    "image": "/uploads/cards_image/2162/d/jedel-1762866421-562038.webp"
+  },
+  {
     "id": "66755",
     "name": "Рури Гоко",
     "rank": "s",
     "animeName": "Ну не может моя сестра быть такой милой, и всё тут! 2 сезон",
     "animeLink": "/aniserials/video/garems/384-nu-ne-mozhet-moya-sestra-byt-takoy-miloy-i-vse-tut-2-sezon.html",
     "image": "/uploads/cards_image/384/s/ruri-goko-1762815069-885803.webp"
+  },
+  {
+    "id": "66745",
+    "name": "Объятия",
+    "rank": "c",
+    "animeName": "Чемпион!",
+    "animeLink": "/aniserials/video/garems/603-chempion.html",
+    "image": "/uploads/cards_image/603/c/objatija-1762806794-356079.webp"
+  },
+  {
+    "id": "66744",
+    "name": "Палпитоуд",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/palpitoud-1762806131-727050.webp"
+  },
+  {
+    "id": "66743",
+    "name": "Двеббл",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/dvebbl-1762805989-773740.webp"
+  },
+  {
+    "id": "66740",
+    "name": "Шарль и Хэппи",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/sharl-i-hjeppi-1762804898-838250.webp"
+  },
+  {
+    "id": "66739",
+    "name": "Плю и Люси",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/plju-i-ljusi-1762804861-483361.webp"
+  },
+  {
+    "id": "66738",
+    "name": "Венди и Люси",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/vendi-i-ljusi-1762804849-551783.webp"
   },
   {
     "id": "66737",
