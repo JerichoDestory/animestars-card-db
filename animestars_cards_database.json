@@ -1,5 +1,165 @@
 [
   {
+    "id": "66755",
+    "name": "Рури Гоко",
+    "rank": "s",
+    "animeName": "Ну не может моя сестра быть такой милой, и всё тут! 2 сезон",
+    "animeLink": "/aniserials/video/garems/384-nu-ne-mozhet-moya-sestra-byt-takoy-miloy-i-vse-tut-2-sezon.html",
+    "image": "/uploads/cards_image/384/s/ruri-goko-1762815069-885803.webp"
+  },
+  {
+    "id": "66737",
+    "name": "Маска",
+    "rank": "e",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/e/maska-1762806337-174720.webp"
+  },
+  {
+    "id": "66736",
+    "name": "Люцзи Су",
+    "rank": "d",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/d/ljuczi-su-1762806286-285639.webp"
+  },
+  {
+    "id": "66735",
+    "name": "Прощание",
+    "rank": "e",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/e/proschanie-1762800885-416398.webp"
+  },
+  {
+    "id": "66718",
+    "name": "Энди, Кёскэ и Югири",
+    "rank": "c",
+    "animeName": "Восхитительные дети: Безграничный",
+    "animeLink": "/aniserials/video/shounen/1571-voshititelnye-deti-bezgranichnyj.html",
+    "image": "/uploads/cards_image/1571/c/jendi-keskje-i-jugiri-1762806167-318713.webp"
+  },
+  {
+    "id": "66717",
+    "name": "Поуниард",
+    "rank": "d",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/d/pouniard-1762806053-864283.webp"
+  },
+  {
+    "id": "66716",
+    "name": "Патрат",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/patrat-1762794906-91607.webp"
+  },
+  {
+    "id": "66715",
+    "name": "Костюм зайки",
+    "rank": "e",
+    "animeName": "Чемпион!",
+    "animeLink": "/aniserials/video/garems/603-chempion.html",
+    "image": "/uploads/cards_image/603/e/kostjum-zajki-1762792469-776843.webp"
+  },
+  {
+    "id": "66714",
+    "name": "Тань Юань",
+    "rank": "d",
+    "animeName": "Цзычуань",
+    "animeLink": "/aniserials/video/action/1330-czychuan.html",
+    "image": "/uploads/cards_image/1330/d/tan-juan-1762789436-711752.webp"
+  },
+  {
+    "id": "66713",
+    "name": "Бин Линь",
+    "rank": "d",
+    "animeName": "Цзычуань",
+    "animeLink": "/aniserials/video/action/1330-czychuan.html",
+    "image": "/uploads/cards_image/1330/d/bin-lin-1762789242-730730.webp"
+  },
+  {
+    "id": "66709",
+    "name": "Смущение",
+    "rank": "e",
+    "animeName": "Контратака изгнанного ученика",
+    "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+    "image": "/uploads/cards_image/1824/e/smuschenie-1762805459-337529.webp"
+  },
+  {
+    "id": "66708",
+    "name": "Цинь Ли",
+    "rank": "d",
+    "animeName": "Цзычуань",
+    "animeLink": "/aniserials/video/action/1330-czychuan.html",
+    "image": "/uploads/cards_image/1330/d/cin-li-1762805331-661942.webp"
+  },
+  {
+    "id": "66703",
+    "name": "Мо Ли",
+    "rank": "d",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/d/mo-li-1762805184-901377.webp"
+  },
+  {
+    "id": "66701",
+    "name": "Слёзы",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/slezy-1762805101-810562.webp"
+  },
+  {
+    "id": "66700",
+    "name": "Акира Хаями",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/akira-hajami-1762805012-651619.webp"
+  },
+  {
+    "id": "66697",
+    "name": "Вакх Гро",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/vakh-gro-1762780590-881583.webp"
+  },
+  {
+    "id": "66696",
+    "name": "Рисунок",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/risunok-1762780433-930283.webp"
+  },
+  {
+    "id": "66695",
+    "name": "Печеньки",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/pechenki-1762780412-779788.webp"
+  },
+  {
+    "id": "66692",
+    "name": "Мадара",
+    "rank": "a",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/a/madara-1762804578-401607.webp"
+  },
+  {
+    "id": "66690",
+    "name": "Зерие",
+    "rank": "b",
+    "animeName": "Провожающая в последний путь Фрирен",
+    "animeLink": "/aniserials/video/adventure/2162-provozhajuschaja-v-poslednij-put-friren-animestars-2023.html",
+    "image": "/uploads/cards_image/2162/b/zerie-1762804452-351687.webp"
+  },
+  {
     "id": "66687",
     "name": "Полетели со мной",
     "rank": "e",
