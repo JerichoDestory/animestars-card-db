@@ -1,5 +1,125 @@
 [
   {
+    "id": "66923",
+    "name": "Янь Фэн",
+    "rank": "d",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/d/jan-fjen-1762945979-972368.webp"
+  },
+  {
+    "id": "66922",
+    "name": "Юмэко Кода",
+    "rank": "a",
+    "animeName": "Пышечка, любовь и ошибки!",
+    "animeLink": "/aniserials/video/shoujo/3133-pyshechka-ljubov-i-oshibki.html",
+    "image": "/uploads/cards_image/3133/a/jumjeko-koda-1762928703-115039.webp"
+  },
+  {
+    "id": "66921",
+    "name": "Кэйсукэ Юки",
+    "rank": "a",
+    "animeName": "Пышечка, любовь и ошибки!",
+    "animeLink": "/aniserials/video/shoujo/3133-pyshechka-ljubov-i-oshibki.html",
+    "image": "/uploads/cards_image/3133/a/kjejsukje-juki-1762928273-964915.webp"
+  },
+  {
+    "id": "66915",
+    "name": "Грей Фуллбастер",
+    "rank": "a",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/a/grej-fullbaster-1762920509-459726.webp"
+  },
+  {
+    "id": "66914",
+    "name": "Коллектор",
+    "rank": "d",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/d/kollektor-1762919878-476133.webp"
+  },
+  {
+    "id": "66913",
+    "name": "Мукумуку",
+    "rank": "b",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/b/mukumuku-1762918057-480220.webp"
+  },
+  {
+    "id": "66912",
+    "name": "Исао",
+    "rank": "b",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/b/isao-1762917886-114537.webp"
+  },
+  {
+    "id": "66903",
+    "name": "Мандрагора",
+    "rank": "e",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/e/mandragora-1762912895-633215.webp"
+  },
+  {
+    "id": "66899",
+    "name": "Грусть",
+    "rank": "e",
+    "animeName": "Салатник чудаков",
+    "animeLink": "/aniserials/video/comedy/2367-salatnik-chudakov.html",
+    "image": "/uploads/cards_image/2367/e/grust-1762909166-816393.webp"
+  },
+  {
+    "id": "66896",
+    "name": "Ноа Минаками",
+    "rank": "b",
+    "animeName": "Салатник чудаков",
+    "animeLink": "/aniserials/video/comedy/2367-salatnik-chudakov.html",
+    "image": "/uploads/cards_image/2367/b/noa-minakami-1762908787-575707.webp"
+  },
+  {
+    "id": "66894",
+    "name": "Гилдартс Клайв",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/b/gildarts-klajv-1762908234-331250.webp"
+  },
+  {
+    "id": "66893",
+    "name": "Кабчу",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/kabchu-1762907971-461074.webp"
+  },
+  {
+    "id": "66892",
+    "name": "Дирлинг",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/dirling-1762907960-570126.webp"
+  },
+  {
+    "id": "66887",
+    "name": "Такаги",
+    "rank": "a",
+    "animeName": "Озорная Такаги 2 сезон",
+    "animeLink": "/aniserials/video/comedy/530-ozornaya-takagi-2-sezon.html",
+    "image": "/uploads/cards_image/530/a/takagi-1762905661-601770.webp"
+  },
+  {
+    "id": "66881",
+    "name": "Караоке",
+    "rank": "e",
+    "animeName": "Салатник чудаков",
+    "animeLink": "/aniserials/video/comedy/2367-salatnik-chudakov.html",
+    "image": "/uploads/cards_image/2367/e/karaoke-1762903405-473424.webp"
+  },
+  {
     "id": "66867",
     "name": "Прикэцу",
     "rank": "b",
