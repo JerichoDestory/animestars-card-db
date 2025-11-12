@@ -1,5 +1,93 @@
 [
   {
+    "id": "67008",
+    "name": "Сюн Футами",
+    "rank": "a",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/a/sjun-futami-1762968385-843518.webp"
+  },
+  {
+    "id": "67007",
+    "name": "Хаятэ Итикура",
+    "rank": "a",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/a/hajatje-itikura-1762968344-883417.webp"
+  },
+  {
+    "id": "67001",
+    "name": "Канаэ Сумида",
+    "rank": "a",
+    "animeName": "Пять сантиметров в секунду",
+    "animeLink": "/aniserials/video/drama/1749-pjat-santimetrov-v-sekundu.html",
+    "image": "/uploads/cards_image/1749/a/kanaje-sumida-1762966123-18575.webp"
+  },
+  {
+    "id": "67000",
+    "name": "На цепи",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/na-cepi-1762965259-149893.webp"
+  },
+  {
+    "id": "66998",
+    "name": "Тоби Орорта",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/tobi-ororta-1762964381-791074.webp"
+  },
+  {
+    "id": "66996",
+    "name": "Чапати Лола",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/chapati-lola-1762964328-731896.webp"
+  },
+  {
+    "id": "66995",
+    "name": "Крокорок",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/krokorok-1762964137-267660.webp"
+  },
+  {
+    "id": "66994",
+    "name": "Лампент",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/lampent-1762964120-445713.webp"
+  },
+  {
+    "id": "66983",
+    "name": "Хикару и Мокона",
+    "rank": "c",
+    "animeName": "Рыцари магии II",
+    "animeLink": "/aniserials/video/action/2803-rycari-magii.html",
+    "image": "/uploads/cards_image/2803/c/hikaru-i-mokona-1762955362-872605.webp"
+  },
+  {
+    "id": "66981",
+    "name": "Такаги и Нисиката",
+    "rank": "c",
+    "animeName": "Озорная Такаги 2 сезон",
+    "animeLink": "/aniserials/video/comedy/530-ozornaya-takagi-2-sezon.html",
+    "image": "/uploads/cards_image/530/c/takagi-i-nisikata-1762964780-34583.webp"
+  },
+  {
+    "id": "66979",
+    "name": "Под дождём",
+    "rank": "e",
+    "animeName": "Ниер: Автомата - Версия 1.1а",
+    "animeLink": "/aniserials/video/action/1705-nier-avtomata-versija-11a.html",
+    "image": "/uploads/cards_image/1705/e/pod-dozhdem-1762954598-829571.webp"
+  },
+  {
     "id": "66967",
     "name": "Учёба",
     "rank": "c",
