@@ -1,5 +1,117 @@
 [
   {
+    "id": "66967",
+    "name": "Учёба",
+    "rank": "c",
+    "animeName": "Семья шпиона 3 сезон",
+    "animeLink": "/aniserials/video/shounen/3106-semja-shpiona-3.html",
+    "image": "/uploads/cards_image/3106/c/ucheba-1762948806-553194.webp"
+  },
+  {
+    "id": "66965",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Меч сердца гор и рек",
+    "animeLink": "/aniserials/video/martial_arts/1875-mech-serdca-gor-i-rek.html",
+    "image": "/uploads/cards_image/1875/e/pojdem-so-mnoj-1762948118-622038.webp"
+  },
+  {
+    "id": "66964",
+    "name": "Эли Валентайн",
+    "rank": "a",
+    "animeName": "Рэйв Мастер",
+    "animeLink": "/aniserials/video/comedy/695-reyv-master.html",
+    "image": "/uploads/cards_image/695/a/jeli-valentajn-1762946465-154124.webp"
+  },
+  {
+    "id": "66959",
+    "name": "Даклетт",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/daklett-1762946179-91728.webp"
+  },
+  {
+    "id": "66957",
+    "name": "Луна",
+    "rank": "e",
+    "animeName": "Меч сердца гор и рек",
+    "animeLink": "/aniserials/video/martial_arts/1875-mech-serdca-gor-i-rek.html",
+    "image": "/uploads/cards_image/1875/e/luna-1762945802-86611.webp"
+  },
+  {
+    "id": "66955",
+    "name": "Ан Сакурада",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/an-sakurada-1762963706-90872.webp"
+  },
+  {
+    "id": "66954",
+    "name": "Шеф Янагида",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/shef-janagida-1762963619-366683.webp"
+  },
+  {
+    "id": "66942",
+    "name": "Телефонная будка",
+    "rank": "e",
+    "animeName": "Пять сантиметров в секунду",
+    "animeLink": "/aniserials/video/drama/1749-pjat-santimetrov-v-sekundu.html",
+    "image": "/uploads/cards_image/1749/e/telefonnaja-budka-1762963228-145744.webp"
+  },
+  {
+    "id": "66937",
+    "name": "Сяочунь Бай и Ваньэр Гунсунь",
+    "rank": "c",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/c/sjaochun-baj-i-vanjer-gunsun-1762962966-805960.webp"
+  },
+  {
+    "id": "66935",
+    "name": "Хэн Чэнь",
+    "rank": "d",
+    "animeName": "Вечная воля",
+    "animeLink": "/aniserials/video/martial_arts/2104-moment-vechnosti.html",
+    "image": "/uploads/cards_image/2104/d/hjen-chjen-1762962861-287184.webp"
+  },
+  {
+    "id": "66934",
+    "name": "Дрон",
+    "rank": "e",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/e/dron-1762936184-285513.webp"
+  },
+  {
+    "id": "66928",
+    "name": "Жуань Лю",
+    "rank": "d",
+    "animeName": "Контратака изгнанного ученика",
+    "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+    "image": "/uploads/cards_image/1824/d/zhuan-lju-1762962486-712464.webp"
+  },
+  {
+    "id": "66926",
+    "name": "Сакура",
+    "rank": "e",
+    "animeName": "Контратака изгнанного ученика",
+    "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+    "image": "/uploads/cards_image/1824/e/sakura-1762962361-820342.webp"
+  },
+  {
+    "id": "66925",
+    "name": "Чу Лин`эр",
+    "rank": "s",
+    "animeName": "Контратака изгнанного ученика",
+    "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+    "image": "/uploads/cards_image/1824/s/chu-linjer-1762932190-382342.webp"
+  },
+  {
     "id": "66923",
     "name": "Янь Фэн",
     "rank": "d",
