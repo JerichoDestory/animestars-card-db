@@ -1,11 +1,203 @@
 [
   {
+    "id": "66867",
+    "name": "Прикэцу",
+    "rank": "b",
+    "animeName": "Салатник чудаков",
+    "animeLink": "/aniserials/video/comedy/2367-salatnik-chudakov.html",
+    "image": "/uploads/cards_image/2367/b/prikjecu-1762894461-20527.webp"
+  },
+  {
+    "id": "66839",
+    "name": "Рё Матико",
+    "rank": "a",
+    "animeName": "Граффити счастливой кухни",
+    "animeLink": "/aniserials/video/comedy/38-graffiti-schastlivoy-kuhni.html",
+    "image": "/uploads/cards_image/38/a/re-matiko-1762883015-689556.webp"
+  },
+  {
+    "id": "66838",
+    "name": "Бишарп",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/bisharp-1762883026-988000.webp"
+  },
+  {
+    "id": "66837",
+    "name": "Ларвеста",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/larvesta-1762883015-650481.webp"
+  },
+  {
+    "id": "66833",
+    "name": "Испачкался",
+    "rank": "e",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/e/ispachkalsja-1762882209-507033.webp"
+  },
+  {
+    "id": "66832",
+    "name": "Крепкий пресс",
+    "rank": "e",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/e/krepkij-press-1762880934-876941.webp"
+  },
+  {
+    "id": "66831",
+    "name": "Банька",
+    "rank": "e",
+    "animeName": "Ковбой Бибоп: Достучаться до небес",
+    "animeLink": "/aniserials/video/drama/1765-kovboj-bibop-dostuchatsja-do-nebes.html",
+    "image": "/uploads/cards_image/1765/e/banka-1762895962-714475.webp"
+  },
+  {
+    "id": "66830",
+    "name": "Кулон",
+    "rank": "e",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/e/kulon-1762895926-550098.webp"
+  },
+  {
+    "id": "66825",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/e/pojdem-so-mnoj-1762895689-725623.webp"
+  },
+  {
+    "id": "66822",
+    "name": "Итика Накано",
+    "rank": "a",
+    "animeName": "Пять невест: Спецвыпуски",
+    "animeLink": "/aniserials/video/shounen/3153-pjat-nevest-specvypuski.html",
+    "image": "/uploads/cards_image/3153/a/itika-nakano-1762871949-115180.webp"
+  },
+  {
+    "id": "66821",
+    "name": "Сердечко",
+    "rank": "e",
+    "animeName": "Гроб принцессы Чайки",
+    "animeLink": "/aniserials/video/comedy/463-grob-princessy-chayki.html",
+    "image": "/uploads/cards_image/463/e/serdechko-1762871722-539987.webp"
+  },
+  {
+    "id": "66816",
+    "name": "Дуется",
+    "rank": "e",
+    "animeName": "Гроб принцессы Чайки",
+    "animeLink": "/aniserials/video/comedy/463-grob-princessy-chayki.html",
+    "image": "/uploads/cards_image/463/e/duetsja-1762870672-279154.webp"
+  },
+  {
+    "id": "66815",
+    "name": "Наказание",
+    "rank": "c",
+    "animeName": "Чемпион!",
+    "animeLink": "/aniserials/video/garems/603-chempion.html",
+    "image": "/uploads/cards_image/603/c/nakazanie-1762870601-868480.webp"
+  },
+  {
+    "id": "66813",
+    "name": "Саша Деянсталь Вобан",
+    "rank": "b",
+    "animeName": "Чемпион!",
+    "animeLink": "/aniserials/video/garems/603-chempion.html",
+    "image": "/uploads/cards_image/603/b/sasha-dejanstal-voban-1762894991-689692.webp"
+  },
+  {
+    "id": "66810",
+    "name": "Хаятэ Цутигама",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/hajatje-cutigama-1762894868-319521.webp"
+  },
+  {
+    "id": "66809",
+    "name": "За решёткой",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/za-reshetkoj-1762894782-393701.webp"
+  },
+  {
     "id": "66807",
     "name": "Алетта",
     "rank": "s",
     "animeName": "Кафе из другого мира 2 сезон",
     "animeLink": "/aniserials/video/comedy/1207-kafe-iz-drugogo-mira-2-sezon.html",
     "image": "/uploads/cards_image/1207/s/aletta-1762863288-601241.webp"
+  },
+  {
+    "id": "66806",
+    "name": "Такаши Нацумэ",
+    "rank": "a",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/a/takashi-nacumje-1762894697-524356.webp"
+  },
+  {
+    "id": "66803",
+    "name": "Рамэн",
+    "rank": "e",
+    "animeName": "Забвение бэттери",
+    "animeLink": "/aniserials/video/sports/2382-zabvenie-bjetteri.html",
+    "image": "/uploads/cards_image/2382/e/ramjen-1762894618-386273.webp"
+  },
+  {
+    "id": "66797",
+    "name": "Бесконечная гача",
+    "rank": "e",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/e/beskonechnaja-gacha-1762894454-696996.webp"
+  },
+  {
+    "id": "66796",
+    "name": "Браслет желаний",
+    "rank": "e",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/e/braslet-zhelanij-1762894329-151603.webp"
+  },
+  {
+    "id": "66794",
+    "name": "Глаз правды",
+    "rank": "e",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/e/glaz-pravdy-1762894137-401620.webp"
+  },
+  {
+    "id": "66786",
+    "name": "Жуань Лю и Чень Е",
+    "rank": "c",
+    "animeName": "Контратака изгнанного ученика",
+    "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+    "image": "/uploads/cards_image/1824/c/zhuan-lju-i-chen-e-1762893716-913943.webp"
+  },
+  {
+    "id": "66785",
+    "name": "Хуаньянь Дачу",
+    "rank": "d",
+    "animeName": "Контратака изгнанного ученика",
+    "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+    "image": "/uploads/cards_image/1824/d/huanjan-dachu-1762893350-756528.webp"
+  },
+  {
+    "id": "66784",
+    "name": "Цзы Сюэ",
+    "rank": "d",
+    "animeName": "Контратака изгнанного ученика",
+    "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+    "image": "/uploads/cards_image/1824/d/czy-sjuje-1762893250-991147.webp"
   },
   {
     "id": "66781",
