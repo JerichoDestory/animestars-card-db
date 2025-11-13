@@ -1,11 +1,115 @@
 [
   {
+    "id": "67072",
+    "name": "Проблема",
+    "rank": "e",
+    "animeName": "Эта фарфоровая кукла влюбилась 2",
+    "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
+    "image": "/uploads/cards_image/2974/e/problema-1763035597-187835.webp"
+  },
+  {
+    "id": "67070",
+    "name": "Марин и Сидзуку",
+    "rank": "c",
+    "animeName": "Эта фарфоровая кукла влюбилась 2",
+    "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
+    "image": "/uploads/cards_image/2974/c/marin-i-sidzuku-1763032176-950115.webp"
+  },
+  {
+    "id": "67067",
+    "name": "Демонический хряк",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/demonicheskij-hrjak-1763050444-657684.webp"
+  },
+  {
+    "id": "67066",
+    "name": "Сёта Ситифукутэй",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/seta-sitifukutjej-1763050384-113787.webp"
+  },
+  {
+    "id": "67065",
+    "name": "Хуншияо Сы",
+    "rank": "b",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/b/hunshijao-sy-1763029690-32687.webp"
+  },
+  {
+    "id": "67058",
+    "name": "Ёру",
+    "rank": "a",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/a/eru-1763049268-186795.webp"
+  },
+  {
+    "id": "67057",
+    "name": "Гравитационный шторм",
+    "rank": "e",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/e/gravitacionnyj-shtorm-1763049131-979799.webp"
+  },
+  {
+    "id": "67053",
+    "name": "Саки Тамаи",
+    "rank": "b",
+    "animeName": "Пышечка, любовь и ошибки!",
+    "animeLink": "/aniserials/video/shoujo/3133-pyshechka-ljubov-i-oshibki.html",
+    "image": "/uploads/cards_image/3133/b/saki-tamai-1763012480-332134.webp"
+  },
+  {
     "id": "67048",
     "name": "Энн Хэлфорд",
     "rank": "s",
     "animeName": "Сказка о сахарном яблоке Часть 2",
     "animeLink": "/aniserials/video/romance/2103-skazka-o-saharnom-jabloke-chast-2.html",
     "image": "/uploads/cards_image/2103/s/jenn-hjelford-1763014167-195525.webp"
+  },
+  {
+    "id": "67039",
+    "name": "Цукиё Камия",
+    "rank": "d",
+    "animeName": "Как вырастить мумию",
+    "animeLink": "/aniserials/video/comedy/232-kak-vyrastit-mumiyu.html",
+    "image": "/uploads/cards_image/232/d/cukie-kamija-1762994275-528237.webp"
+  },
+  {
+    "id": "67035",
+    "name": "Телец",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/telec-1762984272-571508.webp"
+  },
+  {
+    "id": "67034",
+    "name": "Орга Нанагир",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/orga-nanagir-1762984255-515839.webp"
+  },
+  {
+    "id": "67033",
+    "name": "Джолтик",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/dzholtik-1762984160-888155.webp"
+  },
+  {
+    "id": "67032",
+    "name": "Каррабласт",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/karrablast-1762984149-918982.webp"
   },
   {
     "id": "67029",
