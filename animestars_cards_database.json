@@ -1,5 +1,53 @@
 [
   {
+    "id": "67048",
+    "name": "Энн Хэлфорд",
+    "rank": "s",
+    "animeName": "Сказка о сахарном яблоке Часть 2",
+    "animeLink": "/aniserials/video/romance/2103-skazka-o-saharnom-jabloke-chast-2.html",
+    "image": "/uploads/cards_image/2103/s/jenn-hjelford-1763014167-195525.webp"
+  },
+  {
+    "id": "67029",
+    "name": "Ладрос",
+    "rank": "d",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/d/ladros-1762982093-667771.webp"
+  },
+  {
+    "id": "67026",
+    "name": "Куросаки",
+    "rank": "d",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/d/kurosaki-1762975461-501676.webp"
+  },
+  {
+    "id": "67025",
+    "name": "Сома Сики",
+    "rank": "a",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/a/soma-siki-1762975176-503203.webp"
+  },
+  {
+    "id": "67024",
+    "name": "Такаюки Мима",
+    "rank": "a",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/a/takajuki-mima-1762974478-226071.webp"
+  },
+  {
+    "id": "67020",
+    "name": "Сиюэ Вэнь",
+    "rank": "d",
+    "animeName": "Путешествие к бессмертию 5 сезон",
+    "animeLink": "/aniserials/video/action/3048-puteshestvie-k-bessmertiju-5.html",
+    "image": "/uploads/cards_image/3048/d/sijuje-vjen-1762986884-893082.webp"
+  },
+  {
     "id": "67008",
     "name": "Сюн Футами",
     "rank": "a",
