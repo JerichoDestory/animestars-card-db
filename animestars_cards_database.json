@@ -1,5 +1,45 @@
 [
   {
+    "id": "67130",
+    "name": "Нэко",
+    "rank": "s",
+    "animeName": "Проект Кей",
+    "animeLink": "/aniserials/video/action/498-proekt-key.html",
+    "image": "/uploads/cards_image/498/s/njeko-1763066852-995928.webp"
+  },
+  {
+    "id": "67122",
+    "name": "Невеста",
+    "rank": "e",
+    "animeName": "Вторжение гигантов 4 сезон 3 часть",
+    "animeLink": "/aniserials/video/drama/1790-vtorzhenie-gigantov-4-sezon-3-chast-animestars-2023.html",
+    "image": "/uploads/cards_image/1790/e/nevesta-1763074399-625759.webp"
+  },
+  {
+    "id": "67120",
+    "name": "Голетт",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/golett-1763059859-481666.webp"
+  },
+  {
+    "id": "67119",
+    "name": "Коттони",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/kottoni-1763059847-355436.webp"
+  },
+  {
+    "id": "67117",
+    "name": "Джет",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/dzhet-1763059708-939636.webp"
+  },
+  {
     "id": "67097",
     "name": "Алексия Мидгар",
     "rank": "s",
@@ -8,12 +48,92 @@
     "image": "/uploads/cards_image/1544/s/aleksija-midgar-1763053335-805518.webp"
   },
   {
+    "id": "67096",
+    "name": "Рэй Когами",
+    "rank": "d",
+    "animeName": "Эта фарфоровая кукла влюбилась 2",
+    "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
+    "image": "/uploads/cards_image/2974/d/rjej-kogami-1763053316-770412.webp"
+  },
+  {
+    "id": "67093",
+    "name": "Марин и Вакана",
+    "rank": "c",
+    "animeName": "Эта фарфоровая кукла влюбилась 2",
+    "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
+    "image": "/uploads/cards_image/2974/c/marin-i-vakana-1763073711-156872.webp"
+  },
+  {
+    "id": "67092",
+    "name": "Яблоко",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/jabloko-1763073609-782335.webp"
+  },
+  {
+    "id": "67091",
+    "name": "Каору Судзуки",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/kaoru-sudzuki-1763073543-855082.webp"
+  },
+  {
+    "id": "67090",
+    "name": "Франка",
+    "rank": "b",
+    "animeName": "Аркнайтс: Восстание из пепла",
+    "animeLink": "/aniserials/video/action/2966-arknajts-vosstanie-iz-pepla.html",
+    "image": "/uploads/cards_image/2966/b/franka-1763050436-186310.webp"
+  },
+  {
     "id": "67087",
     "name": "Сюань Лун",
     "rank": "s",
     "animeName": "Бессмертие 3 сезон: Величественные горы и реки",
     "animeLink": "/aniserials/video/action/2403-bessmertie-3-sezon-velichestvennye-gory-i-reki.html",
     "image": "/uploads/cards_image/2403/s/sjuan-lun-1763057919-572932.webp"
+  },
+  {
+    "id": "67085",
+    "name": "Утро",
+    "rank": "e",
+    "animeName": "Я сказала, усредни мои способности!",
+    "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
+    "image": "/uploads/cards_image/564/e/utro-1763073270-923688.webp"
+  },
+  {
+    "id": "67084",
+    "name": "Пламя",
+    "rank": "e",
+    "animeName": "Я сказала, усредни мои способности!",
+    "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
+    "image": "/uploads/cards_image/564/e/plamja-1763073150-668821.webp"
+  },
+  {
+    "id": "67083",
+    "name": "Линея Магнелл",
+    "rank": "d",
+    "animeName": "Каким-то образом я стал сильнейшим, прокачивая фермерские навыки",
+    "animeLink": "/aniserials/video/fant/1533-kakim-to-obrazom-ja-stal-silnejshim-prokachivaja-fermerskie-navyki-animestars.html",
+    "image": "/uploads/cards_image/1533/d/lineja-magnell-1763073064-857827.webp"
+  },
+  {
+    "id": "67081",
+    "name": "Юлия Макбет Фонгейт",
+    "rank": "d",
+    "animeName": "Каким-то образом я стал сильнейшим, прокачивая фермерские навыки",
+    "animeLink": "/aniserials/video/fant/1533-kakim-to-obrazom-ja-stal-silnejshim-prokachivaja-fermerskie-navyki-animestars.html",
+    "image": "/uploads/cards_image/1533/d/julija-makbet-fongejt-1763072970-627417.webp"
+  },
+  {
+    "id": "67080",
+    "name": "Пудинг и Нитро",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/puding-i-nitro-1763046258-332248.webp"
   },
   {
     "id": "67078",
