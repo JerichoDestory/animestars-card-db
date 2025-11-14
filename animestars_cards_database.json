@@ -1,5 +1,125 @@
 [
   {
+    "id": "67177",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Аркнайтс: Восстание из пепла",
+    "animeLink": "/aniserials/video/action/2966-arknajts-vosstanie-iz-pepla.html",
+    "image": "/uploads/cards_image/2966/e/kuda-smotrish-1763097204-183875.webp"
+  },
+  {
+    "id": "67176",
+    "name": "Иньтин Гувалгия",
+    "rank": "a",
+    "animeName": "Призрачный Наньтин",
+    "animeLink": "/aniserials/video/action/3089-prizrachnyj-nantin.html",
+    "image": "/uploads/cards_image/3089/a/intin-guvalgija-1763094228-750539.webp"
+  },
+  {
+    "id": "67167",
+    "name": "Он Мияо",
+    "rank": "b",
+    "animeName": "Один танец",
+    "animeLink": "/aniserials/video/seinen/3137-odin-tanec.html",
+    "image": "/uploads/cards_image/3137/b/on-mijao-1763086206-956727.webp"
+  },
+  {
+    "id": "67165",
+    "name": "Отпуская надежду",
+    "rank": "e",
+    "animeName": "Повесть о лунной принцессе",
+    "animeLink": "/aniserials/video/vampires/625-povest-o-lunnoy-princesse.html",
+    "image": "/uploads/cards_image/625/e/otpuskaja-nadezhdu-1763114223-7809.webp"
+  },
+  {
+    "id": "67164",
+    "name": "Рёко Асакура",
+    "rank": "b",
+    "animeName": "Меланхолия Харухи Судзумии",
+    "animeLink": "/aniserials/video/comedy/1627-melanholija-haruhi-sudzumii-1-2-sezon.html",
+    "image": "/uploads/cards_image/1627/b/reko-asakura-1763113964-863321.webp"
+  },
+  {
+    "id": "67162",
+    "name": "Монета",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/moneta-1763113871-381079.webp"
+  },
+  {
+    "id": "67160",
+    "name": "Губка, Тиёко и Глазик",
+    "rank": "c",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/c/gubka-tieko-i-glazik-1763113781-94549.webp"
+  },
+  {
+    "id": "67159",
+    "name": "Тикако Куротори",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/tikako-kurotori-1763113711-153476.webp"
+  },
+  {
+    "id": "67152",
+    "name": "Купальник",
+    "rank": "e",
+    "animeName": "Вторжение Гигантов 2 сезон",
+    "animeLink": "/aniserials/video/action/48-vtorzhenie-gigantov-2-sezonya-2017.html",
+    "image": "/uploads/cards_image/48/e/kupalnik-1763113607-53508.webp"
+  },
+  {
+    "id": "67150",
+    "name": "Сабо, Луффи и Эйс",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/sabo-luffi-i-jejs-1763113462-852036.webp"
+  },
+  {
+    "id": "67148",
+    "name": "Полина и Адель",
+    "rank": "c",
+    "animeName": "Я сказала, усредни мои способности!",
+    "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
+    "image": "/uploads/cards_image/564/c/polina-i-adel-1763113410-601543.webp"
+  },
+  {
+    "id": "67146",
+    "name": "Горничная",
+    "rank": "e",
+    "animeName": "Я сказала, усредни мои способности!",
+    "animeLink": "/aniserials/video/comedy/564-ya-skazala-usredni-moi-sposobnosti.html",
+    "image": "/uploads/cards_image/564/e/gornichnaja-1763113354-16297.webp"
+  },
+  {
+    "id": "67142",
+    "name": "Шанделюр",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/shandeljur-1763074327-157635.webp"
+  },
+  {
+    "id": "67141",
+    "name": "Крукодайл",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/krukodajl-1763074314-948106.webp"
+  },
+  {
+    "id": "67139",
+    "name": "Лион Бастиа",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/b/lion-bastia-1763074245-862917.webp"
+  },
+  {
     "id": "67130",
     "name": "Нэко",
     "rank": "s",
