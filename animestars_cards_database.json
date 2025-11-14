@@ -1,5 +1,165 @@
 [
   {
+    "id": "67252",
+    "name": "Арэн Кубоясу",
+    "rank": "a",
+    "animeName": "Ох уж этот экстрасенс Сайки Кусуо! Начало",
+    "animeLink": "/aniserials/video/comedy/1944-oh-uzh-jetot-jekstrasens-sajki-kusuo-nachalo.html",
+    "image": "/uploads/cards_image/1944/a/arjen-kubojasu-1763147898-894241.webp"
+  },
+  {
+    "id": "67251",
+    "name": "Королевство Клевера",
+    "rank": "e",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/e/korolevstvo-klevera-1763147775-363007.webp"
+  },
+  {
+    "id": "67247",
+    "name": "Деревня Хадж",
+    "rank": "e",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/e/derevnja-hadzh-1763139127-827296.webp"
+  },
+  {
+    "id": "67238",
+    "name": "Бадминтон",
+    "rank": "e",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/e/badminton-1763138505-989350.webp"
+  },
+  {
+    "id": "67236",
+    "name": "Сая Одзора",
+    "rank": "d",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/d/saja-odzora-1763138484-211368.webp"
+  },
+  {
+    "id": "67235",
+    "name": "Масаки, Минато и Сэйя",
+    "rank": "c",
+    "animeName": "Клуб стрельбы из лука",
+    "animeLink": "/aniserials/video/drama/1665-klub-strelby-iz-luka.html",
+    "image": "/uploads/cards_image/1665/c/masaki-minato-i-sjejja-1763147064-227159.webp"
+  },
+  {
+    "id": "67226",
+    "name": "Чиби",
+    "rank": "e",
+    "animeName": "Истории ран: Холодная кровь",
+    "animeLink": "/aniserials/video/action/2685-istorii-ran-holodnaja-krov.html",
+    "image": "/uploads/cards_image/2685/e/chibi-1763126285-505012.webp"
+  },
+  {
+    "id": "67225",
+    "name": "Мабуи",
+    "rank": "d",
+    "animeName": "Наруто: Ураганные хроники 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/75-naruto-uragannye-hroniki-tv-2-animestars-2007.html",
+    "image": "/uploads/cards_image/75/d/mabui-1763145988-306730.webp"
+  },
+  {
+    "id": "67224",
+    "name": "Мэмэ Осино",
+    "rank": "b",
+    "animeName": "Истории ран: Холодная кровь",
+    "animeLink": "/aniserials/video/action/2685-istorii-ran-holodnaja-krov.html",
+    "image": "/uploads/cards_image/2685/b/mjemje-osino-1763124927-317071.webp"
+  },
+  {
+    "id": "67212",
+    "name": "Команда Донкихота",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/komanda-donkihota-1763145423-444545.webp"
+  },
+  {
+    "id": "67209",
+    "name": "Истерический смех",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/istericheskij-smeh-1763145141-549289.webp"
+  },
+  {
+    "id": "67208",
+    "name": "Объятия",
+    "rank": "c",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/c/objatija-1763144998-701969.webp"
+  },
+  {
+    "id": "67207",
+    "name": "Сюн и Сакура",
+    "rank": "c",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/c/sjun-i-sakura-1763144947-396889.webp"
+  },
+  {
+    "id": "67206",
+    "name": "Сакура",
+    "rank": "e",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/e/sakura-1763114920-903949.webp"
+  },
+  {
+    "id": "67205",
+    "name": "Хаятэ и Сюн",
+    "rank": "c",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/c/hajatje-i-sjun-1763144722-992311.webp"
+  },
+  {
+    "id": "67201",
+    "name": "Анума Кадо",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/anuma-kado-1763144617-777096.webp"
+  },
+  {
+    "id": "67200",
+    "name": "Вубат",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/vubat-1763114206-192228.webp"
+  },
+  {
+    "id": "67197",
+    "name": "Дрой",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/droj-1763114086-214016.webp"
+  },
+  {
+    "id": "67191",
+    "name": "Чэнсюэ Хун",
+    "rank": "b",
+    "animeName": "Контратака изгнанного ученика",
+    "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+    "image": "/uploads/cards_image/1824/b/chjensjuje-hun-1763144193-363639.webp"
+  },
+  {
+    "id": "67190",
+    "name": "Дзинта и Сираюки",
+    "rank": "c",
+    "animeName": "Хроники людей и демонов",
+    "animeLink": "/aniserials/video/action/2879-hroniki-ljudej-i-demonov.html",
+    "image": "/uploads/cards_image/2879/c/dzinta-i-sirajuki-1763144055-50185.webp"
+  },
+  {
     "id": "67177",
     "name": "Куда смотришь?!",
     "rank": "e",
