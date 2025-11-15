@@ -1,5 +1,253 @@
 [
   {
+    "id": "67344",
+    "name": "Смущение",
+    "rank": "e",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/e/smuschenie-1763204648-735002.webp"
+  },
+  {
+    "id": "67343",
+    "name": "Асами Футами",
+    "rank": "d",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/d/asami-futami-1763204525-27185.webp"
+  },
+  {
+    "id": "67342",
+    "name": "Палмон",
+    "rank": "a",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/a/palmon-1763200823-500349.webp"
+  },
+  {
+    "id": "67341",
+    "name": "Агумон",
+    "rank": "a",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/a/agumon-1763200783-240439.webp"
+  },
+  {
+    "id": "67339",
+    "name": "Тэйлмон",
+    "rank": "a",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/a/tjejlmon-1763200655-867278.webp"
+  },
+  {
+    "id": "67338",
+    "name": "Дзё Кидо",
+    "rank": "a",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/a/dze-kido-1763200614-554383.webp"
+  },
+  {
+    "id": "67334",
+    "name": "Маска",
+    "rank": "e",
+    "animeName": "Ловцы звёзд: Истоки",
+    "animeLink": "/aniserials/video/action/2560-lovcy-zvezd-istoki.html",
+    "image": "/uploads/cards_image/2560/e/maska-1763196073-527176.webp"
+  },
+  {
+    "id": "67333",
+    "name": "Сюань Мо",
+    "rank": "a",
+    "animeName": "Ловцы звёзд: Истоки",
+    "animeLink": "/aniserials/video/action/2560-lovcy-zvezd-istoki.html",
+    "image": "/uploads/cards_image/2560/a/sjuan-mo-1763205868-86144.webp"
+  },
+  {
+    "id": "67332",
+    "name": "Жуо Ду",
+    "rank": "a",
+    "animeName": "Ловцы звёзд: Истоки",
+    "animeLink": "/aniserials/video/action/2560-lovcy-zvezd-istoki.html",
+    "image": "/uploads/cards_image/2560/a/zhuo-du-1763205801-674500.webp"
+  },
+  {
+    "id": "67331",
+    "name": "Зе Цинь",
+    "rank": "a",
+    "animeName": "Ловцы звёзд: Истоки",
+    "animeLink": "/aniserials/video/action/2560-lovcy-zvezd-istoki.html",
+    "image": "/uploads/cards_image/2560/a/ze-cin-1763196004-7249.webp"
+  },
+  {
+    "id": "67330",
+    "name": "Няньбин Жун",
+    "rank": "a",
+    "animeName": "Мастер льда и пламени",
+    "animeLink": "/aniserials/video/martial_arts/1512-master-lda-i-plameni.html",
+    "image": "/uploads/cards_image/1512/a/njanbin-zhun-1763195775-860515.webp"
+  },
+  {
+    "id": "67325",
+    "name": "Скрытность",
+    "rank": "e",
+    "animeName": "Плачущий призрак на пенсии",
+    "animeLink": "/aniserials/video/action/2630-plachuschij-prizrak-na-pensii.html",
+    "image": "/uploads/cards_image/2630/e/skrytnost-1763192047-900571.webp"
+  },
+  {
+    "id": "67324",
+    "name": "Ярость",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/jarost-1763205168-982633.webp"
+  },
+  {
+    "id": "67323",
+    "name": "Амулет",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/amulet-1763205053-217658.webp"
+  },
+  {
+    "id": "67320",
+    "name": "Наоки Кодзима",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/naoki-kodzima-1763204915-419568.webp"
+  },
+  {
+    "id": "67318",
+    "name": "Мэнъи Му и Юнь Тань",
+    "rank": "c",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/c/mjeni-mu-i-jun-tan-1763204822-524635.webp"
+  },
+  {
+    "id": "67317",
+    "name": "Цыньцю Шень",
+    "rank": "d",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/d/cyncju-shen-1763204748-606311.webp"
+  },
+  {
+    "id": "67316",
+    "name": "Цыньфэн Шень",
+    "rank": "d",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/d/cynfjen-shen-1763180539-445401.webp"
+  },
+  {
+    "id": "67315",
+    "name": "Мечи стихий",
+    "rank": "e",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/e/mechi-stihij-1763204573-171039.webp"
+  },
+  {
+    "id": "67314",
+    "name": "Письма",
+    "rank": "e",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/e/pisma-1763180292-994285.webp"
+  },
+  {
+    "id": "67309",
+    "name": "Лесная чаща",
+    "rank": "e",
+    "animeName": "Стальной алхимик: Завоеватель Шамбалы",
+    "animeLink": "/aniserials/video/shounen/2869-stalnoj-alhimik-zavoevatel-shambaly.html",
+    "image": "/uploads/cards_image/2869/e/lesnaja-chascha-1763204290-421144.webp"
+  },
+  {
+    "id": "67308",
+    "name": "Перекус",
+    "rank": "c",
+    "animeName": "Волчица и пряности 2 сезон",
+    "animeLink": "/aniserials/video/kemonobito/67-volchica-i-pryanosti-tv-2-animestars.html",
+    "image": "/uploads/cards_image/67/c/perekus-1763204224-708896.webp"
+  },
+  {
+    "id": "67300",
+    "name": "Метеорит",
+    "rank": "d",
+    "animeName": "Аркнайтс: Восстание из пепла",
+    "animeLink": "/aniserials/video/action/2966-arknajts-vosstanie-iz-pepla.html",
+    "image": "/uploads/cards_image/2966/d/meteorit-1763160468-980358.webp"
+  },
+  {
+    "id": "67298",
+    "name": "Аояма",
+    "rank": "d",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/d/aojama-1763158292-340112.webp"
+  },
+  {
+    "id": "67297",
+    "name": "Хаятэ, Сома и Сюн",
+    "rank": "c",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/c/hajatje-soma-i-sjun-1763203516-582926.webp"
+  },
+  {
+    "id": "67291",
+    "name": "Буффалант",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/buffalant-1763156643-410908.webp"
+  },
+  {
+    "id": "67290",
+    "name": "Аркен",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/arken-1763156555-679037.webp"
+  },
+  {
+    "id": "67288",
+    "name": "Мелди и Занкроу",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/meldi-i-zankrou-1763156388-914895.webp"
+  },
+  {
+    "id": "67287",
+    "name": "Венди и Шеррия",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/vendi-i-sherrija-1763156374-396840.webp"
+  },
+  {
+    "id": "67286",
+    "name": "Долгожданная встреча",
+    "rank": "c",
+    "animeName": "Пять сантиметров в секунду",
+    "animeLink": "/aniserials/video/drama/1749-pjat-santimetrov-v-sekundu.html",
+    "image": "/uploads/cards_image/1749/c/dolgozhdannaja-vstrecha-1763202877-721251.webp"
+  },
+  {
+    "id": "67284",
+    "name": "Сестра Канаэ",
+    "rank": "d",
+    "animeName": "Пять сантиметров в секунду",
+    "animeLink": "/aniserials/video/drama/1749-pjat-santimetrov-v-sekundu.html",
+    "image": "/uploads/cards_image/1749/d/sestra-kanaje-1763156198-434045.webp"
+  },
+  {
     "id": "67279",
     "name": "Тише",
     "rank": "c",
