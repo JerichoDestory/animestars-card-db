@@ -1,5 +1,165 @@
 [
   {
+    "id": "67396",
+    "name": "Станфиск",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/stanfisk-1763227532-407906.webp"
+  },
+  {
+    "id": "67395",
+    "name": "Чинччино",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/chinchchino-1763227521-283569.webp"
+  },
+  {
+    "id": "67394",
+    "name": "Подводный мир",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/podvodnyj-mir-1763227472-196044.webp"
+  },
+  {
+    "id": "67390",
+    "name": "Сердечко",
+    "rank": "e",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/e/serdechko-1763226836-942839.webp"
+  },
+  {
+    "id": "67388",
+    "name": "Вкусно",
+    "rank": "e",
+    "animeName": "Благоухающий цветок расцветает с достоинством",
+    "animeLink": "/aniserials/video/drama/2975-blagouhajuschij-cvetok-rascvetaet-s-dostoinstvom-2025.html",
+    "image": "/uploads/cards_image/2975/e/vkusno-1763233951-435213.webp"
+  },
+  {
+    "id": "67383",
+    "name": "Гэн и Акихито",
+    "rank": "c",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/c/gjen-i-akihito-1763218663-105425.webp"
+  },
+  {
+    "id": "67382",
+    "name": "Юи Хосидзаки",
+    "rank": "d",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/d/jui-hosidzaki-1763218627-382399.webp"
+  },
+  {
+    "id": "67380",
+    "name": "Глазные капли",
+    "rank": "e",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/e/glaznye-kapli-1763218248-282696.webp"
+  },
+  {
+    "id": "67373",
+    "name": "Горничная",
+    "rank": "e",
+    "animeName": "Реинкарнация безработного: История о приключениях в другом мире",
+    "animeLink": "/aniserials/video/drama/1051-reinkarnacija-bezrabotnogo-istorija-o-prikljuchenijah-v-drugom-2021.html",
+    "image": "/uploads/cards_image/1051/e/gornichnaja-1763228382-470173.webp"
+  },
+  {
+    "id": "67372",
+    "name": "Левиафан",
+    "rank": "e",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/e/leviafan-1763214435-57551.webp"
+  },
+  {
+    "id": "67369",
+    "name": "Хюга",
+    "rank": "b",
+    "animeName": "Симфония морской стали",
+    "animeLink": "/aniserials/video/action/633-arpedzhio-goluboy-stali.html",
+    "image": "/uploads/cards_image/633/b/hjuga-1763211184-478392.webp"
+  },
+  {
+    "id": "67364",
+    "name": "Ямато Исида",
+    "rank": "a",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/a/jamato-isida-1763210848-83546.webp"
+  },
+  {
+    "id": "67363",
+    "name": "Фейерверк",
+    "rank": "e",
+    "animeName": "Заботливая 800-летняя жена!",
+    "animeLink": "/aniserials/video/kemonobito/444-zabotlivaya-800-letnyaya-zhena-2019.html",
+    "image": "/uploads/cards_image/444/e/fejerverk-1763227478-37172.webp"
+  },
+  {
+    "id": "67362",
+    "name": "Невеста",
+    "rank": "e",
+    "animeName": "Заботливая 800-летняя жена!",
+    "animeLink": "/aniserials/video/kemonobito/444-zabotlivaya-800-letnyaya-zhena-2019.html",
+    "image": "/uploads/cards_image/444/e/nevesta-1763227407-740850.webp"
+  },
+  {
+    "id": "67361",
+    "name": "Жених",
+    "rank": "e",
+    "animeName": "Благоухающий цветок расцветает с достоинством",
+    "animeLink": "/aniserials/video/drama/2975-blagouhajuschij-cvetok-rascvetaet-s-dostoinstvom-2025.html",
+    "image": "/uploads/cards_image/2975/e/zhenih-1763227296-566083.webp"
+  },
+  {
+    "id": "67355",
+    "name": "Отпусти",
+    "rank": "c",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/c/otpusti-1763227156-513792.webp"
+  },
+  {
+    "id": "67351",
+    "name": "Асюра Токайдзи",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/asjura-tokajdzi-1763226947-942743.webp"
+  },
+  {
+    "id": "67350",
+    "name": "Юка Судзуки",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/juka-sudzuki-1763204815-867846.webp"
+  },
+  {
+    "id": "67348",
+    "name": "Макс Алос",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/maks-alos-1763204775-493975.webp"
+  },
+  {
+    "id": "67347",
+    "name": "Вакаба Минэ",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/vakaba-minje-1763204757-216125.webp"
+  },
+  {
     "id": "67344",
     "name": "Смущение",
     "rank": "e",
