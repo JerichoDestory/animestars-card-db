@@ -1,5 +1,85 @@
 [
   {
+    "id": "67515",
+    "name": "Звёздное небо",
+    "rank": "c",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/c/zvezdnoe-nebo-1763301095-127338.webp"
+  },
+  {
+    "id": "67514",
+    "name": "Гэн и Юи",
+    "rank": "c",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/c/gjen-i-jui-1763299875-763993.webp"
+  },
+  {
+    "id": "67513",
+    "name": "Кай Кусано",
+    "rank": "d",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/d/kaj-kusano-1763299703-56374.webp"
+  },
+  {
+    "id": "67512",
+    "name": "Тэйлмон и Патамон",
+    "rank": "c",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/c/tjejlmon-i-patamon-1763308300-279112.webp"
+  },
+  {
+    "id": "67510",
+    "name": "Патамон",
+    "rank": "a",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/a/patamon-1763298626-209200.webp"
+  },
+  {
+    "id": "67505",
+    "name": "Армин Арлерт",
+    "rank": "s",
+    "animeName": "Вторжение гигантов 3 сезон",
+    "animeLink": "/aniserials/video/war/305-vtorzhenie-gigantov-3-sezon.html",
+    "image": "/uploads/cards_image/305/s/armin-arlert-1763305544-158742.webp"
+  },
+  {
+    "id": "67503",
+    "name": "Лань Оуян",
+    "rank": "d",
+    "animeName": "Древний лекарь в современном городе",
+    "animeLink": "/aniserials/video/action/2717-drevnij-lekar-v-sovremennom-gorode.html",
+    "image": "/uploads/cards_image/2717/d/lan-oujan-1763305103-485441.webp"
+  },
+  {
+    "id": "67501",
+    "name": "Шо",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/sho-1763293458-739958.webp"
+  },
+  {
+    "id": "67500",
+    "name": "Уолли Бучанан",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/uolli-buchanan-1763293400-101210.webp"
+  },
+  {
+    "id": "67498",
+    "name": "Эльфман Штраус",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/b/jelfman-shtraus-1763293337-357512.webp"
+  },
+  {
     "id": "67485",
     "name": "Кокоро Кусуноки",
     "rank": "b",
