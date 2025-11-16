@@ -1,5 +1,69 @@
 [
   {
+    "id": "67422",
+    "name": "Акари и Такаки",
+    "rank": "c",
+    "animeName": "Пять сантиметров в секунду",
+    "animeLink": "/aniserials/video/drama/1749-pjat-santimetrov-v-sekundu.html",
+    "image": "/uploads/cards_image/1749/c/akari-i-takaki-1763235335-165251.webp"
+  },
+  {
+    "id": "67418",
+    "name": "Рабочие будни",
+    "rank": "e",
+    "animeName": "Пять сантиметров в секунду",
+    "animeLink": "/aniserials/video/drama/1749-pjat-santimetrov-v-sekundu.html",
+    "image": "/uploads/cards_image/1749/e/rabochie-budni-1763234130-195567.webp"
+  },
+  {
+    "id": "67414",
+    "name": "Сота Сики",
+    "rank": "b",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/b/sota-siki-1763232201-932281.webp"
+  },
+  {
+    "id": "67411",
+    "name": "Щелбан",
+    "rank": "e",
+    "animeName": "Благоухающий цветок расцветает с достоинством",
+    "animeLink": "/aniserials/video/drama/2975-blagouhajuschij-cvetok-rascvetaet-s-dostoinstvom-2025.html",
+    "image": "/uploads/cards_image/2975/e/schelban-1763241766-918024.webp"
+  },
+  {
+    "id": "67409",
+    "name": "Задумалась",
+    "rank": "e",
+    "animeName": "Пять сантиметров в секунду",
+    "animeLink": "/aniserials/video/drama/1749-pjat-santimetrov-v-sekundu.html",
+    "image": "/uploads/cards_image/1749/e/zadumalas-1763228695-175680.webp"
+  },
+  {
+    "id": "67407",
+    "name": "Юри Харуно",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/juri-haruno-1763241092-457664.webp"
+  },
+  {
+    "id": "67403",
+    "name": "Май Итиро",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/maj-itiro-1763240770-96279.webp"
+  },
+  {
+    "id": "67398",
+    "name": "Мать Куротори",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/mat-kurotori-1763240542-392886.webp"
+  },
+  {
     "id": "67396",
     "name": "Станфиск",
     "rank": "a",
