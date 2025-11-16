@@ -1,11 +1,211 @@
 [
   {
+    "id": "67485",
+    "name": "Кокоро Кусуноки",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/kokoro-kusunoki-1763295077-41692.webp"
+  },
+  {
+    "id": "67484",
+    "name": "Габумон",
+    "rank": "a",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/a/gabumon-1763281830-305125.webp"
+  },
+  {
+    "id": "67480",
+    "name": "Килика Роузкварц",
+    "rank": "b",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/b/kilika-rouzkvarc-1763294683-213907.webp"
+  },
+  {
+    "id": "67479",
+    "name": "Рётаро Асакура",
+    "rank": "b",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/b/retaro-asakura-1763294603-363690.webp"
+  },
+  {
+    "id": "67477",
+    "name": "Кивами Кимура",
+    "rank": "a",
+    "animeName": "Ниндзя и якудза",
+    "animeLink": "/aniserials/video/action/3136-nindzja-i-jakudza.html",
+    "image": "/uploads/cards_image/3136/a/kivami-kimura-1763294514-160830.webp"
+  },
+  {
+    "id": "67476",
+    "name": "Рук Хант",
+    "rank": "d",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/d/ruk-hant-1763294406-971519.webp"
+  },
+  {
+    "id": "67475",
+    "name": "Эйс Траппола",
+    "rank": "a",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/a/jejs-trappola-1763294307-167294.webp"
+  },
+  {
+    "id": "67472",
+    "name": "Сада, Ота и Тадокоро",
+    "rank": "c",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/c/sada-ota-i-tadokoro-1763294072-614488.webp"
+  },
+  {
+    "id": "67469",
+    "name": "Сиори Фуюмура",
+    "rank": "a",
+    "animeName": "Санда",
+    "animeLink": "/aniserials/video/shounen/3103-sanda.html",
+    "image": "/uploads/cards_image/3103/a/siori-fujumura-1763294012-892842.webp"
+  },
+  {
+    "id": "67468",
+    "name": "Ин Гао",
+    "rank": "a",
+    "animeName": "Призрачный Наньтин",
+    "animeLink": "/aniserials/video/action/3089-prizrachnyj-nantin.html",
+    "image": "/uploads/cards_image/3089/a/in-gao-1763293828-673923.webp"
+  },
+  {
+    "id": "67464",
+    "name": "Акира Ода",
+    "rank": "a",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/a/akira-oda-1763293603-894971.webp"
+  },
+  {
+    "id": "67462",
+    "name": "Сестра Оты",
+    "rank": "d",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/d/sestra-oty-1763293514-115714.webp"
+  },
+  {
+    "id": "67461",
+    "name": "Сада",
+    "rank": "b",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/b/sada-1763293425-901135.webp"
+  },
+  {
     "id": "67460",
     "name": "Сиэль Фантомхайв",
     "rank": "s",
     "animeName": "Тёмный дворецкий 5 сезон: Зелёная ведьма",
     "animeLink": "/aniserials/video/detective/2899-temnyj-dvoreckij-zelenaja-vedma.html",
     "image": "/uploads/cards_image/2899/s/sijel-fantomhajv-1763272753-336948.webp"
+  },
+  {
+    "id": "67459",
+    "name": "Мэй Лю",
+    "rank": "d",
+    "animeName": "Путешествие к бессмертию 6 сезон",
+    "animeLink": "/aniserials/video/action/3050-puteshestvie-k-bessmertiju-6.html",
+    "image": "/uploads/cards_image/3050/d/mjej-lju-1763293329-941494.webp"
+  },
+  {
+    "id": "67454",
+    "name": "Кален Берг",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/kalen-berg-1763249264-3669.webp"
+  },
+  {
+    "id": "67452",
+    "name": "Гош Великолепный",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/gosh-velikolepnyj-1763293139-741973.webp"
+  },
+  {
+    "id": "67450",
+    "name": "Это и Кэн",
+    "rank": "c",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/c/jeto-i-kjen-1763293065-582787.webp"
+  },
+  {
+    "id": "67449",
+    "name": "Джузо и Кэн",
+    "rank": "c",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/c/dzhuzo-i-kjen-1763292993-973799.webp"
+  },
+  {
+    "id": "67446",
+    "name": "Ди Ши",
+    "rank": "d",
+    "animeName": "Путешествие к бессмертию 5 сезон",
+    "animeLink": "/aniserials/video/action/3048-puteshestvie-k-bessmertiju-5.html",
+    "image": "/uploads/cards_image/3048/d/di-shi-1763292235-943075.webp"
+  },
+  {
+    "id": "67445",
+    "name": "Патри",
+    "rank": "b",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/b/patri-1763246503-32778.webp"
+  },
+  {
+    "id": "67443",
+    "name": "Момо Момосаки",
+    "rank": "d",
+    "animeName": "Сыграйте круто, ребята",
+    "animeLink": "/aniserials/video/comedy/1564-sygrajte-kruto-rebjata.html",
+    "image": "/uploads/cards_image/1564/d/momo-momosaki-1763246092-689569.webp"
+  },
+  {
+    "id": "67442",
+    "name": "Жоси Гунсунь",
+    "rank": "d",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/d/zhosi-gunsun-1763291990-242464.webp"
+  },
+  {
+    "id": "67441",
+    "name": "Кольцо пространства",
+    "rank": "e",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/e/kolco-prostranstva-1763291884-485250.webp"
+  },
+  {
+    "id": "67439",
+    "name": "Веер",
+    "rank": "e",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/e/veer-1763291827-560466.webp"
+  },
+  {
+    "id": "67436",
+    "name": "Слёзы",
+    "rank": "e",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/e/slezy-1763243948-559465.webp"
   },
   {
     "id": "67425",
