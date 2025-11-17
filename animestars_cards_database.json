@@ -1,5 +1,61 @@
 [
   {
+    "id": "67553",
+    "name": "Лилиан Йорк",
+    "rank": "b",
+    "animeName": "Однажды я стала принцессой",
+    "animeLink": "/aniserials/video/drama/3082-odnazhdy-ja-stala-princessoj.html",
+    "image": "/uploads/cards_image/3082/b/lilian-jork-1763314290-966759.webp"
+  },
+  {
+    "id": "67551",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Система «спаси-себя-сам» для главного злодея",
+    "animeLink": "/aniserials/video/martial_arts/1013-sistema-spasi-sebja-sam-dlja-glavnogo-zlodeja.html",
+    "image": "/uploads/cards_image/1013/e/pojdem-so-mnoj-1763337900-954633.webp"
+  },
+  {
+    "id": "67549",
+    "name": "Мио Акияма",
+    "rank": "s",
+    "animeName": "Кэйон в кино!",
+    "animeLink": "/film-vvv/2809-k-on-film.html",
+    "image": "/uploads/cards_image/2809/s/mio-akijama-1763311898-690394.webp"
+  },
+  {
+    "id": "67541",
+    "name": "Экспресс-доставка",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/jekspress-dostavka-1763337716-768988.webp"
+  },
+  {
+    "id": "67540",
+    "name": "Ярость",
+    "rank": "e",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/e/jarost-1763308416-910539.webp"
+  },
+  {
+    "id": "67529",
+    "name": "Минерва и Роуг",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/minerva-i-roug-1763305131-348023.webp"
+  },
+  {
+    "id": "67527",
+    "name": "Эвергрин и Фрид",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/jevergrin-i-frid-1763305105-397611.webp"
+  },
+  {
     "id": "67515",
     "name": "Звёздное небо",
     "rank": "c",
