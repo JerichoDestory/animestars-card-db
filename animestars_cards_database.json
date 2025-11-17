@@ -1,11 +1,299 @@
 [
   {
+    "id": "67691",
+    "name": "Стелла",
+    "rank": "c",
+    "animeName": "Семья шпиона 3 сезон",
+    "animeLink": "/aniserials/video/shounen/3106-semja-shpiona-3.html",
+    "image": "/uploads/cards_image/3106/c/stella-1763407599-495906.webp"
+  },
+  {
+    "id": "67690",
+    "name": "Парфе",
+    "rank": "e",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/e/parfe-1763409523-787539.webp"
+  },
+  {
+    "id": "67680",
+    "name": "Наказание",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/nakazanie-1763403499-429530.webp"
+  },
+  {
+    "id": "67678",
+    "name": "Букет",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/buket-1763403422-664719.webp"
+  },
+  {
+    "id": "67677",
+    "name": "Говард и Шарла",
+    "rank": "c",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/c/govard-i-sharla-1763401277-428682.webp"
+  },
+  {
+    "id": "67675",
+    "name": "Алина и Талула",
+    "rank": "c",
+    "animeName": "Аркнайтс: Восстание из пепла",
+    "animeLink": "/aniserials/video/action/2966-arknajts-vosstanie-iz-pepla.html",
+    "image": "/uploads/cards_image/2966/c/alina-i-talula-1763400528-754685.webp"
+  },
+  {
+    "id": "67668",
+    "name": "Лара Тайбур",
+    "rank": "d",
+    "animeName": "Вторжение гигантов 4 сезон",
+    "animeLink": "/aniserials/video/action/1019-vtorzhenie-gigantov-4-sezon-2020.html",
+    "image": "/uploads/cards_image/1019/d/lara-tajbur-1763395912-31900.webp"
+  },
+  {
+    "id": "67658",
+    "name": "Йор и Лойд Форджер",
+    "rank": "c",
+    "animeName": "Семья шпиона 3 сезон",
+    "animeLink": "/aniserials/video/shounen/3106-semja-shpiona-3.html",
+    "image": "/uploads/cards_image/3106/c/jor-i-lojd-fordzher-1763408403-850329.webp"
+  },
+  {
+    "id": "67651",
+    "name": "Кёсукэ Асахина",
+    "rank": "d",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/d/kesukje-asahina-1763407827-265407.webp"
+  },
+  {
+    "id": "67650",
+    "name": "Кроу",
+    "rank": "b",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/b/krou-1763407729-793479.webp"
+  },
+  {
+    "id": "67647",
+    "name": "Мари Имура",
+    "rank": "d",
+    "animeName": "Первый шаг 3 сезон",
+    "animeLink": "/aniserials/video/drama/1263-pervyj-shag-3-sezon.html",
+    "image": "/uploads/cards_image/1263/d/mari-imura-1763407407-9996.webp"
+  },
+  {
+    "id": "67646",
+    "name": "Ичиро Мията",
+    "rank": "b",
+    "animeName": "Первый шаг 3 сезон",
+    "animeLink": "/aniserials/video/drama/1263-pervyj-shag-3-sezon.html",
+    "image": "/uploads/cards_image/1263/b/ichiro-mijata-1763407259-317599.webp"
+  },
+  {
+    "id": "67645",
+    "name": "Рюхэй Савамура",
+    "rank": "b",
+    "animeName": "Первый шаг 3 сезон",
+    "animeLink": "/aniserials/video/drama/1263-pervyj-shag-3-sezon.html",
+    "image": "/uploads/cards_image/1263/b/rjuhjej-savamura-1763407165-56191.webp"
+  },
+  {
+    "id": "67643",
+    "name": "Химари Момоти",
+    "rank": "a",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/a/himari-momoti-1763379943-95856.webp"
+  },
+  {
+    "id": "67642",
+    "name": "Аой Нанамори",
+    "rank": "a",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/a/aoj-nanamori-1763379917-338540.webp"
+  },
+  {
+    "id": "67640",
+    "name": "Мэмэ и Коёми",
+    "rank": "c",
+    "animeName": "Истории ран: Холодная кровь",
+    "animeLink": "/aniserials/video/action/2685-istorii-ran-holodnaja-krov.html",
+    "image": "/uploads/cards_image/2685/c/mjemje-i-koemi-1763376383-738142.webp"
+  },
+  {
+    "id": "67639",
+    "name": "Кольцо",
+    "rank": "e",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/e/kolco-1763406680-752431.webp"
+  },
+  {
+    "id": "67636",
+    "name": "Йохан",
+    "rank": "d",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/d/johan-1763406422-373170.webp"
+  },
+  {
+    "id": "67634",
+    "name": "Жетон",
+    "rank": "e",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/e/zheton-1763406314-896352.webp"
+  },
+  {
+    "id": "67633",
+    "name": "Луна",
+    "rank": "e",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/e/luna-1763370936-842958.webp"
+  },
+  {
+    "id": "67632",
+    "name": "Хитоси Амайя",
+    "rank": "a",
+    "animeName": "Санда",
+    "animeLink": "/aniserials/video/shounen/3103-sanda.html",
+    "image": "/uploads/cards_image/3103/a/hitosi-amajja-1763406155-950529.webp"
+  },
+  {
+    "id": "67631",
+    "name": "Нико Кадзао",
+    "rank": "a",
+    "animeName": "Санда",
+    "animeLink": "/aniserials/video/shounen/3103-sanda.html",
+    "image": "/uploads/cards_image/3103/a/niko-kadzao-1763406081-109255.webp"
+  },
+  {
+    "id": "67630",
+    "name": "Сёстры Накано",
+    "rank": "c",
+    "animeName": "Пять невест: Спецвыпуски",
+    "animeLink": "/aniserials/video/shounen/3153-pjat-nevest-specvypuski.html",
+    "image": "/uploads/cards_image/3153/c/sestry-nakano-1763367673-576389.webp"
+  },
+  {
+    "id": "67629",
+    "name": "Чжундэ Тантай",
+    "rank": "d",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/d/chzhundje-tantaj-1763405873-911837.webp"
+  },
+  {
+    "id": "67628",
+    "name": "Сяосу Жэнь",
+    "rank": "a",
+    "animeName": "Первый порядок",
+    "animeLink": "/aniserials/video/action/2152-pervyj-porjadok-2023-animestars.html",
+    "image": "/uploads/cards_image/2152/a/sjaosu-zhjen-1763366699-53970.webp"
+  },
+  {
+    "id": "67627",
+    "name": "Гуань Джугэ",
+    "rank": "b",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/b/guan-dzhugje-1763405455-632504.webp"
+  },
+  {
+    "id": "67626",
+    "name": "Меч",
+    "rank": "e",
+    "animeName": "Трон, отмеченный богом 2 сезон",
+    "animeLink": "/aniserials/video/action/1585-tron-otmechennyj-bogom-2-sezon-2022.html",
+    "image": "/uploads/cards_image/1585/e/mech-1763405047-406195.webp"
+  },
+  {
+    "id": "67624",
+    "name": "Сюаньчжэнь Хаотянь",
+    "rank": "d",
+    "animeName": "Контратака изгнанного ученика",
+    "animeLink": "/aniserials/video/action/1824-kontrataka-izgnannogo-uchenika-2023.html",
+    "image": "/uploads/cards_image/1824/d/sjuanchzhjen-haotjan-1763404535-135795.webp"
+  },
+  {
+    "id": "67621",
+    "name": "Ямато и Габумон",
+    "rank": "c",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/c/jamato-i-gabumon-1763362460-302707.webp"
+  },
+  {
+    "id": "67615",
+    "name": "Хифуми Осибу",
+    "rank": "d",
+    "animeName": "Санда",
+    "animeLink": "/aniserials/video/shounen/3103-sanda.html",
+    "image": "/uploads/cards_image/3103/d/hifumi-osibu-1763404162-498725.webp"
+  },
+  {
     "id": "67611",
     "name": "Губидон",
     "rank": "s",
     "animeName": "А вот и чёрная колдунья!",
     "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
     "image": "/uploads/cards_image/812/s/gubidon-1763344967-127533.webp"
+  },
+  {
+    "id": "67610",
+    "name": "Обличье Мелюзины",
+    "rank": "e",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/e/obliche-meljuziny-1763403928-914210.webp"
+  },
+  {
+    "id": "67608",
+    "name": "Тока Блоссом",
+    "rank": "d",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/d/toka-blossom-1763403774-539333.webp"
+  },
+  {
+    "id": "67607",
+    "name": "Какоа и Леденец",
+    "rank": "c",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/c/kakoa-i-ledenec-1763403616-54068.webp"
+  },
+  {
+    "id": "67606",
+    "name": "Луна",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/e/luna-1763341785-965748.webp"
+  },
+  {
+    "id": "67604",
+    "name": "Платье",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/plate-1763341741-355164.webp"
+  },
+  {
+    "id": "67602",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/kuda-smotrish-1763341700-424553.webp"
   },
   {
     "id": "67599",
