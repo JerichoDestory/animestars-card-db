@@ -8,6 +8,110 @@
     "image": "/uploads/cards_image/812/s/gubidon-1763344967-127533.webp"
   },
   {
+    "id": "67599",
+    "name": "Эрен Титан и Микаса",
+    "rank": "c",
+    "animeName": "Вторжение гигантов 4 сезон",
+    "animeLink": "/aniserials/video/action/1019-vtorzhenie-gigantov-4-sezon-2020.html",
+    "image": "/uploads/cards_image/1019/c/jeren-titan-i-mikasa-1763364494-369168.webp"
+  },
+  {
+    "id": "67598",
+    "name": "Воплощение надежды",
+    "rank": "c",
+    "animeName": "Гуррен-Лаганн",
+    "animeLink": "/aniserials/video/drama/544-gurren-lagann-animestars-2007.html",
+    "image": "/uploads/cards_image/544/c/voploschenie-nadezhdy-1763364380-622610.webp"
+  },
+  {
+    "id": "67597",
+    "name": "Гига Дрель",
+    "rank": "e",
+    "animeName": "Гуррен-Лаганн",
+    "animeLink": "/aniserials/video/drama/544-gurren-lagann-animestars-2007.html",
+    "image": "/uploads/cards_image/544/e/giga-drel-1763364101-171137.webp"
+  },
+  {
+    "id": "67584",
+    "name": "Рассвет",
+    "rank": "e",
+    "animeName": "Убийца гоблинов 2 сезон",
+    "animeLink": "/aniserials/video/action/2191-ubijca-goblinov-2-sezon.html",
+    "image": "/uploads/cards_image/2191/e/rassvet-1763363842-830456.webp"
+  },
+  {
+    "id": "67579",
+    "name": "Гы",
+    "rank": "e",
+    "animeName": "Повесть о конце света 2 сезон",
+    "animeLink": "/aniserials/video/drama/1778-povest-o-konce-sveta-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/1778/e/gy-1763363603-442307.webp"
+  },
+  {
+    "id": "67574",
+    "name": "Сукэхиро и Джек",
+    "rank": "c",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/c/sukjehiro-i-dzhek-1763363430-342946.webp"
+  },
+  {
+    "id": "67572",
+    "name": "Гомамон",
+    "rank": "a",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/a/gomamon-1763322024-901783.webp"
+  },
+  {
+    "id": "67571",
+    "name": "Гэн и Кай",
+    "rank": "c",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/c/gjen-i-kaj-1763321672-951390.webp"
+  },
+  {
+    "id": "67566",
+    "name": "Мать и дочь",
+    "rank": "c",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/c/mat-i-doch-1763363031-590221.webp"
+  },
+  {
+    "id": "67565",
+    "name": "Объятия",
+    "rank": "c",
+    "animeName": "Аркнайтс: Прелюдия к рассвету",
+    "animeLink": "/aniserials/video/action/1587-arknajts-preljudija-k-rassvetu.html",
+    "image": "/uploads/cards_image/1587/c/objatija-1763320484-933996.webp"
+  },
+  {
+    "id": "67564",
+    "name": "Объятия",
+    "rank": "c",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/c/objatija-1763362895-12822.webp"
+  },
+  {
+    "id": "67563",
+    "name": "Лукас",
+    "rank": "a",
+    "animeName": "Однажды я стала принцессой",
+    "animeLink": "/aniserials/video/drama/3082-odnazhdy-ja-stala-princessoj.html",
+    "image": "/uploads/cards_image/3082/a/lukas-1763318255-842238.webp"
+  },
+  {
+    "id": "67561",
+    "name": "Фестиваль",
+    "rank": "c",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/c/festival-1763362774-544945.webp"
+  },
+  {
     "id": "67553",
     "name": "Лилиан Йорк",
     "rank": "b",
