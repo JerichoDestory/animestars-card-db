@@ -1,5 +1,77 @@
 [
   {
+    "id": "67805",
+    "name": "Все за одного",
+    "rank": "a",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/a/vse-za-odnogo-1763501732-489083.webp"
+  },
+  {
+    "id": "67802",
+    "name": "Чистим зубки",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/chistim-zubki-1763487879-337573.webp"
+  },
+  {
+    "id": "67798",
+    "name": "Йорха Айзенц",
+    "rank": "a",
+    "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
+    "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
+    "image": "/uploads/cards_image/3116/a/jorha-ajzenc-1763501344-5372.webp"
+  },
+  {
+    "id": "67796",
+    "name": "Кусуо Сайки",
+    "rank": "a",
+    "animeName": "Ох уж этот экстрасенс Сайки Кусуо! Начало",
+    "animeLink": "/aniserials/video/comedy/1944-oh-uzh-jetot-jekstrasens-sajki-kusuo-nachalo.html",
+    "image": "/uploads/cards_image/1944/a/kusuo-sajki-1763501202-828410.webp"
+  },
+  {
+    "id": "67794",
+    "name": "Фейерверк",
+    "rank": "e",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/e/fejerverk-1763501054-506796.webp"
+  },
+  {
+    "id": "67793",
+    "name": "Вольфганг",
+    "rank": "d",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/d/volfgang-1763500992-911203.webp"
+  },
+  {
+    "id": "67792",
+    "name": "Эльвира Шадеран",
+    "rank": "d",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/d/jelvira-shaderan-1763500932-861810.webp"
+  },
+  {
+    "id": "67791",
+    "name": "Грегор Шадеран",
+    "rank": "d",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/d/gregor-shaderan-1763500858-510135.webp"
+  },
+  {
+    "id": "67789",
+    "name": "Симон",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/simon-1763481053-694890.webp"
+  },
+  {
     "id": "67784",
     "name": "Юкари",
     "rank": "b",
