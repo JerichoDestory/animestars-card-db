@@ -1,11 +1,139 @@
 [
   {
+    "id": "67784",
+    "name": "Юкари",
+    "rank": "b",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/b/jukari-1763478222-370335.webp"
+  },
+  {
+    "id": "67783",
+    "name": "Кёка Такамура",
+    "rank": "d",
+    "animeName": "Первый шаг 2 сезон: Новый вызов",
+    "animeLink": "/aniserials/video/drama/1262-pervyj-shag-2-sezon.html",
+    "image": "/uploads/cards_image/1262/d/keka-takamura-1763484171-438419.webp"
+  },
+  {
+    "id": "67778",
+    "name": "Исэ",
+    "rank": "b",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/b/isje-1763469844-401619.webp"
+  },
+  {
+    "id": "67774",
+    "name": "Ну Фэн",
+    "rank": "a",
+    "animeName": "Мастер льда и пламени",
+    "animeLink": "/aniserials/video/martial_arts/1512-master-lda-i-plameni.html",
+    "image": "/uploads/cards_image/1512/a/nu-fjen-1763483710-716908.webp"
+  },
+  {
+    "id": "67773",
+    "name": "Сяоюй Ли",
+    "rank": "a",
+    "animeName": "Первый порядок",
+    "animeLink": "/aniserials/video/action/2152-pervyj-porjadok-2023-animestars.html",
+    "image": "/uploads/cards_image/2152/a/sjaojuj-li-1763483533-724676.webp"
+  },
+  {
+    "id": "67765",
+    "name": "Пилюля",
+    "rank": "e",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/e/piljulja-1763457082-389616.webp"
+  },
+  {
+    "id": "67763",
+    "name": "Сюаньчжун Тантай",
+    "rank": "d",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/d/sjuanchzhun-tantaj-1763483091-609778.webp"
+  },
+  {
+    "id": "67761",
+    "name": "Раны",
+    "rank": "e",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/e/rany-1763455173-31358.webp"
+  },
+  {
     "id": "67751",
     "name": "Март 7",
     "rank": "s",
     "animeName": "Кровь двух драконов",
     "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
     "image": "/uploads/cards_image/2929/s/mart-7-1763444437-618544.webp"
+  },
+  {
+    "id": "67750",
+    "name": "Серпериор",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/serperior-1763444012-483650.webp"
+  },
+  {
+    "id": "67740",
+    "name": "Карл",
+    "rank": "d",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/d/karl-1763438992-443238.webp"
+  },
+  {
+    "id": "67734",
+    "name": "Мари 2",
+    "rank": "b",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/b/mari-2-1763437272-82874.webp"
+  },
+  {
+    "id": "67731",
+    "name": "Шарлотта, Карл и Изабель",
+    "rank": "c",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/c/sharlotta-karl-i-izabel-1763481908-671175.webp"
+  },
+  {
+    "id": "67729",
+    "name": "Саран Митрей",
+    "rank": "b",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/b/saran-mitrej-1763481827-360440.webp"
+  },
+  {
+    "id": "67728",
+    "name": "Олив Роузкварц",
+    "rank": "d",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/d/oliv-rouzkvarc-1763481766-486725.webp"
+  },
+  {
+    "id": "67726",
+    "name": "Камергер",
+    "rank": "d",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/d/kamerger-1763481617-43519.webp"
+  },
+  {
+    "id": "67717",
+    "name": "Яо Юань и Ли Янь",
+    "rank": "c",
+    "animeName": "Путешествие к бессмертию 6 сезон",
+    "animeLink": "/aniserials/video/action/3050-puteshestvie-k-bessmertiju-6.html",
+    "image": "/uploads/cards_image/3050/c/jao-juan-i-li-jan-1763481489-45840.webp"
   },
   {
     "id": "67716",
@@ -32,12 +160,68 @@
     "image": "/uploads/cards_image/2965/s/kikoru-sinomija-1763413379-393316.webp"
   },
   {
+    "id": "67708",
+    "name": "Аня и Лойд Форджер",
+    "rank": "c",
+    "animeName": "Семья шпиона 3 сезон",
+    "animeLink": "/aniserials/video/shounen/3106-semja-shpiona-3.html",
+    "image": "/uploads/cards_image/3106/c/anja-i-lojd-fordzher-1763481242-288528.webp"
+  },
+  {
+    "id": "67702",
+    "name": "Бехийем",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/behijem-1763409356-816216.webp"
+  },
+  {
+    "id": "67701",
+    "name": "Бревиари",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/breviari-1763409343-277838.webp"
+  },
+  {
+    "id": "67700",
+    "name": "Вимсикотт",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/vimsikott-1763409328-803704.webp"
+  },
+  {
+    "id": "67699",
+    "name": "Волкарона",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/volkarona-1763409315-463160.webp"
+  },
+  {
     "id": "67698",
     "name": "Эдгар Джей Си Эшенберт",
     "rank": "s",
     "animeName": "Граф и фейри",
     "animeLink": "/aniserials/video/garem-dlya-devushek/260-graf-i-feyri.html",
     "image": "/uploads/cards_image/260/s/jedgar-dzhej-si-jeshenbert-1763443480-721897.webp"
+  },
+  {
+    "id": "67697",
+    "name": "Томас",
+    "rank": "d",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/d/tomas-1763480414-355714.webp"
+  },
+  {
+    "id": "67694",
+    "name": "Норман",
+    "rank": "d",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/d/norman-1763480266-628483.webp"
   },
   {
     "id": "67693",
