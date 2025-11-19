@@ -1,5 +1,117 @@
 [
   {
+    "id": "67831",
+    "name": "Мари 2 и Артур",
+    "rank": "c",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/c/mari-2-i-artur-1763514675-709295.webp"
+  },
+  {
+    "id": "67827",
+    "name": "Жозе Порла",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/zhoze-porla-1763514254-584921.webp"
+  },
+  {
+    "id": "67825",
+    "name": "Юки",
+    "rank": "d",
+    "animeName": "Первый шаг 3 сезон",
+    "animeLink": "/aniserials/video/drama/1263-pervyj-shag-3-sezon.html",
+    "image": "/uploads/cards_image/1263/d/juki-1763545415-150987.webp"
+  },
+  {
+    "id": "67824",
+    "name": "Брайан Хоук",
+    "rank": "d",
+    "animeName": "Первый шаг 3 сезон",
+    "animeLink": "/aniserials/video/drama/1263-pervyj-shag-3-sezon.html",
+    "image": "/uploads/cards_image/1263/d/brajan-houk-1763545362-511821.webp"
+  },
+  {
+    "id": "67823",
+    "name": "Александр Волг Зангиев",
+    "rank": "b",
+    "animeName": "Первый шаг 3 сезон",
+    "animeLink": "/aniserials/video/drama/1263-pervyj-shag-3-sezon.html",
+    "image": "/uploads/cards_image/1263/b/aleksandr-volg-zangiev-1763545329-454608.webp"
+  },
+  {
+    "id": "67822",
+    "name": "Иори, Кохэй и Адзуса",
+    "rank": "c",
+    "animeName": "Необъятный океан 2",
+    "animeLink": "/aniserials/video/seinen/2987-neobjatnyj-okean-2.html",
+    "image": "/uploads/cards_image/2987/c/iori-kohjej-i-adzusa-1763545241-776093.webp"
+  },
+  {
+    "id": "67821",
+    "name": "Взгляд",
+    "rank": "e",
+    "animeName": "Необъятный океан 2",
+    "animeLink": "/aniserials/video/seinen/2987-neobjatnyj-okean-2.html",
+    "image": "/uploads/cards_image/2987/e/vzgljad-1763501868-878334.webp"
+  },
+  {
+    "id": "67815",
+    "name": "Момо Яоёродзу",
+    "rank": "b",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/b/momo-jaoerodzu-1763545117-696716.webp"
+  },
+  {
+    "id": "67813",
+    "name": "Миша",
+    "rank": "d",
+    "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
+    "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
+    "image": "/uploads/cards_image/3116/d/misha-1763545014-773033.webp"
+  },
+  {
+    "id": "67812",
+    "name": "Ласка",
+    "rank": "e",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/e/laska-1763489904-323397.webp"
+  },
+  {
+    "id": "67811",
+    "name": "Томура Сигараки",
+    "rank": "a",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/a/tomura-sigaraki-1763544910-539273.webp"
+  },
+  {
+    "id": "67810",
+    "name": "Поцелуй",
+    "rank": "c",
+    "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
+    "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
+    "image": "/uploads/cards_image/3116/c/poceluj-1763544825-745957.webp"
+  },
+  {
+    "id": "67809",
+    "name": "Скарлет и Нанака",
+    "rank": "c",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/c/skarlet-i-nanaka-1763489610-70042.webp"
+  },
+  {
+    "id": "67808",
+    "name": "Учёба",
+    "rank": "e",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/e/ucheba-1763544703-227567.webp"
+  },
+  {
     "id": "67805",
     "name": "Все за одного",
     "rank": "a",
