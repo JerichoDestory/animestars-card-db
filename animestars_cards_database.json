@@ -1,11 +1,123 @@
 [
   {
+    "id": "67892",
+    "name": "Юй Чжугэ",
+    "rank": "d",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/d/juj-chzhugje-1763574189-409533.webp"
+  },
+  {
+    "id": "67884",
+    "name": "Хаято Хидака",
+    "rank": "d",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/d/hajato-hidaka-1763554296-714389.webp"
+  },
+  {
+    "id": "67881",
+    "name": "Крепкий пресс",
+    "rank": "e",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/e/krepkij-press-1763553956-536221.webp"
+  },
+  {
+    "id": "67880",
+    "name": "Королева Лора",
+    "rank": "d",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/d/koroleva-lora-1763573581-774327.webp"
+  },
+  {
+    "id": "67879",
+    "name": "Бриана и Летиция",
+    "rank": "c",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/c/briana-i-leticija-1763573499-323654.webp"
+  },
+  {
+    "id": "67875",
+    "name": "Нова",
+    "rank": "b",
+    "animeName": "Рыцари магии II",
+    "animeLink": "/aniserials/video/action/2803-rycari-magii.html",
+    "image": "/uploads/cards_image/2803/b/nova-1763553042-37643.webp"
+  },
+  {
+    "id": "67868",
+    "name": "Часы",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/chasy-1763551418-636584.webp"
+  },
+  {
+    "id": "67867",
+    "name": "Козерог",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/kozerog-1763551404-585632.webp"
+  },
+  {
+    "id": "67866",
+    "name": "Рак",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/rak-1763551386-367251.webp"
+  },
+  {
+    "id": "67865",
+    "name": "Аркадиос",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/arkadios-1763551368-317964.webp"
+  },
+  {
+    "id": "67864",
+    "name": "Кася",
+    "rank": "b",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/b/kasja-1763549075-753195.webp"
+  },
+  {
     "id": "67863",
     "name": "Йор Форджер",
     "rank": "s",
     "animeName": "Семья шпиона 3 сезон",
     "animeLink": "/aniserials/video/shounen/3106-semja-shpiona-3.html",
     "image": "/uploads/cards_image/3106/s/jor-fordzher-1763548793-330065.webp"
+  },
+  {
+    "id": "67862",
+    "name": "Объятия",
+    "rank": "c",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/c/objatija-1763572339-513266.webp"
+  },
+  {
+    "id": "67861",
+    "name": "Луи Дельбаран",
+    "rank": "d",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/d/lui-delbaran-1763572162-325509.webp"
+  },
+  {
+    "id": "67860",
+    "name": "Тосио Уцуми",
+    "rank": "a",
+    "animeName": "Кошачий глаз",
+    "animeLink": "/aniserials/video/action/3081-koshachij-glaz.html",
+    "image": "/uploads/cards_image/3081/a/tosio-ucumi-1763547994-523511.webp"
   },
   {
     "id": "67856",
