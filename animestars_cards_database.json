@@ -1,5 +1,77 @@
 [
   {
+    "id": "67863",
+    "name": "Йор Форджер",
+    "rank": "s",
+    "animeName": "Семья шпиона 3 сезон",
+    "animeLink": "/aniserials/video/shounen/3106-semja-shpiona-3.html",
+    "image": "/uploads/cards_image/3106/s/jor-fordzher-1763548793-330065.webp"
+  },
+  {
+    "id": "67856",
+    "name": "Юэ Ю",
+    "rank": "d",
+    "animeName": "Непревзойденный на пути алхимии",
+    "animeLink": "/aniserials/video/action/2329-neprevzojdennyj-na-puti-alhimii.html",
+    "image": "/uploads/cards_image/2329/d/juje-ju-1763547163-882569.webp"
+  },
+  {
+    "id": "67853",
+    "name": "Чаепитие",
+    "rank": "e",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/e/chaepitie-1763546748-837896.webp"
+  },
+  {
+    "id": "67852",
+    "name": "Надир Дорман",
+    "rank": "b",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/b/nadir-dorman-1763546701-267340.webp"
+  },
+  {
+    "id": "67849",
+    "name": "Готовка",
+    "rank": "c",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/c/gotovka-1763546623-829307.webp"
+  },
+  {
+    "id": "67848",
+    "name": "Седрик и Эльвира Шадеран",
+    "rank": "c",
+    "animeName": "За небрежной молодой девушкой ухаживает бывший жених её сестры",
+    "animeLink": "/aniserials/video/josei/2970-za-nebrezhnoj-molodoj-devushkoj-uhazhivaet-byvshij-zhenih-ee-sestry.html",
+    "image": "/uploads/cards_image/2970/c/sedrik-i-jelvira-shaderan-1763546577-800316.webp"
+  },
+  {
+    "id": "67846",
+    "name": "Полёт",
+    "rank": "c",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/c/polet-1763546491-743831.webp"
+  },
+  {
+    "id": "67845",
+    "name": "Ной",
+    "rank": "b",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/b/noj-1763533449-929908.webp"
+  },
+  {
+    "id": "67843",
+    "name": "Хунмэн и Люсюань Фан",
+    "rank": "c",
+    "animeName": "Противостоящий небесам",
+    "animeLink": "/aniserials/video/action/1171-protivostojaschij-nebesam.html",
+    "image": "/uploads/cards_image/1171/c/hunmjen-i-ljusjuan-fan-1763546273-547193.webp"
+  },
+  {
     "id": "67831",
     "name": "Мари 2 и Артур",
     "rank": "c",
