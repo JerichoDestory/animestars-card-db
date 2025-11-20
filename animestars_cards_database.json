@@ -8,12 +8,164 @@
     "image": "/uploads/cards_image/33/s/rjejdzju-vinsmok-1763633872-698793.webp"
   },
   {
+    "id": "67931",
+    "name": "Кэтрин",
+    "rank": "d",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/d/kjetrin-1763661290-640112.webp"
+  },
+  {
+    "id": "67928",
+    "name": "Цяоцяо Гу",
+    "rank": "d",
+    "animeName": "Древний лекарь в современном городе",
+    "animeLink": "/aniserials/video/action/2717-drevnij-lekar-v-sovremennom-gorode.html",
+    "image": "/uploads/cards_image/2717/d/cjaocjao-gu-1763661025-200690.webp"
+  },
+  {
+    "id": "67925",
+    "name": "Кудагицунэ",
+    "rank": "d",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/d/kudagicunje-1763576707-122327.webp"
+  },
+  {
+    "id": "67923",
+    "name": "Клевер удачи",
+    "rank": "e",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/e/klever-udachi-1763575901-925389.webp"
+  },
+  {
+    "id": "67922",
+    "name": "Эмблема Пяты Русалки",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jemblema-pjaty-rusalki-1763652860-915045.webp"
+  },
+  {
+    "id": "67921",
+    "name": "Ничия",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/nichija-1763572964-12346.webp"
+  },
+  {
+    "id": "67919",
+    "name": "Ризли Лоу",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/rizli-lou-1763572934-628477.webp"
+  },
+  {
+    "id": "67918",
+    "name": "Сяошань Сюй",
+    "rank": "b",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/b/sjaoshan-sjuj-1763652533-470405.webp"
+  },
+  {
+    "id": "67917",
+    "name": "Дахай Чжан",
+    "rank": "d",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/d/dahaj-chzhan-1763652475-988518.webp"
+  },
+  {
+    "id": "67914",
+    "name": "Кусь",
+    "rank": "e",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/e/kus-1763652045-747021.webp"
+  },
+  {
+    "id": "67913",
+    "name": "Лэ Цзя",
+    "rank": "d",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/d/lje-czja-1763651960-703102.webp"
+  },
+  {
+    "id": "67912",
+    "name": "Чжэнь Сун",
+    "rank": "d",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/d/chzhjen-sun-1763651868-324469.webp"
+  },
+  {
+    "id": "67911",
+    "name": "Чарльз Джонс",
+    "rank": "a",
+    "animeName": "Сыграем: Моя жизнь, полная квестов",
+    "animeLink": "/aniserials/video/comedy/3087-sygraem-moja-zhizn-polnaja-kvestov.html",
+    "image": "/uploads/cards_image/3087/a/charlz-dzhons-1763651487-225658.webp"
+  },
+  {
+    "id": "67909",
+    "name": "Тренировка Камогавы",
+    "rank": "c",
+    "animeName": "Первый шаг 3 сезон",
+    "animeLink": "/aniserials/video/drama/1263-pervyj-shag-3-sezon.html",
+    "image": "/uploads/cards_image/1263/c/trenirovka-kamogavy-1763651378-320948.webp"
+  },
+  {
+    "id": "67908",
+    "name": "Тосидзо Хидзиката",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/a/tosidzo-hidzikata-1763651314-918604.webp"
+  },
+  {
+    "id": "67907",
+    "name": "Саносукэ Харада",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/a/sanosukje-harada-1763651196-247975.webp"
+  },
+  {
+    "id": "67906",
+    "name": "Хадзимэ Сайто",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/a/hadzimje-sajto-1763651109-172588.webp"
+  },
+  {
     "id": "67905",
     "name": "Мамору Такамура",
     "rank": "s",
     "animeName": "Первый шаг 2 сезон: Новый вызов",
     "animeLink": "/aniserials/video/drama/1262-pervyj-shag-2-sezon.html",
     "image": "/uploads/cards_image/1262/s/mamoru-takamura-1763593531-976771.webp"
+  },
+  {
+    "id": "67898",
+    "name": "Нана Симура",
+    "rank": "b",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/b/nana-simura-1763650981-107303.webp"
+  },
+  {
+    "id": "67897",
+    "name": "Кайна Цуцуми",
+    "rank": "b",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/b/kajna-cucumi-1763650912-32138.webp"
   },
   {
     "id": "67892",
