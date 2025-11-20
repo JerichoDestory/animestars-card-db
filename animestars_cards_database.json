@@ -1,11 +1,91 @@
 [
   {
+    "id": "67986",
+    "name": "Цинъянь Юнь",
+    "rank": "a",
+    "animeName": "Возвращение бессмертного императора",
+    "animeLink": "/aniserials/video/action/3154-vozvraschenie-bessmertnogo-imperatora.html",
+    "image": "/uploads/cards_image/3154/a/cinjan-jun-1763665227-163324.webp"
+  },
+  {
+    "id": "67983",
+    "name": "Содзи Окита",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/a/sodzi-okita-1763664972-433538.webp"
+  },
+  {
     "id": "67967",
     "name": "Рэйдзю Винсмок",
     "rank": "s",
     "animeName": "Ван Пис",
     "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
     "image": "/uploads/cards_image/33/s/rjejdzju-vinsmok-1763633872-698793.webp"
+  },
+  {
+    "id": "67966",
+    "name": "Инь Юй",
+    "rank": "b",
+    "animeName": "Страна десяти тысяч чудес 5 сезон",
+    "animeLink": "/aniserials/video/action/1454-strana-desjati-tysjach-chudes-1-5-sezon.html",
+    "image": "/uploads/cards_image/1454/b/in-juj-1763664382-503656.webp"
+  },
+  {
+    "id": "67964",
+    "name": "Юнь Ань",
+    "rank": "a",
+    "animeName": "Страна десяти тысяч чудес 5 сезон",
+    "animeLink": "/aniserials/video/action/1454-strana-desjati-tysjach-chudes-1-5-sezon.html",
+    "image": "/uploads/cards_image/1454/a/jun-an-1763664131-510380.webp"
+  },
+  {
+    "id": "67963",
+    "name": "Лиюань Янь",
+    "rank": "b",
+    "animeName": "Первый порядок",
+    "animeLink": "/aniserials/video/action/2152-pervyj-porjadok-2023-animestars.html",
+    "image": "/uploads/cards_image/2152/b/lijuan-jan-1763630216-291196.webp"
+  },
+  {
+    "id": "67960",
+    "name": "Мейнард",
+    "rank": "d",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/d/mejnard-1763615957-242769.webp"
+  },
+  {
+    "id": "67958",
+    "name": "Сяочунь Бай и Линфэй Ду",
+    "rank": "c",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/c/sjaochun-baj-i-linfjej-du-1763663645-440368.webp"
+  },
+  {
+    "id": "67955",
+    "name": "Галвантула",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/galvantula-1763593596-735143.webp"
+  },
+  {
+    "id": "67933",
+    "name": "Нил",
+    "rank": "d",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/d/nil-1763662964-355124.webp"
+  },
+  {
+    "id": "67932",
+    "name": "Воздушные шары",
+    "rank": "e",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/e/vozdushnye-shary-1763662796-608320.webp"
   },
   {
     "id": "67931",
