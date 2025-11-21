@@ -1,5 +1,85 @@
 [
   {
+    "id": "68010",
+    "name": "Близ",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/bliz-1763681827-820853.webp"
+  },
+  {
+    "id": "68009",
+    "name": "Нецы",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/necy-1763681815-577475.webp"
+  },
+  {
+    "id": "68007",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/e/pojdem-so-mnoj-1763681578-736993.webp"
+  },
+  {
+    "id": "68006",
+    "name": "Кё Сирануй",
+    "rank": "d",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/d/ke-siranuj-1763681482-134211.webp"
+  },
+  {
+    "id": "68004",
+    "name": "Фуши",
+    "rank": "a",
+    "animeName": "Для тебя, Бессмертный 3 сезон",
+    "animeLink": "/aniserials/video/drama/3111-dlja-tebja-bessmertnyj-3.html",
+    "image": "/uploads/cards_image/3111/a/fushi-1763671734-751027.webp"
+  },
+  {
+    "id": "68000",
+    "name": "Всемогущий",
+    "rank": "a",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/a/vsemoguschij-1763681150-402797.webp"
+  },
+  {
+    "id": "67998",
+    "name": "Фэйфэй Юнь",
+    "rank": "b",
+    "animeName": "Возвращение бессмертного императора",
+    "animeLink": "/aniserials/video/action/3154-vozvraschenie-bessmertnogo-imperatora.html",
+    "image": "/uploads/cards_image/3154/b/fjejfjej-jun-1763681027-674937.webp"
+  },
+  {
+    "id": "67994",
+    "name": "Эмблема Саблезубого Тигра",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jemblema-sablezubogo-tigra-1763680798-678114.webp"
+  },
+  {
+    "id": "67992",
+    "name": "Рабиан",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/rabian-1763664870-689855.webp"
+  },
+  {
+    "id": "67991",
+    "name": "Джейсон",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/dzhejson-1763664855-164211.webp"
+  },
+  {
     "id": "67986",
     "name": "Цинъянь Юнь",
     "rank": "a",
