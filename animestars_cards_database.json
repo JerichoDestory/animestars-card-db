@@ -1,5 +1,109 @@
 [
   {
+    "id": "68046",
+    "name": "Хакка",
+    "rank": "d",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/d/hakka-1763719769-138757.webp"
+  },
+  {
+    "id": "68045",
+    "name": "Химари, Тамамо и Каракаса",
+    "rank": "c",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/c/himari-tamamo-i-karakasa-1763742342-484886.webp"
+  },
+  {
+    "id": "68044",
+    "name": "Такамура Нати",
+    "rank": "d",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/d/takamura-nati-1763718335-545971.webp"
+  },
+  {
+    "id": "68043",
+    "name": "Руи Мадарамэ",
+    "rank": "d",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/d/rui-madaramje-1763728697-704490.webp"
+  },
+  {
+    "id": "68040",
+    "name": "Цай Линь и Янь Сяо",
+    "rank": "c",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/c/caj-lin-i-jan-sjao-1763742036-733276.webp"
+  },
+  {
+    "id": "68039",
+    "name": "Поцелуй",
+    "rank": "c",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/c/poceluj-1763741924-636748.webp"
+  },
+  {
+    "id": "68036",
+    "name": "Саке",
+    "rank": "e",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/e/sake-1763741690-468512.webp"
+  },
+  {
+    "id": "68031",
+    "name": "Маска",
+    "rank": "e",
+    "animeName": "Боевой континент",
+    "animeLink": "/aniserials/video/action/605-boevoy-kontinent-animestars-2018.html",
+    "image": "/uploads/cards_image/605/e/maska-1763702790-19452.webp"
+  },
+  {
+    "id": "68030",
+    "name": "Хань Юнь",
+    "rank": "d",
+    "animeName": "Возвращение бессмертного императора",
+    "animeLink": "/aniserials/video/action/3154-vozvraschenie-bessmertnogo-imperatora.html",
+    "image": "/uploads/cards_image/3154/d/han-jun-1763740910-421432.webp"
+  },
+  {
+    "id": "68027",
+    "name": "Цзун Хань",
+    "rank": "d",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/d/czun-han-1763740709-795948.webp"
+  },
+  {
+    "id": "68025",
+    "name": "Цинъянь Юнь и Лин Ци",
+    "rank": "c",
+    "animeName": "Возвращение бессмертного императора",
+    "animeLink": "/aniserials/video/action/3154-vozvraschenie-bessmertnogo-imperatora.html",
+    "image": "/uploads/cards_image/3154/c/cinjan-jun-i-lin-ci-1763740534-681641.webp"
+  },
+  {
+    "id": "68024",
+    "name": "Кровавая марионетка ночи",
+    "rank": "e",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/e/krovavaja-marionetka-nochi-1763740339-994130.webp"
+  },
+  {
+    "id": "68023",
+    "name": "Дао Цзю",
+    "rank": "d",
+    "animeName": "Вечная воля 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2097-vechnaja-volja-2-sezon.html",
+    "image": "/uploads/cards_image/2097/d/dao-czju-1763740280-877595.webp"
+  },
+  {
     "id": "68010",
     "name": "Близ",
     "rank": "e",
