@@ -1,11 +1,75 @@
 [
   {
+    "id": "68079",
+    "name": "Школьные друзья",
+    "rank": "c",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/c/shkolnye-druzja-1763766591-793517.webp"
+  },
+  {
+    "id": "68078",
+    "name": "Демоны дома Момоти",
+    "rank": "c",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/c/demony-doma-momoti-1763766430-982399.webp"
+  },
+  {
+    "id": "68074",
+    "name": "Картина",
+    "rank": "e",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/e/kartina-1763766352-586335.webp"
+  },
+  {
+    "id": "68069",
+    "name": "Эко",
+    "rank": "b",
+    "animeName": "Для тебя, Бессмертный 3 сезон",
+    "animeLink": "/aniserials/video/drama/3111-dlja-tebja-bessmertnyj-3.html",
+    "image": "/uploads/cards_image/3111/b/jeko-1763743246-687240.webp"
+  },
+  {
     "id": "68064",
     "name": "Муцю Су",
     "rank": "s",
     "animeName": "Аватар короля: Вершина славы",
     "animeLink": "/aniserials/video/drama/2048-avatar-korolja-vershina-slavy.html",
     "image": "/uploads/cards_image/2048/s/mucju-su-1763750485-425937.webp"
+  },
+  {
+    "id": "68062",
+    "name": "Карта сокровищ",
+    "rank": "e",
+    "animeName": "Возвращение бессмертного императора",
+    "animeLink": "/aniserials/video/action/3154-vozvraschenie-bessmertnogo-imperatora.html",
+    "image": "/uploads/cards_image/3154/e/karta-sokrovisch-1763766050-580258.webp"
+  },
+  {
+    "id": "68061",
+    "name": "Жаньчжу Ли",
+    "rank": "a",
+    "animeName": "Возвращение бессмертного императора",
+    "animeLink": "/aniserials/video/action/3154-vozvraschenie-bessmertnogo-imperatora.html",
+    "image": "/uploads/cards_image/3154/a/zhanchzhu-li-1763765975-109644.webp"
+  },
+  {
+    "id": "68057",
+    "name": "Эмблема Хвоста Феи",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jemblema-hvosta-fei-1763765883-282638.webp"
+  },
+  {
+    "id": "68056",
+    "name": "Эмблема Греха Ведьмы",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jemblema-greha-vedmy-1763765837-376656.webp"
   },
   {
     "id": "68046",
