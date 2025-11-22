@@ -1,5 +1,109 @@
 [
   {
+    "id": "68155",
+    "name": "Сяо Лэн",
+    "rank": "d",
+    "animeName": "Несравненный боевой дух",
+    "animeLink": "/aniserials/video/action/2466-nesravnennyj-boevoj-duh-as.html",
+    "image": "/uploads/cards_image/2466/d/sjao-ljen-1763824666-912493.webp"
+  },
+  {
+    "id": "68151",
+    "name": "Почита",
+    "rank": "s",
+    "animeName": "Человек-бензопила",
+    "animeLink": "/aniserials/video/drama/1556-chelovek-benzopila-animestars-2022.html",
+    "image": "/uploads/cards_image/1556/s/pochita-1763823039-377649.webp"
+  },
+  {
+    "id": "68150",
+    "name": "Источник",
+    "rank": "e",
+    "animeName": "Этот глупый свин не понимает мечту Санта-Клауса",
+    "animeLink": "/aniserials/video/comedy/2973-jetot-glupyj-svin-ne-ponimaet-mechtu-santa-klausa.html",
+    "image": "/uploads/cards_image/2973/e/istochnik-1763833687-899071.webp"
+  },
+  {
+    "id": "68147",
+    "name": "Фуши, Марч и Парона",
+    "rank": "c",
+    "animeName": "Для тебя, Бессмертный",
+    "animeLink": "/aniserials/video/drama/1092-dlja-tebja-bessmertnyj.html",
+    "image": "/uploads/cards_image/1092/c/fushi-march-i-parona-1763833390-787101.webp"
+  },
+  {
+    "id": "68144",
+    "name": "Марин Холлоу",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/d/marin-hollou-1763817988-287286.webp"
+  },
+  {
+    "id": "68143",
+    "name": "Аджил Рамал",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/d/adzhil-ramal-1763817970-494538.webp"
+  },
+  {
+    "id": "68141",
+    "name": "Валь Ихт",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/d/val-iht-1763817908-166416.webp"
+  },
+  {
+    "id": "68140",
+    "name": "Инвел Юра",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/b/invel-jura-1763817893-547798.webp"
+  },
+  {
+    "id": "68138",
+    "name": "Цинь Нань",
+    "rank": "s",
+    "animeName": "Несравненный боевой дух",
+    "animeLink": "/aniserials/video/action/2466-nesravnennyj-boevoj-duh-as.html",
+    "image": "/uploads/cards_image/2466/s/cin-nan-1763816173-737077.webp"
+  },
+  {
+    "id": "68136",
+    "name": "Лили Штер",
+    "rank": "d",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/d/lili-shter-1763832372-887930.webp"
+  },
+  {
+    "id": "68135",
+    "name": "Лайла Майер",
+    "rank": "d",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/d/lajla-majer-1763832261-365807.webp"
+  },
+  {
+    "id": "68133",
+    "name": "Бриана и Надир",
+    "rank": "c",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/c/briana-i-nadir-1763832123-431176.webp"
+  },
+  {
+    "id": "68132",
+    "name": "Кларк и Летиция",
+    "rank": "c",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/c/klark-i-leticija-1763831830-545856.webp"
+  },
+  {
     "id": "68128",
     "name": "Такэру Такаиси",
     "rank": "a",
