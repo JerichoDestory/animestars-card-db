@@ -1,5 +1,133 @@
 [
   {
+    "id": "68128",
+    "name": "Такэру Такаиси",
+    "rank": "a",
+    "animeName": "Приключения Дигимонов",
+    "animeLink": "/aniserials/video/action/732-priklyucheniya-digimonov.html",
+    "image": "/uploads/cards_image/732/a/takjeru-takaisi-1763802815-871756.webp"
+  },
+  {
+    "id": "68124",
+    "name": "Нейтан",
+    "rank": "d",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/d/nejtan-1763813354-525380.webp"
+  },
+  {
+    "id": "68123",
+    "name": "Медитация",
+    "rank": "e",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/e/meditacija-1763813220-419731.webp"
+  },
+  {
+    "id": "68117",
+    "name": "Эскавальер",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/jeskavaler-1763791138-922983.webp"
+  },
+  {
+    "id": "68108",
+    "name": "Влюбленный взгляд",
+    "rank": "e",
+    "animeName": "Возвращение бессмертного императора",
+    "animeLink": "/aniserials/video/action/3154-vozvraschenie-bessmertnogo-imperatora.html",
+    "image": "/uploads/cards_image/3154/e/vljublennyj-vzgljad-1763812698-521254.webp"
+  },
+  {
+    "id": "68104",
+    "name": "Эмблема Синего Пегаса",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jemblema-sinego-pegasa-1763812645-772125.webp"
+  },
+  {
+    "id": "68102",
+    "name": "Адзума",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/adzuma-1763778234-447100.webp"
+  },
+  {
+    "id": "68101",
+    "name": "Растироуз",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/rastirouz-1763778215-355428.webp"
+  },
+  {
+    "id": "68100",
+    "name": "Тяньжэнь Вэнь",
+    "rank": "d",
+    "animeName": "Путешествие к бессмертию 6 сезон",
+    "animeLink": "/aniserials/video/action/3050-puteshestvie-k-bessmertiju-6.html",
+    "image": "/uploads/cards_image/3050/d/tjanzhjen-vjen-1763812289-114277.webp"
+  },
+  {
+    "id": "68098",
+    "name": "Луна",
+    "rank": "e",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/e/luna-1763763031-396019.webp"
+  },
+  {
+    "id": "68097",
+    "name": "Дивус Крюэл",
+    "rank": "b",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/b/divus-krjujel-1763812064-787471.webp"
+  },
+  {
+    "id": "68096",
+    "name": "Сая Които",
+    "rank": "d",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/d/saja-koito-1763811932-379226.webp"
+  },
+  {
+    "id": "68095",
+    "name": "Грим",
+    "rank": "a",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/a/grim-1763811856-317851.webp"
+  },
+  {
+    "id": "68094",
+    "name": "Трей Кловер",
+    "rank": "a",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/a/trej-klover-1763811791-644660.webp"
+  },
+  {
+    "id": "68086",
+    "name": "Доброе утро",
+    "rank": "e",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/e/dobroe-utro-1763811482-503392.webp"
+  },
+  {
+    "id": "68084",
+    "name": "Тидзуру и Содзи",
+    "rank": "c",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/c/tidzuru-i-sodzi-1763811355-739378.webp"
+  },
+  {
     "id": "68079",
     "name": "Школьные друзья",
     "rank": "c",
