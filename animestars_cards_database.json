@@ -1,5 +1,93 @@
 [
   {
+    "id": "68178",
+    "name": "Тидзуру Юкимура",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/a/tidzuru-jukimura-1763854236-984907.webp"
+  },
+  {
+    "id": "68176",
+    "name": "Тикагэ Кадзама",
+    "rank": "b",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/b/tikagje-kadzama-1763854117-557125.webp"
+  },
+  {
+    "id": "68171",
+    "name": "Таньэр Су",
+    "rank": "a",
+    "animeName": "Зять",
+    "animeLink": "/aniserials/video/comedy/1922-zjat-2023.html",
+    "image": "/uploads/cards_image/1922/a/tanjer-su-1763853738-675552.webp"
+  },
+  {
+    "id": "68170",
+    "name": "Ринн и Гугу",
+    "rank": "c",
+    "animeName": "Для тебя, Бессмертный",
+    "animeLink": "/aniserials/video/drama/1092-dlja-tebja-bessmertnyj.html",
+    "image": "/uploads/cards_image/1092/c/rinn-i-gugu-1763835567-70730.webp"
+  },
+  {
+    "id": "68167",
+    "name": "Эмблема Хвоста Ворона",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jemblema-hvosta-vorona-1763853464-127101.webp"
+  },
+  {
+    "id": "68166",
+    "name": "Эмблема Сумрачного Людоеда",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jemblema-sumrachnogo-ljudoeda-1763853420-473790.webp"
+  },
+  {
+    "id": "68165",
+    "name": "Хотей",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/hotej-1763833737-633550.webp"
+  },
+  {
+    "id": "68163",
+    "name": "Уоррен Роко",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/uorren-roko-1763833706-553285.webp"
+  },
+  {
+    "id": "68161",
+    "name": "Каору",
+    "rank": "a",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/a/kaoru-1763833024-965648.webp"
+  },
+  {
+    "id": "68160",
+    "name": "Мария",
+    "rank": "d",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/d/marija-1763853043-348424.webp"
+  },
+  {
+    "id": "68159",
+    "name": "Матиас и Летиция",
+    "rank": "c",
+    "animeName": "Я та, кто пытается избежать обучения для принцесс",
+    "animeLink": "/aniserials/video/comedy/2750-ja-ta-kto-pytaetsja-izbezhat-obuchenija-dlja-princess.html",
+    "image": "/uploads/cards_image/2750/c/matias-i-leticija-1763852953-548026.webp"
+  },
+  {
     "id": "68155",
     "name": "Сяо Лэн",
     "rank": "d",
