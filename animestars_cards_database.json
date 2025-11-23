@@ -1,11 +1,59 @@
 [
   {
+    "id": "68247",
+    "name": "Джейкоб Лессио",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/d/dzhejkob-lessio-1763906949-287756.webp"
+  },
+  {
+    "id": "68246",
+    "name": "Наблюдает",
+    "rank": "e",
+    "animeName": "Эта фарфоровая кукла влюбилась 2",
+    "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
+    "image": "/uploads/cards_image/2974/e/nabljudaet-1763906900-4370.webp"
+  },
+  {
     "id": "68244",
     "name": "Клэр Харви",
     "rank": "s",
     "animeName": "Сотня",
     "animeLink": "/aniserials/video/action/328-sotnya-2016-as.html",
     "image": "/uploads/cards_image/328/s/kljer-harvi-1763906822-658872.webp"
+  },
+  {
+    "id": "68243",
+    "name": "Сиро Эмия",
+    "rank": "a",
+    "animeName": "Судьба: Ночь схватки. Клинков бесконечный край 1 сезон",
+    "animeLink": "/aniserials/video/action/843-sudba-noch-shvatki-klinkov-beskonechnyj-kraj-1-sezon.html",
+    "image": "/uploads/cards_image/843/a/siro-jemija-1763929641-983423.webp"
+  },
+  {
+    "id": "68242",
+    "name": "Слёзы",
+    "rank": "e",
+    "animeName": "Цзычуань",
+    "animeLink": "/aniserials/video/action/1330-czychuan.html",
+    "image": "/uploads/cards_image/1330/e/slezy-1763905968-364118.webp"
+  },
+  {
+    "id": "68240",
+    "name": "Взгляд",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/vzgljad-1763929288-939201.webp"
+  },
+  {
+    "id": "68238",
+    "name": "Жетон",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/zheton-1763929218-781525.webp"
   },
   {
     "id": "68237",
