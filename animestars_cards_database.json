@@ -1,5 +1,69 @@
 [
   {
+    "id": "68414",
+    "name": "Кулинар",
+    "rank": "e",
+    "animeName": "Сегодняшнее меню для Эмии",
+    "animeLink": "/aniserials/video/comedy/1622-segodnjashnee-menju-dlja-jemii.html",
+    "image": "/uploads/cards_image/1622/e/kulinar-1764008629-239544.webp"
+  },
+  {
+    "id": "68413",
+    "name": "Качели",
+    "rank": "e",
+    "animeName": "Становление богом 2 сезон",
+    "animeLink": "/aniserials/video/action/2256-stanovlenie-bogom-2-sezon.html",
+    "image": "/uploads/cards_image/2256/e/kacheli-1764023962-769946.webp"
+  },
+  {
+    "id": "68412",
+    "name": "Тосидзо Хидзиката",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры",
+    "animeLink": "/aniserials/video/josei/941-skazanie-o-demonah-sakury.html",
+    "image": "/uploads/cards_image/941/a/tosidzo-hidzikata-1764023863-302758.webp"
+  },
+  {
+    "id": "68410",
+    "name": "ГрейТроут",
+    "rank": "d",
+    "animeName": "Аркнайтс: Восстание из пепла",
+    "animeLink": "/aniserials/video/action/2966-arknajts-vosstanie-iz-pepla.html",
+    "image": "/uploads/cards_image/2966/d/grejtrout-1764006619-411254.webp"
+  },
+  {
+    "id": "68408",
+    "name": "Сенбонзакура Кагейоши",
+    "rank": "e",
+    "animeName": "Блич",
+    "animeLink": "/aniserials/video/drama/208-blich.html",
+    "image": "/uploads/cards_image/208/e/senbonzakura-kagejoshi-1764023485-458665.webp"
+  },
+  {
+    "id": "68407",
+    "name": "Мяомяо и Цинь Нань",
+    "rank": "c",
+    "animeName": "Несравненный боевой дух",
+    "animeLink": "/aniserials/video/action/2466-nesravnennyj-boevoj-duh-as.html",
+    "image": "/uploads/cards_image/2466/c/mjaomjao-i-cin-nan-1764023379-60634.webp"
+  },
+  {
+    "id": "68406",
+    "name": "Муе Чэнь",
+    "rank": "b",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/b/mue-chjen-1764023205-126328.webp"
+  },
+  {
+    "id": "68405",
+    "name": "Гин и Тосиро",
+    "rank": "c",
+    "animeName": "Блич",
+    "animeLink": "/aniserials/video/drama/208-blich.html",
+    "image": "/uploads/cards_image/208/c/gin-i-tosiro-1764005763-91499.webp"
+  },
+  {
     "id": "68399",
     "name": "Кэндзо Тэмма",
     "rank": "s",
@@ -8,12 +72,124 @@
     "image": "/uploads/cards_image/243/s/kjendzo-tjemma-1764005118-285977.webp"
   },
   {
+    "id": "68398",
+    "name": "Нидзиро Нанасэ",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/nidziro-nanasje-1764002868-43485.webp"
+  },
+  {
+    "id": "68397",
+    "name": "Мироку Дарай",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/miroku-daraj-1764001838-705965.webp"
+  },
+  {
+    "id": "68396",
+    "name": "Сюто Сэндо",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/sjuto-sjendo-1764001212-269609.webp"
+  },
+  {
+    "id": "68382",
+    "name": "Где моя еда?!",
+    "rank": "e",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/e/gde-moja-eda-1763992231-403068.webp"
+  },
+  {
+    "id": "68381",
+    "name": "Сигэтака Грант",
+    "rank": "d",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/d/sigjetaka-grant-1763992177-495455.webp"
+  },
+  {
+    "id": "68380",
+    "name": "Каору и Таниси",
+    "rank": "c",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/c/kaoru-i-tanisi-1763992143-26713.webp"
+  },
+  {
+    "id": "68376",
+    "name": "Масаки",
+    "rank": "a",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/a/masaki-1763991414-674407.webp"
+  },
+  {
+    "id": "68375",
+    "name": "Арата",
+    "rank": "a",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/a/arata-1763991316-823860.webp"
+  },
+  {
+    "id": "68374",
+    "name": "Сакура и Рин",
+    "rank": "c",
+    "animeName": "Судьба: Ночь схватки",
+    "animeLink": "/aniserials/video/action/845-sudba-noch-shvatki.html",
+    "image": "/uploads/cards_image/845/c/sakura-i-rin-1763990983-714326.webp"
+  },
+  {
+    "id": "68371",
+    "name": "Курит",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/kurit-1764021879-351240.webp"
+  },
+  {
+    "id": "68369",
+    "name": "Детская травма",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/detskaja-travma-1764021830-756066.webp"
+  },
+  {
+    "id": "68368",
+    "name": "Эмблема Кошкин Дом",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jemblema-koshkin-dom-1764021760-698971.webp"
+  },
+  {
     "id": "68367",
     "name": "Ямасиро",
     "rank": "s",
     "animeName": "Флотская коллекция 2 сезон: Однажды в этом море",
     "animeLink": "/aniserials/video/action/1588-flotskaja-kollekcija-2-sezon.html",
     "image": "/uploads/cards_image/1588/s/jamasiro-1763990043-605297.webp"
+  },
+  {
+    "id": "68365",
+    "name": "Эмблема Сердца Гримуара",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/jemblema-serdca-grimuara-1764021708-332755.webp"
+  },
+  {
+    "id": "68362",
+    "name": "Лахар",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/lahar-1763988137-695081.webp"
   },
   {
     "id": "68361",
