@@ -1,11 +1,203 @@
 [
   {
+    "id": "68367",
+    "name": "Ямасиро",
+    "rank": "s",
+    "animeName": "Флотская коллекция 2 сезон: Однажды в этом море",
+    "animeLink": "/aniserials/video/action/1588-flotskaja-kollekcija-2-sezon.html",
+    "image": "/uploads/cards_image/1588/s/jamasiro-1763990043-605297.webp"
+  },
+  {
+    "id": "68361",
+    "name": "Хару",
+    "rank": "s",
+    "animeName": "Домашний питомец, иногда сидящий на моей голове",
+    "animeLink": "/aniserials/video/comedy/406-domashniy-pitomec-inogda-sidyaschiy-na-moey-golove.html",
+    "image": "/uploads/cards_image/406/s/haru-1763989942-961376.webp"
+  },
+  {
+    "id": "68360",
+    "name": "И Нин",
+    "rank": "a",
+    "animeName": "Зять",
+    "animeLink": "/aniserials/video/comedy/1922-zjat-2023.html",
+    "image": "/uploads/cards_image/1922/a/i-nin-1763993760-282351.webp"
+  },
+  {
+    "id": "68359",
+    "name": "Содзи Окита",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры",
+    "animeLink": "/aniserials/video/josei/941-skazanie-o-demonah-sakury.html",
+    "image": "/uploads/cards_image/941/a/sodzi-okita-1763993582-708109.webp"
+  },
+  {
+    "id": "68354",
+    "name": "Сэйбер и Рин",
+    "rank": "c",
+    "animeName": "Судьба: Ночь схватки",
+    "animeLink": "/aniserials/video/action/845-sudba-noch-shvatki.html",
+    "image": "/uploads/cards_image/845/c/sjejber-i-rin-1763979105-231209.webp"
+  },
+  {
+    "id": "68346",
+    "name": "Линъэр Фэн",
+    "rank": "d",
+    "animeName": "Трон, отмеченный богом 2 сезон",
+    "animeLink": "/aniserials/video/action/1585-tron-otmechennyj-bogom-2-sezon-2022.html",
+    "image": "/uploads/cards_image/1585/d/linjer-fjen-1763992776-272727.webp"
+  },
+  {
+    "id": "68341",
+    "name": "Маширо и Мисаки",
+    "rank": "c",
+    "animeName": "Кошечка из Сакурасо",
+    "animeLink": "/aniserials/video/drama/119-koshechka-iz-sakuraso.html",
+    "image": "/uploads/cards_image/119/c/mashiro-i-misaki-1763992582-866065.webp"
+  },
+  {
+    "id": "68340",
+    "name": "Подработка",
+    "rank": "e",
+    "animeName": "Кошечка из Сакурасо",
+    "animeLink": "/aniserials/video/drama/119-koshechka-iz-sakuraso.html",
+    "image": "/uploads/cards_image/119/e/podrabotka-1763971475-455410.webp"
+  },
+  {
+    "id": "68336",
+    "name": "Сладкий сон",
+    "rank": "c",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/c/sladkij-son-1763963821-373519.webp"
+  },
+  {
+    "id": "68335",
+    "name": "Таниси",
+    "rank": "a",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/a/tanisi-1763963797-113582.webp"
+  },
+  {
+    "id": "68334",
+    "name": "Цуцуми",
+    "rank": "a",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/a/cucumi-1763963758-323488.webp"
+  },
+  {
+    "id": "68332",
+    "name": "Фотография",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/fotografija-1763990651-729109.webp"
+  },
+  {
+    "id": "68329",
+    "name": "Могила",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/mogila-1763990349-791075.webp"
+  },
+  {
+    "id": "68328",
+    "name": "Маска",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/maska-1763990123-745783.webp"
+  },
+  {
+    "id": "68327",
+    "name": "Наофуми Иватани",
+    "rank": "a",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/a/naofumi-ivatani-1763989876-352013.webp"
+  },
+  {
+    "id": "68326",
+    "name": "Сиро и Сэйбер",
+    "rank": "c",
+    "animeName": "Судьба: Ночь схватки",
+    "animeLink": "/aniserials/video/action/845-sudba-noch-shvatki.html",
+    "image": "/uploads/cards_image/845/c/siro-i-sjejber-1763958579-906746.webp"
+  },
+  {
+    "id": "68324",
+    "name": "Изабель",
+    "rank": "d",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/d/izabel-1763957397-397163.webp"
+  },
+  {
+    "id": "68314",
+    "name": "Хайдрайгон",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/hajdrajgon-1763943115-580082.webp"
+  },
+  {
+    "id": "68313",
+    "name": "Эмблема Синего Черепа",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи Зеро",
+    "animeLink": "/aniserials/video/comedy/2020-skazka-o-hvoste-fei-zero-2016.html",
+    "image": "/uploads/cards_image/2020/e/jemblema-sinego-cherepa-1763988685-970738.webp"
+  },
+  {
+    "id": "68312",
+    "name": "Пришествие",
+    "rank": "e",
+    "animeName": "Путешествие к бессмертию 6 сезон",
+    "animeLink": "/aniserials/video/action/3050-puteshestvie-k-bessmertiju-6.html",
+    "image": "/uploads/cards_image/3050/e/prishestvie-1763988552-976195.webp"
+  },
+  {
     "id": "68311",
     "name": "Юэ Инь",
     "rank": "s",
     "animeName": "Путешествие к бессмертию 6 сезон",
     "animeLink": "/aniserials/video/action/3050-puteshestvie-k-bessmertiju-6.html",
     "image": "/uploads/cards_image/3050/s/juje-in-1763961959-696510.webp"
+  },
+  {
+    "id": "68309",
+    "name": "Ной и Мари",
+    "rank": "c",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/c/noj-i-mari-1763940500-966095.webp"
+  },
+  {
+    "id": "68308",
+    "name": "Резиденция Артура",
+    "rank": "e",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/e/rezidencija-artura-1763988188-11153.webp"
+  },
+  {
+    "id": "68305",
+    "name": "Тору Миямаэ",
+    "rank": "a",
+    "animeName": "Сирена",
+    "animeLink": "/aniserials/video/garems/16-seyren-sirena-2017.html",
+    "image": "/uploads/cards_image/16/a/toru-mijamaje-1763988143-394078.webp"
+  },
+  {
+    "id": "68293",
+    "name": "Макао Конбольт",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/makao-konbolt-1763930093-439871.webp"
   },
   {
     "id": "68284",
