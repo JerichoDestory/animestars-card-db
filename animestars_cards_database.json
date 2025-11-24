@@ -1,5 +1,125 @@
 [
   {
+    "id": "68280",
+    "name": "Каситаро Ито",
+    "rank": "d",
+    "animeName": "Сказание о демонах сакуры",
+    "animeLink": "/aniserials/video/josei/941-skazanie-o-demonah-sakury.html",
+    "image": "/uploads/cards_image/941/d/kasitaro-ito-1763943133-907446.webp"
+  },
+  {
+    "id": "68279",
+    "name": "Хадзимэ и Тидзуру",
+    "rank": "c",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/c/hadzimje-i-tidzuru-1763943038-312967.webp"
+  },
+  {
+    "id": "68278",
+    "name": "Тикагэ и Тосидзо",
+    "rank": "c",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/c/tikagje-i-tosidzo-1763942969-335111.webp"
+  },
+  {
+    "id": "68275",
+    "name": "Фестиваль",
+    "rank": "e",
+    "animeName": "Необъятный океан 2",
+    "animeLink": "/aniserials/video/seinen/2987-neobjatnyj-okean-2.html",
+    "image": "/uploads/cards_image/2987/e/festival-1763942869-272357.webp"
+  },
+  {
+    "id": "68274",
+    "name": "Кардань и Сы Те Линь",
+    "rank": "c",
+    "animeName": "Цзычуань",
+    "animeLink": "/aniserials/video/action/1330-czychuan.html",
+    "image": "/uploads/cards_image/1330/c/kardan-i-sy-te-lin-1763942783-645832.webp"
+  },
+  {
+    "id": "68273",
+    "name": "Вуаль",
+    "rank": "e",
+    "animeName": "Цзычуань",
+    "animeLink": "/aniserials/video/action/1330-czychuan.html",
+    "image": "/uploads/cards_image/1330/e/vual-1763911804-768528.webp"
+  },
+  {
+    "id": "68272",
+    "name": "Я Вэй",
+    "rank": "d",
+    "animeName": "Цзычуань",
+    "animeLink": "/aniserials/video/action/1330-czychuan.html",
+    "image": "/uploads/cards_image/1330/d/ja-vjej-1763911772-819450.webp"
+  },
+  {
+    "id": "68271",
+    "name": "Сакурако и Иори",
+    "rank": "c",
+    "animeName": "Необъятный океан 2",
+    "animeLink": "/aniserials/video/seinen/2987-neobjatnyj-okean-2.html",
+    "image": "/uploads/cards_image/2987/c/sakurako-i-iori-1763910924-191417.webp"
+  },
+  {
+    "id": "68264",
+    "name": "Бог Серена",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/d/bog-serena-1763942144-606760.webp"
+  },
+  {
+    "id": "68263",
+    "name": "Сиро и Арчер",
+    "rank": "c",
+    "animeName": "Судьба: Ночь схватки. Клинков бесконечный край 1 сезон",
+    "animeLink": "/aniserials/video/action/843-sudba-noch-shvatki-klinkov-beskonechnyj-kraj-1-sezon.html",
+    "image": "/uploads/cards_image/843/c/siro-i-archer-1763942019-613195.webp"
+  },
+  {
+    "id": "68262",
+    "name": "Фанат",
+    "rank": "e",
+    "animeName": "Необъятный океан",
+    "animeLink": "/aniserials/video/comedy/327-neobyatnyy-okean.html",
+    "image": "/uploads/cards_image/327/e/fanat-1763908653-795395.webp"
+  },
+  {
+    "id": "68259",
+    "name": "Кунаги",
+    "rank": "a",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/a/kunagi-1763907994-549966.webp"
+  },
+  {
+    "id": "68257",
+    "name": "Гаку",
+    "rank": "a",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/a/gaku-1763907964-904152.webp"
+  },
+  {
+    "id": "68255",
+    "name": "Рин и Арчер",
+    "rank": "c",
+    "animeName": "Судьба: Ночь схватки. Клинков бесконечный край 1 сезон",
+    "animeLink": "/aniserials/video/action/843-sudba-noch-shvatki-klinkov-beskonechnyj-kraj-1-sezon.html",
+    "image": "/uploads/cards_image/843/c/rin-i-archer-1763941694-939488.webp"
+  },
+  {
+    "id": "68253",
+    "name": "Луна Камикагэ",
+    "rank": "b",
+    "animeName": "Эта фарфоровая кукла влюбилась 2",
+    "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
+    "image": "/uploads/cards_image/2974/b/luna-kamikagje-1763941356-806117.webp"
+  },
+  {
     "id": "68247",
     "name": "Джейкоб Лессио",
     "rank": "d",
