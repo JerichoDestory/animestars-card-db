@@ -1,11 +1,163 @@
 [
   {
+    "id": "68481",
+    "name": "Хронос",
+    "rank": "s",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/s/hronos-1764070228-167986.webp"
+  },
+  {
+    "id": "68478",
+    "name": "Сэнку Исигами",
+    "rank": "s",
+    "animeName": "Доктор Стоун 4 сезон: Научное будущее. Часть 2",
+    "animeLink": "/aniserials/video/seinen/2997-doktor-stoun-nauchnoe-buduschee-chast-2.html",
+    "image": "/uploads/cards_image/2997/s/sjenku-isigami-1764070129-670820.webp"
+  },
+  {
+    "id": "68473",
+    "name": "Трон королевы",
+    "rank": "e",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/e/tron-korolevy-1764070499-74385.webp"
+  },
+  {
+    "id": "68471",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/e/pojdem-so-mnoj-1764070425-303650.webp"
+  },
+  {
+    "id": "68469",
+    "name": "Удостоверения",
+    "rank": "c",
+    "animeName": "Дандадан 2",
+    "animeLink": "/aniserials/video/action/2960-dandadan-2-2025.html",
+    "image": "/uploads/cards_image/2960/c/udostoverenija-1764067118-436488.webp"
+  },
+  {
+    "id": "68460",
+    "name": "Дзиро и Дзюсиро",
+    "rank": "c",
+    "animeName": "Блич: Тысячелетняя кровавая война",
+    "animeLink": "/aniserials/video/comedy/2102-blich-tysjacheletnjaja-krovavaja-vojna.html",
+    "image": "/uploads/cards_image/2102/c/dziro-i-dzjusiro-1764069530-96950.webp"
+  },
+  {
+    "id": "68459",
+    "name": "Идзуру Кира",
+    "rank": "b",
+    "animeName": "Блич",
+    "animeLink": "/aniserials/video/drama/208-blich.html",
+    "image": "/uploads/cards_image/208/b/idzuru-kira-1764059672-371592.webp"
+  },
+  {
     "id": "68458",
     "name": "Тосиро Хицугая",
     "rank": "s",
     "animeName": "Блич",
     "animeLink": "/aniserials/video/drama/208-blich.html",
     "image": "/uploads/cards_image/208/s/tosiro-hicugaja-1764058893-506597.webp"
+  },
+  {
+    "id": "68457",
+    "name": "Юмитика Аясэгава",
+    "rank": "d",
+    "animeName": "Блич: Тысячелетняя кровавая война",
+    "animeLink": "/aniserials/video/comedy/2102-blich-tysjacheletnjaja-krovavaja-vojna.html",
+    "image": "/uploads/cards_image/2102/d/jumitika-ajasjegava-1764069335-491768.webp"
+  },
+  {
+    "id": "68456",
+    "name": "Бьякуя и Рукия Кучики",
+    "rank": "c",
+    "animeName": "Блич: Тысячелетняя кровавая война",
+    "animeLink": "/aniserials/video/comedy/2102-blich-tysjacheletnjaja-krovavaja-vojna.html",
+    "image": "/uploads/cards_image/2102/c/bjakuja-i-rukija-kuchiki-1764069225-106021.webp"
+  },
+  {
+    "id": "68455",
+    "name": "Рэндзи и Рукия",
+    "rank": "c",
+    "animeName": "Блич: Тысячелетняя кровавая война",
+    "animeLink": "/aniserials/video/comedy/2102-blich-tysjacheletnjaja-krovavaja-vojna.html",
+    "image": "/uploads/cards_image/2102/c/rjendzi-i-rukija-1764069073-716680.webp"
+  },
+  {
+    "id": "68453",
+    "name": "Купание",
+    "rank": "e",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/e/kupanie-1764054988-98285.webp"
+  },
+  {
+    "id": "68452",
+    "name": "Бабушка",
+    "rank": "d",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/d/babushka-1764054959-144879.webp"
+  },
+  {
+    "id": "68451",
+    "name": "Джонс",
+    "rank": "b",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/b/dzhons-1764054921-881074.webp"
+  },
+  {
+    "id": "68450",
+    "name": "Лен",
+    "rank": "a",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/a/len-1764054741-396229.webp"
+  },
+  {
+    "id": "68443",
+    "name": "Крепкий сон",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/krepkij-son-1764068572-272710.webp"
+  },
+  {
+    "id": "68441",
+    "name": "Ло Лян",
+    "rank": "d",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/d/lo-ljan-1764068521-763505.webp"
+  },
+  {
+    "id": "68439",
+    "name": "Эмблема Тартароса",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/jemblema-tartarosa-1764068147-170785.webp"
+  },
+  {
+    "id": "68438",
+    "name": "Котёл Небесной Пустоты",
+    "rank": "e",
+    "animeName": "Путешествие к бессмертию 5 сезон",
+    "animeLink": "/aniserials/video/action/3048-puteshestvie-k-bessmertiju-5.html",
+    "image": "/uploads/cards_image/3048/e/kotel-nebesnoj-pustoty-1764068073-721059.webp"
+  },
+  {
+    "id": "68437",
+    "name": "Кэйсукэ Саннан",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры 2 сезон",
+    "animeLink": "/aniserials/video/war/942-skazanie-o-demonah-sakury-2-sezon.html",
+    "image": "/uploads/cards_image/942/a/kjejsukje-sannan-1764068031-580797.webp"
   },
   {
     "id": "68436",
