@@ -1,5 +1,109 @@
 [
   {
+    "id": "68497",
+    "name": "Кинг",
+    "rank": "b",
+    "animeName": "Ванпанчмен 3 сезон",
+    "animeLink": "/aniserials/video/seinen/3122-vanpanchmen-3-sezon.html",
+    "image": "/uploads/cards_image/3122/b/king-1764078574-233402.webp"
+  },
+  {
+    "id": "68496",
+    "name": "Бэнг",
+    "rank": "b",
+    "animeName": "Ванпанчмен 3 сезон",
+    "animeLink": "/aniserials/video/seinen/3122-vanpanchmen-3-sezon.html",
+    "image": "/uploads/cards_image/3122/b/bjeng-1764077814-392487.webp"
+  },
+  {
+    "id": "68494",
+    "name": "Удачная охота",
+    "rank": "e",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/e/udachnaja-ohota-1764075921-86913.webp"
+  },
+  {
+    "id": "68493",
+    "name": "Клиент 2",
+    "rank": "d",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/d/klient-2-1764075820-380732.webp"
+  },
+  {
+    "id": "68492",
+    "name": "Закат человечества",
+    "rank": "e",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/e/zakat-chelovechestva-1764110936-790537.webp"
+  },
+  {
+    "id": "68491",
+    "name": "Марло",
+    "rank": "d",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/d/marlo-1764075770-324312.webp"
+  },
+  {
+    "id": "68490",
+    "name": "Дире Кроули",
+    "rank": "d",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/d/dire-krouli-1764110808-718467.webp"
+  },
+  {
+    "id": "68489",
+    "name": "Флойд Лич",
+    "rank": "b",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/b/flojd-lich-1764110736-337021.webp"
+  },
+  {
+    "id": "68488",
+    "name": "Джейд Лич",
+    "rank": "b",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/b/dzhejd-lich-1764110615-495978.webp"
+  },
+  {
+    "id": "68487",
+    "name": "Риддл Роузхартс",
+    "rank": "a",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/a/riddl-rouzharts-1764110453-358299.webp"
+  },
+  {
+    "id": "68484",
+    "name": "Юань Ган",
+    "rank": "b",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/b/juan-gan-1764110193-324677.webp"
+  },
+  {
+    "id": "68483",
+    "name": "Веер",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/veer-1764109977-558567.webp"
+  },
+  {
+    "id": "68482",
+    "name": "Луна",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/luna-1764109884-653539.webp"
+  },
+  {
     "id": "68481",
     "name": "Хронос",
     "rank": "s",
@@ -14,6 +118,30 @@
     "animeName": "Доктор Стоун 4 сезон: Научное будущее. Часть 2",
     "animeLink": "/aniserials/video/seinen/2997-doktor-stoun-nauchnoe-buduschee-chast-2.html",
     "image": "/uploads/cards_image/2997/s/sjenku-isigami-1764070129-670820.webp"
+  },
+  {
+    "id": "68477",
+    "name": "Содзи Окита",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры 3 сезон",
+    "animeLink": "/aniserials/video/vampires/943-skazanie-o-demonah-sakury-3-sezon.html",
+    "image": "/uploads/cards_image/943/a/sodzi-okita-1764109834-31246.webp"
+  },
+  {
+    "id": "68476",
+    "name": "Хадзимэ Сайто",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры 3 сезон",
+    "animeLink": "/aniserials/video/vampires/943-skazanie-o-demonah-sakury-3-sezon.html",
+    "image": "/uploads/cards_image/943/a/hadzimje-sajto-1764109734-326648.webp"
+  },
+  {
+    "id": "68475",
+    "name": "Хэйсукэ Тодо",
+    "rank": "a",
+    "animeName": "Сказание о демонах сакуры 3 сезон",
+    "animeLink": "/aniserials/video/vampires/943-skazanie-o-demonah-sakury-3-sezon.html",
+    "image": "/uploads/cards_image/943/a/hjejsukje-todo-1764109443-160521.webp"
   },
   {
     "id": "68473",
