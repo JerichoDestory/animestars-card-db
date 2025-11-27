@@ -1,5 +1,101 @@
 [
   {
+    "id": "68724",
+    "name": "Итару Хасида",
+    "rank": "a",
+    "animeName": "Врата Штейна 0",
+    "animeLink": "/aniserials/video/seinen/255-vrata-shteyna-0-2018.html",
+    "image": "/uploads/cards_image/255/a/itaru-hasida-1764233937-297843.webp"
+  },
+  {
+    "id": "68717",
+    "name": "Фотография",
+    "rank": "e",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/e/fotografija-1764243767-28015.webp"
+  },
+  {
+    "id": "68716",
+    "name": "Кошачий рай",
+    "rank": "e",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/e/koshachij-raj-1764226899-494100.webp"
+  },
+  {
+    "id": "68714",
+    "name": "Таниси и Кунаги",
+    "rank": "c",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/c/tanisi-i-kunagi-1764226858-137912.webp"
+  },
+  {
+    "id": "68713",
+    "name": "Удар",
+    "rank": "e",
+    "animeName": "Ночь живых кошаков",
+    "animeLink": "/aniserials/video/seinen/2984-noch-zhivyh-koshakov.html",
+    "image": "/uploads/cards_image/2984/e/udar-1764226834-459525.webp"
+  },
+  {
+    "id": "68710",
+    "name": "Цветение сакуры",
+    "rank": "e",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/e/cvetenie-sakury-1764243158-217132.webp"
+  },
+  {
+    "id": "68702",
+    "name": "Аква и Руби Хосино",
+    "rank": "c",
+    "animeName": "Ребёнок идола 2 сезон",
+    "animeLink": "/aniserials/video/drama/2492-rebenok-idola-2-sezon-v3.html",
+    "image": "/uploads/cards_image/2492/c/akva-i-rubi-hosino-1764242984-180643.webp"
+  },
+  {
+    "id": "68697",
+    "name": "Фудзимаса Марч",
+    "rank": "b",
+    "animeName": "Девушки-пони: Серая Золушка. Часть 2",
+    "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
+    "image": "/uploads/cards_image/3121/b/fudzimasa-march-1764242695-818191.webp"
+  },
+  {
+    "id": "68696",
+    "name": "Иккаку Мадарамэ",
+    "rank": "d",
+    "animeName": "Блич: Тысячелетняя кровавая война - Прощание",
+    "animeLink": "/aniserials/video/action/2114-blich-tysjacheletnjaja-krovavaja-vojna-proschanie.html",
+    "image": "/uploads/cards_image/2114/d/ikkaku-madaramje-1764242602-205568.webp"
+  },
+  {
+    "id": "68693",
+    "name": "Мэдзиро Ардан",
+    "rank": "d",
+    "animeName": "Девушки-пони: Серая Золушка. Часть 2",
+    "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
+    "image": "/uploads/cards_image/3121/d/mjedziro-ardan-1764242373-598389.webp"
+  },
+  {
+    "id": "68688",
+    "name": "Юмитика Аясэгава",
+    "rank": "d",
+    "animeName": "Блич: Тысячелетняя кровавая война - Прощание",
+    "animeLink": "/aniserials/video/action/2114-blich-tysjacheletnjaja-krovavaja-vojna-proschanie.html",
+    "image": "/uploads/cards_image/2114/d/jumitika-ajasjegava-1764242148-72187.webp"
+  },
+  {
+    "id": "68687",
+    "name": "Нодзому Итосики",
+    "rank": "a",
+    "animeName": "Прощай, унылый учитель 1 сезон",
+    "animeLink": "/aniserials/video/comedy/826-proschaj-unylyj-uchitel-1-sezon.html",
+    "image": "/uploads/cards_image/826/a/nodzomu-itosiki-1764242046-473859.webp"
+  },
+  {
     "id": "68686",
     "name": "Карен Лилика",
     "rank": "d",
