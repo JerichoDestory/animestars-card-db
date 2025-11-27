@@ -1,5 +1,101 @@
 [
   {
+    "id": "68686",
+    "name": "Карен Лилика",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/karen-lilika-1764194866-128583.webp"
+  },
+  {
+    "id": "68685",
+    "name": "Миднайт",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/midnajt-1764194778-465081.webp"
+  },
+  {
+    "id": "68684",
+    "name": "Робаул",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/robaul-1764194720-585940.webp"
+  },
+  {
+    "id": "68683",
+    "name": "Ридус Джона",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/ridus-dzhona-1764194703-343603.webp"
+  },
+  {
+    "id": "68682",
+    "name": "Кафка и Нодзому",
+    "rank": "c",
+    "animeName": "Прощай, унылый учитель 1 сезон",
+    "animeLink": "/aniserials/video/comedy/826-proschaj-unylyj-uchitel-1-sezon.html",
+    "image": "/uploads/cards_image/826/c/kafka-i-nodzomu-1764240358-218970.webp"
+  },
+  {
+    "id": "68681",
+    "name": "Алхими Алхимивич Пинка",
+    "rank": "d",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/d/alhimi-alhimivich-pinka-1764240245-696014.webp"
+  },
+  {
+    "id": "68676",
+    "name": "Пакура",
+    "rank": "d",
+    "animeName": "Наруто: Ураганные хроники 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/75-naruto-uragannye-hroniki-tv-2-animestars-2007.html",
+    "image": "/uploads/cards_image/75/d/pakura-1764239976-47478.webp"
+  },
+  {
+    "id": "68667",
+    "name": "Чоппер и Кэррот",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/chopper-i-kjerrot-1764190242-721199.webp"
+  },
+  {
+    "id": "68663",
+    "name": "Рюсуй Нанами",
+    "rank": "a",
+    "animeName": "Доктор Стоун 4 сезон: Научное будущее. Часть 2",
+    "animeLink": "/aniserials/video/seinen/2997-doktor-stoun-nauchnoe-buduschee-chast-2.html",
+    "image": "/uploads/cards_image/2997/a/rjusuj-nanami-1764239628-659441.webp"
+  },
+  {
+    "id": "68659",
+    "name": "Красная нить",
+    "rank": "e",
+    "animeName": "Сказание о демонах сакуры 3 сезон",
+    "animeLink": "/aniserials/video/vampires/943-skazanie-o-demonah-sakury-3-sezon.html",
+    "image": "/uploads/cards_image/943/e/krasnaja-nit-1764239347-677973.webp"
+  },
+  {
+    "id": "68658",
+    "name": "Эмблема Хартслабьюла",
+    "rank": "e",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/e/jemblema-hartslabjula-1764239300-380666.webp"
+  },
+  {
+    "id": "68657",
+    "name": "Содзи и Рюносукэ",
+    "rank": "c",
+    "animeName": "Сказание о демонах сакуры 3 сезон",
+    "animeLink": "/aniserials/video/vampires/943-skazanie-o-demonah-sakury-3-sezon.html",
+    "image": "/uploads/cards_image/943/c/sodzi-i-rjunosukje-1764239219-514793.webp"
+  },
+  {
     "id": "68656",
     "name": "Цай Линь",
     "rank": "s",
