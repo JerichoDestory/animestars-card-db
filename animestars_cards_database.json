@@ -1,5 +1,181 @@
 [
   {
+    "id": "68856",
+    "name": "Эликсир",
+    "rank": "e",
+    "animeName": "Гробница богов 3 сезон",
+    "animeLink": "/aniserials/video/action/3074-grobnica-bogov-3.html",
+    "image": "/uploads/cards_image/3074/e/jeliksir-1764320902-521097.webp"
+  },
+  {
+    "id": "68854",
+    "name": "Хисаши, Рёта и Ханамичи",
+    "rank": "c",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/c/hisashi-reta-i-hanamichi-1764327892-793753.webp"
+  },
+  {
+    "id": "68853",
+    "name": "Молитва",
+    "rank": "c",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/c/molitva-1764316405-147370.webp"
+  },
+  {
+    "id": "68847",
+    "name": "Юйфэн Цзин",
+    "rank": "b",
+    "animeName": "Несравненный небесный император",
+    "animeLink": "/aniserials/video/action/3086-nesravnennyj-nebesnyj-imperator.html",
+    "image": "/uploads/cards_image/3086/b/jujfjen-czin-1764300287-169545.webp"
+  },
+  {
+    "id": "68845",
+    "name": "Зверь-искатель",
+    "rank": "e",
+    "animeName": "Несравненный небесный император",
+    "animeLink": "/aniserials/video/action/3086-nesravnennyj-nebesnyj-imperator.html",
+    "image": "/uploads/cards_image/3086/e/zver-iskatel-1764327741-855952.webp"
+  },
+  {
+    "id": "68844",
+    "name": "Хуан Тун",
+    "rank": "d",
+    "animeName": "Несравненный небесный император",
+    "animeLink": "/aniserials/video/action/3086-nesravnennyj-nebesnyj-imperator.html",
+    "image": "/uploads/cards_image/3086/d/huan-tun-1764299741-132284.webp"
+  },
+  {
+    "id": "68843",
+    "name": "Перекус",
+    "rank": "e",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/e/perekus-1764298437-834856.webp"
+  },
+  {
+    "id": "68837",
+    "name": "Сю Е",
+    "rank": "s",
+    "animeName": "Аватар короля: Специальные выпуски",
+    "animeLink": "/aniserials/video/action/2047-avatar-korolja-specialnye-vypuski.html",
+    "image": "/uploads/cards_image/2047/s/sju-e-1764325846-670241.webp"
+  },
+  {
+    "id": "68836",
+    "name": "Синон Огава",
+    "rank": "s",
+    "animeName": "Дни проходят, а еда по-прежнему хороша",
+    "animeLink": "/aniserials/video/natural/2922-dni-prohodjat-a-eda-po-prezhnemu-horosha.html",
+    "image": "/uploads/cards_image/2922/s/sinon-ogava-1764325779-256828.webp"
+  },
+  {
+    "id": "68835",
+    "name": "Лиллигант",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/lilligant-1764288910-962166.webp"
+  },
+  {
+    "id": "68834",
+    "name": "Ливанни",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/livanni-1764288898-442871.webp"
+  },
+  {
+    "id": "68832",
+    "name": "Рахиль",
+    "rank": "s",
+    "animeName": "Башня Бога 2 сезон: Возвращение принца",
+    "animeLink": "/aniserials/video/drama/2514-bashnja-boga-2-sezon-2024-v13.html",
+    "image": "/uploads/cards_image/2514/s/rahil-1764325702-832078.webp"
+  },
+  {
+    "id": "68831",
+    "name": "Лирул",
+    "rank": "s",
+    "animeName": "Старшеклассники позволили себе жизнь в другом мире!",
+    "animeLink": "/aniserials/video/kemonobito/556-starsheklassniki-pozvolili-sebe-zhizn-v-drugom-mire.html",
+    "image": "/uploads/cards_image/556/s/lirul-1764325417-885824.webp"
+  },
+  {
+    "id": "68830",
+    "name": "Акихиро и Юкихиро",
+    "rank": "c",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/c/akihiro-i-jukihiro-1764327044-15975.webp"
+  },
+  {
+    "id": "68828",
+    "name": "Косукэ Сакаки",
+    "rank": "d",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/d/kosukje-sakaki-1764288489-36912.webp"
+  },
+  {
+    "id": "68825",
+    "name": "Какэру Курахара",
+    "rank": "a",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/a/kakjeru-kurahara-1764287914-56580.webp"
+  },
+  {
+    "id": "68823",
+    "name": "Бисквит Олива",
+    "rank": "d",
+    "animeName": "Баки - Сын Великана",
+    "animeLink": "/aniserials/video/martial_arts/1217-baki-syn-velikana.html",
+    "image": "/uploads/cards_image/1217/d/biskvit-oliva-1764286717-324761.webp"
+  },
+  {
+    "id": "68822",
+    "name": "Сария",
+    "rank": "b",
+    "animeName": "Перевоплотился в седьмого принца, так что я буду совершенствовать свою магию, как захочу 2",
+    "animeLink": "/aniserials/video/comedy/3147-perevoplotilsja-v-sedmogo-princa-tak-chto-ja-budu-sovershenstvovat-svoju-magiju-kak-zahochu-2-deep.html",
+    "image": "/uploads/cards_image/3147/b/sarija-1764326782-169205.webp"
+  },
+  {
+    "id": "68818",
+    "name": "Сильвер",
+    "rank": "d",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/d/silver-1764326692-829227.webp"
+  },
+  {
+    "id": "68817",
+    "name": "Нобуна Ода",
+    "rank": "s",
+    "animeName": "Великие помыслы Нобуны Оды",
+    "animeLink": "/aniserials/video/garems/324-velikie-pomysly-nobuny-ody.html",
+    "image": "/uploads/cards_image/324/s/nobuna-oda-1764277198-979029.webp"
+  },
+  {
+    "id": "68815",
+    "name": "Джамиль Вайпер",
+    "rank": "d",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/d/dzhamil-vajper-1764317765-537771.webp"
+  },
+  {
+    "id": "68814",
+    "name": "Водолей Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/vodolej-zatmenija-1764317706-648177.webp"
+  },
+  {
     "id": "68813",
     "name": "Адзуса Хамаока",
     "rank": "s",
