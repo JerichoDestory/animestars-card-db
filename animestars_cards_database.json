@@ -1,5 +1,157 @@
 [
   {
+    "id": "68812",
+    "name": "Тацухико Аота",
+    "rank": "d",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/d/tacuhiko-aota-1764271356-223880.webp"
+  },
+  {
+    "id": "68809",
+    "name": "Киминобу Когурэ",
+    "rank": "b",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/b/kiminobu-kogurje-1764271283-67952.webp"
+  },
+  {
+    "id": "68808",
+    "name": "Крепкий сон",
+    "rank": "e",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/e/krepkij-son-1764271153-209274.webp"
+  },
+  {
+    "id": "68803",
+    "name": "Цинфэн Цзо и Юньсяо Цзин",
+    "rank": "c",
+    "animeName": "Несравненный небесный император",
+    "animeLink": "/aniserials/video/action/3086-nesravnennyj-nebesnyj-imperator.html",
+    "image": "/uploads/cards_image/3086/c/cinfjen-czo-i-junsjao-czin-1764286823-432462.webp"
+  },
+  {
+    "id": "68802",
+    "name": "Небесный плод",
+    "rank": "e",
+    "animeName": "Несравненный небесный император",
+    "animeLink": "/aniserials/video/action/3086-nesravnennyj-nebesnyj-imperator.html",
+    "image": "/uploads/cards_image/3086/e/nebesnyj-plod-1764270087-509936.webp"
+  },
+  {
+    "id": "68801",
+    "name": "Маньсюэ Цзи",
+    "rank": "d",
+    "animeName": "Несравненный небесный император",
+    "animeLink": "/aniserials/video/action/3086-nesravnennyj-nebesnyj-imperator.html",
+    "image": "/uploads/cards_image/3086/d/mansjuje-czi-1764270021-387439.webp"
+  },
+  {
+    "id": "68800",
+    "name": "Юньфэй Цзи",
+    "rank": "b",
+    "animeName": "Несравненный небесный император",
+    "animeLink": "/aniserials/video/action/3086-nesravnennyj-nebesnyj-imperator.html",
+    "image": "/uploads/cards_image/3086/b/junfjej-czi-1764269909-544595.webp"
+  },
+  {
+    "id": "68799",
+    "name": "Мушарна",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/musharna-1764269106-576304.webp"
+  },
+  {
+    "id": "68798",
+    "name": "Миншао",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/minshao-1764269095-419993.webp"
+  },
+  {
+    "id": "68797",
+    "name": "Марактус",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/maraktus-1764269085-556287.webp"
+  },
+  {
+    "id": "68796",
+    "name": "Зекром",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/zekrom-1764269074-531588.webp"
+  },
+  {
+    "id": "68795",
+    "name": "Статуя Червонной Королевы",
+    "rank": "e",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/e/statuja-chervonnoj-korolevy-1764286105-165631.webp"
+  },
+  {
+    "id": "68793",
+    "name": "Купальник",
+    "rank": "e",
+    "animeName": "Это путешествие",
+    "animeLink": "/aniserials/video/seinen/2915-jeto-puteshestvie.html",
+    "image": "/uploads/cards_image/2915/e/kupalnik-1764267161-42151.webp"
+  },
+  {
+    "id": "68792",
+    "name": "Юкихиро Ивакура",
+    "rank": "b",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/b/jukihiro-ivakura-1764285881-908007.webp"
+  },
+  {
+    "id": "68791",
+    "name": "Аканэ Касивадзаки",
+    "rank": "b",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/b/akanje-kasivadzaki-1764285829-201042.webp"
+  },
+  {
+    "id": "68790",
+    "name": "Акихиро Хирата",
+    "rank": "b",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/b/akihiro-hirata-1764262853-902664.webp"
+  },
+  {
+    "id": "68787",
+    "name": "Хайдзи Киёсэ",
+    "rank": "a",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/a/hajdzi-kiesje-1764262713-830132.webp"
+  },
+  {
+    "id": "68785",
+    "name": "Сюн Токита",
+    "rank": "d",
+    "animeName": "Боевой отряд «Полный провал»",
+    "animeLink": "/aniserials/video/action/2379-boevoj-otrjad-polnyj-proval.html",
+    "image": "/uploads/cards_image/2379/d/sjun-tokita-1764285577-45526.webp"
+  },
+  {
+    "id": "68783",
+    "name": "Раммару Когума",
+    "rank": "d",
+    "animeName": "Боевой отряд «Полный провал»",
+    "animeLink": "/aniserials/video/action/2379-boevoj-otrjad-polnyj-proval.html",
+    "image": "/uploads/cards_image/2379/d/rammaru-koguma-1764285456-786839.webp"
+  },
+  {
     "id": "68781",
     "name": "Зелёный хранитель",
     "rank": "b",
