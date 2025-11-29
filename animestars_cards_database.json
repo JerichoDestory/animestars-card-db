@@ -1,11 +1,315 @@
 [
   {
+    "id": "68960",
+    "name": "Зомбимен",
+    "rank": "b",
+    "animeName": "Ванпанчмен 3 сезон",
+    "animeLink": "/aniserials/video/seinen/3122-vanpanchmen-3-sezon.html",
+    "image": "/uploads/cards_image/3122/b/zombimen-1764423441-878768.webp"
+  },
+  {
+    "id": "68957",
+    "name": "Кадзума Фудзиока",
+    "rank": "d",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/d/kadzuma-fudzioka-1764429685-749949.webp"
+  },
+  {
+    "id": "68954",
+    "name": "Криогональ",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/kriogonal-1764420302-308739.webp"
+  },
+  {
+    "id": "68949",
+    "name": "Кид и Трафальгар",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/kid-i-trafalgar-1764428443-413499.webp"
+  },
+  {
+    "id": "68948",
+    "name": "Мадара и Тоору",
+    "rank": "c",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/c/madara-i-tooru-1764428155-88951.webp"
+  },
+  {
+    "id": "68946",
+    "name": "Пожиратель дней",
+    "rank": "d",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/d/pozhiratel-dnej-1764428051-672995.webp"
+  },
+  {
+    "id": "68945",
+    "name": "Канамэ Танума",
+    "rank": "b",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/b/kanamje-tanuma-1764427993-818969.webp"
+  },
+  {
+    "id": "68939",
+    "name": "Ай Ото",
+    "rank": "s",
+    "animeName": "Приоритет чудо-яйца",
+    "animeLink": "/aniserials/video/drama/1109-prioritet-chudo-jajca.html",
+    "image": "/uploads/cards_image/1109/s/aj-oto-1764384159-760405.webp"
+  },
+  {
+    "id": "68938",
+    "name": "Дьюс Спейд",
+    "rank": "a",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/a/djus-spejd-1764427823-566945.webp"
+  },
+  {
+    "id": "68932",
+    "name": "Момон и Нарберал",
+    "rank": "c",
+    "animeName": "Повелитель",
+    "animeLink": "/aniserials/video/garems/250-povelitel-1-sezon-2015.html",
+    "image": "/uploads/cards_image/250/c/momon-i-narberal-1764427661-341156.webp"
+  },
+  {
+    "id": "68931",
+    "name": "Аня и Дэмиан",
+    "rank": "c",
+    "animeName": "Семья шпиона 3 сезон",
+    "animeLink": "/aniserials/video/shounen/3106-semja-shpiona-3.html",
+    "image": "/uploads/cards_image/3106/c/anja-i-djemian-1764364105-901450.webp"
+  },
+  {
+    "id": "68930",
+    "name": "Рак Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/rak-zatmenija-1764364113-382202.webp"
+  },
+  {
+    "id": "68929",
+    "name": "Телец Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/telec-zatmenija-1764364099-163782.webp"
+  },
+  {
+    "id": "68927",
+    "name": "Змееносец Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/zmeenosec-zatmenija-1764427324-540336.webp"
+  },
+  {
+    "id": "68925",
+    "name": "Слёзы",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/slezy-1764365248-52828.webp"
+  },
+  {
+    "id": "68924",
+    "name": "Ами и Юто",
+    "rank": "c",
+    "animeName": "Тацуки Фудзимото: С семнадцати до двадцати шести",
+    "animeLink": "/aniserials/video/shounen/3155-tacuki-fudzimoto-s-semnadcati-do-dvadcati-shesti.html",
+    "image": "/uploads/cards_image/3155/c/ami-i-juto-1764365126-465896.webp"
+  },
+  {
+    "id": "68918",
+    "name": "Наюта",
+    "rank": "a",
+    "animeName": "Тацуки Фудзимото: С семнадцати до двадцати шести",
+    "animeLink": "/aniserials/video/shounen/3155-tacuki-fudzimoto-s-semnadcati-do-dvadcati-shesti.html",
+    "image": "/uploads/cards_image/3155/a/najuta-1764364883-617752.webp"
+  },
+  {
+    "id": "68915",
+    "name": "Команда Кансэй",
+    "rank": "c",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/c/komanda-kansjej-1764356638-564776.webp"
+  },
+  {
+    "id": "68914",
+    "name": "Перекур",
+    "rank": "e",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/e/perekur-1764356471-688451.webp"
+  },
+  {
+    "id": "68911",
+    "name": "Разминка",
+    "rank": "c",
+    "animeName": "Почувствуй ветер",
+    "animeLink": "/aniserials/video/drama/404-pochuvstvuy-veter.html",
+    "image": "/uploads/cards_image/404/c/razminka-1764364570-956516.webp"
+  },
+  {
+    "id": "68910",
+    "name": "С Днём рождения!",
+    "rank": "c",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/c/s-dnem-rozhdenija-1764364454-947324.webp"
+  },
+  {
+    "id": "68907",
+    "name": "Злой Каэдэ",
+    "rank": "e",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/e/zloj-kajedje-1764364330-741659.webp"
+  },
+  {
+    "id": "68906",
+    "name": "Аоси Токимицу",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/aosi-tokimicu-1764353793-461305.webp"
+  },
+  {
+    "id": "68905",
+    "name": "Йохэй Мито",
+    "rank": "d",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/d/johjej-mito-1764353790-781250.webp"
+  },
+  {
+    "id": "68904",
+    "name": "Ханамичи и Каэдэ",
+    "rank": "c",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/c/hanamichi-i-kajedje-1764364122-960683.webp"
+  },
+  {
+    "id": "68902",
+    "name": "Юки Ёсино",
+    "rank": "d",
+    "animeName": "В поисках божественного рецепта",
+    "animeLink": "/aniserials/video/comedy/18-v-poiskah-bozhestvennogo-recepta-2015.html",
+    "image": "/uploads/cards_image/18/d/juki-esino-1764363984-632617.webp"
+  },
+  {
+    "id": "68901",
+    "name": "Рёко Сакаки",
+    "rank": "d",
+    "animeName": "В поисках божественного рецепта",
+    "animeLink": "/aniserials/video/comedy/18-v-poiskah-bozhestvennogo-recepta-2015.html",
+    "image": "/uploads/cards_image/18/d/reko-sakaki-1764363926-889008.webp"
+  },
+  {
+    "id": "68899",
+    "name": "Дзёитиро Юкихира",
+    "rank": "d",
+    "animeName": "В поисках божественного рецепта",
+    "animeLink": "/aniserials/video/comedy/18-v-poiskah-bozhestvennogo-recepta-2015.html",
+    "image": "/uploads/cards_image/18/d/dzeitiro-jukihira-1764363870-609504.webp"
+  },
+  {
+    "id": "68895",
+    "name": "Завтрак",
+    "rank": "e",
+    "animeName": "Грэй-мен",
+    "animeLink": "/aniserials/video/drama/251-grey-men-1-sezon.html",
+    "image": "/uploads/cards_image/251/e/zavtrak-1764349409-593520.webp"
+  },
+  {
+    "id": "68892",
+    "name": "Амелия Роузкварц",
+    "rank": "s",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/s/amelija-rouzkvarc-1764351484-193031.webp"
+  },
+  {
+    "id": "68890",
+    "name": "Лев Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/lev-zatmenija-1764347009-261631.webp"
+  },
+  {
+    "id": "68886",
+    "name": "Объятия",
+    "rank": "c",
+    "animeName": "Зять",
+    "animeLink": "/aniserials/video/comedy/1922-zjat-2023.html",
+    "image": "/uploads/cards_image/1922/c/objatija-1764362996-6607.webp"
+  },
+  {
+    "id": "68883",
+    "name": "Сакура",
+    "rank": "e",
+    "animeName": "Зять",
+    "animeLink": "/aniserials/video/comedy/1922-zjat-2023.html",
+    "image": "/uploads/cards_image/1922/e/sakura-1764347107-413526.webp"
+  },
+  {
     "id": "68880",
     "name": "Хэин Чха",
     "rank": "s",
     "animeName": "Поднятие уровня в одиночку",
     "animeLink": "/aniserials/video/action/2285-podnjatie-urovnja-v-odinochku-2024-animestars-vvv11.html",
     "image": "/uploads/cards_image/2285/s/hjein-chha-1764336407-331162.webp"
+  },
+  {
+    "id": "68872",
+    "name": "Рёта и Хисаши",
+    "rank": "c",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/c/reta-i-hisashi-1764328479-669587.webp"
+  },
+  {
+    "id": "68871",
+    "name": "Акира и Ханамичи",
+    "rank": "c",
+    "animeName": "Слэм-данк",
+    "animeLink": "/aniserials/video/comedy/227-slem-dank.html",
+    "image": "/uploads/cards_image/227/c/akira-i-hanamichi-1764346857-137046.webp"
+  },
+  {
+    "id": "68869",
+    "name": "Цинфэн Цзо",
+    "rank": "d",
+    "animeName": "Несравненный небесный император",
+    "animeLink": "/aniserials/video/action/3086-nesravnennyj-nebesnyj-imperator.html",
+    "image": "/uploads/cards_image/3086/d/cinfjen-czo-1764328338-239413.webp"
+  },
+  {
+    "id": "68868",
+    "name": "Стрелец Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/strelec-zatmenija-1764346650-786091.webp"
+  },
+  {
+    "id": "68866",
+    "name": "Дева Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/deva-zatmenija-1764327490-664334.webp"
   },
   {
     "id": "68856",
