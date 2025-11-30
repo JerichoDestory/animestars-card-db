@@ -1,5 +1,141 @@
 [
   {
+    "id": "69071",
+    "name": "Фубуки",
+    "rank": "s",
+    "animeName": "Ванпанчмен 3 сезон",
+    "animeLink": "/aniserials/video/seinen/3122-vanpanchmen-3-sezon.html",
+    "image": "/uploads/cards_image/3122/s/fubuki-1764528227-238956.webp"
+  },
+  {
+    "id": "69054",
+    "name": "Ё и Табито",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/e-i-tabito-1764522635-399528.webp"
+  },
+  {
+    "id": "69042",
+    "name": "Жара",
+    "rank": "c",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/c/zhara-1764522197-74101.webp"
+  },
+  {
+    "id": "69040",
+    "name": "Кагэяма",
+    "rank": "a",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/a/kagjejama-1764513817-595662.webp"
+  },
+  {
+    "id": "69039",
+    "name": "Кёитиро Кадзамацури",
+    "rank": "a",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/a/keitiro-kadzamacuri-1764521745-564254.webp"
+  },
+  {
+    "id": "69038",
+    "name": "Рэйко Хосё",
+    "rank": "a",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/a/rjejko-hose-1764513757-882592.webp"
+  },
+  {
+    "id": "69033",
+    "name": "Мандибазз",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/mandibazz-1764507631-143091.webp"
+  },
+  {
+    "id": "69032",
+    "name": "Космос",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/kosmos-1764507512-992997.webp"
+  },
+  {
+    "id": "69031",
+    "name": "Шакал",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/shakal-1764507500-267511.webp"
+  },
+  {
+    "id": "69028",
+    "name": "Мэра",
+    "rank": "d",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/d/mjera-1764520949-198573.webp"
+  },
+  {
+    "id": "69027",
+    "name": "Куфа",
+    "rank": "b",
+    "animeName": "Бесклассовый герой: Да мне всё равно не нужны эти ваши умения",
+    "animeLink": "/aniserials/video/action/3078-besklassovyj-geroj-da-mne-vse-ravno-ne-nuzhny-jeti-vashi-umenija.html",
+    "image": "/uploads/cards_image/3078/b/kufa-1764520890-648806.webp"
+  },
+  {
+    "id": "69026",
+    "name": "Каэдэ",
+    "rank": "d",
+    "animeName": "Бесклассовый герой: Да мне всё равно не нужны эти ваши умения",
+    "animeLink": "/aniserials/video/action/3078-besklassovyj-geroj-da-mne-vse-ravno-ne-nuzhny-jeti-vashi-umenija.html",
+    "image": "/uploads/cards_image/3078/d/kajedje-1764520812-735897.webp"
+  },
+  {
+    "id": "69020",
+    "name": "Бабочка",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/babochka-1764496883-170521.webp"
+  },
+  {
+    "id": "69019",
+    "name": "Звёздная Река",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/zvezdnaja-reka-1764507523-833738.webp"
+  },
+  {
+    "id": "69018",
+    "name": "Рисунок",
+    "rank": "e",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/e/risunok-1764507438-665307.webp"
+  },
+  {
+    "id": "69016",
+    "name": "Готовка",
+    "rank": "e",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/e/gotovka-1764507341-921185.webp"
+  },
+  {
+    "id": "69015",
+    "name": "Хиноэ",
+    "rank": "d",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/d/hinoje-1764507233-56643.webp"
+  },
+  {
     "id": "69005",
     "name": "Нина",
     "rank": "s",
@@ -30,6 +166,22 @@
     "animeName": "Джахи не будет отчаиваться!",
     "animeLink": "/aniserials/video/comedy/1145-dzhahi-ne-budet-otchaivatsja.html",
     "image": "/uploads/cards_image/1145/s/dzhahi-1764469978-295751.webp"
+  },
+  {
+    "id": "69000",
+    "name": "Тидзомэ Акагуро",
+    "rank": "d",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/d/tidzomje-akaguro-1764507164-500806.webp"
+  },
+  {
+    "id": "68995",
+    "name": "Козерог Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/kozerog-zatmenija-1764507079-778004.webp"
   },
   {
     "id": "68987",
