@@ -1,5 +1,37 @@
 [
   {
+    "id": "69005",
+    "name": "Нина",
+    "rank": "s",
+    "animeName": "Нина в королевстве звёзд",
+    "animeLink": "/aniserials/video/josei/2667-nina-v-korolevstve-zvezd.html",
+    "image": "/uploads/cards_image/2667/s/nina-1764479413-266832.webp"
+  },
+  {
+    "id": "69004",
+    "name": "Асирпа",
+    "rank": "s",
+    "animeName": "Золотое божество 2",
+    "animeLink": "/aniserials/video/war/538-zolotoe-bozhestvo-2-sezon.html",
+    "image": "/uploads/cards_image/538/s/asirpa-1764473806-54389.webp"
+  },
+  {
+    "id": "69003",
+    "name": "Сильдония Зилс",
+    "rank": "s",
+    "animeName": "Стать сильнее! Новая сага",
+    "animeLink": "/aniserials/video/adventure/2958-stat-silnee-novaja-saga.html",
+    "image": "/uploads/cards_image/2958/s/sildonija-zils-1764472360-93605.webp"
+  },
+  {
+    "id": "69001",
+    "name": "Джахи",
+    "rank": "s",
+    "animeName": "Джахи не будет отчаиваться!",
+    "animeLink": "/aniserials/video/comedy/1145-dzhahi-ne-budet-otchaivatsja.html",
+    "image": "/uploads/cards_image/1145/s/dzhahi-1764469978-295751.webp"
+  },
+  {
     "id": "68987",
     "name": "Отяко Урарака",
     "rank": "b",
