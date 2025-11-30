@@ -1,5 +1,61 @@
 [
   {
+    "id": "68987",
+    "name": "Отяко Урарака",
+    "rank": "b",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/b/otjako-uraraka-1764462525-456788.webp"
+  },
+  {
+    "id": "68986",
+    "name": "Эйта Отоя",
+    "rank": "b",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/b/jejta-otoja-1764435689-289969.webp"
+  },
+  {
+    "id": "68980",
+    "name": "Иё Исаги",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/ie-isagi-1764434538-212480.webp"
+  },
+  {
+    "id": "68976",
+    "name": "Катакури и Луффи",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/katakuri-i-luffi-1764461906-71619.webp"
+  },
+  {
+    "id": "68968",
+    "name": "Хэппи и Шарль",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/hjeppi-i-sharl-1764428355-710579.webp"
+  },
+  {
+    "id": "68966",
+    "name": "Жюри",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/zhjuri-1764428331-22127.webp"
+  },
+  {
+    "id": "68965",
+    "name": "Доска заданий",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/doska-zadanij-1764428319-748413.webp"
+  },
+  {
     "id": "68960",
     "name": "Зомбимен",
     "rank": "b",
