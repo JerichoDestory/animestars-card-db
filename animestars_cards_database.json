@@ -1,11 +1,155 @@
 [
   {
+    "id": "69101",
+    "name": "Фейерверк",
+    "rank": "e",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/e/fejerverk-1764571027-497503.webp"
+  },
+  {
+    "id": "69100",
+    "name": "Дэрил",
+    "rank": "d",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/d/djeril-1764570997-333863.webp"
+  },
+  {
+    "id": "69099",
+    "name": "Такояки",
+    "rank": "e",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/e/takojaki-1764569683-476548.webp"
+  },
+  {
+    "id": "69096",
+    "name": "Энн Фолкнер",
+    "rank": "s",
+    "animeName": "Парадокс в прямом эфире",
+    "animeLink": "/aniserials/video/drama/2179-paradoks-v-prjamom-jefire.html",
+    "image": "/uploads/cards_image/2179/s/jenn-folkner-1764567301-907002.webp"
+  },
+  {
+    "id": "69093",
+    "name": "Нанами Момозоно",
+    "rank": "s",
+    "animeName": "Очень приятно, Бог",
+    "animeLink": "/aniserials/video/comedy/464-ochen-priyatno-bog-1-sezon.html",
+    "image": "/uploads/cards_image/464/s/nanami-momozono-1764571488-436915.webp"
+  },
+  {
+    "id": "69092",
+    "name": "Генос",
+    "rank": "s",
+    "animeName": "Ванпанчмен 3 сезон",
+    "animeLink": "/aniserials/video/seinen/3122-vanpanchmen-3-sezon.html",
+    "image": "/uploads/cards_image/3122/s/genos-1764554152-901756.webp"
+  },
+  {
+    "id": "69091",
+    "name": "Ироха Игараси",
+    "rank": "s",
+    "animeName": "Реальная девушка",
+    "animeLink": "/aniserials/video/comedy/281-realnaya-devushka.html",
+    "image": "/uploads/cards_image/281/s/iroha-igarasi-1764553778-589677.webp"
+  },
+  {
+    "id": "69090",
+    "name": "Тобио Кагэяма",
+    "rank": "s",
+    "animeName": "Волейбол 3 сезон",
+    "animeLink": "/aniserials/video/drama/646-voleybol-3-sezon.html",
+    "image": "/uploads/cards_image/646/s/tobio-kagjejama-1764548250-663888.webp"
+  },
+  {
+    "id": "69087",
+    "name": "Нацу и Грей",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/nacu-i-grej-1764545080-182629.webp"
+  },
+  {
+    "id": "69085",
+    "name": "Макаров Дрейар",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/b/makarov-drejar-1764545041-509142.webp"
+  },
+  {
+    "id": "69082",
+    "name": "Рой",
+    "rank": "d",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/d/roj-1764536944-593662.webp"
+  },
+  {
+    "id": "69081",
+    "name": "Бриджит",
+    "rank": "d",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/d/bridzhit-1764536917-40193.webp"
+  },
+  {
+    "id": "69075",
+    "name": "Скорпион Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/skorpion-zatmenija-1764544691-324782.webp"
+  },
+  {
+    "id": "69074",
+    "name": "Овен Затмения",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/oven-zatmenija-1764529242-381302.webp"
+  },
+  {
     "id": "69071",
     "name": "Фубуки",
     "rank": "s",
     "animeName": "Ванпанчмен 3 сезон",
     "animeLink": "/aniserials/video/seinen/3122-vanpanchmen-3-sezon.html",
     "image": "/uploads/cards_image/3122/s/fubuki-1764528227-238956.webp"
+  },
+  {
+    "id": "69065",
+    "name": "Перекус",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/perekus-1764524551-338036.webp"
+  },
+  {
+    "id": "69058",
+    "name": "Сэйсиро и Ёити",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/sjejsiro-i-eiti-1764523869-785531.webp"
+  },
+  {
+    "id": "69057",
+    "name": "Разочарование",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/razocharovanie-1764523552-166119.webp"
+  },
+  {
+    "id": "69056",
+    "name": "Коктейль",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/koktejl-1764544215-306248.webp"
   },
   {
     "id": "69054",
