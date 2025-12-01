@@ -1,5 +1,141 @@
 [
   {
+    "id": "69143",
+    "name": "Такаши Нацумэ",
+    "rank": "s",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/s/takashi-nacumje-1764610045-356572.webp"
+  },
+  {
+    "id": "69142",
+    "name": "Каппа",
+    "rank": "d",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/d/kappa-1764608647-721599.webp"
+  },
+  {
+    "id": "69141",
+    "name": "Дыня",
+    "rank": "e",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/e/dynja-1764608581-841838.webp"
+  },
+  {
+    "id": "69139",
+    "name": "Неогранённый Алмаз",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/neogranennyj-almaz-1764608082-922266.webp"
+  },
+  {
+    "id": "69129",
+    "name": "Хёма и Рэнсукэ",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/hema-i-rjensukje-1764600057-719561.webp"
+  },
+  {
+    "id": "69127",
+    "name": "Ёити и Рин",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/eiti-i-rin-1764599504-772457.webp"
+  },
+  {
+    "id": "69124",
+    "name": "Готовка",
+    "rank": "e",
+    "animeName": "Очень приятно, Бог 2 сезон",
+    "animeLink": "/aniserials/video/comedy/466-ochen-priyatno-bog-2-sezon.html",
+    "image": "/uploads/cards_image/466/e/gotovka-1764607503-158714.webp"
+  },
+  {
+    "id": "69123",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Красавица-воин Сейлор Мун 5 сезон",
+    "animeLink": "/aniserials/video/shoujo/2633-krasavica-voin-sejlor-mun-sejlor-zvezdy-1996.html",
+    "image": "/uploads/cards_image/2633/e/snegopad-1764607415-440650.webp"
+  },
+  {
+    "id": "69122",
+    "name": "Киёка Кудо",
+    "rank": "s",
+    "animeName": "Мой счастливый брак",
+    "animeLink": "/aniserials/video/drama/2046-moj-schastlivyj-brak-animestars-vv9.html",
+    "image": "/uploads/cards_image/2046/s/kieka-kudo-1764590535-590247.webp"
+  },
+  {
+    "id": "69121",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Злодейка наслаждается своей седьмой жизнью в качестве свободолюбивой невесты во вражеской стране",
+    "animeLink": "/aniserials/video/romance/2293-zlodejka-naslazhdaetsja-svoej-sedmoj-zhiznju-v-kachestve-svobodoljubivoj-nevesty-vo-vrazheskoj-strane-v1.html",
+    "image": "/uploads/cards_image/2293/e/snegopad-1764607371-621038.webp"
+  },
+  {
+    "id": "69120",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Монолог фармацевта",
+    "animeLink": "/aniserials/video/drama/2219-monolog-farmacevta-animestars-vv11.html",
+    "image": "/uploads/cards_image/2219/e/snegopad-1764591540-105548.webp"
+  },
+  {
+    "id": "69118",
+    "name": "Аяка Кирюин",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/ajaka-kirjuin-1764586243-406876.webp"
+  },
+  {
+    "id": "69116",
+    "name": "Рэйко и Кагэяма",
+    "rank": "c",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/c/rjejko-i-kagjejama-1764586167-848934.webp"
+  },
+  {
+    "id": "69114",
+    "name": "Кёитиро и Рэйко",
+    "rank": "c",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/c/keitiro-i-rjejko-1764586091-750068.webp"
+  },
+  {
+    "id": "69113",
+    "name": "Кана и Люси",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/c/kana-i-ljusi-1764585299-836499.webp"
+  },
+  {
+    "id": "69108",
+    "name": "Карракоста",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/karrakosta-1764580582-443082.webp"
+  },
+  {
+    "id": "69107",
+    "name": "Клинкланг",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/klinklang-1764580569-114303.webp"
+  },
+  {
     "id": "69101",
     "name": "Фейерверк",
     "rank": "e",
