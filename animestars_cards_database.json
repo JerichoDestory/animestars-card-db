@@ -1,5 +1,85 @@
 [
   {
+    "id": "69228",
+    "name": "Нян",
+    "rank": "d",
+    "animeName": "Ванпанчмен 3 сезон",
+    "animeLink": "/aniserials/video/seinen/3122-vanpanchmen-3-sezon.html",
+    "image": "/uploads/cards_image/3122/d/njan-1764684661-652206.webp"
+  },
+  {
+    "id": "69221",
+    "name": "Урю Исида",
+    "rank": "a",
+    "animeName": "Блич: Тысячелетняя кровавая война - Прощание",
+    "animeLink": "/aniserials/video/action/2114-blich-tysjacheletnjaja-krovavaja-vojna-proschanie.html",
+    "image": "/uploads/cards_image/2114/a/urju-isida-1764685429-720208.webp"
+  },
+  {
+    "id": "69220",
+    "name": "Цукаса Сато",
+    "rank": "d",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/d/cukasa-sato-1764685272-558391.webp"
+  },
+  {
+    "id": "69217",
+    "name": "Поцелуй",
+    "rank": "c",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/c/poceluj-1764685041-525512.webp"
+  },
+  {
+    "id": "69216",
+    "name": "Аурум Трес",
+    "rank": "d",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/d/aurum-tres-1764684938-125401.webp"
+  },
+  {
+    "id": "69210",
+    "name": "Куруми Сакагути",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/kurumi-sakaguti-1764662674-79685.webp"
+  },
+  {
+    "id": "69209",
+    "name": "Юкито Яно",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/jukito-jano-1764662639-529445.webp"
+  },
+  {
+    "id": "69207",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/e/snegopad-1764684257-151847.webp"
+  },
+  {
+    "id": "69203",
+    "name": "МакКуин Мэдзиро",
+    "rank": "s",
+    "animeName": "Девушки-пони: Славное дерби 2",
+    "animeLink": "/aniserials/video/kemonobito/2709-devushki-poni-slavnoe-derbi-2.html",
+    "image": "/uploads/cards_image/2709/s/makkuin-mjedziro-1764682477-487790.webp"
+  },
+  {
+    "id": "69196",
+    "name": "Каштановый тарт",
+    "rank": "e",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/e/kashtanovyj-tart-1764683988-516300.webp"
+  },
+  {
     "id": "69195",
     "name": "Рэна Рюгу",
     "rank": "s",
@@ -14,6 +94,118 @@
     "animeName": "Кизнайвер",
     "animeLink": "/aniserials/video/drama/699-kiznayver.html",
     "image": "/uploads/cards_image/699/s/noriko-sonodzaki-1764670352-452113.webp"
+  },
+  {
+    "id": "69190",
+    "name": "Рагги Буччи",
+    "rank": "d",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/d/raggi-buchchi-1764683876-70266.webp"
+  },
+  {
+    "id": "69187",
+    "name": "С Днём рождения!",
+    "rank": "c",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/c/s-dnem-rozhdenija-1764683763-295995.webp"
+  },
+  {
+    "id": "69186",
+    "name": "Сэндзаэмон Накири",
+    "rank": "d",
+    "animeName": "В поисках божественного рецепта",
+    "animeLink": "/aniserials/video/comedy/18-v-poiskah-bozhestvennogo-recepta-2015.html",
+    "image": "/uploads/cards_image/18/d/sjendzajemon-nakiri-1764683689-259414.webp"
+  },
+  {
+    "id": "69185",
+    "name": "Мэттью МакМэхон",
+    "rank": "d",
+    "animeName": "Семья шпиона 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2196-semja-shpiona-2-sezon-animestars-v3.html",
+    "image": "/uploads/cards_image/2196/d/mjettju-makmjehon-1764683554-948023.webp"
+  },
+  {
+    "id": "69183",
+    "name": "Подарок",
+    "rank": "e",
+    "animeName": "Созерцая колготки",
+    "animeLink": "/aniserials/video/comedy/587-sozercaya-kolgotki.html",
+    "image": "/uploads/cards_image/587/e/podarok-1764627890-705818.webp"
+  },
+  {
+    "id": "69177",
+    "name": "Шарпхат",
+    "rank": "d",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/d/sharphat-1764683153-623338.webp"
+  },
+  {
+    "id": "69176",
+    "name": "Мия",
+    "rank": "d",
+    "animeName": "Я был убит товарищами в глубине подземелья, но обрёл товарищей 9999 уровня, чтобы отомстить предыдущим товарищам и миру!",
+    "animeLink": "/aniserials/video/action/3100-ja-byl-ubit-tovarischami-v-glubine-podzemelja-no-obrel-tovarischej-9999-urovnja-chtoby-otomstit-predyduschim-tovarischam-i-miru-2025.html",
+    "image": "/uploads/cards_image/3100/d/mija-1764683085-569362.webp"
+  },
+  {
+    "id": "69175",
+    "name": "Колетт",
+    "rank": "b",
+    "animeName": "Бесклассовый герой: Да мне всё равно не нужны эти ваши умения",
+    "animeLink": "/aniserials/video/action/3078-besklassovyj-geroj-da-mne-vse-ravno-ne-nuzhny-jeti-vashi-umenija.html",
+    "image": "/uploads/cards_image/3078/b/kolett-1764682956-207155.webp"
+  },
+  {
+    "id": "69174",
+    "name": "Диана",
+    "rank": "b",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/b/diana-1764613068-398304.webp"
+  },
+  {
+    "id": "69171",
+    "name": "Горничная",
+    "rank": "e",
+    "animeName": "Ликорис Рикоил",
+    "animeLink": "/aniserials/video/action/1430-likoris-rikoil.html",
+    "image": "/uploads/cards_image/1430/e/gornichnaja-1764612823-239035.webp"
+  },
+  {
+    "id": "69169",
+    "name": "Невеста",
+    "rank": "e",
+    "animeName": "Ликорис Рикоил",
+    "animeLink": "/aniserials/video/action/1430-likoris-rikoil.html",
+    "image": "/uploads/cards_image/1430/e/nevesta-1764612757-842657.webp"
+  },
+  {
+    "id": "69166",
+    "name": "Кит",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/kit-1764611042-232840.webp"
+  },
+  {
+    "id": "69164",
+    "name": "Торафуса",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/torafusa-1764611006-907188.webp"
+  },
+  {
+    "id": "69162",
+    "name": "Сюн Сюн Рикка",
+    "rank": "e",
+    "animeName": "Блич",
+    "animeLink": "/aniserials/video/drama/208-blich.html",
+    "image": "/uploads/cards_image/208/e/sjun-sjun-rikka-1764682086-718316.webp"
   },
   {
     "id": "69161",
