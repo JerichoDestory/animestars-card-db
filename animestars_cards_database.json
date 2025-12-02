@@ -1,5 +1,93 @@
 [
   {
+    "id": "69195",
+    "name": "Рэна Рюгу",
+    "rank": "s",
+    "animeName": "Когда плачут цикады: Карма",
+    "animeLink": "/aniserials/video/detective/888-kogda-plachut-cikady-2020.html",
+    "image": "/uploads/cards_image/888/s/rjena-rjugu-1764632624-552971.webp"
+  },
+  {
+    "id": "69193",
+    "name": "Норико Сонодзаки",
+    "rank": "s",
+    "animeName": "Кизнайвер",
+    "animeLink": "/aniserials/video/drama/699-kiznayver.html",
+    "image": "/uploads/cards_image/699/s/noriko-sonodzaki-1764670352-452113.webp"
+  },
+  {
+    "id": "69161",
+    "name": "Люси Хартфилия",
+    "rank": "s",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/s/ljusi-hartfilija-1764610897-945480.webp"
+  },
+  {
+    "id": "69160",
+    "name": "Снежинка",
+    "rank": "e",
+    "animeName": "Моя геройская академия 7 сезон",
+    "animeLink": "/aniserials/video/action/2424-moja-gerojskaja-akademija-7-sezon-2024-v6.html",
+    "image": "/uploads/cards_image/2424/e/snezhinka-1764629093-406825.webp"
+  },
+  {
+    "id": "69158",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Эта фарфоровая кукла влюбилась 2",
+    "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
+    "image": "/uploads/cards_image/2974/e/snegopad-1764610380-256658.webp"
+  },
+  {
+    "id": "69157",
+    "name": "Снежинка",
+    "rank": "e",
+    "animeName": "Тёмный дворецкий 4 сезон: Школа-интернат",
+    "animeLink": "/aniserials/video/action/2389-temnyj-dvoreckij-4-sezon.html",
+    "image": "/uploads/cards_image/2389/e/snezhinka-1764628804-412481.webp"
+  },
+  {
+    "id": "69154",
+    "name": "Потеря равновесия",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/poterja-ravnovesija-1764628663-54245.webp"
+  },
+  {
+    "id": "69153",
+    "name": "Каори Миямото",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/kaori-mijamoto-1764609501-330480.webp"
+  },
+  {
+    "id": "69151",
+    "name": "Кадзуо Кодама",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/kadzuo-kodama-1764609453-553344.webp"
+  },
+  {
+    "id": "69149",
+    "name": "Эри Савада",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/jeri-savada-1764609379-877788.webp"
+  },
+  {
+    "id": "69148",
+    "name": "Удар левой",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/udar-levoj-1764609306-162052.webp"
+  },
+  {
     "id": "69143",
     "name": "Такаши Нацумэ",
     "rank": "s",
