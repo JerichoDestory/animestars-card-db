@@ -1,5 +1,93 @@
 [
   {
+    "id": "69321",
+    "name": "Савако Куронума",
+    "rank": "s",
+    "animeName": "Достучаться до тебя 2 сезон",
+    "animeLink": "/aniserials/video/drama/985-dotjanutsja-do-tebja-2-sezon.html",
+    "image": "/uploads/cards_image/985/s/savako-kuronuma-1764768111-677286.webp"
+  },
+  {
+    "id": "69312",
+    "name": "Ирина",
+    "rank": "s",
+    "animeName": "Пожиратель звёзд 2 сезон",
+    "animeLink": "/aniserials/video/action/1460-pozhiratel-zvezd-1-2-sezon.html",
+    "image": "/uploads/cards_image/1460/s/irina-1764766725-460674.webp"
+  },
+  {
+    "id": "69310",
+    "name": "Журнал",
+    "rank": "e",
+    "animeName": "Инициал Ди 2 сезон",
+    "animeLink": "/aniserials/video/drama/1631-inicial-di-2-sezon.html",
+    "image": "/uploads/cards_image/1631/e/zhurnal-1764763589-167729.webp"
+  },
+  {
+    "id": "69308",
+    "name": "Зебстрика",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/zebstrika-1764763091-261224.webp"
+  },
+  {
+    "id": "69307",
+    "name": "Драддигон",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/draddigon-1764763080-407438.webp"
+  },
+  {
+    "id": "69306",
+    "name": "Джеллисент",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/dzhellisent-1764763069-512915.webp"
+  },
+  {
+    "id": "69304",
+    "name": "Опрос свидетелей",
+    "rank": "e",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/e/opros-svidetelej-1764766361-649139.webp"
+  },
+  {
+    "id": "69300",
+    "name": "Кунинян",
+    "rank": "e",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/e/kuninjan-1764766233-628327.webp"
+  },
+  {
+    "id": "69297",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Брачные узы с семьёй Амагами",
+    "animeLink": "/aniserials/video/romance/2639-brachnye-uzy-s-semej-amagami.html",
+    "image": "/uploads/cards_image/2639/e/kuda-smotrish-1764743981-322537.webp"
+  },
+  {
+    "id": "69295",
+    "name": "Мэдака и Мона",
+    "rank": "c",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/c/mjedaka-i-mona-1764766049-777776.webp"
+  },
+  {
+    "id": "69294",
+    "name": "Кукла",
+    "rank": "e",
+    "animeName": "Необъятный океан 2",
+    "animeLink": "/aniserials/video/seinen/2987-neobjatnyj-okean-2.html",
+    "image": "/uploads/cards_image/2987/e/kukla-1764742911-374796.webp"
+  },
+  {
     "id": "69290",
     "name": "Руми Йокой",
     "rank": "s",
