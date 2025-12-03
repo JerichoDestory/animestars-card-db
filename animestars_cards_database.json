@@ -1,5 +1,261 @@
 [
   {
+    "id": "69290",
+    "name": "Руми Йокой",
+    "rank": "s",
+    "animeName": "Мой сосед Секи-кун",
+    "animeLink": "/aniserials/video/comedy/108-moy-sosed-seki-kun.html",
+    "image": "/uploads/cards_image/108/s/rumi-jokoj-1764733190-177044.webp"
+  },
+  {
+    "id": "69289",
+    "name": "Нефертима Осфе",
+    "rank": "s",
+    "animeName": "Я делаю всё возможное, чтобы чувствовать себя как дома в другом мире",
+    "animeLink": "/aniserials/video/natural/2272-ja-delaju-vse-vozmozhnoe-chtoby-chuvstvovat-sebja-kak-doma-v-drugom-mire-animestars-2024.html",
+    "image": "/uploads/cards_image/2272/s/nefertima-osfe-1764756792-565503.webp"
+  },
+  {
+    "id": "69288",
+    "name": "Нана Хираги",
+    "rank": "s",
+    "animeName": "Бездарная Нана",
+    "animeLink": "/aniserials/video/mystery/867-bezdarnaja-nana.html",
+    "image": "/uploads/cards_image/867/s/nana-hiragi-1764725075-254227.webp"
+  },
+  {
+    "id": "69287",
+    "name": "Антилин Херан Фуше",
+    "rank": "s",
+    "animeName": "Повелитель 2 сезон",
+    "animeLink": "/aniserials/video/vampires/212-povelitel-2-sezon-2018-as.html",
+    "image": "/uploads/cards_image/212/s/antilin-heran-fushe-1764756631-908025.webp"
+  },
+  {
+    "id": "69281",
+    "name": "Тосиро Хицугая",
+    "rank": "b",
+    "animeName": "Блич: Тысячелетняя кровавая война - Прощание",
+    "animeLink": "/aniserials/video/action/2114-blich-tysjacheletnjaja-krovavaja-vojna-proschanie.html",
+    "image": "/uploads/cards_image/2114/b/tosiro-hicugaja-1764719849-854508.webp"
+  },
+  {
+    "id": "69275",
+    "name": "Перерыв",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/pereryv-1764705634-937603.webp"
+  },
+  {
+    "id": "69272",
+    "name": "Асахи Сёнан",
+    "rank": "b",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/b/asahi-senan-1764719511-272621.webp"
+  },
+  {
+    "id": "69271",
+    "name": "Мэдака Куроива",
+    "rank": "a",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/a/mjedaka-kuroiva-1764719478-401385.webp"
+  },
+  {
+    "id": "69269",
+    "name": "Синтянь Цзя",
+    "rank": "d",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v16.html",
+    "image": "/uploads/cards_image/2077/d/sintjan-czja-1764719403-247533.webp"
+  },
+  {
+    "id": "69268",
+    "name": "Мона Каваи",
+    "rank": "a",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/a/mona-kavai-1764719311-526216.webp"
+  },
+  {
+    "id": "69266",
+    "name": "Ичиро Комаба",
+    "rank": "b",
+    "animeName": "Серебряная ложка",
+    "animeLink": "/aniserials/video/shounen/2870-serebrjanaja-lozhka.html",
+    "image": "/uploads/cards_image/2870/b/ichiro-komaba-1764700093-168428.webp"
+  },
+  {
+    "id": "69265",
+    "name": "Аки Микагэ",
+    "rank": "a",
+    "animeName": "Серебряная ложка",
+    "animeLink": "/aniserials/video/shounen/2870-serebrjanaja-lozhka.html",
+    "image": "/uploads/cards_image/2870/a/aki-mikagje-1764699624-727666.webp"
+  },
+  {
+    "id": "69264",
+    "name": "Юго Хачикэн",
+    "rank": "a",
+    "animeName": "Серебряная ложка",
+    "animeLink": "/aniserials/video/shounen/2870-serebrjanaja-lozhka.html",
+    "image": "/uploads/cards_image/2870/a/jugo-hachikjen-1764700270-242472.webp"
+  },
+  {
+    "id": "69262",
+    "name": "Сихо Камбара",
+    "rank": "b",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/b/siho-kambara-1764719000-300369.webp"
+  },
+  {
+    "id": "69261",
+    "name": "Маки Накадзато",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/maki-nakadzato-1764699393-661850.webp"
+  },
+  {
+    "id": "69260",
+    "name": "Мисаки Айхара",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/misaki-ajhara-1764699372-217000.webp"
+  },
+  {
+    "id": "69259",
+    "name": "Маки и Мисаки",
+    "rank": "c",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/c/maki-i-misaki-1764699349-963977.webp"
+  },
+  {
+    "id": "69257",
+    "name": "Им",
+    "rank": "s",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/s/im-1764695005-661790.webp"
+  },
+  {
+    "id": "69256",
+    "name": "Талисман",
+    "rank": "e",
+    "animeName": "MF Призрак 2 сезон",
+    "animeLink": "/aniserials/video/sports/2664-mf-prizrak-2-sezon-2024.html",
+    "image": "/uploads/cards_image/2664/e/talisman-1764705041-734984.webp"
+  },
+  {
+    "id": "69255",
+    "name": "Очищение",
+    "rank": "e",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/e/ochischenie-1764692394-271417.webp"
+  },
+  {
+    "id": "69254",
+    "name": "Святые Диана и Скарлет",
+    "rank": "c",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/c/svjatye-diana-i-skarlet-1764704826-871252.webp"
+  },
+  {
+    "id": "69253",
+    "name": "Скарлет и Диана",
+    "rank": "c",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/c/skarlet-i-diana-1764692284-593403.webp"
+  },
+  {
+    "id": "69248",
+    "name": "Обнимашки",
+    "rank": "c",
+    "animeName": "Мой статус убийцы очевидно превосходит геройский",
+    "animeLink": "/aniserials/video/action/3131-moj-status-ubijcy-ochevidno-prevoshodit-gerojskij.html",
+    "image": "/uploads/cards_image/3131/c/obnimashki-1764704631-357132.webp"
+  },
+  {
+    "id": "69245",
+    "name": "Полюшка",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/poljushka-1764691398-450893.webp"
+  },
+  {
+    "id": "69244",
+    "name": "Ооба Бабасама",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/ooba-babasama-1764691312-193323.webp"
+  },
+  {
+    "id": "69243",
+    "name": "Ё Хиори",
+    "rank": "d",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/d/e-hiori-1764689882-970234.webp"
+  },
+  {
+    "id": "69241",
+    "name": "Кактус",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/kaktus-1764689698-861795.webp"
+  },
+  {
+    "id": "69239",
+    "name": "Саэ и Рюсэй",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/saje-i-rjusjej-1764689604-915878.webp"
+  },
+  {
+    "id": "69238",
+    "name": "Юграм Хашвальт",
+    "rank": "b",
+    "animeName": "Блич: Тысячелетняя кровавая война - Прощание",
+    "animeLink": "/aniserials/video/action/2114-blich-tysjacheletnjaja-krovavaja-vojna-proschanie.html",
+    "image": "/uploads/cards_image/2114/b/jugram-hashvalt-1764704051-254478.webp"
+  },
+  {
+    "id": "69236",
+    "name": "Бьякуя Кучики",
+    "rank": "b",
+    "animeName": "Блич: Тысячелетняя кровавая война - Прощание",
+    "animeLink": "/aniserials/video/action/2114-blich-tysjacheletnjaja-krovavaja-vojna-proschanie.html",
+    "image": "/uploads/cards_image/2114/b/bjakuja-kuchiki-1764703963-945624.webp"
+  },
+  {
+    "id": "69233",
+    "name": "Дарманитан",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/darmanitan-1764687242-467497.webp"
+  },
+  {
+    "id": "69232",
+    "name": "Соо Забимару",
+    "rank": "e",
+    "animeName": "Блич: Тысячелетняя кровавая война - Конфликт",
+    "animeLink": "/aniserials/video/action/2654-blich-tysjacheletnjaja-krovavaja-vojna-konflikt-2024-v12.html",
+    "image": "/uploads/cards_image/2654/e/soo-zabimaru-1764703529-269813.webp"
+  },
+  {
     "id": "69228",
     "name": "Нян",
     "rank": "d",
