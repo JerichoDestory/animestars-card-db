@@ -1,11 +1,203 @@
 [
   {
+    "id": "69391",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Магистр дьявольского культа 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/545-magistr-dyavolskogo-kulta-2-sezon.html",
+    "image": "/uploads/cards_image/545/e/snegopad-1764846749-697888.webp"
+  },
+  {
+    "id": "69383",
+    "name": "Одадзима",
+    "rank": "b",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/b/odadzima-1764846595-595636.webp"
+  },
+  {
+    "id": "69382",
+    "name": "Тайё Хаякава",
+    "rank": "d",
+    "animeName": "Человек-бензопила",
+    "animeLink": "/aniserials/video/drama/1556-chelovek-benzopila-animestars-2022.html",
+    "image": "/uploads/cards_image/1556/d/taje-hajakava-1764826996-155316.webp"
+  },
+  {
+    "id": "69380",
+    "name": "Жамк",
+    "rank": "c",
+    "animeName": "Человек-бензопила",
+    "animeLink": "/aniserials/video/drama/1556-chelovek-benzopila-animestars-2022.html",
+    "image": "/uploads/cards_image/1556/c/zhamk-1764822726-574059.webp"
+  },
+  {
+    "id": "69377",
+    "name": "Плавники",
+    "rank": "e",
+    "animeName": "Вольный стиль!",
+    "animeLink": "/aniserials/video/comedy/96-free-svoboda-tv-1.html",
+    "image": "/uploads/cards_image/96/e/plavniki-1764808461-402564.webp"
+  },
+  {
+    "id": "69374",
+    "name": "Пудинг, Нитро и Рэйдзю",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/puding-nitro-i-rjejdzju-1764846215-746268.webp"
+  },
+  {
+    "id": "69368",
+    "name": "Мистер Снайпер",
+    "rank": "s",
+    "animeName": "Небесное вторжение",
+    "animeLink": "/aniserials/video/horror/1672-nebesnoe-vtorzhenie-2021.html",
+    "image": "/uploads/cards_image/1672/s/mister-snajper-1764799396-304335.webp"
+  },
+  {
+    "id": "69366",
+    "name": "Сю Е",
+    "rank": "s",
+    "animeName": "Аватар короля 3 сезон",
+    "animeLink": "/aniserials/video/action/2449-avatar-korolja-3-sezon-2024.html",
+    "image": "/uploads/cards_image/2449/s/sju-e-1764798818-399228.webp"
+  },
+  {
+    "id": "69353",
+    "name": "Эзел",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/d/jezel-1764794836-669238.webp"
+  },
+  {
+    "id": "69345",
+    "name": "Томо Намба",
+    "rank": "b",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/b/tomo-namba-1764805461-747834.webp"
+  },
+  {
+    "id": "69343",
+    "name": "Минами Cирахами",
+    "rank": "d",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/d/minami-cirahami-1764805414-928526.webp"
+  },
+  {
+    "id": "69340",
+    "name": "Жамк",
+    "rank": "c",
+    "animeName": "Соблазн 2,5-мерного измерения",
+    "animeLink": "/aniserials/video/garems/2501-soblazn-25-mernogo-izmerenija.html",
+    "image": "/uploads/cards_image/2501/c/zhamk-1764785794-801552.webp"
+  },
+  {
+    "id": "69339",
+    "name": "Сэйсиро Наги",
+    "rank": "s",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/s/sjejsiro-nagi-1764784304-733959.webp"
+  },
+  {
+    "id": "69333",
+    "name": "Хираги",
+    "rank": "d",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/d/hiragi-1764789348-682974.webp"
+  },
+  {
+    "id": "69332",
+    "name": "Цукико",
+    "rank": "d",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/d/cukiko-1764789149-724183.webp"
+  },
+  {
+    "id": "69329",
+    "name": "Юдзуру Кидо",
+    "rank": "d",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/d/judzuru-kido-1764789044-816849.webp"
+  },
+  {
+    "id": "69328",
+    "name": "Заболел",
+    "rank": "e",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/e/zabolel-1764788988-109840.webp"
+  },
+  {
+    "id": "69325",
+    "name": "Цуёси Мукода",
+    "rank": "a",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/a/cuesi-mukoda-1764788751-520719.webp"
+  },
+  {
+    "id": "69324",
+    "name": "Сё Кобаякава",
+    "rank": "d",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/d/se-kobajakava-1764788673-736703.webp"
+  },
+  {
     "id": "69321",
     "name": "Савако Куронума",
     "rank": "s",
     "animeName": "Достучаться до тебя 2 сезон",
     "animeLink": "/aniserials/video/drama/985-dotjanutsja-do-tebja-2-sezon.html",
     "image": "/uploads/cards_image/985/s/savako-kuronuma-1764768111-677286.webp"
+  },
+  {
+    "id": "69320",
+    "name": "Выпьем?",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/vypem-1764767043-473747.webp"
+  },
+  {
+    "id": "69319",
+    "name": "Элдер",
+    "rank": "b",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/b/jelder-1764766932-774352.webp"
+  },
+  {
+    "id": "69318",
+    "name": "Мелоэтта",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/melojetta-1764766875-674143.webp"
+  },
+  {
+    "id": "69317",
+    "name": "Крастл",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/krastl-1764766865-731704.webp"
+  },
+  {
+    "id": "69316",
+    "name": "Кофагригус",
+    "rank": "a",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/a/kofagrigus-1764766853-99725.webp"
   },
   {
     "id": "69312",
