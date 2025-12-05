@@ -1,5 +1,53 @@
 [
   {
+    "id": "69425",
+    "name": "Канамэ Тидори",
+    "rank": "s",
+    "animeName": "Стальная тревога! 2 сезон: Фумоффу",
+    "animeLink": "/aniserials/video/action/293-stalnaya-trevoga-2-sezon.html",
+    "image": "/uploads/cards_image/293/s/kanamje-tidori-1764921436-169832.webp"
+  },
+  {
+    "id": "69411",
+    "name": "Сишуй Е",
+    "rank": "d",
+    "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
+    "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
+    "image": "/uploads/cards_image/2058/d/sishuj-e-1764875202-715421.webp"
+  },
+  {
+    "id": "69396",
+    "name": "Бьянка",
+    "rank": "d",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/d/bjanka-1764849548-899936.webp"
+  },
+  {
+    "id": "69395",
+    "name": "Кейтлин",
+    "rank": "d",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/d/kejtlin-1764849533-667657.webp"
+  },
+  {
+    "id": "69394",
+    "name": "На прицеле",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/na-pricele-1764849448-264063.webp"
+  },
+  {
+    "id": "69393",
+    "name": "Эльфман Штраус",
+    "rank": "b",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/b/jelfman-shtraus-1764849422-855802.webp"
+  },
+  {
     "id": "69391",
     "name": "Снегопад",
     "rank": "e",
