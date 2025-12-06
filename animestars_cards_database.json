@@ -1,11 +1,243 @@
 [
   {
+    "id": "69505",
+    "name": "Мишель Май Бэби",
+    "rank": "d",
+    "animeName": "Девушки-пони: Серая Золушка. Часть 2",
+    "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
+    "image": "/uploads/cards_image/3121/d/mishel-maj-bjebi-1764975765-468791.webp"
+  },
+  {
+    "id": "69504",
+    "name": "Обей Ёр Мастер",
+    "rank": "d",
+    "animeName": "Девушки-пони: Серая Золушка. Часть 2",
+    "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
+    "image": "/uploads/cards_image/3121/d/obej-er-master-1764975697-957543.webp"
+  },
+  {
+    "id": "69503",
+    "name": "Эллерсли Прайд",
+    "rank": "b",
+    "animeName": "Девушки-пони: Серая Золушка. Часть 2",
+    "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
+    "image": "/uploads/cards_image/3121/b/jellersli-prajd-1764975630-64363.webp"
+  },
+  {
+    "id": "69499",
+    "name": "Бякуя Мимори",
+    "rank": "a",
+    "animeName": "Волшебница и злой офицер",
+    "animeLink": "/aniserials/video/shounen/3031-volshebnica-i-zloj-oficer.html",
+    "image": "/uploads/cards_image/3031/a/bjakuja-mimori-1764965573-890993.webp"
+  },
+  {
+    "id": "69493",
+    "name": "Мечта Джима",
+    "rank": "e",
+    "animeName": "Убивающая любовь",
+    "animeLink": "/aniserials/video/action/1353-ubivajuschaja-ljubov.html",
+    "image": "/uploads/cards_image/1353/e/mechta-dzhima-1764962557-828277.webp"
+  },
+  {
+    "id": "69490",
+    "name": "Силки",
+    "rank": "d",
+    "animeName": "Невеста чародея OVA 2: Мальчик с Запада и рыцарь горной дымки",
+    "animeLink": "/ova/1475-nevesta-charodeja-ova-2-malchik-s-zapada-i-rycar-gornoj-dymki.html",
+    "image": "/uploads/cards_image/1475/d/silki-1764975080-429436.webp"
+  },
+  {
+    "id": "69485",
+    "name": "Ли Ту",
+    "rank": "s",
+    "animeName": "Провидение 2 сезон",
+    "animeLink": "/aniserials/video/romance/2470-providenie-2-sezon.html",
+    "image": "/uploads/cards_image/2470/s/li-tu-1764954700-239798.webp"
+  },
+  {
+    "id": "69484",
+    "name": "Хиэи",
+    "rank": "s",
+    "animeName": "Отчет о буйстве духов",
+    "animeLink": "/aniserials/video/martial_arts/648-otchet-o-buystve-duhov.html",
+    "image": "/uploads/cards_image/648/s/hijei-1764954799-781800.webp"
+  },
+  {
+    "id": "69480",
+    "name": "Заложница",
+    "rank": "c",
+    "animeName": "Вечность в моменте",
+    "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
+    "image": "/uploads/cards_image/2555/c/zalozhnica-1764952696-384691.webp"
+  },
+  {
+    "id": "69472",
+    "name": "Мона Каваи",
+    "rank": "s",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/s/mona-kavai-1764959612-160555.webp"
+  },
+  {
+    "id": "69470",
+    "name": "Ледяной гроб",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/e/ledjanoj-grob-1764950589-148666.webp"
+  },
+  {
+    "id": "69468",
+    "name": "Дафна",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/dafna-1764950559-176168.webp"
+  },
+  {
+    "id": "69467",
+    "name": "Яджима",
+    "rank": "d",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/d/jadzhima-1764950544-891570.webp"
+  },
+  {
+    "id": "69464",
+    "name": "Механический помощник",
+    "rank": "d",
+    "animeName": "Вечность в моменте",
+    "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
+    "image": "/uploads/cards_image/2555/d/mehanicheskij-pomoschnik-1764974308-594402.webp"
+  },
+  {
+    "id": "69463",
+    "name": "Шестиугольный дворец",
+    "rank": "e",
+    "animeName": "Вечность в моменте",
+    "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
+    "image": "/uploads/cards_image/2555/e/shestiugolnyj-dvorec-1764974177-206668.webp"
+  },
+  {
+    "id": "69461",
+    "name": "Тан Хуа и Чжун Юань",
+    "rank": "c",
+    "animeName": "Вечность в моменте",
+    "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
+    "image": "/uploads/cards_image/2555/c/tan-hua-i-chzhun-juan-1764952048-548300.webp"
+  },
+  {
+    "id": "69458",
+    "name": "Смущение",
+    "rank": "e",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/e/smuschenie-1764951817-882853.webp"
+  },
+  {
+    "id": "69453",
+    "name": "Попробуй!",
+    "rank": "e",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/e/poprobuj-1764911871-701143.webp"
+  },
+  {
+    "id": "69451",
+    "name": "Ранко Маннэн",
+    "rank": "s",
+    "animeName": "Война горничных Акибы",
+    "animeLink": "/aniserials/video/comedy/1562-vojna-gornichnyh-akiby.html",
+    "image": "/uploads/cards_image/1562/s/ranko-mannjen-1764908281-257295.webp"
+  },
+  {
+    "id": "69450",
+    "name": "Подсолнухи",
+    "rank": "e",
+    "animeName": "Плач девичьей группы",
+    "animeLink": "/aniserials/video/drama/2458-plach-devichej-gruppy.html",
+    "image": "/uploads/cards_image/2458/e/podsolnuhi-1764901877-242146.webp"
+  },
+  {
+    "id": "69449",
+    "name": "Нина Исэри",
+    "rank": "s",
+    "animeName": "Плач девичьей группы",
+    "animeLink": "/aniserials/video/drama/2458-plach-devichej-gruppy.html",
+    "image": "/uploads/cards_image/2458/s/nina-isjeri-1764901591-784208.webp"
+  },
+  {
+    "id": "69446",
+    "name": "Качели",
+    "rank": "e",
+    "animeName": "Магическая битва",
+    "animeLink": "/aniserials/video/action/850-magicheskaja-bitva-animestars-2020.html",
+    "image": "/uploads/cards_image/850/e/kacheli-1764884685-150007.webp"
+  },
+  {
+    "id": "69444",
+    "name": "Тёсо",
+    "rank": "s",
+    "animeName": "Магическая битва 2 сезон",
+    "animeLink": "/aniserials/video/action/2090-magicheskaja-bitva-2-sezon-animestars-vm3.html",
+    "image": "/uploads/cards_image/2090/s/teso-1764943356-717606.webp"
+  },
+  {
+    "id": "69442",
+    "name": "Крушение",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте Феи 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1906-skazka-o-hvoste-fei-2-sezon-2014.html",
+    "image": "/uploads/cards_image/1906/e/krushenie-1764882130-345999.webp"
+  },
+  {
+    "id": "69438",
+    "name": "Тяньжань Сюй",
+    "rank": "a",
+    "animeName": "Боевой континент 2: Непревзойдённый клан Тан",
+    "animeLink": "/aniserials/video/action/2058-boevoj-kontinent-2-neprevzojdennyj-klan-tan-animestars-aa8.html",
+    "image": "/uploads/cards_image/2058/a/tjanzhan-sjuj-1764949953-293593.webp"
+  },
+  {
+    "id": "69436",
+    "name": "Хьюго",
+    "rank": "d",
+    "animeName": "Невеста чародея OVA: В ожидании путеводной звезды",
+    "animeLink": "/ova/1474-nevesta-charodeja-ova-v-ozhidanii-putevodnoj-zvezdy.html",
+    "image": "/uploads/cards_image/1474/d/hjugo-1764949769-446539.webp"
+  },
+  {
+    "id": "69431",
+    "name": "Нань Чэнь",
+    "rank": "s",
+    "animeName": "Гробница богов 3 сезон",
+    "animeLink": "/aniserials/video/action/3074-grobnica-bogov-3.html",
+    "image": "/uploads/cards_image/3074/s/nan-chjen-1764880643-29827.webp"
+  },
+  {
+    "id": "69427",
+    "name": "Канамэ Тидори",
+    "rank": "s",
+    "animeName": "Стальная тревога! 3 сезон: Новый рейд",
+    "animeLink": "/aniserials/video/war/294-stalnaya-trevoga-3-sezon.html",
+    "image": "/uploads/cards_image/294/s/kanamje-tidori-1764943205-198549.webp"
+  },
+  {
     "id": "69425",
     "name": "Канамэ Тидори",
     "rank": "s",
     "animeName": "Стальная тревога! 2 сезон: Фумоффу",
     "animeLink": "/aniserials/video/action/293-stalnaya-trevoga-2-sezon.html",
     "image": "/uploads/cards_image/293/s/kanamje-tidori-1764921436-169832.webp"
+  },
+  {
+    "id": "69423",
+    "name": "Горничная",
+    "rank": "e",
+    "animeName": "Мэдака Куроива не понимает моей привлекательности",
+    "animeLink": "/aniserials/video/shounen/3012-mjedaka-kuroiva-ne-ponimaet-moej-privlekatelnosti.html",
+    "image": "/uploads/cards_image/3012/e/gornichnaja-1764949426-790634.webp"
   },
   {
     "id": "69411",
