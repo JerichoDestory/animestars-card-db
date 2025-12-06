@@ -1,5 +1,181 @@
 [
   {
+    "id": "69573",
+    "name": "Ю Наруками",
+    "rank": "a",
+    "animeName": "Персона 4: Золотое издание",
+    "animeLink": "/aniserials/video/action/3041-persona-4-zolotoe-izdanie.html",
+    "image": "/uploads/cards_image/3041/a/ju-narukami-1765046960-974151.webp"
+  },
+  {
+    "id": "69566",
+    "name": "Роза Альхатия",
+    "rank": "d",
+    "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
+    "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
+    "image": "/uploads/cards_image/3116/d/roza-alhatija-1765052216-51264.webp"
+  },
+  {
+    "id": "69562",
+    "name": "Алек Югрет",
+    "rank": "a",
+    "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
+    "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
+    "image": "/uploads/cards_image/3116/a/alek-jugret-1765052041-958467.webp"
+  },
+  {
+    "id": "69558",
+    "name": "Сики Итиносэ",
+    "rank": "a",
+    "animeName": "Тёмный демон",
+    "animeLink": "/aniserials/video/shounen/3158-temnyj-demon.html",
+    "image": "/uploads/cards_image/3158/a/siki-itinosje-1765032522-661806.webp"
+  },
+  {
+    "id": "69551",
+    "name": "Джеральда",
+    "rank": "d",
+    "animeName": "Другой мир не может противостоять силе мгновенной смерти",
+    "animeLink": "/aniserials/video/comedy/2279-drugoj-mir-ne-mozhet-protivostojat-sile-mgnovennoj-smerti.html",
+    "image": "/uploads/cards_image/2279/d/dzheralda-1765051534-259946.webp"
+  },
+  {
+    "id": "69550",
+    "name": "Моритака Масиро",
+    "rank": "s",
+    "animeName": "Бакуман",
+    "animeLink": "/aniserials/video/drama/353-bakuman-1-3-sezon.html",
+    "image": "/uploads/cards_image/353/s/moritaka-masiro-1765030857-247199.webp"
+  },
+  {
+    "id": "69549",
+    "name": "Аяка Синодзаки",
+    "rank": "b",
+    "animeName": "Другой мир не может противостоять силе мгновенной смерти",
+    "animeLink": "/aniserials/video/comedy/2279-drugoj-mir-ne-mozhet-protivostojat-sile-mgnovennoj-smerti.html",
+    "image": "/uploads/cards_image/2279/b/ajaka-sinodzaki-1765051414-581894.webp"
+  },
+  {
+    "id": "69547",
+    "name": "Мира",
+    "rank": "d",
+    "animeName": "Бесклассовый герой: Да мне всё равно не нужны эти ваши умения",
+    "animeLink": "/aniserials/video/action/3078-besklassovyj-geroj-da-mne-vse-ravno-ne-nuzhny-jeti-vashi-umenija.html",
+    "image": "/uploads/cards_image/3078/d/mira-1765051318-511587.webp"
+  },
+  {
+    "id": "69544",
+    "name": "Элиза",
+    "rank": "d",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/d/jeliza-1765027856-114528.webp"
+  },
+  {
+    "id": "69541",
+    "name": "Кресс",
+    "rank": "d",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/d/kress-1765027806-269767.webp"
+  },
+  {
+    "id": "69537",
+    "name": "Колода",
+    "rank": "e",
+    "animeName": "Магистр дьявольского культа 3 сезон",
+    "animeLink": "/aniserials/video/action/1141-magistr-djavolskogo-kulta-3-sezon.html",
+    "image": "/uploads/cards_image/1141/e/koloda-1765050494-824370.webp"
+  },
+  {
+    "id": "69535",
+    "name": "Лотос",
+    "rank": "e",
+    "animeName": "Однажды я стала принцессой",
+    "animeLink": "/aniserials/video/drama/3082-odnazhdy-ja-stala-princessoj.html",
+    "image": "/uploads/cards_image/3082/e/lotos-1765016147-73817.webp"
+  },
+  {
+    "id": "69534",
+    "name": "Маскировка",
+    "rank": "e",
+    "animeName": "Однажды я стала принцессой",
+    "animeLink": "/aniserials/video/drama/3082-odnazhdy-ja-stala-princessoj.html",
+    "image": "/uploads/cards_image/3082/e/maskirovka-1765016114-962390.webp"
+  },
+  {
+    "id": "69527",
+    "name": "Тика Аматори",
+    "rank": "s",
+    "animeName": "Импульс мира 2 сезон",
+    "animeLink": "/aniserials/video/action/1067-impuls-mira-2-sezon.html",
+    "image": "/uploads/cards_image/1067/s/tika-amatori-1765007762-986877.webp"
+  },
+  {
+    "id": "69525",
+    "name": "Михо Адзуки",
+    "rank": "s",
+    "animeName": "Бакуман 2 сезон",
+    "animeLink": "/aniserials/video/drama/951-bakuman-2-sezon.html",
+    "image": "/uploads/cards_image/951/s/miho-adzuki-1764987457-635124.webp"
+  },
+  {
+    "id": "69522",
+    "name": "Кулон",
+    "rank": "e",
+    "animeName": "Вечность в моменте",
+    "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
+    "image": "/uploads/cards_image/2555/e/kulon-1764986858-212209.webp"
+  },
+  {
+    "id": "69521",
+    "name": "Печать",
+    "rank": "e",
+    "animeName": "Вечность в моменте",
+    "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
+    "image": "/uploads/cards_image/2555/e/pechat-1764986831-992787.webp"
+  },
+  {
+    "id": "69520",
+    "name": "Пришествие",
+    "rank": "e",
+    "animeName": "Вечность в моменте",
+    "animeLink": "/aniserials/video/action/2555-vechnost-v-momente-2024.html",
+    "image": "/uploads/cards_image/2555/e/prishestvie-1765028888-450564.webp"
+  },
+  {
+    "id": "69513",
+    "name": "Оливия",
+    "rank": "d",
+    "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
+    "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
+    "image": "/uploads/cards_image/3116/d/olivija-1765028727-908341.webp"
+  },
+  {
+    "id": "69512",
+    "name": "Орнест Рейн",
+    "rank": "a",
+    "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
+    "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
+    "image": "/uploads/cards_image/3116/a/ornest-rejn-1765028615-802117.webp"
+  },
+  {
+    "id": "69510",
+    "name": "Красия Аннероуз",
+    "rank": "a",
+    "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
+    "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
+    "image": "/uploads/cards_image/3116/a/krasija-annerouz-1765028410-777714.webp"
+  },
+  {
+    "id": "69509",
+    "name": "Марбелл",
+    "rank": "b",
+    "animeName": "Придворный маг, пользовавшийся лишь магией поддержки, потому что его союзники слишком слабы, решил стать сильнейшим после изгнания",
+    "animeLink": "/aniserials/video/action/3116-pridvornyj-mag-polzovavshijsja-lish-magiej-podderzhki-potomu-chto-ego-sojuzniki-slishkom-slaby-reshil-stat-silnejshim-posle-izgnanija-deep.html",
+    "image": "/uploads/cards_image/3116/b/marbell-1765028347-260650.webp"
+  },
+  {
     "id": "69505",
     "name": "Мишель Май Бэби",
     "rank": "d",
