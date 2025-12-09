@@ -1,5 +1,661 @@
 [
   {
+    "id": "69826",
+    "name": "Слёзы",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/slezy-1765232495-28754.webp"
+  },
+  {
+    "id": "69820",
+    "name": "Спасение",
+    "rank": "c",
+    "animeName": "Вторжение гигантов",
+    "animeLink": "/aniserials/video/war/151-vtorzhenie-gigantov-2013-as.html",
+    "image": "/uploads/cards_image/151/c/spasenie-1765231782-276031.webp"
+  },
+  {
+    "id": "69819",
+    "name": "Я не сдамся!",
+    "rank": "e",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/e/ja-ne-sdamsja-1765231451-568386.webp"
+  },
+  {
+    "id": "69807",
+    "name": "Шуань Люфэн",
+    "rank": "b",
+    "animeName": "Цзычуань 2",
+    "animeLink": "/aniserials/video/action/3059-czychuan-2.html",
+    "image": "/uploads/cards_image/3059/b/shuan-ljufjen-1765200303-302546.webp"
+  },
+  {
+    "id": "69806",
+    "name": "Боевая стойка",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/boevaja-stojka-1765230968-798349.webp"
+  },
+  {
+    "id": "69805",
+    "name": "Лихт и Лин",
+    "rank": "c",
+    "animeName": "Грабитель",
+    "animeLink": "/aniserials/video/action/624-grabitel-2020.html",
+    "image": "/uploads/cards_image/624/c/liht-i-lin-1765230888-186520.webp"
+  },
+  {
+    "id": "69804",
+    "name": "Отряд Маски",
+    "rank": "c",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/c/otrjad-maski-1765230828-656293.webp"
+  },
+  {
+    "id": "69803",
+    "name": "Маска",
+    "rank": "e",
+    "animeName": "Грабитель",
+    "animeLink": "/aniserials/video/action/624-grabitel-2020.html",
+    "image": "/uploads/cards_image/624/e/maska-1765230688-276750.webp"
+  },
+  {
+    "id": "69802",
+    "name": "Бин Линь",
+    "rank": "b",
+    "animeName": "Цзычуань 2",
+    "animeLink": "/aniserials/video/action/3059-czychuan-2.html",
+    "image": "/uploads/cards_image/3059/b/bin-lin-1765230593-734400.webp"
+  },
+  {
+    "id": "69797",
+    "name": "Каран",
+    "rank": "b",
+    "animeName": "Цзычуань 2",
+    "animeLink": "/aniserials/video/action/3059-czychuan-2.html",
+    "image": "/uploads/cards_image/3059/b/karan-1765197304-847148.webp"
+  },
+  {
+    "id": "69793",
+    "name": "Ка Те",
+    "rank": "b",
+    "animeName": "Цзычуань 2",
+    "animeLink": "/aniserials/video/action/3059-czychuan-2.html",
+    "image": "/uploads/cards_image/3059/b/ka-te-1765196422-663752.webp"
+  },
+  {
+    "id": "69790",
+    "name": "Культ Древних Богов",
+    "rank": "e",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/e/kult-drevnih-bogov-1765228980-757733.webp"
+  },
+  {
+    "id": "69789",
+    "name": "Пазлы",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/pazly-1765193452-278389.webp"
+  },
+  {
+    "id": "69785",
+    "name": "Хун Ин",
+    "rank": "b",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/b/hun-in-1765228731-398832.webp"
+  },
+  {
+    "id": "69783",
+    "name": "Мизайстом Нана",
+    "rank": "d",
+    "animeName": "Охотник х Охотник 2011",
+    "animeLink": "/aniserials/video/drama/101-ohotnik-h-ohotnik-tv-2.html",
+    "image": "/uploads/cards_image/101/d/mizajstom-nana-1765228365-913026.webp"
+  },
+  {
+    "id": "69782",
+    "name": "Элиза и Тогэтик",
+    "rank": "c",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/c/jeliza-i-togjetik-1765190579-892749.webp"
+  },
+  {
+    "id": "69780",
+    "name": "Элиза, Эмолга и Зебстрика",
+    "rank": "c",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/c/jeliza-jemolga-i-zebstrika-1765228102-989782.webp"
+  },
+  {
+    "id": "69779",
+    "name": "Эмбор и Бьянка",
+    "rank": "c",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/c/jembor-i-bjanka-1765190512-913358.webp"
+  },
+  {
+    "id": "69778",
+    "name": "Мелеорон",
+    "rank": "d",
+    "animeName": "Охотник х Охотник 2011",
+    "animeLink": "/aniserials/video/drama/101-ohotnik-h-ohotnik-tv-2.html",
+    "image": "/uploads/cards_image/101/d/meleoron-1765218538-354172.webp"
+  },
+  {
+    "id": "69776",
+    "name": "Тэруя и Юри",
+    "rank": "c",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/c/tjeruja-i-juri-1765188754-586043.webp"
+  },
+  {
+    "id": "69775",
+    "name": "Ёсида",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/esida-1765188701-3656.webp"
+  },
+  {
+    "id": "69774",
+    "name": "Юри Савамура",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/juri-savamura-1765188674-895859.webp"
+  },
+  {
+    "id": "69773",
+    "name": "Масахико Фудзикура",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/masahiko-fudzikura-1765218077-33470.webp"
+  },
+  {
+    "id": "69772",
+    "name": "Юсукэ Савамура",
+    "rank": "d",
+    "animeName": "Разгадывание тайн после ужина",
+    "animeLink": "/aniserials/video/comedy/2893-razgadyvanie-tajn-posle-uzhina.html",
+    "image": "/uploads/cards_image/2893/d/jusukje-savamura-1765188608-979204.webp"
+  },
+  {
+    "id": "69770",
+    "name": "Момонга",
+    "rank": "a",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/a/momonga-1765217766-11904.webp"
+  },
+  {
+    "id": "69768",
+    "name": "Пойдём со мной",
+    "rank": "e",
+    "animeName": "Корзинка фруктов",
+    "animeLink": "/aniserials/video/drama/427-korzinka-fruktov-animestars.html",
+    "image": "/uploads/cards_image/427/e/pojdem-so-mnoj-1765217596-652595.webp"
+  },
+  {
+    "id": "69767",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Ветролом 2 сезон",
+    "animeLink": "/aniserials/video/action/2888-vetrolom-2.html",
+    "image": "/uploads/cards_image/2888/e/snegopad-1765186441-975991.webp"
+  },
+  {
+    "id": "69766",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Сказка о Хвосте феи 3 сезон",
+    "animeLink": "/aniserials/video/comedy/357-skazka-o-hvoste-fei-3-sezon-2018-as.html",
+    "image": "/uploads/cards_image/357/e/snegopad-1765186391-562814.webp"
+  },
+  {
+    "id": "69765",
+    "name": "Сион",
+    "rank": "b",
+    "animeName": "Другой мир не может противостоять силе мгновенной смерти",
+    "animeLink": "/aniserials/video/comedy/2279-drugoj-mir-ne-mozhet-protivostojat-sile-mgnovennoj-smerti.html",
+    "image": "/uploads/cards_image/2279/b/sion-1765216348-130214.webp"
+  },
+  {
+    "id": "69762",
+    "name": "Нагоми",
+    "rank": "b",
+    "animeName": "Соблазн 2,5-мерного измерения",
+    "animeLink": "/aniserials/video/garems/2501-soblazn-25-mernogo-izmerenija.html",
+    "image": "/uploads/cards_image/2501/b/nagomi-1765185524-340232.webp"
+  },
+  {
+    "id": "69759",
+    "name": "Сяофань Чжан",
+    "rank": "s",
+    "animeName": "Убийца богов 3 сезон",
+    "animeLink": "/aniserials/video/action/2946-ubijca-bogov-3.html",
+    "image": "/uploads/cards_image/2946/s/sjaofan-chzhan-1765184027-790314.webp"
+  },
+  {
+    "id": "69758",
+    "name": "Нанако Доджима",
+    "rank": "d",
+    "animeName": "Персона 4: Золотое издание",
+    "animeLink": "/aniserials/video/action/3041-persona-4-zolotoe-izdanie.html",
+    "image": "/uploads/cards_image/3041/d/nanako-dodzhima-1765183555-922110.webp"
+  },
+  {
+    "id": "69753",
+    "name": "Риэн",
+    "rank": "d",
+    "animeName": "Адский рай",
+    "animeLink": "/aniserials/video/action/1812-adskij-raj-animestars-v1.html",
+    "image": "/uploads/cards_image/1812/d/rijen-1765183101-825606.webp"
+  },
+  {
+    "id": "69752",
+    "name": "Кэн и Кишо",
+    "rank": "c",
+    "animeName": "Токийский гуль 4 сезон: Перерождение 2",
+    "animeLink": "/aniserials/video/shounen/2696-tokijskij-gul-pererozhdenie-2-2018.html",
+    "image": "/uploads/cards_image/2696/c/kjen-i-kisho-1765207374-83096.webp"
+  },
+  {
+    "id": "69751",
+    "name": "Суйгинто",
+    "rank": "s",
+    "animeName": "Девы Розена",
+    "animeLink": "/aniserials/video/drama/1617-devy-rozena-1-2-sezon.html",
+    "image": "/uploads/cards_image/1617/s/sujginto-1765182739-903689.webp"
+  },
+  {
+    "id": "69749",
+    "name": "Бетромот Б2",
+    "rank": "e",
+    "animeName": "Бейблэйд: Взрыв",
+    "animeLink": "/aniserials/video/action/1418-bejbljejd-vzryv.html",
+    "image": "/uploads/cards_image/1418/e/betromot-b2-1765207279-11917.webp"
+  },
+  {
+    "id": "69748",
+    "name": "Остров Парадиз",
+    "rank": "e",
+    "animeName": "Вторжение гигантов 3 сезон 2 часть",
+    "animeLink": "/aniserials/video/drama/1603-vtorzhenie-gigantov-3-sezon-2-chast.html",
+    "image": "/uploads/cards_image/1603/e/ostrov-paradiz-1765207151-218814.webp"
+  },
+  {
+    "id": "69747",
+    "name": "Моя мечта",
+    "rank": "e",
+    "animeName": "Благословение небожителей",
+    "animeLink": "/aniserials/video/action/1021-blagoslovenie-nebozhitelej-animestars-2020.html",
+    "image": "/uploads/cards_image/1021/e/moja-mechta-1765182073-186632.webp"
+  },
+  {
+    "id": "69745",
+    "name": "Губидон",
+    "rank": "s",
+    "animeName": "А вот и чёрная колдунья!",
+    "animeLink": "/aniserials/video/comedy/812-a-vot-i-chernaja-koldunja.html",
+    "image": "/uploads/cards_image/812/s/gubidon-1765182004-198996.webp"
+  },
+  {
+    "id": "69744",
+    "name": "Бремя",
+    "rank": "e",
+    "animeName": "Вторжение гигантов 4 сезон 3 часть",
+    "animeLink": "/aniserials/video/drama/1790-vtorzhenie-gigantov-4-sezon-3-chast-animestars-2023.html",
+    "image": "/uploads/cards_image/1790/e/bremja-1765193096-267725.webp"
+  },
+  {
+    "id": "69742",
+    "name": "Луффи Монки Д.",
+    "rank": "ass",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/ass/luffi-monki-d.-1765180132-912032.webp"
+  },
+  {
+    "id": "69739",
+    "name": "Кровавый Лонгинус",
+    "rank": "e",
+    "animeName": "Бейблэйд: Взрыв",
+    "animeLink": "/aniserials/video/action/1418-bejbljejd-vzryv.html",
+    "image": "/uploads/cards_image/1418/e/krovavyj-longinus-1765192849-502461.webp"
+  },
+  {
+    "id": "69736",
+    "name": "Наоки Минамо",
+    "rank": "d",
+    "animeName": "Бейблэйд: Взрыв",
+    "animeLink": "/aniserials/video/action/1418-bejbljejd-vzryv.html",
+    "image": "/uploads/cards_image/1418/d/naoki-minamo-1765177390-985925.webp"
+  },
+  {
+    "id": "69733",
+    "name": "Казуха Тояма",
+    "rank": "d",
+    "animeName": "Детектив Конан",
+    "animeLink": "/aniserials/video/detective/2116-detektiv-konan-animestars-1996.html",
+    "image": "/uploads/cards_image/2116/d/kazuha-tojama-1765174868-672598.webp"
+  },
+  {
+    "id": "69729",
+    "name": "Пудинг",
+    "rank": "e",
+    "animeName": "Грабитель",
+    "animeLink": "/aniserials/video/action/624-grabitel-2020.html",
+    "image": "/uploads/cards_image/624/e/puding-1765192497-929607.webp"
+  },
+  {
+    "id": "69724",
+    "name": "Сэйсиро, Хёма и Мэгуру",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/sjejsiro-hema-i-mjeguru-1765191441-481089.webp"
+  },
+  {
+    "id": "69723",
+    "name": "Чидори Йошино",
+    "rank": "b",
+    "animeName": "Персона 3: Мечта летнего рыцаря",
+    "animeLink": "/film-vvv/2840-persona-3-mechta-letnego-rycarja.html",
+    "image": "/uploads/cards_image/2840/b/chidori-joshino-1765145633-365140.webp"
+  },
+  {
+    "id": "69722",
+    "name": "Коромару",
+    "rank": "a",
+    "animeName": "Персона 3: Мечта летнего рыцаря",
+    "animeLink": "/film-vvv/2840-persona-3-mechta-letnego-rycarja.html",
+    "image": "/uploads/cards_image/2840/a/koromaru-1765145119-636341.webp"
+  },
+  {
+    "id": "69721",
+    "name": "Глаз Разрушения",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/glaz-razrushenija-1765190892-665112.webp"
+  },
+  {
+    "id": "69720",
+    "name": "Глаз Анализа",
+    "rank": "e",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/e/glaz-analiza-1765144770-845112.webp"
+  },
+  {
+    "id": "69717",
+    "name": "Макото Юки",
+    "rank": "a",
+    "animeName": "Персона 3: Мечта летнего рыцаря",
+    "animeLink": "/film-vvv/2840-persona-3-mechta-letnego-rycarja.html",
+    "image": "/uploads/cards_image/2840/a/makoto-juki-1765143200-343480.webp"
+  },
+  {
+    "id": "69715",
+    "name": "Фука Ямагиши",
+    "rank": "a",
+    "animeName": "Персона 3: Мечта летнего рыцаря",
+    "animeLink": "/film-vvv/2840-persona-3-mechta-letnego-rycarja.html",
+    "image": "/uploads/cards_image/2840/a/fuka-jamagishi-1765142527-636989.webp"
+  },
+  {
+    "id": "69712",
+    "name": "Юкари Такэба",
+    "rank": "a",
+    "animeName": "Персона 3: Мечта летнего рыцаря",
+    "animeLink": "/film-vvv/2840-persona-3-mechta-letnego-rycarja.html",
+    "image": "/uploads/cards_image/2840/a/jukari-takjeba-1765141592-255819.webp"
+  },
+  {
+    "id": "69711",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Дьявольские возлюбленные",
+    "animeLink": "/aniserials/video/vampires/755-djavolskie-vozljublennye-1-sezon.html",
+    "image": "/uploads/cards_image/755/e/snegopad-1765140543-344854.webp"
+  },
+  {
+    "id": "69710",
+    "name": "Снегопад",
+    "rank": "c",
+    "animeName": "Охотник х Охотник 2011",
+    "animeLink": "/aniserials/video/drama/101-ohotnik-h-ohotnik-tv-2.html",
+    "image": "/uploads/cards_image/101/c/snegopad-1765189900-667038.webp"
+  },
+  {
+    "id": "69709",
+    "name": "Айрис и Хайдрайгон",
+    "rank": "c",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/c/ajris-i-hajdrajgon-1765189818-153570.webp"
+  },
+  {
+    "id": "69708",
+    "name": "Покемоны Элизы",
+    "rank": "c",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/c/pokemony-jelizy-1765136951-749546.webp"
+  },
+  {
+    "id": "69707",
+    "name": "Пикачу и Синтия",
+    "rank": "c",
+    "animeName": "Покемон",
+    "animeLink": "/aniserials/video/action/2919-pokemon.html",
+    "image": "/uploads/cards_image/2919/c/pikachu-i-sintija-1765136930-940817.webp"
+  },
+  {
+    "id": "69704",
+    "name": "Бу Дан",
+    "rank": "b",
+    "animeName": "Цзычуань 2",
+    "animeLink": "/aniserials/video/action/3059-czychuan-2.html",
+    "image": "/uploads/cards_image/3059/b/bu-dan-1765136033-800948.webp"
+  },
+  {
+    "id": "69703",
+    "name": "Юнь Цяньсюэ",
+    "rank": "b",
+    "animeName": "Цзычуань 2",
+    "animeLink": "/aniserials/video/action/3059-czychuan-2.html",
+    "image": "/uploads/cards_image/3059/b/jun-cjansjuje-1765135720-419453.webp"
+  },
+  {
+    "id": "69702",
+    "name": "Сю Цзычуань",
+    "rank": "a",
+    "animeName": "Цзычуань 2",
+    "animeLink": "/aniserials/video/action/3059-czychuan-2.html",
+    "image": "/uploads/cards_image/3059/a/sju-czychuan-1765134904-318033.webp"
+  },
+  {
+    "id": "69701",
+    "name": "Инка Касугатани",
+    "rank": "b",
+    "animeName": "Пламенная бригада пожарных 2 сезон: Вторая глава",
+    "animeLink": "/aniserials/video/action/802-plamennaja-brigada-pozharnyh-2-sezon-as.html",
+    "image": "/uploads/cards_image/802/b/inka-kasugatani-1765188757-299969.webp"
+  },
+  {
+    "id": "69696",
+    "name": "Ситри Смарт",
+    "rank": "s",
+    "animeName": "Плачущий призрак на пенсии. Часть 2",
+    "animeLink": "/aniserials/video/action/3108-plachuschij-prizrak-na-pensii-chast-2-deep.html",
+    "image": "/uploads/cards_image/3108/s/sitri-smart-1765182011-343712.webp"
+  },
+  {
+    "id": "69695",
+    "name": "Тяжёлая судьба",
+    "rank": "e",
+    "animeName": "Учитель-мафиози Реборн!",
+    "animeLink": "/aniserials/video/comedy/238-uchitel-mafiozi-reborn.html",
+    "image": "/uploads/cards_image/238/e/tjazhelaja-sudba-1765132003-148668.webp"
+  },
+  {
+    "id": "69694",
+    "name": "Иэмицу Савада",
+    "rank": "d",
+    "animeName": "Учитель-мафиози Реборн!",
+    "animeLink": "/aniserials/video/comedy/238-uchitel-mafiozi-reborn.html",
+    "image": "/uploads/cards_image/238/d/ijemicu-savada-1765131974-602080.webp"
+  },
+  {
+    "id": "69693",
+    "name": "Уинг",
+    "rank": "d",
+    "animeName": "Охотник х Охотник 2011",
+    "animeLink": "/aniserials/video/drama/101-ohotnik-h-ohotnik-tv-2.html",
+    "image": "/uploads/cards_image/101/d/uing-1765188331-894555.webp"
+  },
+  {
+    "id": "69691",
+    "name": "Монтетьюпи",
+    "rank": "b",
+    "animeName": "Охотник х Охотник 2011",
+    "animeLink": "/aniserials/video/drama/101-ohotnik-h-ohotnik-tv-2.html",
+    "image": "/uploads/cards_image/101/b/montetjupi-1765188229-993792.webp"
+  },
+  {
+    "id": "69688",
+    "name": "Янь Сяо и Ин Цао",
+    "rank": "c",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v17.html",
+    "image": "/uploads/cards_image/2077/c/jan-sjao-i-in-cao-1765188035-268317.webp"
+  },
+  {
+    "id": "69687",
+    "name": "Янь и Сюньэр Сяо",
+    "rank": "c",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v17.html",
+    "image": "/uploads/cards_image/2077/c/jan-i-sjunjer-sjao-1765187916-468320.webp"
+  },
+  {
+    "id": "69685",
+    "name": "Семья",
+    "rank": "c",
+    "animeName": "Расколотая битвой синева небес 5 сезон",
+    "animeLink": "/aniserials/video/action/2077-raskolotaja-bitvoj-sineva-nebes-5-sezon-animestars-2022-v17.html",
+    "image": "/uploads/cards_image/2077/c/semja-1765182767-373922.webp"
+  },
+  {
+    "id": "69676",
+    "name": "Мерлин",
+    "rank": "a",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/a/merlin-1765182532-631088.webp"
+  },
+  {
+    "id": "69674",
+    "name": "Акадза",
+    "rank": "s",
+    "animeName": "Клинок, рассекающий демонов: Бесконечный поезд",
+    "animeLink": "/aniserials/video/action/1244-klinok-rassekajuschij-demonov-beskonechnyj-poezd.html",
+    "image": "/uploads/cards_image/1244/s/akadza-1765181881-141811.webp"
+  },
+  {
+    "id": "69668",
+    "name": "Чжао Конгченг",
+    "rank": "b",
+    "animeName": "Палач богов: Между смертным и божественным царством",
+    "animeLink": "/aniserials/video/action/2548-palach-bogov-mezhdu-smertnym-i-bozhestvennym-carstvom.html",
+    "image": "/uploads/cards_image/2548/b/chzhao-kongcheng-1765182428-395621.webp"
+  },
+  {
+    "id": "69667",
+    "name": "Рё Саэба",
+    "rank": "s",
+    "animeName": "Городской охотник",
+    "animeLink": "/aniserials/video/action/1268-gorodskoj-ohotnik.html",
+    "image": "/uploads/cards_image/1268/s/re-sajeba-1765119400-590685.webp"
+  },
+  {
+    "id": "69666",
+    "name": "Перона",
+    "rank": "s",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/s/perona-1765119336-378554.webp"
+  },
+  {
+    "id": "69665",
+    "name": "Озеро",
+    "rank": "e",
+    "animeName": "Гроб принцессы Чайки",
+    "animeLink": "/aniserials/video/comedy/463-grob-princessy-chayki.html",
+    "image": "/uploads/cards_image/463/e/ozero-1765118817-753922.webp"
+  },
+  {
+    "id": "69664",
+    "name": "Менина МакЭллон",
+    "rank": "d",
+    "animeName": "Блич: Тысячелетняя кровавая война - Прощание",
+    "animeLink": "/aniserials/video/action/2114-blich-tysjacheletnjaja-krovavaja-vojna-proschanie.html",
+    "image": "/uploads/cards_image/2114/d/menina-makjellon-1765182081-958872.webp"
+  },
+  {
+    "id": "69661",
+    "name": "Щёчки",
+    "rank": "c",
+    "animeName": "Городской охотник",
+    "animeLink": "/aniserials/video/action/1268-gorodskoj-ohotnik.html",
+    "image": "/uploads/cards_image/1268/c/schechki-1765117076-145659.webp"
+  },
+  {
+    "id": "69660",
+    "name": "Вирго",
+    "rank": "b",
+    "animeName": "Шальной последний босс явился!",
+    "animeLink": "/aniserials/video/action/3080-shalnoj-poslednij-boss-javilsja.html",
+    "image": "/uploads/cards_image/3080/b/virgo-1765117023-54808.webp"
+  },
+  {
+    "id": "69657",
+    "name": "Дженнет Магрита",
+    "rank": "b",
+    "animeName": "Однажды я стала принцессой",
+    "animeLink": "/aniserials/video/drama/3082-odnazhdy-ja-stala-princessoj.html",
+    "image": "/uploads/cards_image/3082/b/dzhennet-magrita-1765181855-974705.webp"
+  },
+  {
+    "id": "69654",
+    "name": "Козырные карты",
+    "rank": "e",
+    "animeName": "Добро пожаловать в класс превосходства 3 сезон",
+    "animeLink": "/aniserials/video/drama/2275-dobro-pozhalovat-v-klass-prevoshodstva-3-sezon.html",
+    "image": "/uploads/cards_image/2275/e/kozyrnye-karty-1765181776-240837.webp"
+  },
+  {
+    "id": "69653",
+    "name": "Иллитир Лу Небулис IX",
+    "rank": "s",
+    "animeName": "Последнее поле брани между тобой и мной, или Святая война сотворения мира 2 сезон",
+    "animeLink": "/aniserials/video/action/2518-poslednee-pole-brani-mezhdu-toboj-i-mnoj-ili-svjataja-vojna-sotvorenija-mira-2-v1.html",
+    "image": "/uploads/cards_image/2518/s/illitir-lu-nebulis-ix-1765181665-211515.webp"
+  },
+  {
     "id": "69652",
     "name": "Кристофер Селкирк Эшеральд",
     "rank": "s",
