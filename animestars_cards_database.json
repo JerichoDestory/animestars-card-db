@@ -1,5 +1,37 @@
 [
   {
+    "id": "69882",
+    "name": "Эрико Нанао",
+    "rank": "s",
+    "animeName": "Драконий кризис!",
+    "animeLink": "/aniserials/video/garems/783-drakonij-krizis.html",
+    "image": "/uploads/cards_image/783/s/jeriko-nanao-1765228169-949597.webp"
+  },
+  {
+    "id": "69873",
+    "name": "Таэ Такэми",
+    "rank": "s",
+    "animeName": "Персона 5",
+    "animeLink": "/aniserials/video/action/257-persona-5-2018.html",
+    "image": "/uploads/cards_image/257/s/taje-takjemi-1765220624-677757.webp"
+  },
+  {
+    "id": "69863",
+    "name": "Альбедо",
+    "rank": "s",
+    "animeName": "Квартет из альтернативного мира 3 сезон",
+    "animeLink": "/aniserials/video/comedy/3146-kvartet-iz-alternativnogo-mira-3.html",
+    "image": "/uploads/cards_image/3146/s/albedo-1765271247-178014.webp"
+  },
+  {
+    "id": "69861",
+    "name": "Элинализ Драгонроуд",
+    "rank": "s",
+    "animeName": "Реинкарнация безработного: История о приключениях в другом мире 2 сезон",
+    "animeLink": "/aniserials/video/drama/2076-reinkarnacija-bezrabotnogo-istorija-o-prikljuchenijah-v-drugom-mire-2-sezon-animestars.html",
+    "image": "/uploads/cards_image/2076/s/jelinaliz-dragonroud-1765271206-380162.webp"
+  },
+  {
     "id": "69826",
     "name": "Слёзы",
     "rank": "e",
