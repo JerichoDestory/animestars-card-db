@@ -1,11 +1,515 @@
 [
   {
+    "id": "70688",
+    "name": "Беатриса Викторовна Шушунова",
+    "rank": "d",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/d/beatrisa-viktorovna-shushunova-1765885826-280830.webp"
+  },
+  {
+    "id": "70685",
+    "name": "Николай",
+    "rank": "d",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/d/nikolaj-1765831579-106677.webp"
+  },
+  {
+    "id": "70678",
+    "name": "Цумугу Кинагасэ",
+    "rank": "d",
+    "animeName": "Убей или умри",
+    "animeLink": "/aniserials/video/action/141-ubey-ili-umri.html",
+    "image": "/uploads/cards_image/141/d/cumugu-kinagasje-1765829528-64464.webp"
+  },
+  {
+    "id": "70676",
+    "name": "Этика и Гарольд",
+    "rank": "c",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/c/jetika-i-garold-1765828479-870202.webp"
+  },
+  {
+    "id": "70665",
+    "name": "Резе",
+    "rank": "a",
+    "animeName": "Человек-бензопила: Резе",
+    "animeLink": "/aniserials/video/shounen/3169-chelovek-benzopila-reze.html",
+    "image": "/uploads/cards_image/3169/a/reze-1765826516-557795.webp"
+  },
+  {
+    "id": "70662",
+    "name": "Одобряю",
+    "rank": "e",
+    "animeName": "Ангелы смерти",
+    "animeLink": "/aniserials/video/comedy/1017-angely-smerti.html",
+    "image": "/uploads/cards_image/1017/e/odobrjaju-1765826014-734436.webp"
+  },
+  {
+    "id": "70659",
+    "name": "Никола Тесла",
+    "rank": "b",
+    "animeName": "Повесть о конце света 3 сезон",
+    "animeLink": "/aniserials/video/action/3165-povest-o-konce-sveta-3.html",
+    "image": "/uploads/cards_image/3165/b/nikola-tesla-1765825495-660869.webp"
+  },
+  {
+    "id": "70653",
+    "name": "Тонари Далтон",
+    "rank": "b",
+    "animeName": "Для тебя, Бессмертный 3 сезон",
+    "animeLink": "/aniserials/video/drama/3111-dlja-tebja-bessmertnyj-3.html",
+    "image": "/uploads/cards_image/3111/b/tonari-dalton-1765823744-514620.webp"
+  },
+  {
+    "id": "70652",
+    "name": "Марч",
+    "rank": "b",
+    "animeName": "Для тебя, Бессмертный 3 сезон",
+    "animeLink": "/aniserials/video/drama/3111-dlja-tebja-bessmertnyj-3.html",
+    "image": "/uploads/cards_image/3111/b/march-1765823238-228127.webp"
+  },
+  {
+    "id": "70651",
+    "name": "Серас Виктория",
+    "rank": "s",
+    "animeName": "Хеллсинг OVA",
+    "animeLink": "/aniserials/video/vampires/1504-hellsing-ova.html",
+    "image": "/uploads/cards_image/1504/s/seras-viktorija-1765823233-704298.webp"
+  },
+  {
+    "id": "70649",
+    "name": "Аким",
+    "rank": "d",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/d/akim-1765822523-314321.webp"
+  },
+  {
+    "id": "70648",
+    "name": "Бенно Клеман",
+    "rank": "d",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/d/benno-kleman-1765822467-524543.webp"
+  },
+  {
+    "id": "70643",
+    "name": "Мюллан Сэроу",
+    "rank": "d",
+    "animeName": "Леди со странным вкусом и безумный герцог",
+    "animeLink": "/aniserials/video/fant/3097-ledi-so-strannym-vkusom-i-bezumnyj-gercog-2025.html",
+    "image": "/uploads/cards_image/3097/d/mjullan-sjerou-1765829081-640478.webp"
+  },
+  {
+    "id": "70635",
+    "name": "Райза Жермен Робин",
+    "rank": "d",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/d/rajza-zhermen-robin-1765828732-682710.webp"
+  },
+  {
+    "id": "70627",
+    "name": "Предложение",
+    "rank": "c",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/c/predlozhenie-1765828036-927503.webp"
+  },
+  {
+    "id": "70620",
+    "name": "Узу Санагэяма",
+    "rank": "b",
+    "animeName": "Убей или умри",
+    "animeLink": "/aniserials/video/action/141-ubey-ili-umri.html",
+    "image": "/uploads/cards_image/141/b/uzu-sanagjejama-1765808717-987618.webp"
+  },
+  {
+    "id": "70614",
+    "name": "Ира Гамагори",
+    "rank": "b",
+    "animeName": "Убей или умри",
+    "animeLink": "/aniserials/video/action/141-ubey-ili-umri.html",
+    "image": "/uploads/cards_image/141/b/ira-gamagori-1765808359-604855.webp"
+  },
+  {
+    "id": "70609",
+    "name": "Каин Найтли",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/kain-najtli-1765808008-291871.webp"
+  },
+  {
+    "id": "70606",
+    "name": "Реверанс",
+    "rank": "e",
+    "animeName": "Леди со странным вкусом и безумный герцог",
+    "animeLink": "/aniserials/video/fant/3097-ledi-so-strannym-vkusom-i-bezumnyj-gercog-2025.html",
+    "image": "/uploads/cards_image/3097/e/reverans-1765827329-975693.webp"
+  },
+  {
+    "id": "70602",
+    "name": "Янь Цзынян и Сяоци",
+    "rank": "c",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/c/jan-czynjan-i-sjaoci-1765827049-681824.webp"
+  },
+  {
+    "id": "70601",
+    "name": "Шилан Чжи",
+    "rank": "a",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/a/shilan-chzhi-1765806271-24032.webp"
+  },
+  {
+    "id": "70600",
+    "name": "Сяоци",
+    "rank": "a",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/a/sjaoci-1765826884-704346.webp"
+  },
+  {
+    "id": "70598",
+    "name": "Ганаш",
+    "rank": "e",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/e/ganash-1765806048-926481.webp"
+  },
+  {
+    "id": "70596",
+    "name": "Под прицелом",
+    "rank": "e",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/e/pod-pricelom-1765805960-280079.webp"
+  },
+  {
+    "id": "70585",
+    "name": "Рентген",
+    "rank": "e",
+    "animeName": "Для тебя, Бессмертный 3 сезон",
+    "animeLink": "/aniserials/video/drama/3111-dlja-tebja-bessmertnyj-3.html",
+    "image": "/uploads/cards_image/3111/e/rentgen-1765792148-866204.webp"
+  },
+  {
+    "id": "70576",
+    "name": "Пеорс",
+    "rank": "b",
+    "animeName": "Моя богиня! 2 сезон: У каждого есть крылья",
+    "animeLink": "/aniserials/video/comedy/2732-moja-boginja-2-sezon-u-kazhdogo-est-krylja.html",
+    "image": "/uploads/cards_image/2732/b/peors-1765810359-439125.webp"
+  },
+  {
+    "id": "70574",
+    "name": "Пробежка",
+    "rank": "e",
+    "animeName": "Эта фарфоровая кукла влюбилась",
+    "animeLink": "/aniserials/video/comedy/1340-jeta-farforovaja-kukla-vljubilas-animestars.html",
+    "image": "/uploads/cards_image/1340/e/probezhka-1765758881-810735.webp"
+  },
+  {
+    "id": "70572",
+    "name": "Спид",
+    "rank": "d",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/d/spid-1765753664-838974.webp"
+  },
+  {
+    "id": "70571",
+    "name": "Момонга",
+    "rank": "a",
+    "animeName": "Повелитель: Святое королевство",
+    "animeLink": "/aniserials/video/action/3168-povelitel-svjatoe-korolevstvo.html",
+    "image": "/uploads/cards_image/3168/a/momonga-1765746918-775089.webp"
+  },
+  {
+    "id": "70568",
+    "name": "Тэнцзы Му",
+    "rank": "d",
+    "animeName": "Путешествие к бессмертию 5 сезон",
+    "animeLink": "/aniserials/video/action/3048-puteshestvie-k-bessmertiju-5.html",
+    "image": "/uploads/cards_image/3048/d/tjenczy-mu-1765809827-833628.webp"
+  },
+  {
+    "id": "70566",
+    "name": "Сы Те Линь",
+    "rank": "a",
+    "animeName": "Цзычуань 2",
+    "animeLink": "/aniserials/video/action/3059-czychuan-2.html",
+    "image": "/uploads/cards_image/3059/a/sy-te-lin-1765744186-145068.webp"
+  },
+  {
+    "id": "70563",
+    "name": "Закат",
+    "rank": "e",
+    "animeName": "Лунное путешествие приведёт к новому миру 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2295-lunnoe-puteshestvie-privedet-k-novomu-miru-2-sezon-animestars-2024-as3.html",
+    "image": "/uploads/cards_image/2295/e/zakat-1765809584-263754.webp"
+  },
+  {
+    "id": "70561",
+    "name": "Нин Цзычуань",
+    "rank": "a",
+    "animeName": "Цзычуань 2",
+    "animeLink": "/aniserials/video/action/3059-czychuan-2.html",
+    "image": "/uploads/cards_image/3059/a/nin-czychuan-1765743532-787492.webp"
+  },
+  {
+    "id": "70560",
+    "name": "Мир Шангри-Ла",
+    "rank": "e",
+    "animeName": "Рубеж Шангри-Ла: Любитель игрошлака бросает вызов топ-игре",
+    "animeLink": "/aniserials/video/comedy/2165-rubezh-shangri-la-ljubitel-igroshlaka-brosaet-vyzov-top-igre-animestars-v9.html",
+    "image": "/uploads/cards_image/2165/e/mir-shangri-la-1765809361-179697.webp"
+  },
+  {
+    "id": "70556",
+    "name": "Сянь Сыма и Линъэр Фэн",
+    "rank": "c",
+    "animeName": "Трон, отмеченный богом 2 сезон",
+    "animeLink": "/aniserials/video/action/1585-tron-otmechennyj-bogom-2-sezon-2022.html",
+    "image": "/uploads/cards_image/1585/c/sjan-syma-i-linjer-fjen-1765809058-121741.webp"
+  },
+  {
+    "id": "70555",
+    "name": "Поцелуй",
+    "rank": "c",
+    "animeName": "Врата Штейна 0",
+    "animeLink": "/aniserials/video/seinen/255-vrata-shteyna-0-2018.html",
+    "image": "/uploads/cards_image/255/c/poceluj-1765808982-89781.webp"
+  },
+  {
+    "id": "70554",
+    "name": "Семья",
+    "rank": "c",
+    "animeName": "Трон, отмеченный богом 2 сезон",
+    "animeLink": "/aniserials/video/action/1585-tron-otmechennyj-bogom-2-sezon-2022.html",
+    "image": "/uploads/cards_image/1585/c/semja-1765808834-356315.webp"
+  },
+  {
+    "id": "70553",
+    "name": "Машина времени",
+    "rank": "e",
+    "animeName": "Врата Штейна 0",
+    "animeLink": "/aniserials/video/seinen/255-vrata-shteyna-0-2018.html",
+    "image": "/uploads/cards_image/255/e/mashina-vremeni-1765740527-611394.webp"
+  },
+  {
     "id": "70551",
     "name": "Канамэ Тидори",
     "rank": "s",
     "animeName": "Стальная тревога! 4 сезон: Незримая победа",
     "animeLink": "/aniserials/video/war/265-stalnaya-trevoga-4-sezon.html",
     "image": "/uploads/cards_image/265/s/kanamje-tidori-1765742617-509767.webp"
+  },
+  {
+    "id": "70548",
+    "name": "Артур Гранвелл",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/artur-granvell-1765739980-479239.webp"
+  },
+  {
+    "id": "70545",
+    "name": "Сон",
+    "rank": "c",
+    "animeName": "Противостояние святого: Битва пришествия богов",
+    "animeLink": "/aniserials/video/action/2945-protivostojanie-svjatogo-bitva-prishestvija-bogov.html",
+    "image": "/uploads/cards_image/2945/c/son-1765808168-128114.webp"
+  },
+  {
+    "id": "70544",
+    "name": "Сердечко",
+    "rank": "e",
+    "animeName": "Мой старший брат чересчур сдержанный 2 сезон",
+    "animeLink": "/aniserials/video/martial_arts/2255-moj-starshij-brat-chereschur-sderzhannyj-2-sezon.html",
+    "image": "/uploads/cards_image/2255/e/serdechko-1765808010-67230.webp"
+  },
+  {
+    "id": "70540",
+    "name": "Мимими и Рэнтаро",
+    "rank": "c",
+    "animeName": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят 2 сезон",
+    "animeLink": "/aniserials/video/garems/2771-sto-devushek-kotorye-ochen-ochen-ochen-ochen-ochen-silno-tebja-ljubjat-2-sezon.html",
+    "image": "/uploads/cards_image/2771/c/mimimi-i-rjentaro-1765807849-802106.webp"
+  },
+  {
+    "id": "70538",
+    "name": "Дуется",
+    "rank": "e",
+    "animeName": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят",
+    "animeLink": "/aniserials/video/garems/2202-sto-devushek-kotorye-ochen-ochen-ochen-ochen-ochen-silno-tebja-ljubjat.html",
+    "image": "/uploads/cards_image/2202/e/duetsja-1765807750-262465.webp"
+  },
+  {
+    "id": "70535",
+    "name": "Мандаринка",
+    "rank": "e",
+    "animeName": "Хоримия 2 сезон",
+    "animeLink": "/aniserials/video/comedy/2071-horimija-2-sezon.html",
+    "image": "/uploads/cards_image/2071/e/mandarinka-1765807659-280317.webp"
+  },
+  {
+    "id": "70532",
+    "name": "Супер Крик",
+    "rank": "b",
+    "animeName": "Девушки-пони: Серая Золушка. Часть 2",
+    "animeLink": "/aniserials/video/seinen/3121-devushki-poni-seraja-zolushka-chast-2.html",
+    "image": "/uploads/cards_image/3121/b/super-krik-1765807462-680983.webp"
+  },
+  {
+    "id": "70530",
+    "name": "Источник",
+    "rank": "e",
+    "animeName": "Эта фарфоровая кукла влюбилась 2",
+    "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
+    "image": "/uploads/cards_image/2974/e/istochnik-1765715520-228312.webp"
+  },
+  {
+    "id": "70529",
+    "name": "Цинь Шихуанди",
+    "rank": "a",
+    "animeName": "Повесть о конце света 3 сезон",
+    "animeLink": "/aniserials/video/action/3165-povest-o-konce-sveta-3.html",
+    "image": "/uploads/cards_image/3165/a/cin-shihuandi-1765714114-312952.webp"
+  },
+  {
+    "id": "70527",
+    "name": "Страх",
+    "rank": "e",
+    "animeName": "Магическая битва 2 сезон",
+    "animeLink": "/aniserials/video/action/2090-magicheskaja-bitva-2-sezon-animestars-vm3.html",
+    "image": "/uploads/cards_image/2090/e/strah-1765806977-614344.webp"
+  },
+  {
+    "id": "70522",
+    "name": "Идзуку и Кацуки",
+    "rank": "c",
+    "animeName": "Моя геройская академия: Финал",
+    "animeLink": "/aniserials/video/shounen/3104-moja-gerojskaja-akademija-final.html",
+    "image": "/uploads/cards_image/3104/c/idzuku-i-kacuki-1765806839-970669.webp"
+  },
+  {
+    "id": "70518",
+    "name": "Скарлет и Юлий",
+    "rank": "c",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/c/skarlet-i-julij-1765706228-176183.webp"
+  },
+  {
+    "id": "70517",
+    "name": "Диана и Леонардо",
+    "rank": "c",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/c/diana-i-leonardo-1765806475-97337.webp"
+  },
+  {
+    "id": "70515",
+    "name": "Эшфорд и Лилиэль",
+    "rank": "c",
+    "animeName": "Соблазн 2,5-мерного измерения",
+    "animeLink": "/aniserials/video/garems/2501-soblazn-25-mernogo-izmerenija.html",
+    "image": "/uploads/cards_image/2501/c/jeshford-i-lilijel-1765806363-142498.webp"
+  },
+  {
+    "id": "70514",
+    "name": "Масамунэ и Ририса",
+    "rank": "c",
+    "animeName": "Соблазн 2,5-мерного измерения",
+    "animeLink": "/aniserials/video/garems/2501-soblazn-25-mernogo-izmerenija.html",
+    "image": "/uploads/cards_image/2501/c/masamunje-i-ririsa-1765806219-195545.webp"
+  },
+  {
+    "id": "70512",
+    "name": "Заложница",
+    "rank": "e",
+    "animeName": "Ангелы смерти",
+    "animeLink": "/aniserials/video/comedy/1017-angely-smerti.html",
+    "image": "/uploads/cards_image/1017/e/zalozhnica-1765806085-99667.webp"
+  },
+  {
+    "id": "70505",
+    "name": "Посейдон",
+    "rank": "d",
+    "animeName": "Повесть о конце света 3 сезон",
+    "animeLink": "/aniserials/video/action/3165-povest-o-konce-sveta-3.html",
+    "image": "/uploads/cards_image/3165/d/posejdon-1765699973-816135.webp"
+  },
+  {
+    "id": "70504",
+    "name": "Созон Артурович Чернов",
+    "rank": "d",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/d/sozon-arturovich-chernov-1765805631-358323.webp"
+  },
+  {
+    "id": "70503",
+    "name": "Николай и Дарья",
+    "rank": "c",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/c/nikolaj-i-darja-1765698825-501684.webp"
+  },
+  {
+    "id": "70502",
+    "name": "Куприян Валентинович Наполов",
+    "rank": "d",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/d/kuprijan-valentinovich-napolov-1765805345-659528.webp"
+  },
+  {
+    "id": "70500",
+    "name": "Казимир Мартинович Шубин",
+    "rank": "d",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/d/kazimir-martinovich-shubin-1765805199-255283.webp"
+  },
+  {
+    "id": "70497",
+    "name": "Ани",
+    "rank": "b",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/b/ani-1765685198-897715.webp"
+  },
+  {
+    "id": "70496",
+    "name": "Хэ Исюань",
+    "rank": "b",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/b/hje-isjuan-1765685169-251480.webp"
+  },
+  {
+    "id": "70495",
+    "name": "Маска",
+    "rank": "e",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/e/maska-1765685130-758118.webp"
+  },
+  {
+    "id": "70494",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Убей или умри",
+    "animeLink": "/aniserials/video/action/141-ubey-ili-umri.html",
+    "image": "/uploads/cards_image/141/e/kuda-smotrish-1765677644-326212.webp"
   },
   {
     "id": "70489",
@@ -16,12 +520,76 @@
     "image": "/uploads/cards_image/3104/s/vsemoguschij-1765670517-407848.webp"
   },
   {
+    "id": "70484",
+    "name": "Цуёси, Фер и Суи",
+    "rank": "c",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/c/cuesi-fer-i-sui-1765804155-417480.webp"
+  },
+  {
+    "id": "70483",
+    "name": "Куруми Сайдзё",
+    "rank": "d",
+    "animeName": "Приоритет чудо-яйца",
+    "animeLink": "/aniserials/video/drama/1109-prioritet-chudo-jajca.html",
+    "image": "/uploads/cards_image/1109/d/kurumi-sajdze-1765803947-29781.webp"
+  },
+  {
+    "id": "70480",
+    "name": "Фестиваль",
+    "rank": "c",
+    "animeName": "Персона 4: Золотое издание",
+    "animeLink": "/aniserials/video/action/3041-persona-4-zolotoe-izdanie.html",
+    "image": "/uploads/cards_image/3041/c/festival-1765652309-661060.webp"
+  },
+  {
+    "id": "70479",
+    "name": "Ю и Канджи",
+    "rank": "c",
+    "animeName": "Персона 4: Золотое издание",
+    "animeLink": "/aniserials/video/action/3041-persona-4-zolotoe-izdanie.html",
+    "image": "/uploads/cards_image/3041/c/ju-i-kandzhi-1765652281-755170.webp"
+  },
+  {
+    "id": "70478",
+    "name": "Под зонтом",
+    "rank": "c",
+    "animeName": "Персона 4: Золотое издание",
+    "animeLink": "/aniserials/video/action/3041-persona-4-zolotoe-izdanie.html",
+    "image": "/uploads/cards_image/3041/c/pod-zontom-1765652206-878867.webp"
+  },
+  {
+    "id": "70477",
+    "name": "Нанако и Рисэ",
+    "rank": "c",
+    "animeName": "Персона 4: Золотое издание",
+    "animeLink": "/aniserials/video/action/3041-persona-4-zolotoe-izdanie.html",
+    "image": "/uploads/cards_image/3041/c/nanako-i-risje-1765652141-805161.webp"
+  },
+  {
+    "id": "70474",
+    "name": "Фомальгаут",
+    "rank": "b",
+    "animeName": "Волшебница и злой офицер",
+    "animeLink": "/aniserials/video/shounen/3031-volshebnica-i-zloj-oficer.html",
+    "image": "/uploads/cards_image/3031/b/fomalgaut-1765652072-919421.webp"
+  },
+  {
     "id": "70472",
     "name": "Рин Итоси",
     "rank": "s",
     "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
     "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
     "image": "/uploads/cards_image/2655/s/rin-itosi-1765640939-269437.webp"
+  },
+  {
+    "id": "70470",
+    "name": "Юки, Харухи и Микуру",
+    "rank": "c",
+    "animeName": "Исчезновение Харухи Судзумии",
+    "animeLink": "/aniserials/video/drama/1983-ischeznovenie-haruhi-sudzumii.html",
+    "image": "/uploads/cards_image/1983/c/juki-haruhi-i-mikuru-1765802996-449973.webp"
   },
   {
     "id": "70467",
