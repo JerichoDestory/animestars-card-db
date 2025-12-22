@@ -1,5 +1,1677 @@
 [
   {
+    "id": "71345",
+    "name": "Сакура",
+    "rank": "e",
+    "animeName": "Клеймор",
+    "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
+    "image": "/uploads/cards_image/32/e/sakura-1766359733-989142.webp"
+  },
+  {
+    "id": "71344",
+    "name": "Ундина",
+    "rank": "d",
+    "animeName": "Клеймор",
+    "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
+    "image": "/uploads/cards_image/32/d/undina-1766357842-593924.webp"
+  },
+  {
+    "id": "71343",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Семья шпиона",
+    "animeLink": "/aniserials/video/drama/2125-semja-shpiona.html",
+    "image": "/uploads/cards_image/2125/e/s-novym-godom-1766353576-675052.webp"
+  },
+  {
+    "id": "71336",
+    "name": "Поймал",
+    "rank": "c",
+    "animeName": "Пересечение стен любви с тобой",
+    "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+    "image": "/uploads/cards_image/3148/c/pojmal-1766346844-500766.webp"
+  },
+  {
+    "id": "71330",
+    "name": "Ювэнь Чжицзи",
+    "rank": "d",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/d/juvjen-chzhiczi-1766341562-349192.webp"
+  },
+  {
+    "id": "71326",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Убийца богов 3 сезон",
+    "animeLink": "/aniserials/video/action/2946-ubijca-bogov-3.html",
+    "image": "/uploads/cards_image/2946/e/s-novym-godom-1766363739-278694.webp"
+  },
+  {
+    "id": "71324",
+    "name": "Релакс",
+    "rank": "e",
+    "animeName": "Жизнь в альтернативном мире с нуля 3 сезон",
+    "animeLink": "/aniserials/video/drama/2549-zhizn-v-alternativnom-mire-s-nulja-3-sezon.html",
+    "image": "/uploads/cards_image/2549/e/relaks-1766363604-18759.webp"
+  },
+  {
+    "id": "71319",
+    "name": "Йолента и Новак",
+    "rank": "c",
+    "animeName": "О движении Земли",
+    "animeLink": "/aniserials/video/drama/2657-o-dvizhenii-zemli.html",
+    "image": "/uploads/cards_image/2657/c/jolenta-i-novak-1766334789-924927.webp"
+  },
+  {
+    "id": "71316",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/e/s-novym-godom-1766334559-225218.webp"
+  },
+  {
+    "id": "71306",
+    "name": "Акира Хонда",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/akira-honda-1766328923-688444.webp"
+  },
+  {
+    "id": "71290",
+    "name": "Сол Немофила",
+    "rank": "a",
+    "animeName": "Тёмное прошлое перевоплощённой злодейки",
+    "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+    "image": "/uploads/cards_image/3138/a/sol-nemofila-1766339599-272683.webp"
+  },
+  {
+    "id": "71287",
+    "name": "Страшная история",
+    "rank": "e",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/e/strashnaja-istorija-1766339383-382121.webp"
+  },
+  {
+    "id": "71284",
+    "name": "Элранд",
+    "rank": "b",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/b/jelrand-1766338105-120123.webp"
+  },
+  {
+    "id": "71282",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Магистр дьявольского культа",
+    "animeLink": "/aniserials/video/martial_arts/343-magistr-dyavolskogo-kulta.html",
+    "image": "/uploads/cards_image/343/e/s-novym-godom-1766337949-423679.webp"
+  },
+  {
+    "id": "71280",
+    "name": "На прицеле",
+    "rank": "e",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/e/na-pricele-1766321146-637036.webp"
+  },
+  {
+    "id": "71277",
+    "name": "Ёми Блэксарна",
+    "rank": "b",
+    "animeName": "Тёмное прошлое перевоплощённой злодейки",
+    "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+    "image": "/uploads/cards_image/3138/b/emi-bljeksarna-1766337676-556658.webp"
+  },
+  {
+    "id": "71274",
+    "name": "Чунь Янь",
+    "rank": "d",
+    "animeName": "Повесть о конце света 3 сезон",
+    "animeLink": "/aniserials/video/action/3165-povest-o-konce-sveta-3.html",
+    "image": "/uploads/cards_image/3165/d/chun-jan-1766317100-186301.webp"
+  },
+  {
+    "id": "71273",
+    "name": "Смущение",
+    "rank": "e",
+    "animeName": "Невероятный новичок средних лет, прошедший тренировки на грани смерти",
+    "animeLink": "/aniserials/video/action/2488-neverojatnyj-novichok-srednih-let-proshedshij-trenirovki-na-grani-smerti-2024.html",
+    "image": "/uploads/cards_image/2488/e/smuschenie-1766337223-865201.webp"
+  },
+  {
+    "id": "71270",
+    "name": "Картина",
+    "rank": "e",
+    "animeName": "Тёмное прошлое перевоплощённой злодейки",
+    "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+    "image": "/uploads/cards_image/3138/e/kartina-1766337148-562362.webp"
+  },
+  {
+    "id": "71267",
+    "name": "Кинжал",
+    "rank": "e",
+    "animeName": "Дьявольские возлюбленные",
+    "animeLink": "/aniserials/video/vampires/755-djavolskie-vozljublennye-1-sezon.html",
+    "image": "/uploads/cards_image/755/e/kinzhal-1766335623-911350.webp"
+  },
+  {
+    "id": "71266",
+    "name": "Герри Страйдам",
+    "rank": "d",
+    "animeName": "Боец Баки",
+    "animeLink": "/aniserials/video/action/535-boec-baki-1-sezon.html",
+    "image": "/uploads/cards_image/535/d/gerri-strajdam-1766312923-683173.webp"
+  },
+  {
+    "id": "71260",
+    "name": "Танец",
+    "rank": "e",
+    "animeName": "Врата Штейна",
+    "animeLink": "/aniserials/video/gender_intriga/256-vrata-shteyna.html",
+    "image": "/uploads/cards_image/256/e/tanec-1766309298-271876.webp"
+  },
+  {
+    "id": "71256",
+    "name": "Слёзы",
+    "rank": "e",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/e/slezy-1766307960-554169.webp"
+  },
+  {
+    "id": "71255",
+    "name": "Юкихиро Айда",
+    "rank": "b",
+    "animeName": "Пересечение стен любви с тобой",
+    "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+    "image": "/uploads/cards_image/3148/b/jukihiro-ajda-1766307636-132828.webp"
+  },
+  {
+    "id": "71254",
+    "name": "Рустика Ферч",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/rustika-ferch-1766307291-469874.webp"
+  },
+  {
+    "id": "71252",
+    "name": "Хитклифф Бланшетт",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/hitkliff-blanshett-1766334179-834603.webp"
+  },
+  {
+    "id": "71251",
+    "name": "Диа Санта",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/dia-santa-1766305864-128727.webp"
+  },
+  {
+    "id": "71250",
+    "name": "Изгнание",
+    "rank": "e",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/e/izgnanie-1766305817-687115.webp"
+  },
+  {
+    "id": "71249",
+    "name": "Мусорка",
+    "rank": "e",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/e/musorka-1766333785-707361.webp"
+  },
+  {
+    "id": "71248",
+    "name": "Регто",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/regto-1766305756-434944.webp"
+  },
+  {
+    "id": "71247",
+    "name": "Фауст Лавиния",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/faust-lavinija-1766305110-852881.webp"
+  },
+  {
+    "id": "71242",
+    "name": "Снежинки",
+    "rank": "e",
+    "animeName": "Агент Времени 3 сезон: Глава Инду",
+    "animeLink": "/aniserials/video/drama/2736-agent-vremeni-3-sezon-2024.html",
+    "image": "/uploads/cards_image/2736/e/snezhinki-1766333073-267.webp"
+  },
+  {
+    "id": "71241",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Голубая шкатулка",
+    "animeLink": "/aniserials/video/romance/2645-golubaja-shkatulka.html",
+    "image": "/uploads/cards_image/2645/e/s-novym-godom-1766332894-949738.webp"
+  },
+  {
+    "id": "71240",
+    "name": "Недовольна",
+    "rank": "e",
+    "animeName": "Любовь с кончиков пальцев",
+    "animeLink": "/aniserials/video/romance/2291-ljubov-s-konchikov-palcev-as.html",
+    "image": "/uploads/cards_image/2291/e/nedovolna-1766302276-602925.webp"
+  },
+  {
+    "id": "71239",
+    "name": "Юки и Оси",
+    "rank": "c",
+    "animeName": "Любовь с кончиков пальцев",
+    "animeLink": "/aniserials/video/romance/2291-ljubov-s-konchikov-palcev-as.html",
+    "image": "/uploads/cards_image/2291/c/juki-i-osi-1766314326-581430.webp"
+  },
+  {
+    "id": "71237",
+    "name": "Джин Ширато",
+    "rank": "b",
+    "animeName": "Персона 3: Мечта летнего рыцаря",
+    "animeLink": "/film-vvv/2840-persona-3-mechta-letnego-rycarja.html",
+    "image": "/uploads/cards_image/2840/b/dzhin-shirato-1766291501-298049.webp"
+  },
+  {
+    "id": "71236",
+    "name": "Элизабет",
+    "rank": "b",
+    "animeName": "Персона 3: Мечта летнего рыцаря",
+    "animeLink": "/film-vvv/2840-persona-3-mechta-letnego-rycarja.html",
+    "image": "/uploads/cards_image/2840/b/jelizabet-1766291347-16242.webp"
+  },
+  {
+    "id": "71235",
+    "name": "Цунагу и Мари",
+    "rank": "c",
+    "animeName": "Пересечение стен любви с тобой",
+    "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+    "image": "/uploads/cards_image/3148/c/cunagu-i-mari-1766290824-132505.webp"
+  },
+  {
+    "id": "71233",
+    "name": "Иана Магнолия",
+    "rank": "a",
+    "animeName": "Тёмное прошлое перевоплощённой злодейки",
+    "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+    "image": "/uploads/cards_image/3138/a/iana-magnolija-1766312494-728150.webp"
+  },
+  {
+    "id": "71223",
+    "name": "Мать Марсиль",
+    "rank": "d",
+    "animeName": "Подземелье вкусностей",
+    "animeLink": "/aniserials/video/comedy/2278-podzemele-vkusnostej.html",
+    "image": "/uploads/cards_image/2278/d/mat-marsil-1766268788-447901.webp"
+  },
+  {
+    "id": "71219",
+    "name": "Снегопад",
+    "rank": "c",
+    "animeName": "Противостояние святого",
+    "animeLink": "/aniserials/video/drama/2158-protivostojanie-svjatogo.html",
+    "image": "/uploads/cards_image/2158/c/snegopad-1766263124-938507.webp"
+  },
+  {
+    "id": "71214",
+    "name": "Каору Ханаяма",
+    "rank": "d",
+    "animeName": "Боец Баки",
+    "animeLink": "/aniserials/video/action/535-boec-baki-1-sezon.html",
+    "image": "/uploads/cards_image/535/d/kaoru-hanajama-1766258790-345562.webp"
+  },
+  {
+    "id": "71211",
+    "name": "Снежинка",
+    "rank": "e",
+    "animeName": "Принц демонов дома Момоти",
+    "animeLink": "/aniserials/video/garem-dlya-devushek/2283-princ-demonov-doma-momoti.html",
+    "image": "/uploads/cards_image/2283/e/snezhinka-1766256256-209314.webp"
+  },
+  {
+    "id": "71202",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Блич: Тысячелетняя кровавая война",
+    "animeLink": "/aniserials/video/comedy/2102-blich-tysjacheletnjaja-krovavaja-vojna.html",
+    "image": "/uploads/cards_image/2102/e/snegopad-1766277206-452701.webp"
+  },
+  {
+    "id": "71199",
+    "name": "Пёсик",
+    "rank": "e",
+    "animeName": "Дьявольские возлюбленные",
+    "animeLink": "/aniserials/video/vampires/755-djavolskie-vozljublennye-1-sezon.html",
+    "image": "/uploads/cards_image/755/e/pesik-1766241762-41051.webp"
+  },
+  {
+    "id": "71197",
+    "name": "Отец Гэна",
+    "rank": "d",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/d/otec-gjena-1766241466-986260.webp"
+  },
+  {
+    "id": "71194",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Дьявольские возлюбленные",
+    "animeLink": "/aniserials/video/vampires/755-djavolskie-vozljublennye-1-sezon.html",
+    "image": "/uploads/cards_image/755/e/kuda-smotrish-1766240882-560218.webp"
+  },
+  {
+    "id": "71190",
+    "name": "Вельзевул",
+    "rank": "b",
+    "animeName": "Повесть о конце света 3 сезон",
+    "animeLink": "/aniserials/video/action/3165-povest-o-konce-sveta-3.html",
+    "image": "/uploads/cards_image/3165/b/velzevul-1766240373-758068.webp"
+  },
+  {
+    "id": "71186",
+    "name": "Рудо и Регто",
+    "rank": "c",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/c/rudo-i-regto-1766239991-666891.webp"
+  },
+  {
+    "id": "71183",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Шестая Зона",
+    "animeLink": "/aniserials/video/thriller/2697-shestaja-zona-2011.html",
+    "image": "/uploads/cards_image/2697/e/snegopad-1766239362-730243.webp"
+  },
+  {
+    "id": "71182",
+    "name": "Мицуко Асатани",
+    "rank": "b",
+    "animeName": "Кошачий глаз",
+    "animeLink": "/aniserials/video/action/3081-koshachij-glaz.html",
+    "image": "/uploads/cards_image/3081/b/micuko-asatani-1766239293-183923.webp"
+  },
+  {
+    "id": "71180",
+    "name": "Эми Акэзава",
+    "rank": "b",
+    "animeName": "Боец Баки",
+    "animeLink": "/aniserials/video/action/535-boec-baki-1-sezon.html",
+    "image": "/uploads/cards_image/535/b/jemi-akjezava-1766239087-324697.webp"
+  },
+  {
+    "id": "71179",
+    "name": "Выбор",
+    "rank": "c",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/c/vybor-1766276330-892522.webp"
+  },
+  {
+    "id": "71178",
+    "name": "Улыбочку",
+    "rank": "c",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/c/ulybochku-1766238616-644088.webp"
+  },
+  {
+    "id": "71177",
+    "name": "Тако",
+    "rank": "d",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/d/tako-1766238572-641195.webp"
+  },
+  {
+    "id": "71176",
+    "name": "Каору и Адам",
+    "rank": "c",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/c/kaoru-i-adam-1766238518-475770.webp"
+  },
+  {
+    "id": "71175",
+    "name": "Митра",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/mitra-1766238002-784275.webp"
+  },
+  {
+    "id": "71174",
+    "name": "Алекс Кэндли Стюарт",
+    "rank": "a",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/a/aleks-kjendli-stjuart-1766276010-248492.webp"
+  },
+  {
+    "id": "71167",
+    "name": "Подарок",
+    "rank": "e",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/e/podarok-1766237477-932541.webp"
+  },
+  {
+    "id": "71166",
+    "name": "Адская Cтража",
+    "rank": "e",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/e/adskaja-ctrazha-1766275777-437446.webp"
+  },
+  {
+    "id": "71164",
+    "name": "Отец и сын",
+    "rank": "c",
+    "animeName": "Соло-кемпинг на двоих",
+    "animeLink": "/aniserials/video/natural/2996-solo-kemping-na-dvoih.html",
+    "image": "/uploads/cards_image/2996/c/otec-i-syn-1766275486-667637.webp"
+  },
+  {
+    "id": "71163",
+    "name": "Маркос Эринград Гарсия",
+    "rank": "a",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/a/markos-jeringrad-garsija-1766275449-503245.webp"
+  },
+  {
+    "id": "71160",
+    "name": "Пяст",
+    "rank": "b",
+    "animeName": "О движении Земли",
+    "animeLink": "/aniserials/video/drama/2657-o-dvizhenii-zemli.html",
+    "image": "/uploads/cards_image/2657/b/pjast-1766229298-383467.webp"
+  },
+  {
+    "id": "71159",
+    "name": "Грабовский",
+    "rank": "d",
+    "animeName": "О движении Земли",
+    "animeLink": "/aniserials/video/drama/2657-o-dvizhenii-zemli.html",
+    "image": "/uploads/cards_image/2657/d/grabovskij-1766229249-718106.webp"
+  },
+  {
+    "id": "71156",
+    "name": "Просветление",
+    "rank": "e",
+    "animeName": "О движении Земли",
+    "animeLink": "/aniserials/video/drama/2657-o-dvizhenii-zemli.html",
+    "image": "/uploads/cards_image/2657/e/prosvetlenie-1766229167-215985.webp"
+  },
+  {
+    "id": "71154",
+    "name": "Рутиль Флорес",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/rutil-flores-1766226654-977390.webp"
+  },
+  {
+    "id": "71153",
+    "name": "Джин",
+    "rank": "d",
+    "animeName": "Клеймор",
+    "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
+    "image": "/uploads/cards_image/32/d/dzhin-1766226175-709281.webp"
+  },
+  {
+    "id": "71152",
+    "name": "Шайлок Беннетт",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/shajlok-bennett-1766224333-768031.webp"
+  },
+  {
+    "id": "71151",
+    "name": "Неро Тёрнер",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/nero-terner-1766223996-598390.webp"
+  },
+  {
+    "id": "71150",
+    "name": "Сон",
+    "rank": "e",
+    "animeName": "Клеймор",
+    "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
+    "image": "/uploads/cards_image/32/e/son-1766201716-22335.webp"
+  },
+  {
+    "id": "71144",
+    "name": "Смущение",
+    "rank": "e",
+    "animeName": "Звезда, что ярче солнца",
+    "animeLink": "/aniserials/video/shoujo/3095-zvezda-chto-jarche-solnca.html",
+    "image": "/uploads/cards_image/3095/e/smuschenie-1766187900-218326.webp"
+  },
+  {
+    "id": "71140",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/e/s-novym-godom-1766239181-794611.webp"
+  },
+  {
+    "id": "71138",
+    "name": "Катастрофа",
+    "rank": "e",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/e/katastrofa-1766238076-409566.webp"
+  },
+  {
+    "id": "71136",
+    "name": "Ванна",
+    "rank": "e",
+    "animeName": "Дьявольские возлюбленные",
+    "animeLink": "/aniserials/video/vampires/755-djavolskie-vozljublennye-1-sezon.html",
+    "image": "/uploads/cards_image/755/e/vanna-1766166185-841737.webp"
+  },
+  {
+    "id": "71134",
+    "name": "Перегруз",
+    "rank": "e",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/e/peregruz-1766163953-515658.webp"
+  },
+  {
+    "id": "71129",
+    "name": "Сэмиу Гриер",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/sjemiu-grier-1766162119-224039.webp"
+  },
+  {
+    "id": "71125",
+    "name": "Август Стильза",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/avgust-stilza-1766161872-504840.webp"
+  },
+  {
+    "id": "71123",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/e/snegopad-1766237232-661462.webp"
+  },
+  {
+    "id": "71122",
+    "name": "Слежка",
+    "rank": "c",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/c/slezhka-1766161467-978543.webp"
+  },
+  {
+    "id": "71120",
+    "name": "Бриндо",
+    "rank": "b",
+    "animeName": "Выжить на необитаемой планете",
+    "animeLink": "/aniserials/video/natural/645-vyzhit-na-neobitaemoy-planete.html",
+    "image": "/uploads/cards_image/645/b/brindo-1766161406-763854.webp"
+  },
+  {
+    "id": "71116",
+    "name": "Шань Ба",
+    "rank": "b",
+    "animeName": "Сказание о пастухе богов",
+    "animeLink": "/aniserials/video/action/2690-skazanie-o-pastuhe-bogov.html",
+    "image": "/uploads/cards_image/2690/b/shan-ba-1766159480-314751.webp"
+  },
+  {
+    "id": "71107",
+    "name": "Аиша Стильза",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/aisha-stilza-1766157505-415591.webp"
+  },
+  {
+    "id": "71102",
+    "name": "Курису и Маюри",
+    "rank": "c",
+    "animeName": "Врата Штейна 0",
+    "animeLink": "/aniserials/video/seinen/255-vrata-shteyna-0-2018.html",
+    "image": "/uploads/cards_image/255/c/kurisu-i-majuri-1766152734-782244.webp"
+  },
+  {
+    "id": "71101",
+    "name": "Готовка",
+    "rank": "e",
+    "animeName": "Врата Штейна 0",
+    "animeLink": "/aniserials/video/seinen/255-vrata-shteyna-0-2018.html",
+    "image": "/uploads/cards_image/255/e/gotovka-1766152675-213576.webp"
+  },
+  {
+    "id": "71099",
+    "name": "Елена Перепёлкина",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/elena-perepelkina-1766236379-558474.webp"
+  },
+  {
+    "id": "71098",
+    "name": "Рике Ортис",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/rike-ortis-1766152361-806504.webp"
+  },
+  {
+    "id": "71097",
+    "name": "Иу Лю",
+    "rank": "b",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/b/iu-lju-1766152367-646255.webp"
+  },
+  {
+    "id": "71096",
+    "name": "Джозеф Густав Ньютон",
+    "rank": "b",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/b/dzhozef-gustav-njuton-1766236240-936750.webp"
+  },
+  {
+    "id": "71094",
+    "name": "Аято и Ко",
+    "rank": "c",
+    "animeName": "Дьявольские возлюбленные 2 сезон: Больше крови",
+    "animeLink": "/aniserials/video/vampires/756-djavolskie-vozljublennye-2-sezon.html",
+    "image": "/uploads/cards_image/756/c/ajato-i-ko-1766153042-666222.webp"
+  },
+  {
+    "id": "71090",
+    "name": "Звёздное небо",
+    "rank": "c",
+    "animeName": "О движении Земли",
+    "animeLink": "/aniserials/video/drama/2657-o-dvizhenii-zemli.html",
+    "image": "/uploads/cards_image/2657/c/zvezdnoe-nebo-1766137495-972744.webp"
+  },
+  {
+    "id": "71088",
+    "name": "Гласс",
+    "rank": "d",
+    "animeName": "О движении Земли",
+    "animeLink": "/aniserials/video/drama/2657-o-dvizhenii-zemli.html",
+    "image": "/uploads/cards_image/2657/d/glass-1766137442-76247.webp"
+  },
+  {
+    "id": "71087",
+    "name": "Шмитт",
+    "rank": "a",
+    "animeName": "О движении Земли",
+    "animeLink": "/aniserials/video/drama/2657-o-dvizhenii-zemli.html",
+    "image": "/uploads/cards_image/2657/a/shmitt-1766137411-495634.webp"
+  },
+  {
+    "id": "71086",
+    "name": "Альберт Брудзевский",
+    "rank": "a",
+    "animeName": "О движении Земли",
+    "animeLink": "/aniserials/video/drama/2657-o-dvizhenii-zemli.html",
+    "image": "/uploads/cards_image/2657/a/albert-brudzevskij-1766152654-951587.webp"
+  },
+  {
+    "id": "71085",
+    "name": "Звездопад",
+    "rank": "c",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/c/zvezdopad-1766135167-118241.webp"
+  },
+  {
+    "id": "71084",
+    "name": "Спика",
+    "rank": "b",
+    "animeName": "Волшебница и злой офицер",
+    "animeLink": "/aniserials/video/shounen/3031-volshebnica-i-zloj-oficer.html",
+    "image": "/uploads/cards_image/3031/b/spika-1766128875-294022.webp"
+  },
+  {
+    "id": "71081",
+    "name": "Идзуми Ёсики",
+    "rank": "d",
+    "animeName": "Любовь с кончиков пальцев",
+    "animeLink": "/aniserials/video/romance/2291-ljubov-s-konchikov-palcev-as.html",
+    "image": "/uploads/cards_image/2291/d/idzumi-esiki-1766122754-597392.webp"
+  },
+  {
+    "id": "71080",
+    "name": "Аки Ватанака",
+    "rank": "d",
+    "animeName": "Любовь с кончиков пальцев",
+    "animeLink": "/aniserials/video/romance/2291-ljubov-s-konchikov-palcev-as.html",
+    "image": "/uploads/cards_image/2291/d/aki-vatanaka-1766122631-964110.webp"
+  },
+  {
+    "id": "71079",
+    "name": "Сердечко",
+    "rank": "e",
+    "animeName": "Любовь с кончиков пальцев",
+    "animeLink": "/aniserials/video/romance/2291-ljubov-s-konchikov-palcev-as.html",
+    "image": "/uploads/cards_image/2291/e/serdechko-1766122111-763492.webp"
+  },
+  {
+    "id": "71078",
+    "name": "Тоби",
+    "rank": "d",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/d/tobi-1766120930-144028.webp"
+  },
+  {
+    "id": "71076",
+    "name": "Готовка",
+    "rank": "e",
+    "animeName": "Любовь с кончиков пальцев",
+    "animeLink": "/aniserials/video/romance/2291-ljubov-s-konchikov-palcev-as.html",
+    "image": "/uploads/cards_image/2291/e/gotovka-1766118967-413745.webp"
+  },
+  {
+    "id": "71069",
+    "name": "Бундус Бегалкейт",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/bundus-begalkejt-1766103329-230948.webp"
+  },
+  {
+    "id": "71067",
+    "name": "Мафую Кирису",
+    "rank": "s",
+    "animeName": "Мы не можем учиться!",
+    "animeLink": "/aniserials/video/garems/428-my-ne-mozhem-uchitsya-animestars.html",
+    "image": "/uploads/cards_image/428/s/mafuju-kirisu-1766101589-627699.webp"
+  },
+  {
+    "id": "71066",
+    "name": "Слежка",
+    "rank": "e",
+    "animeName": "Волшебница и злой офицер",
+    "animeLink": "/aniserials/video/shounen/3031-volshebnica-i-zloj-oficer.html",
+    "image": "/uploads/cards_image/3031/e/slezhka-1766151430-907851.webp"
+  },
+  {
+    "id": "71065",
+    "name": "Беллатрикс",
+    "rank": "b",
+    "animeName": "Волшебница и злой офицер",
+    "animeLink": "/aniserials/video/shounen/3031-volshebnica-i-zloj-oficer.html",
+    "image": "/uploads/cards_image/3031/b/bellatriks-1766094094-128427.webp"
+  },
+  {
+    "id": "71062",
+    "name": "Ремедиос Кастодио",
+    "rank": "b",
+    "animeName": "Повелитель: Святое королевство",
+    "animeLink": "/aniserials/video/action/3168-povelitel-svjatoe-korolevstvo.html",
+    "image": "/uploads/cards_image/3168/b/remedios-kastodio-1766151077-635002.webp"
+  },
+  {
+    "id": "71061",
+    "name": "Шизу Дельта",
+    "rank": "b",
+    "animeName": "Повелитель: Святое королевство",
+    "animeLink": "/aniserials/video/action/3168-povelitel-svjatoe-korolevstvo.html",
+    "image": "/uploads/cards_image/3168/b/shizu-delta-1766091610-31911.webp"
+  },
+  {
+    "id": "71059",
+    "name": "Нейа Бараха",
+    "rank": "a",
+    "animeName": "Повелитель: Святое королевство",
+    "animeLink": "/aniserials/video/action/3168-povelitel-svjatoe-korolevstvo.html",
+    "image": "/uploads/cards_image/3168/a/neja-baraha-1766091535-178890.webp"
+  },
+  {
+    "id": "71056",
+    "name": "Кимоно",
+    "rank": "e",
+    "animeName": "Дьявольские возлюбленные",
+    "animeLink": "/aniserials/video/vampires/755-djavolskie-vozljublennye-1-sezon.html",
+    "image": "/uploads/cards_image/755/e/kimono-1766150740-436046.webp"
+  },
+  {
+    "id": "71047",
+    "name": "Фестиваль",
+    "rank": "e",
+    "animeName": "Врата Штейна 0",
+    "animeLink": "/aniserials/video/seinen/255-vrata-shteyna-0-2018.html",
+    "image": "/uploads/cards_image/255/e/festival-1766082414-745358.webp"
+  },
+  {
+    "id": "71040",
+    "name": "Annex I",
+    "rank": "e",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/e/annex-i-1766149905-94777.webp"
+  },
+  {
+    "id": "71039",
+    "name": "Сэцуна Мэйо",
+    "rank": "s",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/s/sjecuna-mjejo-1766148358-504971.webp"
+  },
+  {
+    "id": "71033",
+    "name": "Гита Хеви Фантазия",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/gita-hevi-fantazija-1766149510-254262.webp"
+  },
+  {
+    "id": "71030",
+    "name": "Хё",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/he-1766075910-475375.webp"
+  },
+  {
+    "id": "71029",
+    "name": "Мусорщики",
+    "rank": "c",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/c/musorschiki-1766075840-973919.webp"
+  },
+  {
+    "id": "71028",
+    "name": "Шок",
+    "rank": "e",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/e/shok-1766075737-637090.webp"
+  },
+  {
+    "id": "71022",
+    "name": "Ктони Андор",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/ktoni-andor-1766074942-207325.webp"
+  },
+  {
+    "id": "71020",
+    "name": "Погружение",
+    "rank": "e",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/e/pogruzhenie-1766073967-423833.webp"
+  },
+  {
+    "id": "71019",
+    "name": "Усаги Цукино",
+    "rank": "s",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/s/usagi-cukino-1766148302-714381.webp"
+  },
+  {
+    "id": "71018",
+    "name": "Макото Кино",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/makoto-kino-1766073742-528533.webp"
+  },
+  {
+    "id": "71017",
+    "name": "Мамору Чиба",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/mamoru-chiba-1766073671-807811.webp"
+  },
+  {
+    "id": "71016",
+    "name": "Сэцуна Мэйо",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/sjecuna-mjejo-1766073589-969324.webp"
+  },
+  {
+    "id": "71015",
+    "name": "Мичиру Кайо",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/michiru-kajo-1766073486-87332.webp"
+  },
+  {
+    "id": "71014",
+    "name": "Харука Тэно",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/haruka-tjeno-1766073396-404047.webp"
+  },
+  {
+    "id": "71013",
+    "name": "Малышка",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/malyshka-1766073301-70130.webp"
+  },
+  {
+    "id": "71012",
+    "name": "Грис Рубион",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/gris-rubion-1766072701-593165.webp"
+  },
+  {
+    "id": "71011",
+    "name": "Хлоя и Оуэн",
+    "rank": "c",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/c/hloja-i-oujen-1766072659-258529.webp"
+  },
+  {
+    "id": "71009",
+    "name": "Сущность",
+    "rank": "e",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/e/suschnost-1766071691-769781.webp"
+  },
+  {
+    "id": "71005",
+    "name": "Минако Айно",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/minako-ajno-1766072553-896153.webp"
+  },
+  {
+    "id": "71002",
+    "name": "Рэй Хино",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/rjej-hino-1766072385-658297.webp"
+  },
+  {
+    "id": "71001",
+    "name": "Ами Мизуно",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/ami-mizuno-1766072270-201242.webp"
+  },
+  {
+    "id": "71000",
+    "name": "Усаги Цукино",
+    "rank": "a",
+    "animeName": "Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов",
+    "animeLink": "/aniserials/video/shoujo/2632-krasavica-voin-sejlor-mun-super-jes-illjuzija-chernoj-dyry-snov-1995.html",
+    "image": "/uploads/cards_image/2632/a/usagi-cukino-1766072185-450201.webp"
+  },
+  {
+    "id": "70999",
+    "name": "Сино Шервуд",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/sino-shervud-1766068758-26615.webp"
+  },
+  {
+    "id": "70989",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Кровь двух драконов",
+    "animeLink": "/aniserials/video/action/2929-krov-dvuh-drakonov.html",
+    "image": "/uploads/cards_image/2929/e/snegopad-1766059530-567685.webp"
+  },
+  {
+    "id": "70983",
+    "name": "Крепкий сон",
+    "rank": "e",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/e/krepkij-son-1766048086-362527.webp"
+  },
+  {
+    "id": "70981",
+    "name": "Оуэн и Митра",
+    "rank": "c",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/c/oujen-i-mitra-1766047415-390058.webp"
+  },
+  {
+    "id": "70980",
+    "name": "Оуэн",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/oujen-1766047214-452823.webp"
+  },
+  {
+    "id": "70975",
+    "name": "Печать",
+    "rank": "e",
+    "animeName": "Дракон Раджа 2",
+    "animeLink": "/aniserials/video/adventure/3022-drakon-radzha-2.html",
+    "image": "/uploads/cards_image/3022/e/pechat-1766029809-801892.webp"
+  },
+  {
+    "id": "70970",
+    "name": "Талисман",
+    "rank": "e",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/e/talisman-1766026103-184167.webp"
+  },
+  {
+    "id": "70966",
+    "name": "Уборщик",
+    "rank": "d",
+    "animeName": "Механическая Мари",
+    "animeLink": "/aniserials/video/shoujo/3126-mehanicheskaja-mari.html",
+    "image": "/uploads/cards_image/3126/d/uborschik-1766021413-735142.webp"
+  },
+  {
+    "id": "70961",
+    "name": "Карманные часы",
+    "rank": "e",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/e/karmannye-chasy-1766069783-975690.webp"
+  },
+  {
+    "id": "70957",
+    "name": "Мари Асака",
+    "rank": "a",
+    "animeName": "Пересечение стен любви с тобой",
+    "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+    "image": "/uploads/cards_image/3148/a/mari-asaka-1766015746-493538.webp"
+  },
+  {
+    "id": "70945",
+    "name": "Дьюс и Эйс",
+    "rank": "c",
+    "animeName": "Искажённая страна чудес: Эпизод Хартслабьюла",
+    "animeLink": "/aniserials/video/fant/3156-iskazhennaja-strana-chudes-jepizod-hartslabjula.html",
+    "image": "/uploads/cards_image/3156/c/djus-i-jejs-1766069165-401133.webp"
+  },
+  {
+    "id": "70941",
+    "name": "Под дождём",
+    "rank": "e",
+    "animeName": "Звезда, что ярче солнца",
+    "animeLink": "/aniserials/video/shoujo/3095-zvezda-chto-jarche-solnca.html",
+    "image": "/uploads/cards_image/3095/e/pod-dozhdem-1766004028-339953.webp"
+  },
+  {
+    "id": "70932",
+    "name": "Чиби",
+    "rank": "c",
+    "animeName": "Чёрный клевер",
+    "animeLink": "/aniserials/video/comedy/197-chernyy-klever-animestars.html",
+    "image": "/uploads/cards_image/197/c/chibi-1765997347-684631.webp"
+  },
+  {
+    "id": "70929",
+    "name": "Шу и Юи",
+    "rank": "c",
+    "animeName": "Дьявольские возлюбленные",
+    "animeLink": "/aniserials/video/vampires/755-djavolskie-vozljublennye-1-sezon.html",
+    "image": "/uploads/cards_image/755/c/shu-i-jui-1765995415-622240.webp"
+  },
+  {
+    "id": "70923",
+    "name": "Альбедо",
+    "rank": "a",
+    "animeName": "Повелитель: Святое королевство",
+    "animeLink": "/aniserials/video/action/3168-povelitel-svjatoe-korolevstvo.html",
+    "image": "/uploads/cards_image/3168/a/albedo-1766068061-460798.webp"
+  },
+  {
+    "id": "70922",
+    "name": "Сильвестр Азимов",
+    "rank": "a",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/a/silvestr-azimov-1766067343-997819.webp"
+  },
+  {
+    "id": "70910",
+    "name": "Амулет удачи",
+    "rank": "e",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/e/amulet-udachi-1765989915-344697.webp"
+  },
+  {
+    "id": "70905",
+    "name": "Риё Рипер",
+    "rank": "a",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/a/rie-riper-1765989735-716189.webp"
+  },
+  {
+    "id": "70904",
+    "name": "Амо Эмпул",
+    "rank": "b",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/b/amo-jempul-1765989711-66255.webp"
+  },
+  {
+    "id": "70901",
+    "name": "Юйшу Лин",
+    "rank": "b",
+    "animeName": "Сказание о пастухе богов",
+    "animeLink": "/aniserials/video/action/2690-skazanie-o-pastuhe-bogov.html",
+    "image": "/uploads/cards_image/2690/b/jujshu-lin-1765989460-671802.webp"
+  },
+  {
+    "id": "70900",
+    "name": "Фигаро Гарсия",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/figaro-garsija-1765989316-319276.webp"
+  },
+  {
+    "id": "70896",
+    "name": "Джаббер Вонгар",
+    "rank": "a",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/a/dzhabber-vongar-1766066403-635114.webp"
+  },
+  {
+    "id": "70891",
+    "name": "Миу Такигава",
+    "rank": "s",
+    "animeName": "22/7",
+    "animeLink": "/aniserials/video/music/666-22-7.html",
+    "image": "/uploads/cards_image/666/s/miu-takigava-1765986996-199046.webp"
+  },
+  {
+    "id": "70889",
+    "name": "Мордаха",
+    "rank": "e",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/e/mordaha-1765986929-952462.webp"
+  },
+  {
+    "id": "70888",
+    "name": "Фолло Тунито",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/follo-tunito-1765986891-72978.webp"
+  },
+  {
+    "id": "70885",
+    "name": "Тива",
+    "rank": "d",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/d/tiva-1765986746-335705.webp"
+  },
+  {
+    "id": "70884",
+    "name": "Взгляд",
+    "rank": "e",
+    "animeName": "Восхождение в тени",
+    "animeLink": "/aniserials/video/action/1544-voshozhdenie-v-teni-animestars-2022-as.html",
+    "image": "/uploads/cards_image/1544/e/vzgljad-1765986255-735879.webp"
+  },
+  {
+    "id": "70882",
+    "name": "Русалка",
+    "rank": "b",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/b/rusalka-1765989173-468591.webp"
+  },
+  {
+    "id": "70878",
+    "name": "Вьянка",
+    "rank": "d",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/d/vjanka-1765989032-469841.webp"
+  },
+  {
+    "id": "70877",
+    "name": "Субару Камисиро",
+    "rank": "b",
+    "animeName": "Звезда, что ярче солнца",
+    "animeLink": "/aniserials/video/shoujo/3095-zvezda-chto-jarche-solnca.html",
+    "image": "/uploads/cards_image/3095/b/subaru-kamisiro-1765982674-332836.webp"
+  },
+  {
+    "id": "70876",
+    "name": "Саэ Ивата",
+    "rank": "a",
+    "animeName": "Звезда, что ярче солнца",
+    "animeLink": "/aniserials/video/shoujo/3095-zvezda-chto-jarche-solnca.html",
+    "image": "/uploads/cards_image/3095/a/saje-ivata-1765982171-372286.webp"
+  },
+  {
+    "id": "70863",
+    "name": "Мурр Харт",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/murr-hart-1765968754-504899.webp"
+  },
+  {
+    "id": "70859",
+    "name": "Брэдли Бейн",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/brjedli-bejn-1765967722-466100.webp"
+  },
+  {
+    "id": "70858",
+    "name": "Ева Фрост",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/eva-frost-1765966249-757122.webp"
+  },
+  {
+    "id": "70857",
+    "name": "Ваагн",
+    "rank": "b",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/b/vaagn-1765988270-267193.webp"
+  },
+  {
+    "id": "70856",
+    "name": "Шейла Левитт",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/shejla-levitt-1765965979-328967.webp"
+  },
+  {
+    "id": "70855",
+    "name": "Вэньвэнь Чэнь",
+    "rank": "d",
+    "animeName": "Дракон Раджа 2",
+    "animeLink": "/aniserials/video/adventure/3022-drakon-radzha-2.html",
+    "image": "/uploads/cards_image/3022/d/vjenvjen-chjen-1765965521-31712.webp"
+  },
+  {
+    "id": "70853",
+    "name": "Фиона Фрост",
+    "rank": "s",
+    "animeName": "Семья шпиона 3 сезон",
+    "animeLink": "/aniserials/video/shounen/3106-semja-shpiona-3.html",
+    "image": "/uploads/cards_image/3106/s/fiona-frost-1765963594-502241.webp"
+  },
+  {
+    "id": "70849",
+    "name": "Врата",
+    "rank": "e",
+    "animeName": "Призрачный Наньтин",
+    "animeLink": "/aniserials/video/action/3089-prizrachnyj-nantin.html",
+    "image": "/uploads/cards_image/3089/e/vrata-1765960180-938975.webp"
+  },
+  {
+    "id": "70848",
+    "name": "Минцзэ и Минфэй Лу",
+    "rank": "c",
+    "animeName": "Дракон Раджа 2",
+    "animeLink": "/aniserials/video/adventure/3022-drakon-radzha-2.html",
+    "image": "/uploads/cards_image/3022/c/minczje-i-minfjej-lu-1765987581-140125.webp"
+  },
+  {
+    "id": "70846",
+    "name": "Цинь и Альвитр",
+    "rank": "c",
+    "animeName": "Повесть о конце света 3 сезон",
+    "animeLink": "/aniserials/video/action/3165-povest-o-konce-sveta-3.html",
+    "image": "/uploads/cards_image/3165/c/cin-i-alvitr-1765958465-335138.webp"
+  },
+  {
+    "id": "70845",
+    "name": "Семь смертных грехов",
+    "rank": "e",
+    "animeName": "Дракон Раджа 2",
+    "animeLink": "/aniserials/video/adventure/3022-drakon-radzha-2.html",
+    "image": "/uploads/cards_image/3022/e/sem-smertnyh-grehov-1765987353-967602.webp"
+  },
+  {
+    "id": "70843",
+    "name": "Бим",
+    "rank": "b",
+    "animeName": "Человек-бензопила: Резе",
+    "animeLink": "/aniserials/video/shounen/3169-chelovek-benzopila-reze.html",
+    "image": "/uploads/cards_image/3169/b/bim-1765954821-111948.webp"
+  },
+  {
+    "id": "70836",
+    "name": "Тиарис Марке Люсельвах",
+    "rank": "d",
+    "animeName": "Путешествие коллекционера по другому миру",
+    "animeLink": "/aniserials/video/adventure/3084-puteshestvie-kollekcionera-po-drugomu-miru.html",
+    "image": "/uploads/cards_image/3084/d/tiaris-marke-ljuselvah-1765986969-833941.webp"
+  },
+  {
+    "id": "70835",
+    "name": "Синтоки Итисима",
+    "rank": "d",
+    "animeName": "Любовь с кончиков пальцев",
+    "animeLink": "/aniserials/video/romance/2291-ljubov-s-konchikov-palcev-as.html",
+    "image": "/uploads/cards_image/2291/d/sintoki-itisima-1765938304-762281.webp"
+  },
+  {
+    "id": "70834",
+    "name": "Тайное собрание",
+    "rank": "e",
+    "animeName": "Дракон Раджа 2",
+    "animeLink": "/aniserials/video/adventure/3022-drakon-radzha-2.html",
+    "image": "/uploads/cards_image/3022/e/tajnoe-sobranie-1765932046-786391.webp"
+  },
+  {
+    "id": "70832",
+    "name": "Ми Ся",
+    "rank": "d",
+    "animeName": "Дракон Раджа 2",
+    "animeLink": "/aniserials/video/adventure/3022-drakon-radzha-2.html",
+    "image": "/uploads/cards_image/3022/d/mi-sja-1765928234-762320.webp"
+  },
+  {
+    "id": "70830",
+    "name": "Эндзин",
+    "rank": "a",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/a/jendzin-1765926864-897720.webp"
+  },
+  {
+    "id": "70829",
+    "name": "Цунагу Хидака",
+    "rank": "a",
+    "animeName": "Пересечение стен любви с тобой",
+    "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+    "image": "/uploads/cards_image/3148/a/cunagu-hidaka-1765925778-931396.webp"
+  },
+  {
+    "id": "70828",
+    "name": "Дзанка Нидзик",
+    "rank": "a",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/a/dzanka-nidzik-1765925321-240617.webp"
+  },
+  {
+    "id": "70816",
+    "name": "Широ и Нуи",
+    "rank": "c",
+    "animeName": "Убей или умри",
+    "animeLink": "/aniserials/video/action/141-ubey-ili-umri.html",
+    "image": "/uploads/cards_image/141/c/shiro-i-nui-1765915398-102536.webp"
+  },
+  {
+    "id": "70809",
+    "name": "Близнецы Сноу и Уайт",
+    "rank": "c",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/c/bliznecy-snou-i-uajt-1765921192-734016.webp"
+  },
+  {
+    "id": "70808",
+    "name": "Уайт",
+    "rank": "a",
+    "animeName": "Клятва волшебника",
+    "animeLink": "/aniserials/video/fant/3016-kljatva-volshebnika.html",
+    "image": "/uploads/cards_image/3016/a/uajt-1765921107-888139.webp"
+  },
+  {
+    "id": "70807",
+    "name": "Ликагон",
+    "rank": "e",
+    "animeName": "Рубеж Шангри-Ла: Любитель игрошлака бросает вызов топ-игре 2 сезон",
+    "animeLink": "/aniserials/video/action/2676-rubezh-shangri-la-ljubitel-igroshlaka-brosaet-vyzov-top-igre-2-sezon-2024.html",
+    "image": "/uploads/cards_image/2676/e/likagon-1765920987-680796.webp"
+  },
+  {
+    "id": "70801",
+    "name": "Лина Инверс",
+    "rank": "s",
+    "animeName": "Рубаки Некст",
+    "animeLink": "/aniserials/video/action/2817-rubaki.html",
+    "image": "/uploads/cards_image/2817/s/lina-invers-1765912515-956576.webp"
+  },
+  {
+    "id": "70797",
+    "name": "Айкуро Микисуги",
+    "rank": "d",
+    "animeName": "Убей или умри",
+    "animeLink": "/aniserials/video/action/141-ubey-ili-umri.html",
+    "image": "/uploads/cards_image/141/d/ajkuro-mikisugi-1765910063-39696.webp"
+  },
+  {
+    "id": "70795",
+    "name": "Дэндзи и Бим",
+    "rank": "c",
+    "animeName": "Человек-бензопила: Резе",
+    "animeLink": "/aniserials/video/shounen/3169-chelovek-benzopila-reze.html",
+    "image": "/uploads/cards_image/3169/c/djendzi-i-bim-1765906350-51970.webp"
+  },
+  {
+    "id": "70781",
+    "name": "Афродита",
+    "rank": "b",
+    "animeName": "Повесть о конце света 3 сезон",
+    "animeLink": "/aniserials/video/action/3165-povest-o-konce-sveta-3.html",
+    "image": "/uploads/cards_image/3165/b/afrodita-1765919620-921196.webp"
+  },
+  {
+    "id": "70776",
+    "name": "Взгляд",
+    "rank": "e",
+    "animeName": "Гробница богов 3 сезон",
+    "animeLink": "/aniserials/video/action/3074-grobnica-bogov-3.html",
+    "image": "/uploads/cards_image/3074/e/vzgljad-1765889437-886008.webp"
+  },
+  {
+    "id": "70774",
+    "name": "Ганаш и Уи",
+    "rank": "c",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/c/ganash-i-ui-1765919012-49792.webp"
+  },
+  {
+    "id": "70772",
+    "name": "Шу",
+    "rank": "a",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/a/shu-1765887051-201586.webp"
+  },
+  {
+    "id": "70771",
+    "name": "Звёздное небо",
+    "rank": "e",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/e/zvezdnoe-nebo-1765918832-901799.webp"
+  },
+  {
+    "id": "70769",
+    "name": "Пэй Синъянь",
+    "rank": "d",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/d/pjej-sinjan-1765885723-19254.webp"
+  },
+  {
+    "id": "70766",
+    "name": "Бугипоп",
+    "rank": "a",
+    "animeName": "Бугипоп никогда не смеётся 2019",
+    "animeLink": "/aniserials/video/detective/961-bugipop-nikogda-ne-smeetsja-2019.html",
+    "image": "/uploads/cards_image/961/a/bugipop-1765883913-702615.webp"
+  },
+  {
+    "id": "70758",
+    "name": "Кэн Канэки",
+    "rank": "s",
+    "animeName": "Токийский гуль 2 сезон",
+    "animeLink": "/aniserials/video/action/59-tokiyskiy-gul-2-sezon.html",
+    "image": "/uploads/cards_image/59/s/kjen-kanjeki-1765879080-216611.webp"
+  },
+  {
+    "id": "70750",
+    "name": "Кишарл",
+    "rank": "b",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/b/kisharl-1765918082-233936.webp"
+  },
+  {
+    "id": "70748",
+    "name": "Спасение",
+    "rank": "c",
+    "animeName": "Могу я попросить ещё кое-что?",
+    "animeLink": "/aniserials/video/action/3102-mogu-ja-poprosit-esche-koe-chto.html",
+    "image": "/uploads/cards_image/3102/c/spasenie-1765876592-67503.webp"
+  },
+  {
+    "id": "70746",
+    "name": "Би",
+    "rank": "a",
+    "animeName": "Путешествие коллекционера по другому миру",
+    "animeLink": "/aniserials/video/adventure/3084-puteshestvie-kollekcionera-po-drugomu-miru.html",
+    "image": "/uploads/cards_image/3084/a/bi-1765917731-734040.webp"
+  },
+  {
+    "id": "70745",
+    "name": "Такэру Камисиро",
+    "rank": "a",
+    "animeName": "Путешествие коллекционера по другому миру",
+    "animeLink": "/aniserials/video/adventure/3084-puteshestvie-kollekcionera-po-drugomu-miru.html",
+    "image": "/uploads/cards_image/3084/a/takjeru-kamisiro-1765917663-490120.webp"
+  },
+  {
+    "id": "70733",
+    "name": "Кукла",
+    "rank": "e",
+    "animeName": "Призрачный Наньтин",
+    "animeLink": "/aniserials/video/action/3089-prizrachnyj-nantin.html",
+    "image": "/uploads/cards_image/3089/e/kukla-1765863655-392230.webp"
+  },
+  {
+    "id": "70718",
+    "name": "Дьявол-ангел",
+    "rank": "b",
+    "animeName": "Человек-бензопила: Резе",
+    "animeLink": "/aniserials/video/shounen/3169-chelovek-benzopila-reze.html",
+    "image": "/uploads/cards_image/3169/b/djavol-angel-1765886927-318468.webp"
+  },
+  {
+    "id": "70716",
+    "name": "Кофе",
+    "rank": "e",
+    "animeName": "Эта фарфоровая кукла влюбилась 2",
+    "animeLink": "/aniserials/video/seinen/2974-jeta-farforovaja-kukla-vljubilas-2.html",
+    "image": "/uploads/cards_image/2974/e/kofe-1765842554-445314.webp"
+  },
+  {
+    "id": "70711",
+    "name": "Дэндзи и Резе",
+    "rank": "c",
+    "animeName": "Человек-бензопила: Резе",
+    "animeLink": "/aniserials/video/shounen/3169-chelovek-benzopila-reze.html",
+    "image": "/uploads/cards_image/3169/c/djendzi-i-reze-1765840709-99467.webp"
+  },
+  {
+    "id": "70710",
+    "name": "Поцелуй",
+    "rank": "c",
+    "animeName": "Человек-бензопила: Резе",
+    "animeLink": "/aniserials/video/shounen/3169-chelovek-benzopila-reze.html",
+    "image": "/uploads/cards_image/3169/c/poceluj-1765840468-464283.webp"
+  },
+  {
+    "id": "70707",
+    "name": "Снегопад",
+    "rank": "e",
+    "animeName": "Токийские мстители",
+    "animeLink": "/aniserials/video/action/1089-tokijskie-mstiteli.html",
+    "image": "/uploads/cards_image/1089/e/snegopad-1765839423-425654.webp"
+  },
+  {
+    "id": "70704",
+    "name": "Тосиро Хицугая",
+    "rank": "s",
+    "animeName": "Блич: Тысячелетняя кровавая война - Конфликт",
+    "animeLink": "/aniserials/video/action/2654-blich-tysjacheletnjaja-krovavaja-vojna-konflikt-2024-v12.html",
+    "image": "/uploads/cards_image/2654/s/tosiro-hicugaja-1765903348-128609.webp"
+  },
+  {
+    "id": "70702",
+    "name": "Прощание",
+    "rank": "e",
+    "animeName": "Убей или умри",
+    "animeLink": "/aniserials/video/action/141-ubey-ili-umri.html",
+    "image": "/uploads/cards_image/141/e/proschanie-1765837057-747592.webp"
+  },
+  {
+    "id": "70691",
+    "name": "Дарья и Гарольд",
+    "rank": "c",
+    "animeName": "Твоя форма",
+    "animeLink": "/aniserials/video/fantastic/3008-tvoja-forma.html",
+    "image": "/uploads/cards_image/3008/c/darja-i-garold-1765831939-478369.webp"
+  },
+  {
     "id": "70688",
     "name": "Беатриса Викторовна Шушунова",
     "rank": "d",
