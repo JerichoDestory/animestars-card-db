@@ -1,5 +1,221 @@
 [
   {
+    "id": "71397",
+    "name": "Мио Кагава",
+    "rank": "b",
+    "animeName": "Звезда, что ярче солнца",
+    "animeLink": "/aniserials/video/shoujo/3095-zvezda-chto-jarche-solnca.html",
+    "image": "/uploads/cards_image/3095/b/mio-kagava-1766412355-9799.webp"
+  },
+  {
+    "id": "71396",
+    "name": "Закат",
+    "rank": "e",
+    "animeName": "Клеймор",
+    "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
+    "image": "/uploads/cards_image/32/e/zakat-1766412000-635755.webp"
+  },
+  {
+    "id": "71392",
+    "name": "Иван Перепёлкин",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/ivan-perepelkin-1766401105-867993.webp"
+  },
+  {
+    "id": "71391",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Пять невест - Фильм",
+    "animeLink": "/aniserials/video/garems/1909-pjat-nevest-film.html",
+    "image": "/uploads/cards_image/1909/e/s-novym-godom-1766399736-140549.webp"
+  },
+  {
+    "id": "71390",
+    "name": "Кисара",
+    "rank": "d",
+    "animeName": "Пересечение стен любви с тобой",
+    "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+    "image": "/uploads/cards_image/3148/d/kisara-1766399713-127249.webp"
+  },
+  {
+    "id": "71389",
+    "name": "Нина Юзик",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/nina-juzik-1766399534-973852.webp"
+  },
+  {
+    "id": "71388",
+    "name": "Яэко Янасэгава",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/jajeko-janasjegava-1766399105-830382.webp"
+  },
+  {
+    "id": "71386",
+    "name": "Куда смотришь?!",
+    "rank": "e",
+    "animeName": "Наука влюблена, и мы докажем это 2 сезон",
+    "animeLink": "/aniserials/video/comedy/1364-nauka-vljublena-i-my-dokazhem-jeto-2-sezon.html",
+    "image": "/uploads/cards_image/1364/e/kuda-smotrish-1766413609-489704.webp"
+  },
+  {
+    "id": "71385",
+    "name": "Алекс и Акари",
+    "rank": "c",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/c/aleks-i-akari-1766398464-819472.webp"
+  },
+  {
+    "id": "71384",
+    "name": "Агни",
+    "rank": "b",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/b/agni-1766413436-914314.webp"
+  },
+  {
+    "id": "71381",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Этот глупый свин не понимает мечту Санта-Клауса",
+    "animeLink": "/aniserials/video/comedy/2973-jetot-glupyj-svin-ne-ponimaet-mechtu-santa-klausa.html",
+    "image": "/uploads/cards_image/2973/e/s-novym-godom-1766413308-364487.webp"
+  },
+  {
+    "id": "71380",
+    "name": "Тенген Топпа Гуррен-Лаганн",
+    "rank": "e",
+    "animeName": "Гуррен-Лаганн",
+    "animeLink": "/aniserials/video/drama/544-gurren-lagann-animestars-2007.html",
+    "image": "/uploads/cards_image/544/e/tengen-toppa-gurren-lagann-1766413196-322429.webp"
+  },
+  {
+    "id": "71378",
+    "name": "Гуррен-Лаганн и Арк-Гуррен-Лаганн",
+    "rank": "c",
+    "animeName": "Гуррен-Лаганн",
+    "animeLink": "/aniserials/video/drama/544-gurren-lagann-animestars-2007.html",
+    "image": "/uploads/cards_image/544/c/gurren-lagann-i-ark-gurren-lagann-1766412931-109631.webp"
+  },
+  {
+    "id": "71377",
+    "name": "Макио",
+    "rank": "d",
+    "animeName": "Клинок, рассекающий демонов 4 сезон: Тренировка столпов",
+    "animeLink": "/aniserials/video/action/2433-klinok-rassekajuschij-demonov-4-sezon-animestars-2024-as6.html",
+    "image": "/uploads/cards_image/2433/d/makio-1766412874-511162.webp"
+  },
+  {
+    "id": "71375",
+    "name": "Сума",
+    "rank": "d",
+    "animeName": "Клинок, рассекающий демонов 4 сезон: Тренировка столпов",
+    "animeLink": "/aniserials/video/action/2433-klinok-rassekajuschij-demonov-4-sezon-animestars-2024-as6.html",
+    "image": "/uploads/cards_image/2433/d/suma-1766412780-705542.webp"
+  },
+  {
+    "id": "71374",
+    "name": "Хинацуру",
+    "rank": "d",
+    "animeName": "Клинок, рассекающий демонов 4 сезон: Тренировка столпов",
+    "animeLink": "/aniserials/video/action/2433-klinok-rassekajuschij-demonov-4-sezon-animestars-2024-as6.html",
+    "image": "/uploads/cards_image/2433/d/hinacuru-1766412649-76300.webp"
+  },
+  {
+    "id": "71373",
+    "name": "Мейд-кафе",
+    "rank": "c",
+    "animeName": "Врата Штейна",
+    "animeLink": "/aniserials/video/gender_intriga/256-vrata-shteyna.html",
+    "image": "/uploads/cards_image/256/c/mejd-kafe-1766412541-540080.webp"
+  },
+  {
+    "id": "71372",
+    "name": "Ринтаро и Курису",
+    "rank": "c",
+    "animeName": "Врата Штейна",
+    "animeLink": "/aniserials/video/gender_intriga/256-vrata-shteyna.html",
+    "image": "/uploads/cards_image/256/c/rintaro-i-kurisu-1766391320-618994.webp"
+  },
+  {
+    "id": "71369",
+    "name": "Чизбургер",
+    "rank": "e",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/e/chizburger-1766412211-423786.webp"
+  },
+  {
+    "id": "71368",
+    "name": "Вход в подземелье",
+    "rank": "e",
+    "animeName": "Кулинарные скитания в параллельном мире 2",
+    "animeLink": "/aniserials/video/adventure/3134-kulinarnye-skitanija-v-parallelnom-mire-2-deep.html",
+    "image": "/uploads/cards_image/3134/e/vhod-v-podzemele-1766412164-520219.webp"
+  },
+  {
+    "id": "71364",
+    "name": "Выпьем?",
+    "rank": "e",
+    "animeName": "Привлекая поцелуй",
+    "animeLink": "/aniserials/video/romance/1431-privlekaja-poceluj-animestars.html",
+    "image": "/uploads/cards_image/1431/e/vypem-1766385850-764521.webp"
+  },
+  {
+    "id": "71363",
+    "name": "Луна",
+    "rank": "e",
+    "animeName": "Привлекая поцелуй",
+    "animeLink": "/aniserials/video/romance/1431-privlekaja-poceluj-animestars.html",
+    "image": "/uploads/cards_image/1431/e/luna-1766385530-816778.webp"
+  },
+  {
+    "id": "71360",
+    "name": "Аяно Ситара",
+    "rank": "b",
+    "animeName": "Пересечение стен любви с тобой",
+    "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+    "image": "/uploads/cards_image/3148/b/ajano-sitara-1766384285-973278.webp"
+  },
+  {
+    "id": "71358",
+    "name": "С Новым Годом!",
+    "rank": "c",
+    "animeName": "Тёмный демон",
+    "animeLink": "/aniserials/video/shounen/3158-temnyj-demon.html",
+    "image": "/uploads/cards_image/3158/c/s-novym-godom-1766368134-239781.webp"
+  },
+  {
+    "id": "71356",
+    "name": "Рафаэла",
+    "rank": "d",
+    "animeName": "Клеймор",
+    "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
+    "image": "/uploads/cards_image/32/d/rafajela-1766366006-477814.webp"
+  },
+  {
+    "id": "71355",
+    "name": "Тамахико Сима",
+    "rank": "a",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/a/tamahiko-sima-1766365209-45603.webp"
+  },
+  {
+    "id": "71353",
+    "name": "Присцилла",
+    "rank": "b",
+    "animeName": "Клеймор",
+    "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
+    "image": "/uploads/cards_image/32/b/priscilla-1766364712-495245.webp"
+  },
+  {
     "id": "71345",
     "name": "Сакура",
     "rank": "e",
