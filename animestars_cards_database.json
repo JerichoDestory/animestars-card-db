@@ -1,5 +1,325 @@
 [
   {
+    "id": "71530",
+    "name": "Слёзы",
+    "rank": "e",
+    "animeName": "Клинки Хранителей",
+    "animeLink": "/aniserials/video/drama/1988-klinki-hranitelej.html",
+    "image": "/uploads/cards_image/1988/e/slezy-1766582782-209040.webp"
+  },
+  {
+    "id": "71522",
+    "name": "Ева и Адольф",
+    "rank": "c",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/c/eva-i-adolf-1766559514-787174.webp"
+  },
+  {
+    "id": "71521",
+    "name": "Ичиро Хирума",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/ichiro-hiruma-1766559481-802572.webp"
+  },
+  {
+    "id": "71520",
+    "name": "Джессика Беллвуд",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/dzhessika-bellvud-1766582470-179515.webp"
+  },
+  {
+    "id": "71515",
+    "name": "С Новым Годом!",
+    "rank": "c",
+    "animeName": "Безэмоциональная Касивада и эмоциональный Ота",
+    "animeLink": "/aniserials/video/comedy/3105-bezjemocionalnaja-kasivada-i-jemocionalnyj-ota.html",
+    "image": "/uploads/cards_image/3105/c/s-novym-godom-1766581642-605191.webp"
+  },
+  {
+    "id": "71514",
+    "name": "Сюкуна",
+    "rank": "d",
+    "animeName": "Тёмное прошлое перевоплощённой злодейки",
+    "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+    "image": "/uploads/cards_image/3138/d/sjukuna-1766581557-64245.webp"
+  },
+  {
+    "id": "71513",
+    "name": "Суселина Роза Амариллис",
+    "rank": "b",
+    "animeName": "Тёмное прошлое перевоплощённой злодейки",
+    "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+    "image": "/uploads/cards_image/3138/b/suselina-roza-amarillis-1766581512-154896.webp"
+  },
+  {
+    "id": "71509",
+    "name": "Нами и Боа",
+    "rank": "c",
+    "animeName": "Ван Пис",
+    "animeLink": "/aniserials/video/martial_arts/33-van-pis-one-piece-animestars-v1.html",
+    "image": "/uploads/cards_image/33/c/nami-i-boa-1766581229-546450.webp"
+  },
+  {
+    "id": "71507",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Благоухающий цветок расцветает с достоинством",
+    "animeLink": "/aniserials/video/drama/2975-blagouhajuschij-cvetok-rascvetaet-s-dostoinstvom-2025.html",
+    "image": "/uploads/cards_image/2975/e/s-novym-godom-1766581022-167637.webp"
+  },
+  {
+    "id": "71505",
+    "name": "Рудо Суребрек",
+    "rank": "a",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/a/rudo-surebrek-1766524169-790851.webp"
+  },
+  {
+    "id": "71504",
+    "name": "Тамахико и Юдзуки",
+    "rank": "c",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/c/tamahiko-i-judzuki-1766580906-62170.webp"
+  },
+  {
+    "id": "71503",
+    "name": "Хакару Сиратори",
+    "rank": "d",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/d/hakaru-siratori-1766523288-729771.webp"
+  },
+  {
+    "id": "71502",
+    "name": "Рё Ацуми",
+    "rank": "d",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/d/re-acumi-1766523067-131292.webp"
+  },
+  {
+    "id": "71501",
+    "name": "Зодил Тифон",
+    "rank": "b",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/b/zodil-tifon-1766522493-132634.webp"
+  },
+  {
+    "id": "71500",
+    "name": "Юдзуки и Тамако",
+    "rank": "c",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/c/judzuki-i-tamako-1766522185-66541.webp"
+  },
+  {
+    "id": "71499",
+    "name": "Тамаёси Сима",
+    "rank": "d",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/d/tamaesi-sima-1766521919-908816.webp"
+  },
+  {
+    "id": "71498",
+    "name": "Котори Сиратори",
+    "rank": "b",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/b/kotori-siratori-1766521787-840808.webp"
+  },
+  {
+    "id": "71496",
+    "name": "C Новым Годом!",
+    "rank": "c",
+    "animeName": "Синяя тюрьма: Блю Лок 2 сезон",
+    "animeLink": "/aniserials/video/action/2655-sinjaja-tjurma-blju-lok-2-sezon-2024-animestarsorg.html",
+    "image": "/uploads/cards_image/2655/c/c-novym-godom-1766520822-945764.webp"
+  },
+  {
+    "id": "71484",
+    "name": "Цунагу и Кисара",
+    "rank": "c",
+    "animeName": "Пересечение стен любви с тобой",
+    "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+    "image": "/uploads/cards_image/3148/c/cunagu-i-kisara-1766515774-487357.webp"
+  },
+  {
+    "id": "71482",
+    "name": "Изо Мотобэ",
+    "rank": "d",
+    "animeName": "Боец Баки",
+    "animeLink": "/aniserials/video/action/535-boec-baki-1-sezon.html",
+    "image": "/uploads/cards_image/535/d/izo-motobje-1766515135-85829.webp"
+  },
+  {
+    "id": "71478",
+    "name": "Нанао Акита",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/nanao-akita-1766514727-682990.webp"
+  },
+  {
+    "id": "71477",
+    "name": "Канако Санджо",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/kanako-sandzho-1766514704-636993.webp"
+  },
+  {
+    "id": "71455",
+    "name": "Шуичи Натори",
+    "rank": "b",
+    "animeName": "Тетрадь дружбы Нацумэ 6 сезон",
+    "animeLink": "/aniserials/video/drama/114-tetrad-druzhby-nacume-6-sezon.html",
+    "image": "/uploads/cards_image/114/b/shuichi-natori-1766523593-468866.webp"
+  },
+  {
+    "id": "71453",
+    "name": "Котики",
+    "rank": "e",
+    "animeName": "Тетрадь дружбы Нацумэ 7 сезон",
+    "animeLink": "/aniserials/video/drama/2668-tetrad-druzhby-nacumje-7-sezon.html",
+    "image": "/uploads/cards_image/2668/e/kotiki-1766523461-263383.webp"
+  },
+  {
+    "id": "71451",
+    "name": "Кэйджи Онизука",
+    "rank": "d",
+    "animeName": "Терраформирование",
+    "animeLink": "/aniserials/video/horror/2550-terraformirovanie.html",
+    "image": "/uploads/cards_image/2550/d/kjejdzhi-onizuka-1766523329-729043.webp"
+  },
+  {
+    "id": "71449",
+    "name": "Эндзин",
+    "rank": "s",
+    "animeName": "Гатиакута",
+    "animeLink": "/aniserials/video/shounen/3142-gatiakuta-deep.html",
+    "image": "/uploads/cards_image/3142/s/jendzin-1766486924-288167.webp"
+  },
+  {
+    "id": "71444",
+    "name": "Табита",
+    "rank": "d",
+    "animeName": "Клеймор",
+    "animeLink": "/aniserials/video/drama/32-kleymor-claymore-animestars-2007.html",
+    "image": "/uploads/cards_image/32/d/tabita-1766486631-650932.webp"
+  },
+  {
+    "id": "71442",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Тёмный дворецкий 2 сезон",
+    "animeLink": "/aniserials/video/historical/824-temnyj-dvoreckij-2-sezon.html",
+    "image": "/uploads/cards_image/824/e/s-novym-godom-1766523178-693760.webp"
+  },
+  {
+    "id": "71441",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Школа Мертвецов",
+    "animeLink": "/aniserials/video/garems/10-shkola-mertvecov-2010.html",
+    "image": "/uploads/cards_image/10/e/s-novym-godom-1766523070-212988.webp"
+  },
+  {
+    "id": "71439",
+    "name": "Гинофорд Данделион",
+    "rank": "a",
+    "animeName": "Тёмное прошлое перевоплощённой злодейки",
+    "animeLink": "/aniserials/video/shoujo/3138-temnoe-proshloe-perevoploschennoj-zlodejki.html",
+    "image": "/uploads/cards_image/3138/a/ginoford-dandelion-1766522988-134887.webp"
+  },
+  {
+    "id": "71430",
+    "name": "С Новым Годом!",
+    "rank": "c",
+    "animeName": "Вспышка",
+    "animeLink": "/aniserials/video/action/2928-vspyshka.html",
+    "image": "/uploads/cards_image/2928/c/s-novym-godom-1766434498-525435.webp"
+  },
+  {
+    "id": "71428",
+    "name": "С Новым Годом!",
+    "rank": "e",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/e/s-novym-godom-1766514662-29050.webp"
+  },
+  {
+    "id": "71426",
+    "name": "Тамако Сима",
+    "rank": "b",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/b/tamako-sima-1766433097-38834.webp"
+  },
+  {
+    "id": "71420",
+    "name": "Юсукэ Оти",
+    "rank": "d",
+    "animeName": "Пересечение стен любви с тобой",
+    "animeLink": "/aniserials/video/fant/3148-peresechenie-sten-ljubvi-s-toboj.html",
+    "image": "/uploads/cards_image/3148/d/jusukje-oti-1766430605-925146.webp"
+  },
+  {
+    "id": "71419",
+    "name": "Какуси",
+    "rank": "d",
+    "animeName": "Клинок, рассекающий демонов",
+    "animeLink": "/aniserials/video/action/409-klinok-rassekayuschiy-demonov-animestars.html",
+    "image": "/uploads/cards_image/409/d/kakusi-1766429460-510046.webp"
+  },
+  {
+    "id": "71411",
+    "name": "Нэдзуми",
+    "rank": "s",
+    "animeName": "Шестая Зона",
+    "animeLink": "/aniserials/video/thriller/2697-shestaja-zona-2011.html",
+    "image": "/uploads/cards_image/2697/s/njedzumi-1766416694-2417.webp"
+  },
+  {
+    "id": "71408",
+    "name": "С Новым Годом!",
+    "rank": "c",
+    "animeName": "Сказка о Хвосте Феи",
+    "animeLink": "/aniserials/video/drama/143-skazka-o-hvoste-fei-1-sezon-animestars-2009.html",
+    "image": "/uploads/cards_image/143/c/s-novym-godom-1766513831-13635.webp"
+  },
+  {
+    "id": "71406",
+    "name": "Юдзуки Татибана",
+    "rank": "a",
+    "animeName": "Сказка о девушке эпохи Тайсё",
+    "animeLink": "/aniserials/video/historical/1239-skazka-o-devushke-jepohi-tajse.html",
+    "image": "/uploads/cards_image/1239/a/judzuki-tatibana-1766415310-111050.webp"
+  },
+  {
+    "id": "71405",
+    "name": "Горячий источник",
+    "rank": "e",
+    "animeName": "Маг воды",
+    "animeLink": "/aniserials/video/adventure/2964-mag-vody.html",
+    "image": "/uploads/cards_image/2964/e/gorjachij-istochnik-1766513587-130718.webp"
+  },
+  {
+    "id": "71404",
+    "name": "Купальник",
+    "rank": "e",
+    "animeName": "Маг воды",
+    "animeLink": "/aniserials/video/adventure/2964-mag-vody.html",
+    "image": "/uploads/cards_image/2964/e/kupalnik-1766414351-489520.webp"
+  },
+  {
     "id": "71397",
     "name": "Мио Кагава",
     "rank": "b",
